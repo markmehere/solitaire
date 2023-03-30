@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Escorpí</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. Les últimes tres cartes es col·loquen aquí després de repartir.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Set piles a la dreta de la pila principal. * Es reparteix una carta cara avall a cada una de les primeres quatre files. Es reparteix una carta cara amunt a les últimes tres files. Es repeteix des de * dues vegades més, repartint un total de tres files. Es reparteix una carta de cara amunt a cada pila durant quatre files més.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Creeu quatre piles de tretze cartes cada una, cada pila consistent amb un pal i ordenada per rang.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant per pal. Els grups de cartes es poden moure independentment de la seqüència. Una pila buida al tauler només es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+	<para>En qualsevol moment, en fer clic a la pila principal es repartiran les últimes tres cartes, cada una a les tres primeres piles.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Per cada seqüència d'un pal, la puntuació aconseguida és (longitud de la seqüència - 1). Cada cop que es creï una seqüència de tretze i està al seu lloc, s'aconseguiran quatre punts extra. S'aconsegueixen tres punts en aconseguir una carta que està cara avall.</para>
+	<para>Puntuació màxima possible: 100</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>No sempre és fàcil desfer els nusos. Eviteu fer-vos un embolic del qual no podeu sortir.</para>
+        </sect2>
+</sect1>

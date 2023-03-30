@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gold_Mine"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Guldgruvan</title>
+
+  <sect2><title>Inställningar</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds tre i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>Fyra högar längst upp till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar, alla tomma i början. Guldgruvan är en variant av <ulink type="help" url="ghelp:aisleriot#Klondike">Klondyke</ulink>. Bordshögarna kan byggas ned i växlande kulör. Grupper av kort kan flyttas. Tomma platser kan fyllas med vilket kort som helst.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  </sect2>
+
+  <sect2><title>Mål</title>
+  <para>Flytta alla korten till grundhögarna.</para>
+  </sect2>
+
+  <sect2><title>Regler</title>
+  <para>Kort i bordshögarna byggs ned genom att växla kulör. Grupper av kort kan flyttas. En tom plats i bordshögarna kan fyllas med valfritt kort.</para>
+  <para>Korten vänds tre åt gången från högen till kasthögen. Översta kortet i kasthögen är i spel. När högen är slut är spelet slut. Du har bara en chans att få det rätt för att skapa din guldgruva.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+  </sect2>
+
+  <sect2><title>Poängsättning</title>
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+  </sect2>
+
+  <sect2><title>Strategi</title>
+  <para>Var noga med hur du fyller tomma grundhögar. Med skicklighet är det möjligt att vinna guldgruvan för det mesta. Starta om och försök igen om du inte lyckas första gången.</para>
+  </sect2>
+</sect1>

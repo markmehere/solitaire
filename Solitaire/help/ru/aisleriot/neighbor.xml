@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Сосед</title>
+
+	<para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+	        <sect2><title>Описание</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Верхняя левая стопка. Сдаётся на игровое поле описанным ниже способом.</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Таблица пять на пять, в каждой из ячеек которой может лежать одна карта. В начале игры во все ячейки сдаётся по карте. Во время заполнения пустых ячеек происходит сдвиг карт справа налево, при этом крайняя левая в ряду карта перемещается в самую правую пустую ячейку в ряду выше, а после этого на оставшиеся свободные места сдаются карты из колоды.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Задача</title>
+
+	<para>Убрать все карты.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Щёлкайте по королям, чтобы убирать их. Остальные карты убираются парами, дающими в сумме тринадцать, при этом они должны касаться по горизонтали, вертикали или диагонали.</para>
+
+	        </sect2>
+        <sect2><title>Параметры</title>
+
+	<para>Отсутствуют</para>
+
+	        </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+	<para>За каждую убранную карту даётся одно очко.</para>
+	<para>Максимальное количество очков: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегия</title>
+
+	<para>Первыми убирайте пары наверху игрового поля, поскольку так сдвинется больше карт.</para>
+        </sect2>
+</sect1>

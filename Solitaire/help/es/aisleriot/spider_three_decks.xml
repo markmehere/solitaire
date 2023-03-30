@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Araña de tres barajas</title>
+
+	<para>Escrito por Jonathan Blandford, Daniel Werner</para>
+
+	<sect2><title>Ajustes</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja triple</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. La baraja se coloca aquí después de dar en el tablero. Al pulsar se da un carta boca arriba en cada montón.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Veinte montones en al parte superior. No son parte de las «reglas offciales».</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Doce montones. En los primeros seis montones se dan cuatro cartas boca abajo y una carta boca arriba mientras que en el resto de los montones se dan tres cartas boca abajo y una boca arriba. Las cartas se pueden construir descendentemente sin importar el palo. Las secuencias de cartas del mismo palo se pueden mover como una unidad. Los montones vacíos se pueden llenar con cualquier carta o unidad movible.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Meta</title>
+	<para>Tener en la fundación doce secuencias de cartas (tres de cada palo) en sentido descendente desde el rey hasta el as.</para>
+	<para>Si quiere extremar la dificultad del juego, puede ganar formando las mismas doce secuencias en el tablero. Esto se vuelve más complicado porque hay menos montones vacíos disponibles. De hecho, es casi imposible.</para>
+	</sect2>
+
+	<sect2><title>Reglas</title>
+	<para>Se construye hacia abajo sin importar el palo. Las secuencias de cartas del mismo palo se pueden mover como si fuesen una unidad. Los montones vacíos se pueden rellenar con cualquier carta o secuencia válida.</para>
+	<para>Pulsando en el montón en cualquier momento se da una carta boca arriba a cada montón. A diferencia de otras variantes de la Araña, se permite que haya montones vacíos durante los repartos.</para>
+	<para>Una secuencia de trece cartas se puede mover a un montón de la fundación. Una vez allí no se considera más en juego.</para>
+	</sect2>
+
+	<sect2><title>Puntuación</title>
+	<para>Para cada secuencia por palo los puntos que se consiguen son (longitud de la secuencia menos uno).</para>
+	<para>Máxima puntuación posible: 144</para>
+	</sect2>
+
+	<sect2><title>Estrategia</title>
+	<para>Si al principio no tiene éxito, no le creará adicción. Construya por palo siempre que sea posible, pero exponga tantas cartas como pueda.</para>
+	</sect2>
+</sect1>

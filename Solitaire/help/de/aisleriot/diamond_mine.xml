@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Diamantenmine</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Ein Stapel oben. Aufbau erfolgt in Reihenfolge für alle Karo-Karten beginnend mit einer Karo-Karte Ihrer Wahl.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Dreizehn Stapel. Drei Karten werden verdeckt und eine sichtbar auf jeden Stapel ausgegeben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Verschieben Sie alle Karo-Karten auf den Fundamentstapel und sortieren Sie alle anderen Karten nach Farbe und Rang mit den Assen als unterste Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Alle Karten (außer Karo) können in absteigender Folge ungeachtet der Farbe aufgebaut werden. Kartengruppen können wie eine Karte bewegt werden. Leere Plätze können mit beliebigen Karten (außer Karo) oder Kartengruppen belegt werden.</para>
+  <para>Karo-Karten können ausschließlich auf den Fundamentstapel verschoben werden. Der Karo-Fundamentstapel muss aufsteigend nach Rang aufgebaut werden, beginnend mit einer beliebigen Zahl.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karo-Karte auf dem Fundamentstapel erzielt als Punktwert den Wert der Karte, wobei Ass einen Punkt, Bube elf Punkte, Dame zwölf Punkte und König dreizehn Punkte zählt.</para>
+  <para>Jede farbliche Folge von Ass bis König auf dem Spieltisch erzielt dreizehn Punkte.</para>
+  <para>Maximal erzielbare Punkte:  100</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Die Diamantensuche ist harte Arbeit. Bedenken Sie, dass nicht alle Diamanten (Karo-Karten) gleich viel wert sind. Vergessen Sie nicht, nachher aufzuräumen und die anderen Farben in Reihenfolge zu bringen.</para>
+        </sect2>
+</sect1>

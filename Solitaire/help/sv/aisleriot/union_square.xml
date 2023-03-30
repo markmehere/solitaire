@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Union Square</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Två kortlekar</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Dela ett fyra gånger fyra stort rutnät med framsidan upp för bordshögarna, totalt sexton platser. Översta kortet i varje hög är tillgänglig för spel.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar till höger. Grundhögarna byggs upp i färg från ess till kung, sedan från kungen tillbaka till ess.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till Grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Korten i bordshögarna kan byggas antingen upp eller ned i färg. Dock måste varje hög följa endast en av dessa regler. Till exempel, om en bordshög har spader tre över en spader två, kan man bara spela en spader fyra i denna hög. Valfritt tillgängligt kort kan spelas till en tom bordshögplats.</para>
+	<para>Grundhögarna ska byggas i färg från ess till kung, följt av ännu en kung, sedan tillbaka ner till ess, vilket ger 26 kort i varje hög när spelet är vunnet. Kort i grundhögarna är inte längre i spel.</para>
+	<para>Korten vänds ett åt gången från Högen till kasthögen. Översta kortet i kasthögen är tillgängligt för spel. Ingen omgiv.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 104</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>En sträng av pärlor kan läggas till från båda ändar, och så bör även dina högar. Dra full nytta av de tomma platserna för att lägga korten. Med lite uthållighet, kan detta spel bli mycket roligt!</para>
+        </sect2>
+</sect1>

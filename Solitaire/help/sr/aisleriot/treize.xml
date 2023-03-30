@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Трез</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. Карте се окрећу на отпад једна по једна. Нема поновних дељења.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Узима се са гомиле. Карте на врху и на дну су у игри.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Карте се деле у седам редова који се преклапају, почевши са једном картом у првом реду, па са по једном картом више у сваком новом реду, уз преклапање карата тако да се добије пирамида.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Уклонити све карте.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Све карте које нису преклопљене у пирамиди су у игри. Краљеви се уклањају сами. Све остале карте се уклањају у паровима који у збиру дају тринаест, при чему ас вреди 1, жандар 11, а дама 12.</para>
+	<para>Карте се једна по једна окрећу са гомиле на отпад. Карте са врха и са дна су у игри, или као једна пар или у комбинацији са картама из пирамиде. Карта са отпада се такође може упарити са другом картом са отпада. Нема поновних дељења.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Свака уклоњена карта доноси један поен.</para>
+	<para>Највећи могући број поена: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Ова игра се лакше отвара од игре Тринаестица јер овде можете планирати унапред и стратегијама избећи блокирања.</para>
+        </sect2>
+</sect1>

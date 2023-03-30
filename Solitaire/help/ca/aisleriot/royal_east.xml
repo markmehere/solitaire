@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Est Reial</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es giren individualment a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a les cantonades d'una graella tres per tres. Es reparteix una carta a la primera pila base. Aquesta carta és la carta base. Es construeix pujant per pal, jugant els asos sobre els reis quan sigui necessari.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Es reparteix una carta de cara amunt a cada una de les cinc piles del tauler. Aquestes piles són les que formen una creu a la graella tres per tres.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moveu totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant independentment del pal. Els reis es poden col·locar sobre els asos. Les cartes només es poden moure individualment. Qualsevol carta disponible pot ser jugada a una pila buida del tauler.</para>
+  <para>Cada pila base s'ha de començar amb una carta del mateix rang que la carta base. Les piles base es construeixen pujant per pal des de la carta base, jugant els asos sobre els reis si és necessari. Les cartes a les bases no es poden jugar.</para>
+  <para>Les cartes es giren individualment des de la pila principal a la pila de descartades. La carta superior de la pila de descartades sempre està disponible per a jugar. No es torna a donar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Els tresors ocults són coses meravelloses, però només si sabeu on estan. Mantingueu el seguiment de quines cartes hi ha a les piles, ja que aquesta informació us anirà molt bé.</para>
+        </sect2>
+</sect1>

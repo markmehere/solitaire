@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Klondike"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Klondike</title>
+
+  <para>Jonathan Blandford-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Hor kokatzen da karta sortaren gainerako zatia, eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian eskuinean. Irudiaren arabera osatu behar dira, batekotik erregera. Oinarri bakoitzaren gaineko lehenengo karta mahaiko pilara eraman daiteke berriz.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zazpi pila. Jarri karta bat lehenengo pilan gora begira. Jarri karta bana behera begira gainerako piletan. Jarri karta bat gora begira hurrengo pilan, eta karta bana behera begira gainerako pila estalietan. Errepikatu hori, azken pilan zazpi karta izan arte. Koloreak txandakatuz beherantz osa daitezke mahaiko pilak. Karta multzoak mugi daitezke. Erregeak edo erregeekin hasten diren karta multzoak soilik jar daitezke pila hutsetan.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Karta multzoak mugi daitezke. Erregeak edo azpi-azpian erregea duten karta multzoak soilik jar daitezke mahaiko pila hutsetan.</para>
+  <para>Kartak banan-banan iraultzen dira sortatik hondarrera. Hondarraren goiko karta erabiltzeko prest dago. Sorta hustutakoan, hondarreko karta guztiak sortara eramaten ditu, ordena errespetatuz. Hiru aldiz pasa daiteke karta sorta hondarrera.</para>
+  <para>Oinarriak irudiaren arabera gorantz osatu behar dira, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez gero, dagokion oinarri-pilara mugituko da, mugimendu hori egin baldin badaiteke.</para>
+  <para>Egin klik bikoitza oinarri-karta batean, eta oinarrira mugi daitezkeen karta guztiak mugituko dira oinarrira. Oso erabilgarria da hori joko-amaieran.</para>
+
+          </sect2>
+        <sect2><title>Aukerak</title>
+
+  <para>Jokatzeko hiru modu daude. Sortatik kartak banatzeko moduan dago horien arteko aldea.</para>
+  <variablelist>
+    <varlistentry><term>Hiru kartako banaketak</term>
+      <listitem>
+        <para>Sortako kartak hirunaka banatzen dira. Nahi adina aldiz bana daiteke sorta berriro.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Kartak banaka banatu</term>
+      <listitem>
+        <para>Sortako kartak banaka banatzen dira. Baina soilik beste bi aldiz bana daitezke kartak.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Birbanaketarik gabe</term>
+      <listitem>
+        <para>Sortako kartak banaka banatzen dira. Ezin da berriz banatu. Jokatu horrela erronka (eta desengaisua) nahi baduzu.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Unlimited redeals</term>
+      <listitem>
+        <para>Cards are dealt one at a time from the stock. There is no limit to how many times you can redeal the stock.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Normalean, lehen bi aukeretako bat izango duzu ohikoa (ingurunearen arabera). Birbanaketarik gabeko aukera da arau zaharretan normalean aurkitzen dena, baina gutxitan jokatzen da horrela.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ez amore eman! Jokoa amaitu dela dirudienean, saiatu metodo bortitzak. Oinarrietan dauden kartak erabiliz eta segidak berrantolatuz, baliteke behar dituzun kartak askatzea lortzea.</para>
+        </sect2>
+</sect1>

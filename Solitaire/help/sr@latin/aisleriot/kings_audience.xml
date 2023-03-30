@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Kraljeva publika</title>
+
+  <para>Napisao Zach Keene</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+        <row>
+          <entry>Rezerve</entry>
+          <entry>Spoljni pravougaonik sa šesnaest karata. Karte sa rezerve su dostupne za igru i dopunjavaju se sa otpada (ili sa gomile ako trenutno nema karata na otpadu).</entry>
+        </row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Levo mesto u srednjem redu. Karte se dele jedna po jedna na otpad. Nema ponovnih deljenja.</entry>
+	</row>
+        <row>
+          <entry>Otpad</entry>
+          <entry>Mesto desno od gomile. Karta na vrhu otpada je u igri.</entry>
+        </row>
+        <row>
+          <entry>„Tronovi“</entry>
+          <entry>Gornja četiri mesta unutar „odaja kraljeve publike“ (površina unutar šesnaest karata). Kad god su kralj i dama istog znaka dostupni, mogu se pomeriti na neko od ovih mesta.</entry>
+	</row>
+	<row>
+	  <entry>„Temelji“</entry>
+	  <entry>Donja četiri mesta unutar odaja kraljeve publike. Kad god su žandar i as istog znaka dostupni, mogu se pomeriti na prazan „temelj“, sa žandarom na vrhu. „Temelj“ se onda može slagati na dole po znaku.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte na „temelje“ ili „tronove“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte se dele jedna po jedna sa gomile na otpad. Kad god su kralj i dama istog znaka dostupni, mogu se pomeriti na mesto „trona“, prevlačeći kralja na damu (i obrnuto) ili duplim klikom na kartu. Kad god su žandar ili as istog znaka dostupni, mogu se pomeriti na „temelj“ na isti način.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta pomerena u odaje kraljeve publike donosi jedna poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Ništa; Kraljeva publika se uglavnom temelji na sreći.</para>
+        </sect2>
+</sect1>

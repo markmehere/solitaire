@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Golf"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>zana@webwynk.net</email>
+    </address>
+  </sect1info>-->
+
+  <title>Голф</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Све преостале карте се постављају овде. Карте се окрећу једна по једна на отпад. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Седам гомила. Дели се пет отворених карата на сваку гомилу.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте на отпад.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Отпад се може слагати на доле или на горе од доступних карата са талона. На асове се могу стављати само двојке, док се ништа не може ставити на краљеве.</para>
+  <para>Карте се деле једна по једна са гомиле на отпад. Нема поновних дељења.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта померена са талона на отпад доноси једна поен.</para>
+  <para>Највећи могући број поена: 35</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Запамтите да се ништа не може ставити на краља. Покушајте да направите такав низ да се што више карата може уклонити без окретања нове карте са гомиле.</para>
+        </sect2>
+</sect1>

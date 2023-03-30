@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Trostruki vrhovi</title>
+
+	<para>Napisao Richard Hoelscher</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se okreću na otpad jedna po jedna. Nema ponovnih deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Igra se na otpadu. Trenutno zatvorene karte nisu deo trenutnog niza poena.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Deli se 18 zatvorenih karata u obliku tri trougla, sa tri reda u svakom trouglu, povećavajući broj karata sa jedne na tri u poslednjem redu. Trouglovi se povezuju delećima drugih 10 otvorenih karata na poslednji red dole. Poslednja karta svakog reda treba da se preklapa sa poslednjom kartom iz reda iznad, a unutrašnje karte treba da se preklapaju sa dve susedne karte iz istog reda.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Ukloniti sve karte sa talona.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Nepreklopljene karte na talonu su u igri. Slažite na otpad bilo koju kartu koja je za jedan veća ili manja od karte sa vrha otpada, bez obzira na znak. Asovi se vrednuju kao da su i za jedan veći od kraljeva i za jedan manji od dvojki.</para>
+	<para>Karte na talonu su u igri kada nisu prekrivene drugim kartama.</para>
+	<para>Karte se okreću jedna po jedna sa gomile na otpad.</para>
+
+	        </sect2>
+        <sect2><title>Opcije</title>
+
+	<para>Višeigrački rezultati: Poeni se udvostručavaju za svaku stavljenu kartu u trenutnom nizu. Niz od pet stavljenih karata će doneti, 1, 2, 4, 16 i 32 poena, za ukupnih 55 poena. Bonusi vrede 25 poena. Poeni se ne oduzimaju za okretanje karte sa gomile na otpad.</para>
+	<para>Napredne partije: Pošto se sve karte uklone sa talona, počinje nova runda. Poeni se prenose iz prošle runde u novu.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Broj poena za svaku odigranu kartu je jednak broju karata koje ste premestili od kada je poslednja karta okrenuta sa gomile na otpad. Što je duži niz, više poena dobijate.</para>
+	<para>5 poena se oduzima kada okrećete kartu sa gomile na otpad. Svaki očišćeni vrh trougla donosi bonus 15 poena, i dodatnih 15 poena se dodeljuje kada očistite sve karte sa talona.</para>
+	<para>Najveći mogući broj poena za jednu rundu: 466</para>
+        </sect2>
+</sect1>

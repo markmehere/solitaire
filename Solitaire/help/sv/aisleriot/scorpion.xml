@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Skorpionen</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. De tre sista korten efter given placeras här.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Sju högar till höger om högen. * Dela ett kort med framsidan nedåt på var och en av de första fyra raderna. Dela ett kort med framsidan uppåt på de tre sista raderna. Upprepa från * två gånger, så att det blir totalt tre rader. Dela ett kort med framsidan upp på varje hög för att få ytterligare fyra rader.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Skapa fyra högar med tretton kort vardera, vardera hög byggs upp i färg och ordning.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned i färg. Grupper av kort kan flyttas oberoende av svitföljden. En tom bordshög kan fyllas med en kung eller en grupp av kort med en kung i botten.</para>
+	<para>Vid valfritt tillfälle kommer att klicka på högen att dela ut de tre sista korten, ett vardera på de tre första högarna.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>För varje svit i färg är poängen (längden på sviten - 1). Varje gång en svit av tretton kort skapas och är på sin egen kortplats delas fyra extra poäng ut. Nå ett kort med framsidan nedåt ger tre poäng.</para>
+	<para>Högsta möjliga poäng: 100</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Att knyta upp knutar är inte ofta lätt. Undvika att få en enda röra du kan inte komma ur.</para>
+        </sect2>
+</sect1>

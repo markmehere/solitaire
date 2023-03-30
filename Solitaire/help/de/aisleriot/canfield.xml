@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Canfield</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Drei Karten werden gleichzeitig auf den Reststapel aufgedeckt. Unbegrenzte Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Unmittelbar rechts des Talon. Karten werden vom Talon genommen. Mit der obersten Karte wird gespielt.</entry>
+	</row>
+	<row>
+		<entry>Reserve</entry>
+		<entry>Zur linken unter dem Talon. Dreizehn Karten werden hier ausgegeben. Die oberste Karte ist sichtbar und kann auf Fundamentstapel oder den Spieltisch gespielt werden.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Vier Ablagen unter den Fundamentstapeln. Eine Karte wird sichtbar auf jeden Fundamentstapel ausgegeben. Der Spieltisch kann in wechselnden Farben aufgebaut werden. Karten können in Gruppen bewegt werden.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Stapel oben rechts. Eine Karte wird sichtbar auf den ersten Fundamentstapel ausgegeben. Diese Karte ist nun die Basiskarte. Aufbau erfolgt nach Farbe.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Karten können in Gruppen bewegt werden.  Ein leerer Platz auf dem Spieltisch wird automatisch aus dem Reservestapel aufgefüllt. Wenn der Reservestapel leer ist, kann eine leere Ablage mit einer beliebigen Karte oder Kartengruppe in Reihenfolge belegt werden.</para>
+	<para>Karten werden vom Talon auf den Restestapel in Dreiergruppen aufgedeckt. Wenn der letzte Kartenstoß weniger als drei Karten hat, so werden nur dementsprechend viele aufgedeckt. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. </para>
+	<para>Fundamentstapel werden von der Basiskarte aufsteigend nach Farbe aufgebaut (die erste Karte wird auf den Fundamentstapel ausgegeben). Neue Fundamentstapel werden begonnen, sobald eine Karte des gleichen Ranges wie die bei der Verteilung zuerst ausgegebene auf einen leeren Fundamentstapel abgelegt wird. Asse werden auf Könige und Zweier auf Asse abgelegt. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in den Fundamentstapeln zählt einen Punkt. Dieses Spiel wird üblicherweise in Casinos gespielt. Sie würden dort scheitern, selbst wenn Sie 10 Punkte erreichen.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Ein Spatz in der Hand ist besser als die Taube auf dem Dach. Dieses Spiel ist sehr schwer zu gewinnen. Die meisten Leute behalten immer die Spielregeln im Hinterkopf und versuchen, so viele Punkte wie möglich zu erreichen. Am Ende sollten Sie immer Karten auf die Fundamentstapel legen, sobald dies möglich ist.</para>
+        </sect2>
+</sect1>

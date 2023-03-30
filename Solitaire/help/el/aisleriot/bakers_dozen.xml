@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Δώδεκα καρβέλια</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Βάσεις</entry>
+	  <entry>Οι τέσσερις στοίβες στο πάνω μέρος. Τα φύλλα τοποθετούνται ανά φυλή και σε αύξουσα σειρά, από τον Άσσο στο Ρήγα. Σε κάθε βάση, το πάνω φύλλο μπορεί να επιστρέψει στο ταμπλό.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+    <entry>Δεκατρείς στήλες. Τέσσερα φύλλα ανοιχτά σε κάθε στήλη. Οι Ρήγες μετακινούνται αυτόματα στην κορυφή της αντίστοιχης στήλης.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Μετακίνηση όλων των φύλλων στις βάσεις</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Σε κάθε στήλη του ταμπλό το πάνω φύλλο μπορεί να μετακινηθεί σε άλλη στήλη αν η αξία του είναι μικρότερη κατά ένα από το πάνω φύλλο της νέας στήλης. Η φυλή δεν παίζει ρόλο εδώ. Αν μια στήλη αδειάσει, δεν επιτρέπεται να συμπληρωθεί.</para>
+  <para>Στις βάσεις τα φύλλα τοποθετούνται ανά φυλή και με αύξουσα σειρά, από τον Άσσο στο Ρήγα. Τα φύλλα στις βάσεις παραμένουν στο παιχνίδι. Αν κάνετε διπλό κλικ σε ένα φύλλο στο ταμπλό, το φύλλο θα ανέβει στις βάσεις, εφόσον επιτρέπεται η κίνηση.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που μπαίνει στις βάσεις αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Προσπαθήστε να μη "θάβετε" τα φύλλα μικρής αξίας και να μην αφήνετε τις στήλες του ταμπλό να αδειάσουν.</para>
+        </sect2>
+</sect1>

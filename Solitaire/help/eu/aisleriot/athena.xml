@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Athena">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Atenas</title>
+
+  <para>Jonathan Blandford-en lanean oinarrituta Alan Horkan-ek idatzia.</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+  <sect2><title>Konfigurazioa</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Hor kokatzen da karta sortaren gainerako zatia, eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+	  <entry>Oinarriak</entry>
+	  <entry>Lau pila goian eskuinean. Irudiaren arabera osatu behar dira, batekotik erregera. Oinarri bakoitzaren gaineko lehenengo karta mahaiko pilara eraman daiteke berriz.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>
+	    Seven piles.  Four rows, the first row is face down, 
+	    the second row is face up, the third row is face down, and 
+	    the fourth and final row is face up.  
+	    Essentially Athena is the same as Klondike only the opening 
+	    layout is different.  
+	    <!-- TODO FIXME link to Klondike Help page -->
+	    Tableau can be built down in alternating colors.  Builds of
+	    cards can be moved.  Empty piles can only be filled by Kings
+	    or group of cards starting with a King.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+  <sect2><title>Xedea</title>
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+  </sect2>
+  <sect2><title>Arauak</title>
+  <para>
+    Cards in the Tableau are built down by alternating color.  Builds of
+    cards can be moved.  An empty pile in the Tableau can be filled with
+    a King or a group of cards with a King on the bottom.
+  </para>
+  <para>Kartak banan-banan iraultzen dira sortatik hondarrera. Hondarraren goiko karta erabiltzeko prest dago. Sorta hustutakoan, hondarreko karta guztiak sortara eramaten ditu, ordena errespetatuz. Hiru aldiz pasa daiteke karta sorta hondarrera.</para>
+  <para>Oinarriak irudiaren arabera gorantz osatu behar dira, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez gero, dagokion oinarri-pilara mugituko da, mugimendu hori egin baldin badaiteke.</para>
+
+<!-- TODO 
+  <sect2><title>Options</title>
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+  </sect2>
+  <sect2><title>Puntuak</title>
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+  </sect2>
+  <sect2><title>Estrategia</title>
+  <para>Ez amore eman! Jokoa amaitu dela dirudienean, saiatu metodo bortitzak. Oinarrietan dauden kartak erabiliz eta segidak berrantolatuz, baliteke behar dituzun kartak askatzea lortzea.</para>
+  </sect2>
+</sect1>

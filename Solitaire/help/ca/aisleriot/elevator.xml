@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Elevator"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Ascensor</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Es gira una carta cada vegada a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Per a agafar des de la pila principal.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Es reparteixen cara avall set files sobreposades començant amb una carta a la primera fila, incrementant en una carta cada fila i escalonant les piles per a aconseguir una piràmide. Es gira la fila inferior.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moveu totes les cartes a la pila de descartades.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Totes les cartes exposades a la piràmide estan disponibles per a jugar. Construïu a la pila de descartades amb aquestes cartes disponibles sempre que sigui possible jugant una carta amb un rang immediatament superior o inferior al rang de la carta superior a la pila de descartades. Els asos es col·loquen sobre els reis i sota els dosos.</para>
+	<para>Les cartes es giren individualment des de la pila principal a la pila de descartades. No es torna a donar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta suprimida de la piràmide puntua un punt.</para>
+	<para>Puntuació màxima possible: 28</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Cada piràmide necessita una base forta. Primer construïu les cartes inferiors, amb vista a intentar exposar tantes cartes com sigui possible.</para>
+        </sect2>
+</sect1>

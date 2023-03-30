@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Kolačići</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Kada kliknete, deli se po jedna karta na svaku gomilu u talonu.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Četiri gomile desno. Grupe karata mogu da se pomere na prazna mesta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte osim asova.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Asovi su visoke karte. Kada su dostupne dve karte istog znaka, može se ukloniti ona sa manjom vrednošću. Kada se pojavi prazno mesto, on se može popuniti sa grupom karata.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka uklonjena karta donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Nema razloga da imate prazna mesta kada se deli nova tura karata. Ali ipak, ako imate prazno mesto, pokušajte da ga držite što praznijim, jer je to odličan način da se rešite zakopanih karata.</para>
+        </sect2>
+</sect1>

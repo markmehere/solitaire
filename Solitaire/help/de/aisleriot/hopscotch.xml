@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hopscotch</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Alle Karten außer Pik-Ass bis Pik-Vier sind hier zu Beginn des Spiels platziert. Karten werden einzeln auf den Restestapel gelegt.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Unmittelbar rechts des Talon. Kann nur eine Karte gleichzeitig enthalten. Eine Karte muss unmittelbar entweder auf einen Fundament- oder Restestapel Ihrer Wahl gelegt werden.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Ablagen oben, rechts vom Talon. Legen Sie ein Ass auf den ersten Stapel, eine Zwei auf den zweiten Stapel, eine Drei auf den dritten Stapel und eine Vier auf den vierten Stapel. Der erste Fundamentstapel wird in Einerschritten aufgebaut, der zweite in Zweierschritten, der dritte in Dreierschritten und der vierte in Viererschritten, wobei alle zum Ass fortlaufen können, wenn die 13 überschritten wird. Karten in Fundamentstapeln sind nicht mehr im Spiel. Farben spielen keine Rolle.</entry>
+	</row>
+	<row>
+		<entry>Reserve</entry>
+		<entry>Vier Ablagen unterhalb der Fundamentstapel. Karten in Reservestapeln können nur auf Fundamentstapel gelegt werden. Karten auf dem Restestapel können auf jeden der Restestapel gelegt werden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Bauen Sie die Fundamentstapel in Einer-, Zweier-, Dreier- und Viererschritten in den jeweiligen Fundamentstapeln auf. Karten werden einzeln vom Talon auf den Restestapel gelegt. Da der Restestapel nur eine Karte gleichzeitig enthalten kann, muss diese Karte unmittelbar auf einen Fundamentstapel oder einen der Reservestapel gespielt werden. Karten in Reservestapeln können nicht neu angeordnet werden.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte, die in den Fundamentstapeln abgelegt wird, erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Verfeinern Sie Ihr Können für dieses Spiel. Glück wird Ihnen hier nicht viel weiterhelfen. Versuchen Sie, keine Karten zu überdecken, die Sie bald brauchen könnten. Ziehen Sie in Betracht, einen Stapel nur für Könige zu reservieren (da diese als letztes auf jeden Fundamentstapel gelegt werden).</para>
+        </sect2>
+</sect1>

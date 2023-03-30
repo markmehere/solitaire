@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenwood</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání na hromádky rozdaných a záložních se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se jednou vrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. První hromádka v seřazených začíná kartou, kterou si hráč vybere v záložních. Karty musíte skládat do postupek v barvě. Pokud je potřeba, cyklí se král na eso.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Čtyři hromádky vlevo po třech kartách rozdaných lícem nahoru na každé. Vrchní karty ve všech hromádkách jsou k dispozici do hry. Na prázdné pozice není možné položit žádnou kartu.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Čtyři hromádky pod seřazenými. Rozdává se lícem nahoru po jedné kartě na každou hromádku. Můžete je skládat do sestupných postupek v barevnosti na střídačku. Vrchní karty je možné hrát do seřazených. Celou hromádku lze přesouvat na jinou hromádku v rozdaných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>První věcí ve hře je výběr karty do první hromádky v seřazených. Jakmile je vybrána, ostatní hromádky v seřazených musí rovněž začínat touto hodnotou.</para>
+  <para>Seřazené se skládají do vzestupných postupek v barvě. Pokud je potřeba, cyklí se z krále na eso. Jakmile je karta položena do seřazených, je mimo hru.</para>
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Celou hromádku v rozdaných můžete přesunout na jinou hromádku v seřazených. Prázdné pozice v rozdaných můžete obsadit dostupnou kartou ze záložních nebo, pokud jsou hromádky v záložních prázdné, tak kartou z otočených.</para>
+  <para>Karty se lížou z volných do otočených po jedné. Po vyprázdnění volných se karty jednou vrací z otočených zpět.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta umístěná do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Věnujte pozornost výběru své první karty do seřazených. Snažte se dostat co nejdříve karty ze záložních. Někdy je důležitější nechat kartu ve hře, než ji přesunout do seřazených.</para>
+        </sect2>
+</sect1>

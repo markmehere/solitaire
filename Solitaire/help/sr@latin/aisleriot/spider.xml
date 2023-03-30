@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Pauk</title>
+
+	<para>Napisao Jonathan Blandford</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Dupli špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Špil se stavlja ovde posle podele na talon. Klikom  se deli jedna otvorena karta na svaku gomilu.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Gornjih osam mesta. Koriste se samo da se odlažu nizovi karata od kralja do asa kada se slože.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Deset gomila. Na četiri gomile (gomile 1, 4, 7 i 10) se deli 5 spuštenih karata i jedna otvorena karta, a na ostale 4 spuštene karte i jedna otvorena karta. Karte se slažu nevezano za znak. Nizovi karata istog znaka se mogu pomerati zajedno. Na prazna mesta se može stavljati bilo koja karta ili niz koji može da se pomera.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Postaviti osam nizova karata od kralja do asa na „temelj“.</para>
+	<para>Ako želite izuzetno težak izazov, ne pomerajte završene nizove na „temelj“. Takođe možete pobediti ostavljajući takvih gotovih osam nizova na talonu. Ovo je teže jer je dostupno manje slobodnih mesta. Zapravo, skoro je nemoguće.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte se slažu bez obzira na znak. Nizovi karata istog znaka se mogu pomerati zajedno. Prazna mesta se mogu popunjavati bilo kojom kartom ili nizom koji može da se pomera.</para>
+	<para>Klikom na gomilu bilo kad se deli otvorena karta na svako mesto. Pri deljenju nijedno mesto ne sme biti prazno. Ako je bilo koje mesto prazno, pojaviće se poruka o grešci.</para>
+	<para>Niz karata od kralja do asa se može pomeriti na „temelj“. Jednom kada su tamo, te karte nisu više u igri.</para>
+
+	        </sect2>
+        <sect2><title>Opcije</title>
+
+  <para>Postoje tri moguća tipa špila. Svaki špil ima 104 karte.</para>
+  <variablelist>
+    <varlistentry><term>Jedan znak</term>
+      <listitem>
+        <para>Špil se sastoji osam spojenih špilova samo sa pikovima. Ovo je najprostiji špil za pauka i dobar je za učenje osnovnih pravila igre.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Dva znaka</term>
+      <listitem>
+        <para>Špil se sastoji od četiri spojena špila samo sa pikovima i hercovima. Postoje četiri cela niza karata za svaki od ova dva znaka. Ovo nije tako ludački teško kao standardni špil sa sva četiri znaka.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Četiri znaka</term>
+      <listitem>
+        <para>Ovo je običan dupli špil. Postoje dva cela niza karata za svaki znak. Ovo je standardni špil za pauka, a ujedno je i najteži za igranje.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Mnoge tradicionalne verzije Pauka ne koriste „temelj“ već se karte prosto uklanjaju. Ovo ne utiče na igru.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Za svaki niz u istom znaku, broj dobijenih poena je dužina niza minus 1</para>
+	<para>Najveći mogući broj poena: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Ako vam ne uspe iz prve, ne očajavajte. Gradite nizove istog znaka kad god možete, ali i oslobađajte što više možete okrenutih karata.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Skákací panák</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Na začátku hry se zde položí všechny karty vyjma esa až čtverky v křížích. Karty se po jedné lížou do otočených.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Po pravé straně hned vedle volných. V jednu chvíli může obsahovat jen jednu kartu. Ta se bezprostředně musí přesunout na hromádku v seřazených nebo záložních, záleží na vás.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky nahoře, napravo od volných. Na první se položí eso, na druhou dvojka, na třetí trojka a na čtvrtou čtverka, vše v barvě křížů. Na první hromádce se skládá postupka po jedné, na druhé po dvou, na třetí po třech a na čtvrté po čtyřech. Po dosažení třinácti se se u všech cyklí na eso. Karty v seřazených se nemohou vracet do hry. Barva není podstatná.</entry>
+	</row>
+	<row>
+		<entry>Záložní</entry>
+		<entry>Čtyři hromádky pod seřazenými. Karty v záložních je možné hrát jen na hromádky v seřazených. Karty se sem přesouvají z otočených, na libovolnou hromádku.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>V seřazených musíte skládat postupky po jedné, dvou, třech a čtyřech na první, druhé, třetí respektive čtvrté hromádce. Karty se po jedné lížou z volných do otočených. Protože ale v otočených může ležet jen jedna karta, je ji potřeba hned přesunout na hromádku v seřazených nebo v záložních. Karty v záložních nelze mezi hromádkami přehazovat.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta přesunutá do seřazených je hodnocena 1 bodem.</para>
+	<para>Maximální možný počet bodů: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Zdokonalujte své dovednosti v této hře a štěstí si vás najde. Snažte se nezakrývat karty, které budete brzy potřebovat. Zvažte ponechání jednoho sloupce jen pro krále (protože tím se zakončují všechny hromádky v seřazených).</para>
+        </sect2>
+</sect1>

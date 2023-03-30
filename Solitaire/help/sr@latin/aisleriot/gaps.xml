@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Pukotine</title>
+
+  <para>Napisao Zach Keene</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Sve karte se dele u četiri reda sa po 13 karata; asovi se onda uklanjaju da bi se napravile pukotine. Dozvoljena su dva ponovna deljenja.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Postavite sve karte po znaku od dvojke do kralja.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Pukotine u koloni skroz levo se mogu popuniti ako tu pomerite dvojku bilo kog znaka. Pukotine desno od bilo koje karte koja nije kralj se mogu popuniti stavljajući kartu istog znaka, ali veću po vrednosti za jedan. Pukotine posle kraljeva i ostale pukotine se ne mogu popunjavati.</para>
+  <para>Kada se karta postavi u niz koji počinje dvojkom, na poziciji skroz levo više se ne može pomerati.</para>
+  <para>Ako nema mogućih poteza (tj. pukotine su posle kraljeva, duplim klikom će se pokrenuti ponovno deljenje. Svaka karta koja nije u nizu će biti uklonjena, promešana i ponovo podeljena. Dozvoljena su samo dva ponovna deljenja.</para>
+
+            </sect2>
+        <sect2><title>Opcije</title>
+
+    <para>Slučajno izostavljanje pri sledećem deljenju: uključite ovo da biste dobili slučajne pukotine pri ponovnom deljenju. Ako ovo nije uključeno, pukotine će uvek biti odmah desno od kraja već napravljenih nizova.</para>
+
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta u nizu, počevši od dvojke u skroz levoj koloni donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Odlažite potez koji će napraviti pukotinu desno od kralja što više možete.</para>
+        </sect2>
+</sect1>

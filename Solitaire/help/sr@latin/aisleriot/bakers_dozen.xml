@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pekarovo tuce</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile na vrhu. Slažu se po znaku od asa do kralja. Karta na vrhu svakog „temelja“ se može vraćati na talon.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    <entry>Trinaest gomila. Na svaku gomilu se dele četiri otvorene karte. Kraljevi se pomeraju na dno gomila na kojima se nalaze.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karta sa vrha neke gomile se može pomeriti na drugu gomilu sa talona ako ima vrednost za jednu manju od karte sa vrha te gomile. Znak nije bitan. Prazne gomile na talonu se ne mogu popunjavati.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Karte sa „temelja“ su još u igri. Dupli klik na kartu na talonu će je premestiti na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta premeštena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pazite da ne zakopate karte sa malim vrednostima i trudite se da ne praznite gomile na talonu.</para>
+        </sect2>
+</sect1>

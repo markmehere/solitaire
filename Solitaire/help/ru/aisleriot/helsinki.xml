@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Хельсинки</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. Сюда помещаются карты, оставшиеся после раздачи на игровое поле. Карты из колоды автоматически сдаются на пустые ячейки игрового поля.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Десять стопок, на каждую из которых сдаётся по карте лицом вверх.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты убираются парами, дающими в сумме тринадцать, при этом туз считается единицей, валет оценивается в одиннадцать, дама в двенадцать. Короли убираются просто так по одному.</para>
+  <para>Пустые ячейки игрового поля автоматически заполняются из колоды.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную карту даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Поторапливайтесь.</para>
+        </sect2>
+</sect1>

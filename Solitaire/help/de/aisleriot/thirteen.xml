@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thirteen"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Dreizehn</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist im Spiel.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Geben Sie verdeckt sieben überlappende Reihen aus, beginnend mit einer Karte in der ersten Reihe und dann jeweils eine mehr in den folgenden Reihen. Es ergibt sich die Form einer Pyramide. Drehen Sie die untere Reihe um.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Alle offen liegenden Karten in der Pyramide sind spielbar. Könige können einzeln entfernt werden. Alle anderen Karten können paarweise entfernt werden, wenn sich ihr Wert zu 13 oder weniger addiert, wobei Asse eins, Buben elf und Damen zwölf zählen.</para>
+  <para>
+    Cards can be flipped singly from the Stock to the Waste.  The top
+    card is available for play either with the available cards in the
+    pyramid or with the card below.  There is no redeal.
+  </para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Jede Pyramide benötigt ein starkes Fundament. Werden Sie zunächst die kleineren Karten los, um möglichst viele Karten aufzudecken.</para>
+        </sect2>
+</sect1>

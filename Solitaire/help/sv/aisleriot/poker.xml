@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Poker</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Bredvid Högen. Kasthögen kan bara innehålla ett kort.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Ett fem gånger fem stort rutnät. Varje plats kan bara innehålla ett kort.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Skapa så många poäng som möjligt med hjälp av pokerhänder. Det finns tolv händer på brädan -- 5 rader, 5 kolumner och 2 diagonaler. Att skapa 75 poäng eller högre anses vara en vinst.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Klicka på högen för att vända upp ett kort i taget. Kortet måste placeras någonstans på bordshögarna innan nästa kort kan vändas. När kortet är placerat kan det inte flyttas.</para>
+
+          </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Blandningsläge: Om det är valt, kan du flytta korten efter att de har placerats. Du behöver minst 120 poäng för att vinna på detta sätt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Pokerhänderna är värderade enligt det brittiska poängsystemet som är som följer</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Hand</entry>
+          <entry>Beskrivning</entry>
+          <entry>Poäng</entry>
+        </row>
+        <row>
+          <entry>Färgstege</entry>
+          <entry>Korten är alla i en följd och i samma färg</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Fyrtal</entry>
+          <entry>Innehåller fyra kort av samma valör</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Stege</entry>
+          <entry>Korten är alla i en följd</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Kåk</entry>
+          <entry>Tre av en valör och två av en annan</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Tretal</entry>
+          <entry>Innehåller tre kort av samma valör</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Färg</entry>
+          <entry>Alla fem kort är i samma färg</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Två par</entry>
+          <entry>Två par, vardera bestående av två kort av samma valör</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Ett par</entry>
+          <entry>Består av två kort av samma valör</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Högsta möjliga poäng: 276</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Kom ihåg att du kommer att se nästan hälften av kortleken och planera därefter. Att försöka bluffa datorn är inte att rekommendera.</para>
+        </sect2>
+</sect1>

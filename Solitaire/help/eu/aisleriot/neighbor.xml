@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Auzoak</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Behean azaldutako moduan banatu kartak mahaian.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Bost bider bost itxurako mahaia da, eta karta bat bakarra jar daiteke toki bakoitzean. Jokoaren hasieran karta bat banatzen zaio toki bakoitzari. Leku hutsak betetzeko, kartak eskuinetik ezkerrera eraman daitezke, eta beheko errenkadan ezker-ezkerrean dagoen karta eskuin-eskuinean dagoen tokira eraman daiteke; sortatik leku huts guztietara banatzen da.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak kentzea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Erregeak kentzeko, egin klik egin haien gainean. Gainerako kartak kentzeko, hamahiru batzen duten karta-bikoteak kendu behar dira, betiere bi karta horiek elkar ukitzen badute horizontalki, bertikalki edo diagonalki.</para>
+
+	        </sect2>
+        <sect2><title>Aukerak</title>
+
+	<para>Bat ere ez</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Kendutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Taulan goi-goian dauden kartak kendu lehenengo, horrek mugitzeko aukera gehiago ematen baitu.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Δρόμοι και δρομάκια</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Βάσεις</entry>
+	  <entry>Οι τέσσερις στοίβες στη μεσαία στήλη. Τα φύλλα τοποθετούνται στις βάσεις ανά φυλή και σε αύξουσα σειρά, από τον Άσσο στο Ρήγα. Σε κάθε βάση, το πάνω φύλλο μπορεί να επιστρέψει στο ταμπλό.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Οχτώ στοίβες (τέσσερις αριστερά και τέσσερις δεξιά από τις βάσεις). Σε κάθε στοίβα της αριστερής πλευράς μοιράζονται από εφτά ανοιχτά φύλλα, και σε κάθε στοίβα της δεξιάς από έξι. Τα φύλλα μοιράζονται απλωμένα, ώστε να φαίνονται όλα.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Μετακίνηση όλων των φύλλων στις βάσεις</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Στο ταμπλό μπορείτε να τοποθετείτε φύλλα σε φθίνουσα σειρά ανεξαρτήτως φυλής. Μπορείτε να μετακινείτε μόνο ένα φύλλο κάθε φορά. Αν μία θέση είναι κενή, μπορείτε να την καλύψετε με όποιο φύλλο θέλετε.</para>
+  <para>Τα φύλλα στις βάσεις τοποθετούνται ανά φυλή και με αύξουσα σειρά.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που τοποθετείται στις βάσεις αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Μετακινείτε φύλλα στις βάσεις όποτε μπορείτε. Προσπαθήστε να αδειάσετε μια στοίβα του ταμπλό.</para>
+  </sect2>
+</sect1>

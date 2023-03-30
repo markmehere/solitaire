@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Calles y callejones</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones el la columna central. Para construir desde el as hasta el rey. La carta de la cima en cada montón objetivo puede ser traída de vuelta al tablero.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Ocho huecos (cuatro a la izquierda y cuatro a la derecha del objetivo). Se reparten todas las cartas boca arriba y extendidas en estos ocho montones de manera que hay siete cartas en cada montón del flanco izquierdo y seis cartas en cada montón del flanco derecho. Todas las cartas están visibles.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se colocan descendentemente sin importar el palo. Sólo se puede mover una carta cada vez. Los montones vacíos se pueden llenar con una única carta.</para>
+  <para>Las fundaciones se construyen ascendentemente por palo.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Construye uniformemente en el objetivo si es posible. Intenta y consigue un huevo en el tablero.</para>
+  </sect2>
+</sect1>

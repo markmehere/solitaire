@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Πόκερ</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Τύπος τράπουλας</entry>
+		<entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+		<entry>Μάνα</entry>
+		<entry>Η στοίβα πάνω αριστερά.</entry>
+	</row>
+	<row>
+		<entry>Σωρός</entry>
+		<entry>Δίπλα από τη μάνα. Επιτρέπεται να περιέχει μόνο ένα φύλλο.</entry>
+	</row>
+	<row>
+		<entry>Ταμπλό</entry>
+		<entry>Πίνακας πέντε επί πέντε. Κάθε θέση επιτρέπεται να περιέχει μόνο ένα φύλλο.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Προσπαθήστε να συγκεντρώσετε όσους περισσότερους βαθμούς μπορείτε, σχηματίζοντας συνδυασμούς πόκερ. Υπάρχουν δώδεκα δυνατοί συνδυασμοί με πέντε φύλλα ο καθένας -- οι 5 γραμμές, οι 5 στήλες και οι 2 διαγώνιες. Θεωρείτε ότι κερδίσατε αν συγκεντρώσετε περισσότερους από 75 βαθμούς.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Τα φύλλα της μάνας ανοίγουν ένα ένα (με κλικ) και τοποθετούνται στο σωρό. Το φύλλο του σωρού πρέπει πρώτα να τοποθετηθεί στο ταμπλό, για να μπορέσει να ανοίξει το επόμενο φύλλο της μάνας. Αν ένα φύλλο τοποθετηθεί στο ταμπλό, δεν επιτρέπεται να μετακινηθεί ξανά.</para>
+
+          </sect2>
+        <sect2><title>Επιλογές</title>
+
+  <para>Λειτουργία ανακατέματος: Αν επιλεγεί, επιτρέπεται η μετακίνηση των φύλλων μετά την τοποθέτησή τους στο ταμπλό. Θα πρέπει, όμως, να συγκεντρώσετε τουλάχιστον 120 βαθμούς για να κερδίσετε.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Οι βαθμοί των συνδυασμών του πόκερ υπολογίζονται με βάση το βρετανικό σύστημα, ως εξής:</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Συνδυασμός</entry>
+          <entry>Περιγραφή</entry>
+          <entry>Βαθμοί</entry>
+        </row>
+        <row>
+          <entry>Φλος (Κέντα χρώμα)</entry>
+          <entry>Πέντε φύλλα της ίδιας φυλής, σε αριθμητική σειρά</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Καρέ</entry>
+          <entry>Τέσσερα φύλλα της ίδιας αξίας</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Κέντα</entry>
+          <entry>Πέντε φύλλα σε αριθμητική σειρά</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Φουλ</entry>
+          <entry>Τρία φύλλα μιας αξίας και δύο φύλλα μιας δεύτερης αξίας</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Τριφυλλία</entry>
+          <entry>Τρία φύλλα της ίδιας αξίας</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Χρώμα</entry>
+          <entry>Πέντε φύλλα της ίδιας φυλής</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Δύο ζευγάρια</entry>
+          <entry>Δύο φύλλα μιας αξίας και δύο φύλλα μιας δεύτερης αξίας</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Ένα ζευγάρι</entry>
+          <entry>Δύο φύλλα μιας αξίας</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Μέγιστη δυνατή βαθμολογία: 276</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Θυμηθείτε ότι θα προλάβετε να δείτε λιγότερη από τη μισή τράπουλα, και προγραμματίστε κατάλληλα. Αποφύγετε να μπλοφάρετε!</para>
+        </sect2>
+</sect1>

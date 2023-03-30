@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Grausam</title>
+
+  <para>Geschrieben von Zach Keene</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Die Ablage oben links. Weil alle verbleibenden Karten immer auf dem Spieltisch ausgegeben werden, ist sie immer leer. Es wird unbegrenzt neu ausgegeben.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Der Stapel ganz rechts in der obersten Reihe; Die Asse werden hier zu Spielbeginn abgelegt. Es wird nach Farbe von Ass bis König aufgebaut.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Bis zu dreizehn Stapeln. Es werden jeweils vier Karten zugleich ausgegeben, bis der Talon leer ist. Stapel auf dem Spieltisch werden nach Farbe absteigend aufgebaut.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Bauen Sie Fundamentstapel nach Farbe aufsteigend und Tischstapel nach Farbe absteigend auf. Falls keine Züge mehr möglich sind (oder wenn Sie möchten), klicken Sie für eine Neuverteilung auf die leere Ablage oben links.</para>
+  <para>Neuverteilung werden durch stapeln der Spieltischstapel in Reihenfolge erreicht, beginnend mit dem letzten. Anschließend wird der Kartensatz umgedreht und jeweils vier Karten zugleich neu auf den Tisch ausgegeben. Wenn keine Spielzüge gemacht wurden, so ändert eine Neuausgabe die Kartenanordnung nicht. Demnach ist das Spiel verloren, sobald nach einer Neuausgabe kein Spielzug möglich ist.</para>
+  <para>Hinweis: Ein Entartungsfall tritt ein, sobald nach einer Neuverteilung der letzte Stapel auf dem Tisch nur eine Karte enthält und der einzig mögliche Spielzug vom Stapel davor ist. Nach Ausführen des Zuges und Neuverteilung besteht wieder die gleiche Kartenanordnung. AisleRiot beendet in diesem Fall das Spiel.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte, die in den Fundamentstapeln abgelegt wird, zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Wenn auf mehr als einen Stapel auf dem Tisch aufgebaut werden kann, dann wählen Sie denjenigen mit dem höchsten Rang.</para>
+        </sect2>
+</sect1>

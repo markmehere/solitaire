@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Westhafen</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Ablagen in der obersten Reihe. Der Aufbau erfolgt nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>10 Stapel mit je drei Karten, bei der die letzte Reihe der Karten aufgedeckt ist.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>
+		Cards in Tableau are built down by alternate color.  The top card or the
+		complete face up portion of each pile is available for play.  Empty
+		piles can be filled with any available card or group of cards.
+	</para>
+	<para>Fundamentstapel werden aufsteigend von Ass bis König aufgebaut. Die Karten in den Fundamentstapeln sind nicht mehr im Spiel.</para>
+	<para>Karten werden einzeln vom Talon auf den Reservestapel gelegt. Die oberste Karte des Reservestapels steht immer für das Spiel zur Verfügung. Es gibt keine Neuverteilungen.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede auf den Fundamentstapel gelegte Karte zählt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		Caution is for those who actually have money at stake.  Live
+		dangerously.  Make any moves you can, as chance is on your side.
+	</para>
+        </sect2>
+</sect1>

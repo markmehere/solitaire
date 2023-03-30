@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yield"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Yield</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomadas del montón. La carta de la cima y del fondo están disponibles para el juego.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Se dan las cartas boca arriba solapando las filas comenzando con siete cartas en la primera fila, reduciendo una carta por fila y escalonando los montones para conseguir una pirámide.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Quitar todas las cartas.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Todas las cartas expuestas de la pirámide están disponibles para el juego. Los reyes se pueden eliminar de uno en uno. El resto de cartas se eliminan por parejas que suman trece siendo el valor de los ases 1, el de las Jotas 11 y el de las reinas 12.</para>
+	<para>Las cartas se sacan de una en una desde el montón a la basura. Las cartas de la cima y del fondo están disponibles para jugarlas consigo mismas o con las cartas disponibles en la pirámide. La carta de la cima de la basura también se puede jugar con la segunda carta de la basura. No hay repartos.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta eliminada puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Eliminar el fondo de la pirámide invertida es la parte dura. Una vez que se consigue, es mejor eliminar cartas de la basura que de la pirámide invertida, ya que hay más cartas allí.</para>
+        </sect2>
+</sect1>

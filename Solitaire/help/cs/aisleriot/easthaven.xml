@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Východní přístav</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání je zde umístěn zbytek sady.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte poskládat postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek dole. Na každou hromádku se rozdají dvě karty lícem dolů a jedna karta lícem nahoru.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>V rozdaných můžete skládat sestupné postupky v barevnosti na střídačku. Poskládané postupky lze přesouvat jako celek. Na prázdnou pozici můžete dát krále nebo poskládanou postupku začínající králem.</para>
+  <para>Prázdná pozice v rozdaných musí být obsazena, pokud je to možné, dřív než se líznou další karty. Kliknutím na hromádku s volnými se lízne po jedné kartě lícem nahoru na každou hromádku v rozdaných. V posledním líznutí se pokládá na první tři hromádky a již se znovu nemíchá.</para>
+  <para>Seřazené se musí poskládat do vzestupných postupek v barvě, od esa po krále. Karty v seřazených se již neúčastní hry.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu umístěnou do seřazených dostáváte 1 bod.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Když můžete přesunout kartu do seřazených, učiňte tak ihned, protože dalším líznutím si ji můžete zablokovat. Protože však karty v seřazených nesmí již zpět do hry, můžete později uvíznout, protože onu kartu budete potřebovat. Doufejte, že toto dilema bude to nejtěžší, co vás dnes potká.</para>
+        </sect2>
+</sect1>

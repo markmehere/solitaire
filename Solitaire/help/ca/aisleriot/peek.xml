@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Peek"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Ullada</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Reserves</entry>
+		<entry>Quatre piles separades a l'esquerra. Es reparteixen quatre cartes cara amunt a cada pila de la reserva. No es permet construir.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la dreta. Es reparteix una carta a la primera base.</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Aquí es col·loquen totes les cartes restants. Les cartes es giren d'una en una a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Qualsevol carta del pal de la primera base es pot jugar a aquesta pila base en qualsevol moment. La resta de bases només es poden començar amb una carta del mateix rang que aquesta primera carta. Un cop començat, aquestes altres bases es poden construir per pal sempre que una carta del mateix rang estigui a la base de sobre. Jugueu les cartes a la reserva sempre que sigui possible seguint aquestes regles.</para>
+	<para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+ 	<para>Cartes de tres en tres: Es reparteixen tres cartes a la vegada des de la pila principal a la pila de descartades i no hi ha límit de tornar a donar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Un punt per cada carta col·locada a la base.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Les reserves són visibles. Seleccioneu l'ordre intel·ligentment.</para>
+        </sect2>
+</sect1>

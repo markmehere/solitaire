@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jumbo</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten werden hier nach dem Geben des Spieltisches abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Eine Neuverteilung.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Unmittelbar rechts des Talon. Karten werden jeweils einzeln vom Talon ausgeteilt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Acht Ablagen oben rechts. Der Aufbau erfolgt aufsteigend nach Farbe von Ass bis König. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Neun Stapel. Eine verdeckte Karte auf alle neun Stapel legen, dann eine verdeckte Karte auf die ersten acht Stapel, dann eine verdeckte Karte auf die ersten sieben Stapel usw., bis der erste Stapel neun Karten enthält. Die letzte Karte auf jedem Stapel umdrehen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Mehrere Karten können gleichzeitig verschoben werden. Leere Ablagen auf dem Spieltisch können mit einem König oder mit Gruppen von Karten belegt werden, die mit einem König beginnen.</para>
+  <para>Karten werden vom Talon einzeln auf den Restestapel gewendet. Die oberste Karte des Stapels ist im Spiel. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, wenn der Talon leer ist. Sie können zwei Mal das Kartendeck durcharbeiten.</para>
+  <para>Fundamentstapel werden aufsteigend von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentýnka</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí všechny zbývající karty.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Levá horní hromádka. Může obsahovat jen jednu kartu.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Čtyři hromádky. Na začátku hry se na každou rozdá jedna karta. Nové líznutí z volných přesune všechny karty, které jsou aktuálně v rozdaných, dospod hromádky volných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Mít všechny karty v rozdaných tak, aby každá hromádka obsahovala eso až krále v jedné barvě. Pokuste se při tom nezbláznit.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Když některé dvě karty v rozdaných mají stejnou barvu a jsou do postupky, umístěte nižší kartu na vyšší. Eso je nejnižší, král nejvyšší a postupka se necyklí. Kliknutím na hromádku volných se doplní pozice, které jste uvolnili.</para>
+  <para>Když v rozdaných není možné nic zahrát, klikněte na hromádku volných, aby se lízla karta do otočených. Pokud je možné tuto kartu zahrát do rozdaných, učiňte tak. Tento postup opakujte, dokud není možné udělat žádný tah ani v rozdaných, ani z otočených.</para>
+  <para>V tuto chvíli se dalším kliknutím na hromádku volných přesunou všechny karty z rozdaných zpět dospod hromádky volných. Karta z otočených se položí na první pozici v rozdaných a zbytek rozdaných se zaplní z volných, na každou pozici jedna karta.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>V této hře se neboduje.</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Skvělá hra na zabíjení času. Valentýnka opravdu nemá žádnou strategii, pokud strategií není hrát si místo dělání jiných, užitečnějších věcí. Jako je jít do postele.</para>
+        </sect2>
+</sect1>

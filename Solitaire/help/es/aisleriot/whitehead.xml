@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Whitehead"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Whitehead</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. Para ser construido en orden ascendente con el mismo palo desde el as hasta el rey. La carta de la cima en cada montón objetivo se considera dentro del juego.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Siete montones. Da todas las cartas boca arriba de tal modo que hay una carta en el primer montón, dos en el segundo montón, terminando con siete en el séptimo montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas del tablero se construyen descendentemente con el mismo color. Las secuencias de cartas del mismo palo se pueden mover como una unidad. Los huecos vacíos del tablero se pueden llenar con cualquier carta o grupo de cartas.</para>
+  <para>Las cartas se sacan del montón a la basura individualmente. La carta de la cima de la basura está en juego. No hay repartos.</para>
+  <para>Los montones objetivos se construyen ascendentemente desde el as hasta el rey. Las cartas colocadas en el objetivo se mantienen en juego. Pulsar dos veces en una carta la moverá al montón objetivo correspondiente, si tal movimiento es posible.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Los huecos vacíos del tablero son una comodidad apreciada en este juego. Algunas veces guardarlos hasta que los necesite es una gran idea.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Póker</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>La pila de la parte superior izquierda.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Junto al montón. La basura sólo puede contener una carta.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Rejilla de cinco por cinco. Cada hueco sólo puede contener una carta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Puntúe tantos tantos como le sea posible usando manos de póquer. Hay doce manos en el tablero: cinco filas, cinco columnas y dos diagonales. Puntúe 75 o más para que se considere una victoria.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Pulse en el montón para sacar cartas de una en una. La carta se debe colocar en algún lugar del tablero antes de que la siguiente carta salga. Una vez colocada, una carta no se puede mover.</para>
+
+          </sect2>
+        <sect2><title>Opciones</title>
+
+  <para>Modo barajado: si se selecciona, puede mover las cartas después de que se hayan colocado. Necesita al menos 120 tantos para ganar en esta modalidad.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Las manos de póquer se puntúan usando el sistema de puntuación británico, que es como sigue</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Mano</entry>
+          <entry>Descripción</entry>
+          <entry>Puntuación</entry>
+        </row>
+        <row>
+          <entry>Escalera de color</entry>
+          <entry>Todas las cartas en secuencia por palo</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Póquer</entry>
+          <entry>Contiene cuatro cartas del mismo rango</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Escalera</entry>
+          <entry>Las cartas están todas en secuencia</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full</entry>
+          <entry>Tres de un mismo rango y dos de otro</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Trío</entry>
+          <entry>Contiene tres cartas del mismo rango</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Color</entry>
+          <entry>Las cinco cartas tienen el mismo palo</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Doble pareja</entry>
+          <entry>Contiene dos conjuntos de cartas del mismo rango</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Pareja</entry>
+          <entry>Contiene dos cartas del mismo rango</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Máxima puntuación posible: 276</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Recuerde que va a ver casi la mitad del tablero y planear en concordancia. No se recomienda intentar farolear a la máquina.</para>
+        </sect2>
+</sect1>

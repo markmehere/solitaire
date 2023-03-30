@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Catifa</title>
+
+  <para>Escrit per en Vincent Povirk</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir. Es gira una carta cada vegada a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei. Els asos són suprimits abans de repartir i es col·loquen a les bases.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>La «Catifa». Es reparteixen quatre files de cinc cartes de cara amunt. Les cartes al tauler estan disponibles per a jugar. No es pot construir. Els espais buits s'omplen automàticament des de la pila de descartades si és possible o si no des de la pila principal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler estan en joc.</para>
+  <para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. No es torna a donar.</para>
+  <para>Les bases es construeixen pujant des de l'as al rei. Les cartes a les bases es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Simplement poseu tot el que podeu a la base.</para>
+        </sect2>
+</sect1>

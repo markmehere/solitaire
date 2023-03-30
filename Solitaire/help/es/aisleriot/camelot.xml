@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Todas las cartas se colocan en el montón al comienzo del juego. Las cartas se dan una a una la vuelta y se colocan en la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para cogerlo desde el montón. Sólo puede contener una carta que debe ser inmediatamente puesta en juego.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Un cuadro de cuatro por cuatro, cada casilla con capacidad para una carta. Los reyes sólo se pueden colocar en los espacios de las esquinas. Las reinas sólo se pueden colocar en los dos espacios del medio de la primero y última filas. Las jotas solo se pueden situar en los espacios centrales de la primera y última columna.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Elimina todas las cartas excepto las figuras (jotas, reinas y reyes). Gana si el tablero se muestra tal que así:</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>El tablero ganador.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>y su montón y basura están vacíos. Los palos no importan.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Hay dos fases en el juego. Alterne entre las dos fases hasta que gane o pierda. Comience con la fase uno hasta que rellene completamente el tablero. En ese punto pase a la fase dos. Note que no puede comenzar la fase dos a no ser que el tablero esté completamente lleno. En cualquier punto puede volver a la fase uno, pero recuerde que no puede volver a la fase dos a no ser que el tablero se llene de nuevo. Una excepción a esta regla ocurre si el almacén y la basura están vacías.</para>
+	<para>Fase uno; Pulse en el montón para mover una carta a la montón basura. Si la carta es un:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Rey: Colóquela en una de las cuatro esquinas vacías.</para>
+		</listitem>
+		<listitem>
+			<para>Reina: Colóquela en uno de los dos espacios del centro de las filas superior o inferior.</para>
+		</listitem>
+		<listitem>
+			<para>Jota: Colóquela en cualquier espacio vacío del centro de las columnas de la izquierda o de la derecha.</para>
+		</listitem>
+		<listitem>
+			<para>Cualquier otra carta: Colóquela en cualquier espacio vacío.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Fase dos; Elimine los dieces simplemente pulsando sobre ellos. Deshágase de pares de cartas que sumen 10 arrastrando una carta encima de la otra.</para>
+	<para>Pierde el juego si una figura no se puede poner en el hueco correspondiente o si todos los espacios se llenan sin que se pueda eliminar ninguna carta.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta eliminada puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 40</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>La más segura es la parte central. Durante la primera fase del juego, de al medio antes que a los bordes. Si ve una posible pareja ponga esa carta en el borde para tener más espacios libres en los bordes durante la segunda fase del juego.</para>
+        </sect2>
+</sect1>

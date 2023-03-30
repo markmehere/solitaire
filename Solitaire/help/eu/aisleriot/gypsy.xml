@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Ijitoak</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Sorta bikoitza</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Karta-sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak zortziko multzotan banatzen dira, mahaiko pila bakoitzean bat.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Zortzi pila goian, eskuinean. Irudiaren arabera osatu behar dira, batekotik erregera. Oinarri bakoitzaren gaineko lehenengo karta mahaira eraman daiteke berriz.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+    <entry>Zortzi pila. Hasteko, banatu bi errenkada behera begira eta errenkada bat gora begira. Koloreak txandakatuz osa daitezke mahaiko pilak. Karta-segidak mugi daitezke. Pila hutsetan edozein karta edo karta-segida jar daiteke.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Karta-segidak mugi daitezke. Mahaiko pila hutsetan edozein karta edo karta-segida jar daiteke.</para>
+  <para>Eskualdi bakoitzean, sortako karta bat mahaiko pila bakoitzera mugitzen da. Ezin da berriz banatu.</para>
+  <para>Irudien arabera gorantz osatu behar dira oinarriak, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Mahaiko karta baten gainean klik bikoitza eginez oinarri egokira mugitzen da karta hori, mugimendu hori egin badaiteke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarriko karta bakoitzeko, bost puntu. Oinarri-pila bat osatutakoan (batekotik erregera), beste 60 puntu batzen dira. Mahaian txandakako ordenan osatutako karta-bikote bakoitzeko 2 puntu lortzen dira.</para>
+  <para>Puntuaziorik altuena: 1000</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Saiatu ahal den guztietan mahaiko kartak agerian jartzen. Gogoratu oinarriko kartak jokora itzul daitezkeela.</para>
+        </sect2>
+</sect1>

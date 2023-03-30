@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Scuffle</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Toutes les cartes sauf les As sont placées ici au début du jeu. Un clic sur la pioche distribue une carte sur chaque réserve. Deux redistributions possibles.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut, à droite de la pioche. Un As est placé sur chaque fondation au début du jeu. Les fondations sont à construire en montant quelle que soit la couleur.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Quatre piles, placées sous les fondations. Chaque clic sur la pioche distribue une carte sur chaque réserve. Les cartes supérieures peuvent être jouées. Les cartes des réserves peuvent seulement être déplacées vers les fondations.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Le jeu commence en distribuant quatre cartes face visible vers les réserves. Si possible, jouez les cartes des réserves vers les fondations. Continuez ainsi jusqu'à ce qu'il n'y ait plus de cartes dans la pioche et que plus aucun déplacement vers les fondations ne soit possible.</para>
+  <para>Prenez toutes les cartes restantes sur les réserves et remélangez. Placez ces cartes à nouveau sur la pioche et redistribuez. Deux redistributions.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Essayez de garder en mémoire les cartes qui sont sous les réserves. Quand vous avez un choix à faire, c'est cette connaissance qui devrait vous aider à décider quelle carte jouer.</para>
+        </sect2>
+</sect1>

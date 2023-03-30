@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Gigante</title>
+
+  <para>Escrito por Ed Sirett</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Doble baraja</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Todas las cartas se colocan aquí después de dar en el tablero. Las cartas se reparten en una fila cada vez, en uno de los montones del tablero. Sólo hay un reparto.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Ocho montones en la parte superior derecha. Se construye ascendentemente por palo desde el as al rey. La carta de la cima de cada montón de la fundación se puede jugar de nuevo en el tablero.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Ocho montones. Se da una carta boca arriba en cada montón.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>A la derecha del tablero. Inicialmente vacío. Puede contener cualquier carta suelta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se ordenan hacia abajo alternando el color. Se pueden mover cartas individuales o grupos de cartas. Un montón vacío en el tablero se puede rellenar con cualquier carta. Existe una opción para restringir el movimiento a exclusivamente cartas del mismo palo. Consulte más abajo.</para>
+  <para>Las cartas se reparten del montón al tablero en filas completas. La reserva puede estar vacía u ocupada, según desee.</para>
+  <para>Los montones de la fundación se construyen ascendentemente por palo desde el as hasta el rey. Las cartas en la parte superior de la fundación se consideran todavía en juego. Pulsando dos veces en una carta hará que se mueva al montón adecuado de la fundación, si tal movimiento es posible. Pulsando dos veces sobre una fundación moverá automáticamente a las fundaciones tantas cartas como sea posible.</para>
+          </sect2>
+        <sect2><title>Opciones</title>
+
+  <para>Hay dos posibles modos de juego. La diferencia entre ellos es como se dan las cartas en el tablero.</para>
+  <variablelist>
+    <varlistentry><term>Mismo palo</term>
+      <listitem>
+      <para>Las cartas deben ser del mismo palo para moverlas como grupo y deben ponerse sobre una carta del mismo palo.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Colores alternantes</term>
+      <listitem>
+         <para>Para moverlas como un grupo las cartas deben estar en una secuencia de colores alternantes. La carta superior se debe mover sobre una carta de color diferente.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 104</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Evite dejar cartas bajas enterradas en el tablero. Use la reserva de forma inteligente.</para>
+        </sect2>
+</sect1>

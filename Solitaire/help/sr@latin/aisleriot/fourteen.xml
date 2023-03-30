@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Četrnaestica</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Sve karte se dele okrenute na dvanaest jednakih gomila. Prve četiri gomile imaju po pet karata, dok ostale imaju po četiri karte. Karta sa vrha svake gomile je u igri. Prazna mesta ne mogu da se popunjavaju.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte se mogu uklanjati u parovima čiji je zbir četrnaest. Asovi vrede jedan, a žandari, dame i kraljevi vrede 11, 12 i 13, respektivno.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka uklonjena karta donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pazite kuda gazite! Pokušajte da pomerate karte koje su iznad parova jer u suprotnom možete da se zaglavite.</para>
+        </sect2>
+</sect1>

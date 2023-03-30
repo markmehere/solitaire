@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Rellotge</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Es reparteixen cartes en forma de rellotge, amb un total de dotze piles amb quatre cartes cada una.</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Es col·loquen les últimes quatre cartes a la pila principal (al mig del tauler). Es gira de cara amunt la carta superior.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Mostra totes les cartes.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Moveu la carta superior al mig a la pila apropiada. El tauler té forma de rellotge i, per tant, les cartes numerades aniran on haurien d'anar a un rellotge analògic. Els asos van on hi ha els uns i les jotes i reines van on hi ha els onzes i dotzes respectivament. Per a tota aquella gent que mai ha tingut un rellotge analògic, aquest és el patró:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Forma del rellotge.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Els reis es mantenen a la pila del mig. Quan una carta es mou a una pila nova (o es manté a la mateixa pila, com és el cas del rei), la carta inferior de la pila nova es col·loca de cara amunt a la part superior de la pila del mig. Aquesta carta nova es pot jugar. Per a moure una carta a la pila apropiada, arrossegueu la carta a sobre o feu un doble clic a la pila receptora apropiada.</para>
+	<para>La partida s'acaba quan hi ha quatre reis al mig. Heu guanyat si l'objectiu s'ha aconseguit en aquest punt. Noteu que si una carta d'una pila està al seu lloc, això és correcte fins i tot si està cara avall.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta a la pila apropiada del rellotge (no conten el reis, ja que no hi ha reis en els rellotges reals) puntua un punt.</para>
+	<para>Puntuació màxima possible: 48</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Trobeu el camí per a automatitzar aquest joc. No hi ha cap decisió per prendre. Si perdeu no és culpa vostra. En contrapartida, si guanyeu, només és sort.</para>
+        </sect2>
+</sect1>

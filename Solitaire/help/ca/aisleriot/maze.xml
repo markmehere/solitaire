@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Catacumbes</title>
+
+  <para>Escrit per en Matthew Wilcox</para>
+
+          <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>48 cartes: Baralla estàndard sense els reis</entry>
+	</row>
+
+	<row>
+		<entry>Tauler</entry>
+		<entry>Cinquanta-quatre espais disposats en sis fileres i nou columnes. Es reparteixen les cartes en els espais de l'u al vuit. Es deixa l'espai nou en blanc. Es reparteixen les cartes en els espais del deu al disset. Es deixa l'espai divuit en blanc. Es reparteixen les cartes restants de forma homogènia. Llavors tots els reis són suprimits (no formaran part del joc), de manera que queden sis espais buits en total. Qualsevol carta es pot moure a un espai a l'esquerra d'una altra carta del mateix pal i un rang superior. Qualsevol carta es pot moure a un espai a la dreta d'una altra carta del mateix pal i un valor inferior. Un as es pot moure a la dreta d'una reina o a l'espai superior esquerra. Una reina es pot moure a l'esquerra d'un as o a l'espai inferior dret.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Col·loqueu cada pal de cartes en ordre ascendent, amb l'as a la cantonada superior esquerra, per a crear una seqüència de cartes: des de l'as a la reina d'un pal, des de l'as a la reina d'un altre, des de l'as a la reina del tercer i des de l'as a la reina del quart.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes es mouen individualment. Qualsevol carta es pot moure a un espai a l'esquerra d'una altra carta d'un valor superior i del mateix pal. Qualsevol carta es pot moure a un espai a la dreta d'una altra carta d'un valor inferior del mateix pal. Un as es pot moure a la dreta d'una reina o a l'espai superior esquerra. Una reina es pot moure a l'esquerra d'un as o a l'espai inferior dret.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada al costat d'una altra del mateix pal en l'ordre correcte puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Múltiples espais adjacents us permeten generar llargues seqüències de cartes. Vigileu en quedar atrapat en una situació on només podeu moure una carta de forma indefinida entre dos punts.</para>
+        </sect2>
+</sect1>

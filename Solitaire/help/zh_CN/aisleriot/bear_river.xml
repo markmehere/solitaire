@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>熊河</title>
+
+  	<para>由 Bruce 和 Joel Levin 编写</para>
+
+
+          <sect2><title>牌局</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>上面的四个空位，在第一个空位中放了一张翻开的牌。</entry>
+	</row>
+
+	<row>
+	  <entry>桌面排列区</entry>
+    	  <entry>桌面上有18垛牌，排成三行六列，所有的牌都是翻开的，可以看到牌的花色和点数。左边五列是三张一组，最右边一列是两张一组。</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+          
+          
+        <sect2><title>规则</title>
+
+  <para>在收牌区已经随机收取了一张牌，其他收牌都以这一张的点数为基准。其他三个空位也要从这个点数开始收牌，按照花色从小到大收牌。牌是循环的，Q 过了是 K，K 过了是 A，然后是2，已经收取的牌不能再放回去参与游戏。</para>
+  <para>桌面上的每一垛牌不能超过三张，最上面的牌可以移动，移到相同花色比它大一点或者小一点的牌上，K 和 A 可以相互移动。</para>
+  <para>桌面上产生的空位有两种类型：“标准”垛和“空”垛。左边五列(三张一组的)是都标准垛，移出的空位不能再放其他牌，最后一列(二张一组的)是空垛，移出的空位可以放其他任何牌。</para>
+  
+          </sect2>
+
+
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>策略</title>
+
+  <para>要尽早移出一个或多个空位。</para>
+  <para>收牌总是没坏处的，如果可以的话，尽量多收牌。</para>
+  <para>比收牌区基准牌小一点的牌很难移动，放置它们的时候要特别小心。</para>
+  <para>玩熊河游戏大约有三分之一的概率能羸。</para>
+  
+        </sect2>
+        
+        
+</sect1>

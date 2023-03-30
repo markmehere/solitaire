@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Will o' the Wisp</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Quan s'hi fa clic, es reparteix una carta a cada pila del tauler excepte a l'última repartició que es col·loca una carta a cada una de les tres primeres piles.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Set piles a la part inferior. Es reparteixen dues cartes cara avall i una carta de cara amunt a cada pila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Crear quatre piles de tretze cartes construïdes baixant per pal i en seqüència.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les piles del tauler es poden construir baixant independentment del pal. Les construccions de cartes en seqüència i del mateix pal es poden moure com una unitat. Les piles buides del tauler es poden omplir amb qualsevol carta o construcció de cartes.</para>
+  <para>S'han d'omplir totes les piles del tauler abans de cada repartició. En fer clic a la pila principal es repartirà una carta a cada pila del tauler excepte a l'última repartició que col·loca una carta a cada una de les tres primeres piles.</para>
+  <para>La seqüència de totes les tretze cartes d'un pal es pot moure a una pila base. Un cop allà, ja no es poden jugar més.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parell de cartes per pal i en seqüència puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu mantenir una pila del tauler buida sempre que sigui possibles per a crear un espai d'intercanvi per a moure les cartes.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Οχυρό</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Βάσεις</entry>
+	  <entry>Οι τέσσερις στοίβες στο κέντρο. Τα φύλλα τοποθετούνται στις βάσεις ανά φυλή και σε αύξουσα σειρά, από τον Άσσο στο Ρήγα. Τα φύλλα των βάσεων βγαίνουν από το παιχνίδι.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Πέντε στοίβες σε κάθε πλευρά των βάσεων. Σε κάθε στοίβα του ταμπλό μοιράζονται πέντε φύλλα ανοιχτά. Στις δύο στοίβες της κορυφής μοιράζεται από ένα φύλλο επιπλέον. Μπορείτε να παίζετε το πάνω φύλλο κάθε στοίβας του ταμπλό.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Μετακίνηση όλων των φύλλων στις βάσεις</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Τα φύλλα στις στοίβες του ταμπλό τοποθετούνται ανά φυλή είτε σε αύξουσα είτε σε φθίνουσα σειρά. Μόνο το πάνω φύλλο κάθε στοίβας επιτρέπεται να μετακινείται. Τυχόν κενές θέσεις μπορούν να συμπληρωθούν με οποιοδήποτε διαθέσιμο φύλλο.</para>
+  <para>Τα φύλλα τοποθετούνται στις βάσεις ανά φυλή και σε αύξουσα σειρά, από τον Άσσο στο Ρήγα. Τα φύλλα των βάσεων βγαίνουν από το παιχνίδι.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που τοποθετείται στις βάσεις αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Το κλειδί της επιτυχίας είναι να μπορέσετε να αδειάσετε κάποιες στοίβες του ταμπλό.</para>
+        </sect2>
+</sect1>

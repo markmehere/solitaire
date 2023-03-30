@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Tapis</title>
+
+  <para>Écrit par Vincent Povirk</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut à droite. À construire en montant par couleur de l'As au Roi. Les As sont enlevés avant la distribution et placés sur les fondations.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Le « Tapis » (Carpet). Quatre rangées de cinq cartes distribuées face visible. Les cartes du tableau sont disponibles pour être jouées. Il n'y a pas de construction de cartes possible. Les emplacements vides sont automatiquement remplis depuis la défausse si possible ou depuis la pioche.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les cartes du tableau sont en jeu.</para>
+  <para>Les cartes sont retournées depuis la pioche vers la défausse une à une. La carte supérieure de la défausse est en jeu. Pas de redistribution.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes dans les fondations sont toujours en jeu. Double-cliquer sur une carte la déplace dans la fondation appropriée si c'est possible.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Mettez simplement toutes les cartes que vous pouvez dans les fondations.</para>
+        </sect2>
+</sect1>

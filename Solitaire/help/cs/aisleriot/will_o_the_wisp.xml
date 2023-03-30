@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bludička</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vpravo nahoře. Když na ni kliknete, lízne se po jedné kartě na všechny hromádky v rozdaných, vyjma posledního líznutí, kdy se dostane jen na první tři hromádky.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek dole. Rozdávají se dvě karty lícem dolů a jedna lícem nahoru na každou z hromádek.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Vytvořit čtyři hromádky se třinácti kartami, každou poskládanou do sestupné postupky v barvě.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Hromádky v rozdaných můžete skládat do sestupných postupek bez ohledu na barvu. Postupky poskládané v barvě je možné přesouvat jako celek. Prázdné hromádky v rozdaných lze zaplnit libovolnou kartou nebo postupkou karet.</para>
+  <para>Před líznutím musí být obsazeny všechny hromádky v rozdaných. Kliknutím na hromádku volných se lízne po jedné kartě na každou hromádku v rozdaných, vyjma posledního líznutí, kdy se lízne jen na první tři hromádky.</para>
+  <para>Postupku všech třinácti karet je možné přesunout do seřazených. Karty v seřazených již nejsou ve hře.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý pár karet v barvě a postupce dostáváte 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Snažte se udržet hromádku v rozdaných volnou, kdykoliv je to možné, abyste měli odkládací místo pro přesuny karet.</para>
+        </sect2>
+</sect1>

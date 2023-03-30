@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Eliminátor</title>
+
+	<para>Napsal Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Podmínky</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Typ sady</entry>
+						<entry>Standardní sada karet</entry>
+					</row>
+					<row>
+						<entry>Rozdané</entry>
+						<entry>Čtyři hromádky. Rozdá se 13 karet na každou (tzn. všechny karty).</entry>
+					</row>
+					<row>
+						<entry>Seřazené</entry>
+						<entry>Čtyři až šest volných pozic, ve kterých skládáte postupky v kterémkoliv směru.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Cíl</title>
+		<para>Přesunout všechny karty do seřazených.</para>
+	</sect2>
+
+	<sect2>
+		<title>Pravidla</title>
+		<para>Jako první můžete do seřazených položit libovolnou kartu. Následně musíte skládat vzestupnou nebo sestupnou postupku (směr můžete měnit) počínaje tou první kartou, bez ohledu na barvu. Krále lze položit na eso a naopak.</para>
+	</sect2>
+
+	<sect2>
+		<title>Bodování</title>
+		<para>Každá karta přesunutá z rozdaných do seřazených je hodnocená 1 bodem.</para>
+		<para>Maximální možný počet bodů: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Strategie</title>
+		<para>Pořádně se dívejte, které karty přichází a ujistěte se, že si nezablokujete nějakou kartu, kterou budete nutně potřebovat přesunout nahoru.</para>
+	</sect2>
+</sect1>

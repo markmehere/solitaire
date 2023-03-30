@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Izabela</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Třináct hromádek. Na každou hromádku se rozdají tři karty lícem dolů a jedna karta lícem nahoru.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty je možné odebírat v párech se stejnou hodnotou. Místo každé odebrané karty se otočí lícem nahoru karta pod ní, takže se s ní může hrát. Prázdné pozice zůstávají prázdné.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý odebraný pár karet dostanete 2 body.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Každá hromádka začíná se čtyřmi kartami. Vtip je v tom, pamatovat si, kolik na každé hromádce v danou chvíli zůstává karet, abyste je mohli odebírat rovnoměrně.</para>
+        </sect2>
+</sect1>

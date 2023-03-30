@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="ca">
+	<title>Glossari</title>
+
+	<para>Nota de l'autor: Aquestes definicions només pretenen ser una guia. Vegeu les regles de cada joc ja que cada joc té el dret de tornar a definir o modificar les regles.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Carta base</term>
+			<listitem><para>La primera carta a repartir a la pila base. La resta de bases normalment s'han de començar amb una carta d'aquest rang. Vegeu: Base</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Construir alternant el color</term>
+			<listitem><para>Quan es pot construir col·locant una carta sobre una altra de color oposat. Per exemple, és correcte col·locar un diamant sobre una pica, però no ho és col·locar un diamant sobre un cor.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Construir amb qualsevol pal excepte el propi</term>
+			<listitem><para>Quan es pot construir col·locant una carta sobre una altra d'un pal diferent. Per exemple, és correcte col·locar un diamant sobre un cor, però no ho és col·locar un cor sobre un cor.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Construir per color</term>
+			<listitem><para>Quan es pot construir col·locant una carta sobre una altra del mateix color. Per exemple, és correcte col·locar un diamant sobre un cor, però no ho és col·locar un diamant sobre un trèvol.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Construir sense importar el pal</term>
+			<listitem><para>Tot és correcte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Construir per pal</term>
+			<listitem><para>Quan es pot construir col·locant una carta sobre una altra del mateix pal. Per exemple, és correcte col·locar un trèvol sobre un trèvol, però no ho és col·locar un trèvol sobre una pica.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Construir baixant</term>
+			<listitem><para>Quan es pot construir col·locant una carta de rang menor sobre una altra de rang major. Generalment això implica una diferència de només un rang entre les dues cartes. Per exemple, és correcte col·locar un 10 sobre una jota, però no ho és col·locar un 10 sobre un 9.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Construir baixant de * en *</term>
+			<listitem><para>Quan es pot construir col·locant una carta de rang menor sobre una altra de rang * major. Per exemple, si * és 2, és correcte col·locar un 10 sobre una reina, però no ho és col·locar un 10 sobre una jota.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Construir pujant</term>
+			<listitem><para>Quan es pot construir col·locant una carta de rang major sobre una altra de rang menor. Generalment això implica una diferència de només un rang entre les dues cartes. Per exemple, és correcte col·locar una reina sobre una jota, però no ho és col·locar una reina sobre un rei.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Construir pujant de * en *</term>
+			<listitem><para>Quan es pot construir col·locant una carta de rang major sobre una altra de rang * menor. Per exemple, si * és 2, és correcte col·locar un 10 sobre un 8, però no ho és col·locar un 10 sobre un 9.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Construir pujant o baixant</term>
+			<listitem><para>Quan es pot construir col·locant una carta de sobre una altra de rang major o menor. Per exemple, és correcte col·locar una jota sobre una reina, però no ho és col·locar un 10 sobre una reina.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Construir</term>
+			<listitem><para>L'habilitat de col·locar una carta (o grup de cartes) sobre una altra carta. De manera dependent al rang, podeu construir pujant, construir baixant o construir pujant/baixant de * en *. De manera dependent al pal/color, podeu construir per pal, construir per color, construir alternant el color, construir amb qualsevol pal excepte el propi o construir sense importar el pal. Noteu que en tots els jocs que es pot construir seguiran dues d'aquestes regles, una de cada llista.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Baralla</term>
+			<listitem><para>Joc de cartes utilitzat. La majora dels jocs utilitzen una Baralla estàndard, però no són estranys els jocs que utilitzen una Baralla doble, una Baralla de comodí o una Baralla despullada.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Baralla doble</term>
+			<listitem><para>Una baralla de cartes que consisteix en dues Baralles estàndard, que fan un total de 104 cartes.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Base</term>
+			<listitem><para>Si un joc té una base, normalment la partida es guanya col·locant totes les cartes a les piles base.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Baralla de comodí</term>
+			<listitem><para>Una baralla de cartes que consisteix en una Baralla estàndard i dos comodins, que fan un total de 54 cartes.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Pila</term>
+			<listitem><para>Una àrea designada on les cartes poden existir.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Rang</term>
+			<listitem><para>El valor de la carta. Les cartes numerades normalment tenen el mateix rang que el número associat. Els asos poden ser alts o baixos. Si són alts, es considera que el seu rang és 14. Si són baixos, es considera que el seu rang és 1. El rang de la J, Q i K normalment és 11, 12 i 13 respectivament. Tot i això, alguns jocs poden fer que el rang d'aquestes cartes sigui 10. En aquests casos, el rang d'un as alt pot ser 11.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Reserva</term>
+			<listitem><para>Les cartes a la reserva normalment estan disponibles per a jugar-les a qualsevol lloc. Normalment no s'hi pot construir.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Lloc</term>
+			<listitem><para>Vegeu Pila.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Baralla estàndard</term>
+			<listitem><para>Una baralla de pòquer de 52 cartes. Aquesta conté quatre pals de tretze cartes cada un. Cada pal conté un as, del 2 al 10, una jota, una reina i un rei. Aquests pals normalment són trèvols, piques, cors i diamants. Aquests pals es poden agrupar en dos colors, normalment són el negre i el vermell. Els trèvols i les piques són negres mentre que els cors i els diamants són vermells. L'AisleRiot permet utilitzar diferents baralles. En aquest cas, els colors i/o pals nous són substituïts pel nou paradigma.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Pila principal</term>
+			<listitem><para>La resta de la baralla després que s'hagin repartit totes les cartes originals, on normalment les cartes estan cara avall.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Pal</term>
+			<listitem><para>Hi ha quatres classes diferents en una Baralla estàndard. Normalment són trèvols, piques, cors i diamants.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Tauler</term>
+			<listitem><para>El camp de joc, on succeeix l'acció principal. Normalment s'hi pot construir.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Pila de descartades</term>
+			<listitem><para>Una pila de cartes de cara amunt, normalment està al costat de la Pila principal. Normalment la carta superior es pot jugar.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

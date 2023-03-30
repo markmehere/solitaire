@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Плејт</title>
+
+	<para>Написао W. Borgert</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Дупли шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>У средини трећег реда са десне стране. Дозвољена су два поновна дељења.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Четврти ред у средини са десне стране, одмах лево од гомиле.</entry>
+	</row>
+	<row>
+		<entry>„Темељ“</entry>
+		<entry>Десних осам гомила. Једна карта се већ налази тамо на почетку игре. Ово је основна карта. Сва остала поља морају да почну са овом картом.</entry>
+	</row>
+	<row>
+		<entry>Плејт</entry>
+		<entry>Средишња група карата. Почиње са 20 карата. Само карта на врху може да се помера.</entry>
+	</row>
+	<row>
+		<entry>Ивице</entry>
+		<entry>Четири места горе и доле, леви и десно од плејта. Аутоматски се допуњавају са плејта.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Осам поља лево и десно од плејта, унутар ивица. Дозвољена је само једна карта на једном месту.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Померити све карте на „темеље“.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Свих осам „темеља“ морају да започну картом исте вредности као и основна карта. На почетку можете да одлучите да ли желите да слажете на доле или на горе. Карте можете узимати са плејта на средини, од осам слободних поља лево и десно од плејта, од осам ивица око плејта или са отпада.</para>
+	<para>Игра је изгубљена ако нема карата које је могуће преместити на „темеље“, а отпад је празан.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Нема поена. Или побеђујете или губите.</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Узимајте прво карте са плејта што пре можете јер је њих тешко ослободити. Онда бирајте карте са талона јер тиме добијате привремена празна места за чување карата.</para>
+        </sect2>
+</sect1>

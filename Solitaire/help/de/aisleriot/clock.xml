@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Uhr</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Karten werden im Kreis ausgegeben, so dass es insgesamt zwölf Stapel zu vier Karten sind.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Die letzten vier Karten werden in den Talon (in der Mitte des Tisches) gelegt. Die oberste Karte wird aufgedeckt.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>So decken Sie alle Karten auf.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Legen Sie die oberste Karte in der Mitte auf den passenden Stapel. Der Spieltisch bildet die Form einer Uhr, d.h. die nummerierten Karten werden an die entsprechende Position der Ziffer auf dem Zifferblatt gelegt. Asse gehen auf die Eins, Buben auf die Elf und Damen auf die Zwölf. Für diejenigen, die kein analoges Zifferblatt kennen, ist hier das Schema:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Anordnung wie bei einer Uhr.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Könige werden in der Mitte gehalten. Wenn eine Karte auf einen neuen Stapel gelegt wird (oder im Falle des Königs auf dem gleichen Stapel verbleibt), so wird die unterste Karte des Zielstapels sichtbar zuoberst auf den mittleren Stapel abgelegt. Diese neue Karte ist nun im Spiel. Zum Legen ziehen Sie entweder die Karte auf den neuen Zielstapel oder klicken Sie zweimal auf ihn.</para>
+	<para>Das Spiel ist beendet, wenn vier Könige in der Mitte liegen. Sie haben dann gewonnen, wenn das Ziel erreicht worden ist. Beachten Sie, dass auch eine verdeckte Karte in einem Stapel an der richtigen Position gültig ist.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in einem passenden Stapel der Uhr zählt einen Punkt (außer Königen, die gibt es nicht auf Zifferblättern).</para>
+	<para>Maximal erzielbare Punkte: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Suchen Sie nach einem Weg, das Spiel zu automatisieren. Es müssen niemals Entscheidungen getroffen werden. Wenn Sie verlieren, so ist es nicht Ihre Schuld. (Im Gegensatz ist ein Sieg nur Glück!)</para>
+        </sect2>
+</sect1>

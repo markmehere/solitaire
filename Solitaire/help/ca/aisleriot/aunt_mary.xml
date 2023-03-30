@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Tia Maria</title>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es mostren una per una a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Bases</entry>
+	  <entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei. La carta superior de cada base es pot tornar a jugar al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Sis piles, es reparteix una carta de cara amunt a la primera pila. Es col·loca una carta cara avall a la resta de les piles. Es col·loca una carta cara amunt a les dues primeres piles i després una carta cara avall a les piles cobertes. Es reparteixen tres cartes de cara amunt i la resta cara avall. Es repeteix el procés revelant més cartes cada cop de forma gradual fins que hi ha sis files amb sis cartes. El tauler es pot construir baixant i alternant el color. Els grups de cartes es poden moure. Les piles buides només es poden omplir amb reis o grups de cartes que comencin amb un rei.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure. Una pila buida només es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+  <para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+  <para>Les bases es construeixen pujant des de l'as al rei. Les cartes a les bases es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>La Tia Maria és extremadament difícil i rarament es pot solucionar. El repte real no és acabar el joc, sinó veure on podeu arribar.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Bloque Diez</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Aquí se colocan todas las cartas al comienzo del juego.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Nueve montones en una formación de 3x3. Se da una carta boca arriba en cada montón del tablero.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Deshágase de las cartas uniéndolas en parejas que sumen diez. Las jotas, las reinas y los reyes se eliminan en parejas. Los dieces no se pueden eliminar. Todas los montones vacíos se llenan automáticamente desde el montón.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Eliminar una pareja de cartas puntúa dos tantos.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Este es un juego puro de azar. Aun así, cualquier estrategia utilizada tendría que mejorar su suerte.</para>
+        </sect2>
+</sect1>

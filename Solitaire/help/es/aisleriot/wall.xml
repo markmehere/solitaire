@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Wall"><!--<sect1info>
+		<copyright>
+			<year>2015</year>
+			<holder>Otto Wallenius, Markus Tuhkanen</holder>
+		</copyright>
+		<author>
+			<firstname>Otto</firstname>
+			<surname>Wallenius</surname>
+		</author>
+		<address><email>owalleni@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Muro</title>
+
+	<sect2><title>Ajustes</title>
+
+	    <informaltable>
+		    <tgroup cols="2">
+			    <tbody>
+	          <row>
+		          <entry>Tipo de baraja</entry>
+		          <entry>Baraja estándar doble</entry>
+	          </row>
+	          <row>
+		          <entry>Montón</entry>
+		          <entry>Montón del fondo a la izquierda con 39 cartas. Las cartas se sacan de tres en tres a la basura.</entry>
+	          </row>
+	          <row>
+		          <entry>Basura</entry>
+		          <entry>En la fila inferior, tres montones más a la derecha. Se tomarán cartas desde el montón de una en una.</entry>
+	          </row>
+	          <row>
+		          <entry>Tablero</entry>
+		          <entry>Muro, primera línea de guardia, úlitma línea de guardia y trono.</entry>
+	          </row>
+	          <row>
+		          <entry>Muro</entry>
+		          <entry>45 cartas en seis filas.</entry>
+	          </row>
+	          <row>
+		          <entry>Puesto de primera línea de guardia</entry>
+		          <entry>Cuatro montones de tres cartas, colocadas boca abajo inicialmente.</entry>
+	          </row>
+	          <row>
+		          <entry>Puesto de última línea de guardia</entry>
+		          <entry>Tres montones de dos cartas.</entry>
+	          </row>
+	          <row>
+		          <entry>Trono</entry>
+		          <entry>Un montón con dos reyes de picas.</entry>
+	          </row>
+			    </tbody>
+		    </tgroup>
+	    </informaltable>
+    </sect2>
+    
+    <sect2><title>Meta</title>
+        <para>Retire los dos reyes del trono.</para>
+    </sect2>
+    
+    <sect2><title>Reglas</title>
+
+	    <para>Comienza desde el fondo del muro e intentará eliminar todas las cartas que se encuentre en su camino. Puede quitar cartas atacando con cartas de la basura que se reparten de tres en tres desde el montón. Si el montón se acaba y no puede quitar a los reyes del trono con las cartas que quedan en la basura, perderá el juego.</para>
+	    <para>Las cartas de la basura utilizadas para atacar, se llaman <emphasis>cartas de ataque</emphasis>. Un ataque sobre cualquier carta de la pila ocurre si la <emphasis>salud</emphasis> de las cartas de ataque exceden de la salud de la carta atacada o del montón. La salud de una carta se computa como la suma de los valores de las cartas que lo componen como se explica más abajo. Un ataque satisfactorio elimina las cartas, tanto las atacantes como las atacadas.</para>
+	    
+	    <sect3><title>Orden de eliminar cartas</title>
+	    <para>La regla básica es eliminar cartas inmediatamente por encima y próximas al hueco vacío del tablero.</para>
+            <variablelist>
+            <varlistentry><term>Muro</term>
+              <listitem>
+                <para>Desde el principio todas las cartas en la fila inferior del muro se pueden quitar. Además, puede quitar cualquier carta si una carta que cubre su parte inferior izquierda o la esquina derecha se ha eliminado o una carta en la misma fila (horizontal) al lado de él se ha eliminado.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Puesto de primera línea de guardia</term>
+              <listitem>
+                <para>Un montón se puede quitar si una de las dos cartas inmediatamente inferior al muro se ha eliminado o si un montón próximo a él en la primera guardia se ha eliminado.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Puesto de última línea de guardia</term>
+              <listitem>
+                <para>Un montón se elimina una vez que el montón más cercano a su esquina inferior izquierda o el montón más cercano a su esquina inferior derecha en la primera guardia se ha eliminado, o un montón al lado de él en la última guardia se ha eliminado.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Trono</term>
+              <listitem>
+                <para>Se puede quitar cuando todos los montones de la última guardia estén vacíos.</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>            
+        </sect3>
+	    
+	    <sect3><title>Salud</title>
+	        <para>Para atacar cartas, la salud es la suma de los valores de las cartas.</para>
+            <para>Para la mayoría de las cartas del muro, la salud es la suma de los valores de la carta y las cartas que tocan las esquinas superiores izquierda y derecha. Para las cartas en la fila superior del muro, la salud es sólo el valor de la carta. Para las cartas en el borde izquierdo y derecho del muro, la salud es la suma de los valores de la carta, la única carta que toca su esquina superior y la carta inmediatamente superior.</para>
+            <para>Para los montones en la primera guardia, última guardia y trono, se elimina un montón entero de una vez. La salud del montón es la suma de los valores de las cartas que lo componen.</para>
+            <para>As es bajo.</para>
+	    </sect3>
+	
+	    <sect3><title>Atacando</title>
+	        <para>Puede atacar con cualquier combinación de cartas de la basura en un montón y arrastrarlas sobre la carta que atacar. Al pulsar en el tablero se producen ataques de cartas que hay actualmente en la basura sobre las cartas que estaban seleccionadas. Se pueden repartir nuevas cartas desde el montón a la basura en cualquier momento. Al repartir nuevas cartas se descartan las cartas que estaban en la basura previamente.</para>
+            <para>Los montones en la primera guardia se comportan de manera diferente de los demás. El primer ataque a cualquiera de estos montones voltea las cartas en el montón boca arriba y elimina las cartas de ataque. Si este primer ataque tiene éxito, el montón se quita de forma normal. Si el ataque falla, los ataques posteriores sobre ese montón no hacen que las cartas de ataque se eliminen.</para>
+        </sect3>
+        
+        <sect3><title>Otras reglas</title>
+            <para>Pulsar dos veces sobre una carta en el tablero es un atajo. Tiene el mismo efecto que si pulsa (ver ataque) y añade nuevas cartas para repartir desde el montón a la basura independientemente si el ataque tuvo éxito o no.</para>
+        </sect3>
+	</sect2>
+	
+    <sect2><title>Puntuación</title>
+
+	    <para>Cada ataque correcto afecta a la puntuación de la salud de las cartas atacadas o del montón.</para>
+
+	</sect2>
+    <sect2><title>Estrategia</title>
+
+	    <para>Lo mejor es desplazarse hacia arriba lo más directo posible. Intente encontrar un camino fácil a través del muro antes de inicar la marcha.</para>
+	    <para>Trate de no perder las cartas, pero haga tantos ataques como sea posible antes de repartir nuevas cartas.</para>
+	    <para>Cuando se trata de eliminar un montón de la primera guardia, a menudo es una buena idea para voltear primero las cartas atacándolos con una carta de bajo valor, y después de eso decida si debe intentar ir por ese camino o a través de otro montón de la primera guardia. Tenga en cuenta que la expectativa de salud de un montón de la primera guardia es un poco menos de 21.</para>
+    </sect2>
+</sect1>

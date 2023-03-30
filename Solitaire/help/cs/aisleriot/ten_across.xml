@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Deset křížem</title>
+
+	<para>Napsal James LewisMoss</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Dočasné</entry>
+		<entry>Pozice pro umístění po jedné kartě mimo hlavní hru. Na začátku hry jsou zaplněné. Jedna verze hry neumožňuje na tyto pozice položit nové karty po té, co jsou vyprázdněny.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Deset hromádek v dolní části. Rozdá se deset karet zleva doprava s první a poslední kartou lícem nahoru. Pokračuje se rozdáním deseti karet zprava doleva (opačně) s prvními dvěma a posledními dvěma lícem nahoru. Stejně se pokračuje i dále (vždy opačně a o jednu kartu navíc na každé straně lícem nahoru), dokud není rozdáno 50 karet. Poslední dvě karty se položí na dočasné pozice nahoru.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Poskládat v rozdaných čtyři hromádky vždy v jedné barvě, postupně od krále po eso.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Na prázdné místo v rozdaných se smí položit jen král.</para>
+	<para>Karty lze přesouvat jen na jiné karty se stejnou barvou a přesouvaná karta musí mít hodnotu o jedna nižší než ta, na kterou se přesouvá. Týká se to i celých hromádek s různými kartami, stačí když podmínku splňuje spodní karta.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+	<para>Povolit použití dočasných míst: Když je zaškrtnuto, můžete znovu použít dočasné pozice.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Vyhrajete nebo prohrajete. Neboduje se.</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Tuto hru je těžké vyhrát (hodně je to ovlivněno postavením karet na začátku). Nezapomeňte, že máte dočasné pozice. Snažte se je ale vždy rychle vyčistit, protože se vám budou hodit, když uvíznete.</para>
+        </sect2>
+</sect1>

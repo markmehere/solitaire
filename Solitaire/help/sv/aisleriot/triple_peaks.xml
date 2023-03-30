@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Triple Peaks</title>
+
+	<para>Skrivet av Richard Hoelscher</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Allt spel sker på kasthögen. De nedåtvända korten är inte någon del i poängräkningen.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Dela 18 kort med framsidan nedåt i form av tre trianglar, med tre rader i varje triangel, öka med ett kort i den första raden till tre i den sista. Förbind trianglarna genom att dela ytterligare 10 uppåtvända kort i den nedersta raden. Slutkortet i varje rad skall överlappa slutkortet i raden ovanför, och de inre korten skall överlappa två intilliggande kort i den raden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Ta bort alla kort från bordshögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Uppåtvända kort i bordshögarna är tillgängliga för spel. Bygg med kort från bordshögarna på det översta kortet i kasthögen med ett kort vars valör är omedelbart ovanför eller nedanför det, oavsett färg. Ess rangordnas både ovanför kungar och under tvåor.</para>
+	<para>Bordshögarnas kort görs tillgängliga när de inte täcks av andra kort.</para>
+	<para>Korten vänds ett åt gången från högen till toppen av kasthögen.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+	<para>Poängfaktor: Dubblering av poängen för varje kort som spelas i en svit. En svit med fem kort ger 1, 2, 4, 16, och 32 poäng, sammanlagt 55 poäng. Bonusar är värda 25 poäng. Inga poäng dras för att spela ett kort från högen till kasthögen.</para>
+	<para>Progressiva omgångar: När alla korten har tömts från bordshögarna, börjar en ny omgång. Poängen från den tidigare omgången följer med till den nya omgången.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Poängen för varje spelat kort är lika med antalet kort du har spelat sedan det sista kortet vändes från högen till kasthögen. Ju längre svit desto högre poäng.</para>
+	<para>5 poäng dras när du vänder ett kort från högen till kasthögen. Varje tömd triangel ger en 15 poängs bonus och ytterligare 15 poäng ges när alla kort har tömts från bordshögarna.</para>
+	<para>Högsta möjliga poäng för en enkel omgång: 466</para>
+        </sect2>
+</sect1>

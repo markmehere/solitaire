@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Rayuela</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>El montón de la parte superior izquierda. Todas las cartas excepto del as al cuatro de tréboles se colocan aquí al comienzo del juego. Las cartas se dan de una en una a la basura.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Justo a la derecha del montón. Sólo puede contener una carta al mismo tiempo. La carta debe colocarse inmediatamente bien en un montón de la fundación o bien en un montón de la reserva a su elección.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la parte superior, a la derecha del montón. Se coloca un as en el primer montón, un dos en el segundo montón, un tres en el tercer montón y un cuatro en el cuarto montón. El primer montón de la fundación se construye hacia arriba de uno en uno, el segundo montón se construye hacia arriba de dos en dos, el tercero de tres en tres y el cuarto de cuatro en cuatro, todos saltando del rey al as cuando se sobrepase los trece. Las cartas en la fundación no se consideran más en juego. Los palos no importan.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>Cuatro montones colocados bajo la fundación. Las cartas de la reserva sólo se pueden jugar sobre los montones de la fundación. Las cartas de la basura se pueden mover a cualquiera de los montones reserva.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mover todas las cartas al objetivo.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Construya en la fundación de uno en uno, de dos en dos, de tres en tres y de cuatro en cuatro en los montones uno, dos, tres y cuatro, respectivamente. Las cartas se dan de una en una a la basura, esta carta se debe colocar inmediatamente en uno de los montones de la fundación o en cualquiera de los cuatro montones reserva. Las cartas de los montones reserva no se pueden reordenar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta movida a la fundación puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Mejore su destreza para este juego. La suerte no le llevará lejos. No intente cubrir las cartas que pueda necesitar pronto. Considere guardar una columna sólo para reyes (ya que éstos serán las últimas cartas jugadas en cada fundación).</para>
+        </sect2>
+</sect1>

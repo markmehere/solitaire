@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Champ de boîtes</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées trois par trois vers la défausse. Redistributions illimitées.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Pile à droite de la pioche. Les cartes sont retournées ici depuis la pioche. La carte supérieure est disponible pour être jouée.</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>À gauche, sous la pioche. Treize cartes sont distribuées ici avec la carte supérieure face visible. La carte supérieure est disponible pour être jouée vers les fondations ou le tableau.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Quatre piles sous les fondations. On distribue une carte face visible sur chaque pile. Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. Les suites peuvent être déplacées.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles en haut à droite. On distribue une carte face visible sur la première fondation. Cette carte est maintenant la carte de base. À construire en montant par couleur.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les cartes du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les suites peuvent être déplacées. Une pile vide dans le tableau est remplie automatiquement depuis la réserve. Si la réserve est vide, une pile vide peut être remplie par n'importe quelle carte ou suite de cartes.</para>
+	<para>Les cartes sont retournées depuis la pioche vers la défausse trois par trois. S'il reste moins de trois cartes dans la pioche, c'est ce nombre de cartes qui est retourné, uniquement pour ce mouvement. Quand la pioche est vide, remettez toutes les cartes dans la pioche depuis la défausse, en conservant l'ordre.</para>
+	<para>Les fondations sont construites en montant par couleur à partir de la carte de base (la première carte distribuée sur la première fondation). Les nouvelles fondations commencent quand une carte de même rang que la carte de base est placée sur une fondation vide. Les As vont sur les Rois, et les 2 sur les As. Les cartes des fondations sont toujours en jeu. Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel déplacement est possible.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point. Ce jeu était souvent joué dans les casinos. Si vous réussissez à marquer 10 points, ce sera déjà un très bon score.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Un tien vaut mieux que deux tu l'auras. Ce jeu est difficile à gagner. La plupart des gens jouent avec les règles des paris en tête et essayent de marquer le plus de points possible. Dans cette optique, déplacez toujours les cartes vers les fondations dès qu'elles sont disponibles.</para>
+        </sect2>
+</sect1>

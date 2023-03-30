@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Veí</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. Es reparteix al tauler de la manera descrita a sota.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Graella cinc per cinc, cada espai pot tenir una carta. Es reparteix una carta a cada espai al començament de la partida. Els llocs buits s'omplen automàticament movent les cartes des de la dreta a l'esquerra, des de la carta més a l'esquerra de la fila inferior a l'espai més a la dreta, i des de la pila principal a qualsevol espai buit.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Suprimeix totes les cartes.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Feu clic als reis per a suprimir-los. Les altres cartes es poden suprimir per parelles que sumin tretze sempre que les dues cartes es toquin en horitzontal, en vertical o en diagonal.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+	<para>Cap</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta suprimida puntua un punt.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Primer suprimiu les cartes més altes del tauler ja que això crea més moviment a la graella.</para>
+        </sect2>
+</sect1>

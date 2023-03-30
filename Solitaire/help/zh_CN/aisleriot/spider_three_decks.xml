@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>蜘蛛纸牌(三副)</title>
+
+	<para>由 Jonathan Blandford 和 Daniel Werner 编写</para>
+
+	<sect2><title>牌局</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>三副牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的一垛牌，放置桌面上发剩下的牌，点击向每个牌垛发一张牌。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>上面的十二垛。这不是“官方规则”的一部分。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>十二垛牌。前面六垛四张扣着，一张翻开，剩下的牌垛扣3张翻开一张。排列不考虑花色，按顺序排好的一组牌可以一起移动。空位可以放任何牌或一组牌。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>目标</title>
+	<para>收牌区放十二组(每种花色三张)从 K 到 A 递减排列好的牌。</para>
+	<para>如果您想试试非常难的挑战，不把牌移到收牌区，而是在桌面上排出十二组相同顺序的牌垛。它之所以难的原因在于没有多少可用的空位。实事上，这几乎是不可能的。</para>
+	</sect2>
+
+	<sect2><title>规则</title>
+	<para>递减排列不考虑花色，排列好的牌可以一起移动，空垛可以放任何牌或一组牌。</para>
+	<para>点击发牌区会往每一垛上发一张牌。跟其他蜘蛛纸牌不同，空垛也允许发牌。</para>
+	<para>按顺序排列好的十三张牌可以移到收牌区。一旦移过去，这些牌将不能在参与游戏。</para>
+	</sect2>
+
+	<sect2><title>得分</title>
+	<para>每个排好序的牌垛，得分是：牌的数量 - 1</para>
+	<para>可能得到的最高分是：144</para>
+	</sect2>
+
+	<sect2><title>策略</title>
+	<para>如果开始您没有成功，也不必强求。只要有可能就排序，多翻开扣着的牌。</para>
+	</sect2>
+</sect1>

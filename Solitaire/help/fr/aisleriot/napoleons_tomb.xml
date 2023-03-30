@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Le tombeau de Napoléon</title>
+
+  <para>Écrit par Kimmo Karlsson</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>À côté de la pioche.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Grille de trois sur trois, toutes faces visibles.</entry>
+	</row>
+	<row>
+		<entry>Fondations</entry>
+		<entry>La pile centrale de la grille doit être construite en descendant, les piles des coins en montant. Les couleurs ne comptent pas.</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>Quatre piles dans la grille qui ne sont pas des fondations. Chaque réserve ne peut contenir qu'une seule carte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes de 6 ou plus bas sur la pile centrale, et les cartes de 7 et plus sur les piles des coins.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Cliquez sur la pioche pour retourner les cartes. Déplacez une carte à la fois vers le tableau. Une fois placée sur une fondation, une carte ne peut plus être déplacée. Chaque pile de coin est construite en montant du 7 au Roi. La pile centrale est construite en descendant du 6 à l'As. Après un As vient un autre 6, etc. Les couleurs ne comptent pas.</para>
+
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>Donnes de 3 cartes : si vous tirez trois cartes à la fois de la pioche, vous pouvez redistribuer les cartes trois fois.</para>
+  <para>Autoplay : si le jeu automatique est activé, les cartes sont automatiquement placées sur les fondations dès que possible.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Essayez de conserver de la réserve. Ce n'est pas facile de mettre Napoléon dans son tombeau, mais persévérez.</para>
+        </sect2>
+</sect1>

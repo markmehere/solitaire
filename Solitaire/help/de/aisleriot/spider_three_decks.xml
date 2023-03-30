@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Spinne mit drei Sätzen</title>
+
+	<para>Geschrieben von Jonathan Blandford, Daniel Werner</para>
+
+	<sect2><title>Spielaufbau</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Dreifacher Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Kartensatz wird hier abgelegt, nachdem auf den Spieltisch ausgelegt wurde. Durch Anklicken wird eine Karte sichtbar auf jede Ablage gelegt.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Zwölf Ablagen oben. Nicht Teil der »offiziellen Regeln«.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Zwölf Stapel. Die ersten sechs Stapel erhalten 4 verdeckte und eine sichtbare Karte, die restlichen Stapel erhalten 3 verdeckte und eine sichtbare Karte. Karten können unabhängig von ihrer Farbe absteigend aufgebaut werden. Kartenfolgen derselben Farbe können zusammen bewegt werden. Leere Stapel können mit jeglicher Karte oder bewegbaren Einheit belegt werden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Ziel des Spiels</title>
+	<para>Zwölf Kartenfolgen (drei für jede Farbe) von König bis Ass in den Fundamentstapeln haben.</para>
+	<para>Falls Sie eine besonders schwierige Herausforderung suchen, können Sie auch gewinnen, indem die zwölf Kartenfolgen auf dem Spieltisch verbleiben. Dies ist schwieriger, da weniger leere Stapel verfügbar sind. Tatsächlich ist es fast unmöglich.</para>
+	</sect2>
+
+	<sect2><title>Regeln</title>
+	<para>Absteigend aufgebaut werden kann unabhängig von der Farbe. Kartenfolgen derselben Farbe können zusammen bewegt werden. Leere Stapel können mit jeder Karte oder gültigen Kartenfolge belegt werden.</para>
+	<para>Durch Anklicken des Talons wird zu jedem Zeitpunkt eine Karte auf jeden Stapel sichtbar ausgeteilt. Anders als in anderen »Spinne«-Varianten sind leere Stapel bei Neuverteilungen erlaubt.</para>
+	<para>Eine Abfolge von 13 Karten kann auf einen Fundamentstapel verschoben werden. Sobald sich die Karten dort befinden, stehen sie nicht mehr für das Spiel zur Verfügung.</para>
+	</sect2>
+
+	<sect2><title>Punktwertung</title>
+	<para>Für jede Kartenfolge mit einheitlicher Farbe gibt es (Länge der Folge - 1) Punkte.</para>
+	<para>Maximal erzielbare Punkte: 144</para>
+	</sect2>
+
+	<sect2><title>Strategie</title>
+	<para>Werden Sie nicht süchtig, falls Sie zu Beginn nicht erfolgreich sind. Bauen Sie nach Farbe auf wo immer möglich, aber decken Sie so viele Karten auf, wie Sie können.</para>
+	</sect2>
+</sect1>

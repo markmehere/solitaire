@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terrace</title>
+
+  <para>Escrito por David Rogers</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Doble baraja</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de repartir en el tablero. Las cartas se sacan de una en una a la basura. El montón no se puede cambiar.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Once cartas repartidas cara arriba en un montón. Todas las cartas están visibles pero sólo la carta superior está en juego.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Ocho montones en el medio. Se construyen ascendentemente en secuencia alternando los colores desde la carta base.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+    	  <entry>Nueve cartas repartidas cara arriba desde la baraja una vez que la carta base está seleccionada.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas del tablero se construyen de forma descendente alternando el color. Se pueden mover grupos de cartas. Un montón vacío en el tablero se puede llenar con una carta cuyo rango sea uno menor que la carta base o con un grupo de cartas que comience con una carta de este rango.</para>
+  <para>Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Las fundaciones vacías se deben llenar con la carta base seleccionada por el jugador desde cartas aleatorias como primera jugada. Las cartas en las fundaciones no entran en juego.</para>
+  <para>Las cartas en los montones de la reserva se pueden jugar con el tablero o con la fundación.</para>
+  <para>Las cartas se voltean desde el montón a la basura individualmente tantas veces como quiera a no ser que haya espacio en el tablero. Si hay espacio en el tablero entonces sólo se puede voltear una carta del montón a la basura hasta que el tablero esté lleno o la carta superior de la basura se mueva a la fundación o al tablero. Mientras que el montón esté bloqueado aún puede mover cartas en el tablero, desde la reserva y a la fundación. Si la basura está vacía se reparte automáticamente una carta desde el montón. La carta superior de la basura está en juego. El montón no se puede cambiar.</para>
+  <para>Pulsar dos veces en una carta hará que ésta se mueva al montón correspondiente de la fundación, si tal movimiento es posible.</para>
+
+          </sect2>
+        <sect2><title>Opciones</title>
+
+  <para>Hay siete posibles modos de juego. La diferencia entre ellos está en el número de cartas en la reserva, los montones en el tablero o la selección de la carta base.</para>
+  <para>Terrace</para>
+  <para>Reserva de 11 cartas, 9 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. El jugador selecciona la carta base de una selección de cuatro cartas al inicio del juego y se reparte una carta a cada montón del tablero. El montón no se puede cambiar.</para>
+  <para>Solitario general</para>
+  <para>Reserva de 13 cartas, 9 montones en el tablero. Las fundaciones se construyen en secuencia por palo desde la carta base. El jugador selecciona la carta base de una selección de cuatro cartas al inicio del juego y se reparte una carta a cada montón del tablero. El montón se puede cambiar una vez pero se pierde el juego si no puede jugar cada nueva carta después de cambiarla.</para>
+  <para>Estrellas fugaces</para>
+  <para>Reserva de 11 cartas, 9 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Al inicio del juego se selecciona automáticamente una carta base y se reparte una carta a cada montón del tablero. El montón no se puede cambiar.</para>
+  <para>Señora</para>
+  <para>Reserva de 11 cartas, 9 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Al inicio del juego se selecciona automáticamente una carta y se reparte una carta a cada montón del tablero. Los espacios en el tablero se llenan automáticamente desde la basura o el montón si la basura está vacía. El montón no se puede cambiar.</para>
+  <para>Pelirrojas</para>
+  <para>Reserva de 21 cartas, 8 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Al inicio del juego se selecciona automáticamente una carta y se reparte una carta a cada montón del tablero. Los espacios en el tablero se llenan automáticamente desde la reserva o cualquier carta si la reserva está vacía. El montón no se puede cambiar.</para>
+  <para>Rubias y morenas</para>
+  <para>Reserva de 10 cartas, 8 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Al inicio del juego se selecciona automáticamente una carta y se reparte una carta a cada montón del tablero. El montón no se puede cambiar.</para>
+  <para>Madera</para>
+  <para>Reserva de 10 cartas, 9 montones en el tablero. Las fundaciones se construyen en secuencia alternando los colores desde la carta base. Al inicio del juego se selecciona automáticamente una carta y se reparte una carta a cada montón del tablero. El montón no se puede cambiar.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Al empezar el juego revise la reserva cuidadosamente antes de elegir su carta base, evite cartas base que están enterradas en la reserva.</para>
+  <para>Pónga atención a las secuencias inversas en el montón, reserve una fundación para quitar cada secuencia inversa.</para>
+  <para>Intente empezar. Los montones del tablero desde la última carta deben completar una fundación.</para>
+  <para>Recuerde que puede continuar volteando cartas desde el montón hasta que esté bloqueado son llenar el tablero usando las cartas superiores de la basura.</para>
+        </sect2>
+</sect1>

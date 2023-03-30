@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Scuffle</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>
+			Top left pile.  All cards except the Aces are placed
+			here at the start of play.  Clicking on the Stock will deal
+			one card to each of the four Reserve piles.  Two redeals allowed.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Fundação</entry>
+	  <entry>Quatro pilhas no topo, a direita do monte. Coloque um ás em cada fundação para o início do jogo. As pilas fundação são construídas independente do naipe.</entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>Quatro pilhas colocadas embaixo das fundação. Cada vez que o monte é clicado, uma carta será colocada em cada pilha reserva. A carta do topo está disponível para jogar. Cartas reservas podem ser movidas somente para as fundações.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>
+    Play begins by dealing four cards face up on to the Reserve.  If
+    possible, play cards on to the Foundation from the Reserve.  Continue
+    this process until no cards are left in stock and no more moves on
+    to the Foundation can be made.
+  </para>
+  <para>
+    Take all cards left over on the Reserve and reshuffle.  Place these
+    cards back to the stock for redealing.  There are two redeals.
+  </para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>
+    Each card placed on to the Foundation piles scores one point.
+  </para>
+  <para>
+    Maximum possible score:  48
+  </para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>
+    Try to keep in mind what is underneath the Reserve piles.  When
+    given a choice, it is this knowledge which should help you decide
+    which card to play.
+  </para>
+        </sect2>
+</sect1>

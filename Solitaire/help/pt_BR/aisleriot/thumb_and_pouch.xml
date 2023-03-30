@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thumb_And_Pouch"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Thumb and Pouch</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>Pilha superior esquerda. O restante do baralho é colocado aqui após distribuição para o tabuleiro. Cartas são viradas uma por vez para descarte. Duas redistribuições.</entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>A serem retiradas do monte. Carta no topo disponível para jogar.</entry>
+	</row>
+	<row>
+	  <entry>Fundação</entry>
+	  <entry>Quatro pilhas superiores direita. Forme as pilhas por naipes do ás ao rei. A carta do topo de cada fundação pode ser jogada de volta ao tabuleiro.</entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>
+	    Seven piles.  Deal card face up in first pile.  Place one
+	    card face down on all other piles.  Place one card face up
+	    on next pile followed by one card face down on all covered
+	    piles.  Repeat until there are seven cards in last pile.
+	    Tableau can be built down in any suit but own.  Groups of
+	    cards can be moved.  Empty piles can be filled by any legal
+	    sequence of cards.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>
+    Cards in the Tableau are built down by any suit but own.  Groups of
+    cards can be moved.  An empty pile in the Tableau can be filled with
+    a any legal sequence of cards.
+  </para>
+  <para>
+    Cards are flipped from the stock to the Waste individually.  Top
+    card in Waste is in play.  When Stock is empty, move all cards in
+    Waste back to the Stock, maintaining order. You can go through the
+    deck three times.
+  </para>
+  <para>Fundações são construídas por naipe de ás ao rei. Cartas nas fundações ainda estão em jogo. Clique duplo numa carta irá movê-la para a pilha fase apropriada se tal movimento for válido.</para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>Você ganha um ponto por cada carta nas pilhas de fundação.</para>
+  <para>Máxima pontuação possível: 52</para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>
+    Brute force may not always work, but in this case it probably will.
+  </para>
+        </sect2>
+</sect1>

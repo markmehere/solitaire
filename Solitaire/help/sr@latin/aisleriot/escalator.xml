@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pokretne Stepenice</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon. Karte se, jedna po jedna okreću na otpad. Nema ponovnih deljenja</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Uzima se sa gomile.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Deli se otvorenih sedam redova koji se preklapaju, tako da je u prvom redu jedna karta, a u svakom sledećem po jedna karta više dok se na kraju ne dobije piramida.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte na otpad.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>U igri su sve neprekrivene karte sa piramide. Od ovih dostupnih karata treba slagati otpad, kad god je moguće, tako što se pomera karta čija je vrednost za jedan manja ili za jedan veća od karte na vrhu otpada. Asovi mogu da idu i na kraljeve i na dvojke.</para>
+  <para>Karte se, jedna po jedna okreću sa gomile na otpad. Nema ponovnih deljenja.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta koja se ukloni sa talona donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 28</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Planirajte unapred tako da kasnije imate dobre karta na raspolaganju.</para>
+        </sect2>
+</sect1>

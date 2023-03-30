@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Saratoga">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Saratoga</title>
+
+  <para>Écrit par Alan Horkan, basé sur le travail de Jonathan Blandford</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Deux redistributions.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondations</entry>
+	  <entry>Quatre piles en haut à droite. À construire en montant par couleur de l'As au Roi. La carte supérieure de chaque fondation peut être rejouée sur le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Sept piles. On place une carte face visible sur toutes les piles. Puis une sur toutes les piles sauf la première. Ainsi de suite en distribuant sur une pile de moins à chaque fois jusqu'à ce qu'il y ait sept cartes dans la septième pile. Saratoga est en grande partie comme Klondike, sauf que toutes les cartes sont face visible au début. Avoir la possibilité de voir toutes les cartes réduit l'élément de risque et rend Saratoga légèrement plus facile que Klondike. Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. Les groupes de cartes peuvent être déplacés. Les piles vides peuvent seulement être remplies par des Rois ou des suites commençant par un Roi.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les groupes de cartes peuvent être déplacés. Une pile vide du tableau peut seulement être remplie par un Roi ou une suite commençant par un Roi.</para>
+  <para>Les cartes sont retournées depuis la pioche vers la défausse une par une. La carte du sommet de la défausse peut être jouée. Quand la pioche est vide, toutes les cartes de la défausse sont remises sur la pioche, en gardant l'ordre des cartes. Il y a deux redistributions.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes dans les fondations sont toujours en jeu. Double-cliquer sur une carte la déplace dans la fondation appropriée si c'est possible.</para>
+
+<!-- TODO 
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>N'abandonnez pas le vaisseau ! Essayez des méthodes un peu bestiales quand la partie semble perdue. Parfois, une combinaison utilisant les cartes des fondations et un réarrangement des suites libère certaines cartes nécessaires.</para>
+        </sect2>
+</sect1>

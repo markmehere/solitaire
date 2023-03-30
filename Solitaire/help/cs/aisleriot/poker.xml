@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Poker</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Vedle volných. V otočených muže být vždy jen jedna karta.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Mřížka pět krát pět. Na každé pozici může být jen jedna karta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Získat co nejvíce bodů pomocí pokerových kombinací v ruce. Máte dvanáct fiktivních rukou – 5 řádků, 5 sloupců a 2 úhlopříčky. Získání 75 a více bodů je považováno za výhru.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Kliknutím na hromádku s volnými se lízne jedna karta. Musíte ji položit někam do rozdaných a pak můžete líznout další. Jednou položenou kartu již nelze přesunout.</para>
+
+          </sect2>
+        <sect2><title>Volby</title>
+
+  <para>Režim míchání: Když je vybrán, můžete karty přesouvat po té, co je nějak položíte. K výhře v tomto režimu potřebujete nejméně 120 bodů.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Pro hodnocení kombinací karet se používá britský bodovací systém, který je následující:</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Karty</entry>
+          <entry>Popis</entry>
+          <entry>Bodování</entry>
+        </row>
+        <row>
+          <entry>Čistá postupka</entry>
+          <entry>Karty tvoří postupku a mají stejnou barvu</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Čtveřice</entry>
+          <entry>Obsahuje čtyři karty stejné hodnoty</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Postupka</entry>
+          <entry>Karty tvoří postupku</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full House</entry>
+          <entry>Tři karty jedné hodnoty a dvě druhé hodnoty</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Trojice</entry>
+          <entry>Obsahuje tři karty stejné hodnoty</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Flush</entry>
+          <entry>Všech pět karet má stejnou barvu</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Dva páry</entry>
+          <entry>Obsahuje dva páry karet, v každém páru se stejnou hodnotou</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Jeden pár</entry>
+          <entry>Obsahuje dvě karty stejné hodnoty</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Maximální možný počet bodů: 276</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Pamatujte, že uvidíte téměř polovinu karet a podle toho plánujte. Pokoušet se blafovat vůči počítači není doporučovaná strategie.</para>
+        </sect2>
+</sect1>

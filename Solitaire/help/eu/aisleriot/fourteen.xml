@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Hamalau</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Banatu karta guztiak uniformeki hamabi pilatan, gora begira. Lehenengo lau pilek bosna karta izango dituzte, eta besteek launa. Piletan agerian dauden kartak jokorako prest daude. Pila hutsak ezin dira bete.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak kentzea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Hamalau batzen duten karta pareak ken daitezke. Batekoek bat balio dute eta txankek, erreginek eta erregeek 11, 12 eta 13, hurrenez hurren.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Kendutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Kontuz ibili! Karta baten azpian karta horren bikotea badago, saiatu gainekoa kentzen, bestela ez atzera ez aurrera gera zaitezke eta.</para>
+        </sect2>
+</sect1>

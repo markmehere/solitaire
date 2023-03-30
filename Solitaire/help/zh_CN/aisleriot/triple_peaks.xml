@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>三重峰</title>
+
+	<para>Richard Hoelscher 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>所有的移动都在废牌区，扣着的牌不属于当前得分的一部分。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>发18张扣着的牌，把它们排列成三个三角形，每个三角形三行，每行多一张牌，直到第三行是三张牌，再在底下发一行10张牌把三个三角形连起来，两端的牌都压着上面的两端的牌，中间的压着上面两张牌。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把桌面上所有的牌移除。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上没被压着的牌可用于游戏，比废牌区最上面的牌大一点数和小一点数的牌，都可以移过去，不考虑花色，A 排在 K 的上面，排在2的下面。</para>
+	<para>桌面上没有被压着的牌可以参与游戏。</para>
+	<para>发牌区每次往废牌区发一张牌。</para>
+
+	        </sect2>
+        <sect2><title>选项</title>
+
+	<para>积分翻倍：连续的牌得分加倍，五张连续的得分是：1、2、4、16和32，最高可得55分，额外奖励25分，从发牌区往废牌区发牌不扣分。</para>
+	<para>本回合积分累积到下一回合：桌面上所有牌清空后，开始新的一轮，积分将会接着上一轮的。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每张牌的得分是上次发牌后增加的数量，牌序越长得分越高。</para>
+	<para>发牌区往废牌区发牌会扣5分，每消除一个山峰将会奖励15分，桌面上所有的山峰都清除还会额外奖励15分。</para>
+	<para>每轮可能得到的最高分是：466</para>
+        </sect2>
+</sect1>

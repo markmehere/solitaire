@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Džambo</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Dupli špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se, jedna po jedna, okreću na otpad. Dozvoljeno je jedno ponovno deljenje.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Odmah desno od gomile. Karte koje se dele sa gomile jedna po jedna. Karta na vrhu je u igri.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Osam gomila gore desno. Slažu se po znaku, od asa do kralja. Karta na vrhu svakog „temelja“ se može vraćati na talon.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Devet gomila. Deli se po jedna zatvorenu kartu na svih devet gomila, zatim po jedna na prvih osam, zatim po jedna na prvih sedam itd., sve dok na prvoj gomili ne bude devet karata. Karta sa vrha svih gomila se okreće.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu na dole po naizmeničnim bojama. Grupe karata se mogu pomerati. Prazno mesta na talonu se može popuniti kraljem ili grupom karata koja počinje kraljem.</para>
+  <para>Karte se, jedna po jedna, okreću sa gomile na otpad. Karta na vrhu otpada je u igri. Kada se gomila isprazni, sve karte sa otpada se vraćaju nazad u istom redosledu karata. Postoji jedno ponovno deljenje.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Karte na „temelju“ su i dalje u igri. Duplim klikom na kartu će ona biti premeštena na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+  <para>Najveći mogući broj poena: 104</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

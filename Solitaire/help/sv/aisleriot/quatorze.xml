@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Quatorze</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Tomma platser i bordshögarna fylls omedelbart med kort från Högen.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Ett fem gånger fem stort rutnät, där varje plats kan innehålla ett kort. Ett kort delas ut till varje plats i spelets början. Tomma platser fylls på från högen. När högen är slut, fylls tomma platser genom att flytta kort från höger till vänster, från kortet längst till vänster i raden under till den längst till höger i raden ovanför, vilket lämnar alla tomma platser i slutet.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort kan tas bort i par där summan blir fjorton (där knektar är 11, damer 12 och kungar 13) och är i samma rad eller kolumn.</para>
+  <para>Tomma platser fylls automatiskt på från högen. När högen är tömd flyttas kort till höger om den tomma platsen automatiskt åt vänster för att fylla platsen, och tomma platser längst till höger fylls av korten i kolumnen längst till vänster i raden under.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje par som tas bort ger två poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ofta finns det bara ett drag i mitten av detta spel. Genomför det. När högen väl är tömd, blir det mycket mer rörelse i bordshögarna.</para>
+        </sect2>
+</sect1>

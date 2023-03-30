@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="es">
+	<title>Glosario</title>
+
+	<para>Nota del autor: Estas definiciones sólo pretenden ser una guía. Consulte las reglas de cada juego individual ya que cada juego tiene la libertad de redefinir o modificar las reglas para hacerlo entretenido.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Carta base</term>
+			<listitem><para>La primera carta dada a un montón de la fundación. El resto de montones de la fundación suelen tener que empezar con una carta del mismo rango. Ver: Fundación</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Construir alternando el color</term>
+			<listitem><para>Cuando se permite construir colocando una carta encima de otra del color contrario al de la primera. Ejemplo: Colocar un diamante encima de una pica es correcto, pero colocar un diamante encima de un corazón no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Construir por cualquier palo menos el propio</term>
+			<listitem><para>Cuando se permite colocar una carta encima de otra de un palo distinto al de la primera. Ejemplo: Colocar un diamante sobre un corazón es correcto, pero situar un corazón sobre un corazón no.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Construir por color</term>
+			<listitem><para>Cuando se permite colocar una carta encima de otra del mismo color. Ejemplo: Colocar un diamante sobre un corazón es correcto, pero colocar un diamante sobre un trébol no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Construir sin importar el palo</term>
+			<listitem><para>Todo vale.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Construir por palo</term>
+			<listitem><para>Cuando se permite colocar una carta encima de otra del mismo palo. Ejemplo: Colocar una pica encima de otra pica es correcto, pero colocar una pica encima de un trébol no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Construir descendentemente</term>
+			<listitem><para>Cuando se permite colocar una carta de menor rango encima de otra de mayor rango. Generalmente implica una diferencia de rango entre las cartas de uno. Ejemplo: Colocar un 10 sobre una jota es correcto, pero colocar un 10 sobre un 9 no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Construir descendentemente por *</term>
+			<listitem><para>Cuando se permite colocar una carta de menor rango sobre otra carta de rango * mayor. Ejemplo: Si * es 2, colocar un 10 sobre una reina es correcto, pero colocar un 10 sobre una jota no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Construir ascendentemente</term>
+			<listitem><para>Cuando se permite colocar una carta de mayor rango sobre otra de menor rango. Generalmente esto implica que la diferencia entre las cartas sea la unidad. Ejemplo: Colocar una reina sobre una jota es correcto, pero colocar una reina sobre un rey no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Construir ascendentemente por *</term>
+			<listitem><para>Cuando se permite colocar una carta de rango superior encima de otra de rango * menor. Ejemplo: Si * es dos, colocar un 10 encima de 8 es correcto, pero colocar 10 encima de 9 no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Construir ascendente o descendentemente</term>
+			<listitem><para>Cuando se permite colocar una carta encima de otra que sea uno mayor o uno menor que la primera. Ejemplo: Colocar una jota encima de una reina o encima de un 10 es correcto, pero colocar un 10 encima de una reina no lo es.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Construir</term>
+			<listitem><para>La habilidad de colocar una carta (o grupo de cartas) encima de otra carta. En lo que concierne al rango, se puede construir ascendentemente, descendentemente, o ascendente/descendentemente por *. En relación al color se puede construir por palo, por color, alternando el color, por cualquier palo menos el propio o sin importar el palo. Nótese que todos los juegos en los que se construye seguirán dos de estas normas, una de cada lista.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Baraja</term>
+			<listitem><para>Conjunto de cartas usado. La mayoría de los juegos usan una baraja estándar pero los juegos que usan una baraja doble, una baraja con comodín o una baraja desnuda no son raros.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Doble baraja</term>
+			<listitem><para>Una baraja de cartas consistente en dos barajas estándar sumando un total de 104 cartas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Objetivo</term>
+			<listitem><para>Si un juego tiene una fundación, dicho juego generalmente se gana colocando todas las cartas en los montones de la fundación.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Baraja con comodín</term>
+			<listitem><para>Una baraja de cartas consistente en una baraja estánadar y dos comodines adicionales sumando un total de 54 cartas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Montón</term>
+			<listitem><para>Un área designada donde se pueden colocar cartas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Rango</term>
+			<listitem><para>El valor de una carta. Las cartas numeradas tienen generalmente el rango del número asociado. Los ases pueden ser más altos o más bajos. Si son altos se considera que valen 14. Si son bajos, se considera que valen 1. La jota (J), la reina (Q) y el rey (K) suelen valer 11, 12 y 13, respectivamente. Sin embargo, en algunos juegos pueden valer 10. En tal caso, un as alto vale 11.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Reserva</term>
+			<listitem><para>Las cartas de la reserva se suelen disponer para jugar en cualquier sitio. Generalmente no se puede construir en ella.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Hueco</term>
+			<listitem><para>Ver Montón.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Baraja estándar</term>
+			<listitem><para>Una baraja de póker de 52 cartas. Hay cuatro palos de 13 cartas cada uno. Cada palo contiene un as, del 2 al 10, una jota (J), una reina (Q) y un rey (K). Estos palos son generalmente Tréboles, Picas, Corazones y Diamantes. Estos palos se pueden agrupar en dos colores, generalmente negro y rojo. Los Tréboles y las Picas son negros mientras que los Corazones y los Diamantes son rojos. AisleRiot permite la posibilidad de usar diferentes barajas. En este caso, los nuevos colores y/o palos se sustituyen dentro de este paradigma.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Montón</term>
+			<listitem><para>Es el resto de la baraja después de que todas las cartas originales hayan sido dadas. Generalmente se coloca boca abajo.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Palo</term>
+			<listitem><para>Cuatro clases diferentes dentro de una baraja estándar. Generalmente Tréboles, Picas, Corazones y Diamantes.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Tablero</term>
+			<listitem><para>El campo de juego, donde transcurre principalmente la acción. Generalmente, se permite construir.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Basura</term>
+			<listitem><para>Un montón de cartas boca arriba, generalmente cercana al montón. La carta de la cima normalmente está en juego.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

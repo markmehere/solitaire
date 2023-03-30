@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Pevnost</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky uprostřed. Musíte na nich poskládat postupky v barvě, od esa po krále. Karty v seřazených jsou již mimo hru.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Pět hromádek po obou stranách vedle hromádek seřazených. Na každou z těchto hromádek se rozdá pět karet lícem nahoru a na horní dvě hromádky pak o jednu kartu více. Hrát můžete libovolnou vrchní kartou v rozdaných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Všechny karty přesunout do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do vzestupných nebo sestupných postupek v barvě. Jen vrchní karta v každé z hromádek je k dispozici do hry. Na volné pozice je možné položit libovolnou kartu.</para>
+  <para>Seřazené se skládají do postupek v barvě, od esa po krále. Karty v seřazených se již neúčastní hry.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Ochraňujte si prázdné pozice v rozdaných, které můžete vytvořit. Jsou klíčem k úspěšné hře.</para>
+        </sect2>
+</sect1>

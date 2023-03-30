@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hamilton">  <!--<sect1info>
+    <copyright>
+      <year>2014</year>
+      <holder>Timothy Goodwin</holder>
+    </copyright>
+    <author>
+      <firstname>Timothy</firstname>
+      <surname>Goodwin</surname></author>
+    <address><email>toby@flare.email</email></address>
+  </sect1info>-->
+
+  <title>Hamilton</title>
+
+  <para>Geschrieben von Timothy Goodwin</para>
+
+  <sect2><title>Spielaufbau</title>
+
+    <informaltable>
+      <tgroup cols="2">
+        <tbody>
+          <row>
+            <entry>Art des Kartensatzes</entry>
+            <entry>Standard-Kartensatz</entry>
+          </row>
+          <row>
+            <entry>Talon</entry>
+            <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Die ersten drei Karten können einzeln nacheinander auf das Auswahlfeld umgedreht werden. Nachdem eine Startkarte ausgewählt wurde, wird beim Anklicken des Talon auf jeden Stapel des Spieltisches eine Karte sichtbar ausgegeben.</entry>
+          </row>
+          <row>
+            <entry>Auswahlfeld</entry>
+            <entry>Oben links, neben dem Talon. Während die Startkarte ausgewählt wird, wird durch Anklicken des Talon die oberste Karte sichtbar auf das Auswahlfeld gelegt. Die Karte im Auswahlfeld darf auf einem Fundamentstapel gezogen werden. Falls der Talon erneut angeklickt wird, wird sie verdeckt als unterste Karte zurück in den Talon gelegt, und die nächste Karte wird auf das Auswahlfeld gelegt.</entry>
+          </row>
+          <row>
+            <entry>Fundamentstapel</entry>
+            <entry>Vier Ablagen oben rechts. Sie werden nach Farbe aufgebaut, beginnend mit der Startkarte bis hin zum König, dann vom Ass bis zur Karte, deren Wert eins weniger als die Startkarte ist.</entry>
+          </row>
+          <row>
+            <entry>Kartenreihe</entry>
+            <entry>Sieben Stapel. Pro Stapel eine Karte sichtbar ausgeben. Die zweite Reihe beim zweiten Stapel starten und jeweils eine Karte pro Stapel (außer dem ersten) sichtbar ausgeben. Wiederholen, bis der letzte Stapel sieben Karten enthält. Der Spieltisch kann in Farbgruppen aufgebaut werden. Kartengruppen in Reihenfolge und derselben Farbe können bewegt werden. Leere Ablagen können mit jeder Karte oder Kartenfolgen mit einheitlicher Farbe belegt werden.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+
+  </sect2>
+
+  <sect2><title>Ziel des Spiels</title>
+    <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+  </sect2>
+
+  <sect2><title>Regeln</title>
+    <para>Um ein Spiel zu starten, wird eine Karte vom Talon auf das Auswahlfeld umgedreht. Diese Karte kann auf einem Fundamentstapel gelegt werden und ist diesem Fall die Startkarte für dieses Spiel. Andernfalls wird die Karte auf dem Auswahlfeld verdeckt zurück als unterste Karte in den Talon gelegt, und die nächste Karte wird vom Talon auf das Auswahlfeld umgedreht. Wird keine der ersten drei Karten gewählt, ist das Spiel vorbei. Durch Doppelklick auf das Auswahlfeld wird die Karte auf einen Fundamentstapel gelegt.</para>
+    <para>Karten im Spieltisch werden absteigend nach Farbgruppe aufgebaut. Ein König kann auf ein Ass gelegt werden (außer das Ass ist die Startkarte). Kartengruppen derselben Farbe können bewegt werden. Leere Ablagen auf dem Spieltisch können mit jeder Karte oder Kartenfolgen mit einheitlicher Farbe belegt werden.</para>
+    <para>Fundamentstapel werden aufsteigend von der Startkarte zum König, dann Ass, Zwei und so weiter bis eins weniger als die Startkarte aufgebaut. Ist zum Beispiel die Startkarte Sieben, werden die Fundamentstapel von Sieben bis König, Ass bis Sechs aufgebaut. Karten in Fundamentstapeln befinden sich noch im Spiel.</para>
+    <para>Eine Kartengruppe, die in Reihenfolge ist und eine einheitliche Farbe besitzt, können in einem einzigen Zug auf einen Fundamentstapel bewegt werden. Durch Doppelklick auf einen Stapel auf dem Spieltisch werden alle möglichen Karten dieses Stapels auf den Fundamentstapel bewegt.</para>
+  </sect2>
+
+  <sect2><title>Punktwertung</title>
+    <para>Jede entfernte Karte erzielt einen Punkt.</para>
+    <para>Maximal erzielbare Punkte: 52</para>
+  </sect2>
+
+  <sect2><title>Strategie</title>
+    <para>Wählen Sie weise. Falls Sie nicht alle sichtbaren Karten der Startkarte auf die Fundamentstapel legen können, werden Sie vermutlich nicht gewinnen. Eine leere Ablage auf dem Spieltisch ist von unschätzbarem Wert.</para>
+  </sect2>
+
+  <sect2><title>Widmung</title>
+    <para>Dieses Spiel ist meinem Vater gewidmet und nach ihm benannt: Geoffrey Hamilton Goodwin (geb. 1937). Er lehrte mich viele Patience- (oder Solitär-)spiele; wir beide halten Hamilton für das interessanteste Spiel mit einem Kartensatz.</para>
+  </sect2>
+
+  <sect2><title>Referenzen</title>
+    <para>Dieses Spiel wird unter dem Namen <emphasis>Agnes</emphasis> beschrieben im Buch <emphasis>Games of Patience</emphasis> von <emphasis>Basil Dalton</emphasis>, London 1924.</para>
+  </sect2>
+</sect1>

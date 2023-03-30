@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Zalaparta</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Batekoak ez beste karta guztiak hemen egongo dira jokoaren hasieran. Sortaren gainean klik eginez, karta bana joaten da lau biltegietara. Beste bi aldiz bana daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian, sortaren eskuinean. Jokoa hasteko, ipini bateko bana oinarri bakoitzean. Oinarri-pilak irudia kontuan hartu gabe osatu behar dira gorantz.</entry>
+	</row>
+	<row>
+	  <entry>Biltegiak</entry>
+	  <entry>Lau pila oinarrien azpian. Sortaren gainean klik egiten den bakoitzean, karta bana jartzen da biltegi-piletan. Goiko karta jokoan erabiltzeko prest dago. Biltegiko kartak oinarrietara bakarrik mugi daitezke.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Lau karta banatu behar dira gora begira biltegian, jokoa hasteko. Ahal bada, eraman biltegiko kartak oinarrira. Horrela jarraitu, biltegia kartarik gabe gelditu arte eta oinarrira beste kartarik eraman ezinik gelditu arte.</para>
+  <para>Biltegian geratu diren karta guztiak hartu eta nahasi. Karta horiek berriz sortara eraman eta berriro banatzeko. Bi aldiz egin daiteke hori.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletan kokatutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Saiatu gogoan hartzen biltegi-piletan zer dagoen. Horrek lagunduko dizu gero zein karta mugitu behar duzun erabakitzen.</para>
+        </sect2>
+</sect1>

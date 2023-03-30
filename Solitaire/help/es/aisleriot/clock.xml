@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Reloj</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Se dan las cartas según la forma de un reloj, con un total de doce montones con cuatro cartas cada uno.</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Coloque las cuatro últimas cartas del montón (en el centro del tablero). Muestre la cara de la cima.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mostrar todas las cartas.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Mueva la carta de la cima del medio al montón apropiado. El tablero tiene forma de reloj y, por tanto, las cartas numeradas van donde irían en un reloj analógico. Los ases van donde están los unos, las jotas y las reinas van donde van los onces y doces, respectivamente. Para toda la gente que nunca ha tenido un reloj analógico, éste es el patrón:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Disposición del reloj.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Los reyes permanecen en el montón del medio. Cuando una carta se mueve a un montón nuevo (o permanece en el misma montón, como es el caso del rey), la carta del fondo del montón se coloca boca arriba en la cima del montón del medio. Esta nueva carta está disponible para jugarla. Para mover una carta al montón correspondiente, bien arrastre la carta encima o bien pulse dos veces sobre el montón destino.</para>
+	<para>El juego termina cuando hay cuatro reyes en el medio. En este punto, ha ganado si el objetivo se ha cumplido. Dése cuenta que si una carta en un montón está en el sitio correcto, está bien situada incluso si está boca abajo.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta en el montón correspondiente del reloj (sin contar los reyes, ya que no hay reyes en un reloj real) puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Encuentre el modo de automatizar este juego. No hay decisiones hechas. Si pierde no es culpa suya. (Por el contrario, si gana, ¡es sólo suerte!)</para>
+        </sect2>
+</sect1>

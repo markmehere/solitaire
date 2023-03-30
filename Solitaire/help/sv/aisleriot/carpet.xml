@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Matta</title>
+
+  <para>Skrivet av Vincent Povirk</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kortleken placeras här efter given. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger. Byggs upp i färg från ess till kung. Essen tas bort innan given och placeras på grundhögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>”Mattan”. Fyra rader med fem kort läggs med framsidan upp. Kort i bordshögarna är tillgängliga för spel. Det sker inget byggande. Tomma platser fylls på automatiskt från kasthögen eller högen om det är möjligt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Korten på bordshögarna är i spel.</para>
+  <para>Korten vänds från högen till kasthögen ett i taget. Översta kortet i kasthögen är i spel. Inga omgivar.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Flytta alla kort du kan till grundhögarna.</para>
+        </sect2>
+</sect1>

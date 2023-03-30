@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Eskorpioia</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Azken hiru kartak hemen jartzen dira eskualdia banatutakoan.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Zazpi pila sortaren eskuinean. * Lehen lau errenkadetan jarri karta bana behera begira. Azken hiru errenkadetan jarri karta bat gora begira. Egin *tik aurrerakoa beste bi aldiz, hiru errenkada banatu arte. Pila bakoitzean jarri karta bana gora begira beste lau errenkada osatzeko.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Hamahiru kartako lau pila osatzea, pila bakoitzak irudi bateko karta guztiak segidan antolatuta dituela.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko piletako kartak beherantz osatu dira, irudiaren arabera. Segida kontuan hartu gabe mugi daitezke karta multzoak. Mahaiko pila hutsetan erregeak edo azpi-azpian erregea duen karta multzoak jar daitezke.</para>
+	<para>Edozein unetan sortan klik egin eta azken hiru kartak banatzen dira lehen hiru piletan, bakoitzean bana.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Irudiaren arabera osatutako segida bakoitzeko, puntuak = segidaren luzera - 1. Hamahiruko segida bat osatzen den guztietan, dagokion pilan badago, beste lau puntu ematen dira. Behera begira zegoen karta batera iristean hiru puntu jasotzen dira.</para>
+	<para>Puntuaziorik altuena: 100</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Korapiloak askatzea ez da erraza izaten. Saiatu zure burua irteerarik gabe ez uzten.</para>
+        </sect2>
+</sect1>

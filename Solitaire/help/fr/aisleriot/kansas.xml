@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kansas"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kansas</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles en haut à droite. On distribue une carte sur la première fondation. Les autres fondations doivent être commencées avec une carte de même rang. Les quatre piles sont à construire en montant par couleur.</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>Pile sous la pioche. On distribue douze cartes ici au début du jeu. La carte supérieure est disponible pour être jouée vers le tableau ou les fondations.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Trois piles en bas à droite. On distribue une carte sur chaque pile au début du jeu. Les piles peuvent être construites en descendant quelle que soit la couleur. Les piles vides sont automatiquement remplies depuis les réserves. Une fois que les réserves sont vides, vous pouvez remplir les piles vides du tableau depuis la défausse comme vous le souhaitez.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau sont construites en descendant quelle que soit la couleur. Les suites peuvent être déplacées. Une pile vide du tableau est automatiquement remplie depuis la réserve. Une fois que la réserve est vide, vous pouvez remplir les piles vides du tableau depuis la défausse comme vous le souhaitez.</para>
+	<para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte supérieure de la défausse est disponible pour être jouée. Pas de redistribution.</para>
+	<para>Les fondations sont à construire en montant par couleur à partir de la carte de base. Les nouvelles fondations sont commencées quand une carte de même rang que la carte de base est placée sur une fondation vide. Les As suivent les Rois et précèdent les Deux. Les cartes des fondations ne sont plus en jeu. Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel mouvement est possible.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Quand une carte est enterrée dans la défausse, c'est difficile de la récupérer. Essayez de déplacer autant de cartes que possible de la défausse vers le tableau.</para>
+        </sect2>
+</sect1>

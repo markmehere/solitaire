@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Reyerta</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Al comienzo del juego se colocan aquí todas las cartas excepto los ases. Al pulsar en el montón hará que se de una carta a cada uno de los cuatro montones de la reserva. Se permiten dos repartos.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro pilas en la parte superior, a la derecha del montón. Se coloca un as en cada montón objetivo para comenzar el juego. Los montones objetivo son construidas hacia arriba sin importar el palo.</entry>
+	</row>
+	<row>
+	  <entry>Reservas</entry>
+	  <entry>Cuatro pilas se colocan debajo del objetivo. Cada vez que se pulsa el montón, una carta será colocada en cada montón de reserva. La carta de la cima está disponible para jugar. Las cartas de la reserva solo se pueden mover a los montones objetivo.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>El juego comienza repartiendo cuatro cartas boca arriba en la reserva. Si es posible, lleve las cartas desde la reserva a la fundación. Continúe con este proceso hasta que no queden cartas en el montón y no haya más movimientos hacia la fundación.</para>
+  <para>Tome todas las cartas que quedan en la reserva y baraje de nuevo. Coloque estas cartas de nuevo en el montón para repartir. Hay dos repartos.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Intente recordar lo que estaba bajo los montones de la reserva. Cuando tome una decisión, éste conocimiento le debería ayudar a elegir qué carta jugar.</para>
+        </sect2>
+</sect1>

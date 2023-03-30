@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="zh-CN">
+	<title>术语表</title>
+
+	<para>作者自注：这些定义只是起指导作用，请参阅游戏本身的规则，因为每个游戏都可以重新定义或修改规则，以使游戏更具趣味性。</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>基准牌</term>
+			<listitem><para>收牌区的第一张牌，其他位置也必须从这一张的点数开始收牌。参看：收牌区</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>不同花色交替排列</term>
+			<listitem><para>只允许在一张牌上面放相反颜色的牌，比如：在黑桃上放方块可以，但是红桃上不能放方块。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>只能放别的花色</term>
+			<listitem><para>只允许放跟自己不同花色的牌，比如：方块放在红桃上可以，但是红桃不能放在红桃上。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>按颜色排列</term>
+			<listitem><para>只允许按相同颜色排列，比如：方块放在红桃上可以，但是方块不能放在梅花上。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>不考虑花色</term>
+			<listitem><para>所有花色的都可以放。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>按花色排列</term>
+			<listitem><para>只允许按相同花色排列，比如：黑桃放在黑桃上可以，但是黑桃不能放在梅花上。</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>递减顺序</term>
+			<listitem><para>只允许小牌在上，通常是小一个点数，比如：10可以放在 J 的上面，但是10不能放在9的上面。</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>按 * 递减顺序</term>
+			<listitem><para>按照低 * 的要求递减顺序排列，比如：如果 * 是2，那么10可以放在 Q 的上面 ，但是不能放在 J 的上面。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>递增顺序</term>
+			<listitem><para>只允许大牌在上，通常是大一个点数，比如：Q 可以放在 J 的上面，但是 Q 不能放在 K 的上面。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>按 * 递增顺序</term>
+			<listitem><para>按照高 * 的要求递增顺序排列，比如：如果 * 是2，那么10可以放在8的上面 ，但是不能放在9的上面。</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>递增或递减</term>
+			<listitem><para>大一点和小一点的牌都可以放在上面，比如：J 在 Q 和10的上面都可以，但是10不能放在 Q 的上面。</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>排列</term>
+			<listitem><para>通过思考，把一张牌(或一组牌)移到另一张牌上，排列顺序可以是递增、递减，或者按 * 递增/减，按照花色/颜色要求，可以是按花色、按颜色、交替颜色、除了自己之外的花色，或者是不考虑花色。注意所有的游戏都遵守这两个规则，在里面各选一个。</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>牌</term>
+			<listitem><para>使用的牌，绝大多数游戏使用标准纸牌，也有用两副牌的，带王的牌，或者是不常见的去掉一些的牌。</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>两副牌</term>
+			<listitem><para>牌面用两副标准牌，总共有104张。</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>收牌区</term>
+			<listitem><para>如果游戏有一个收牌区，通常是把所有牌移到收牌区就羸了。</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>带王的牌</term>
+			<listitem><para>牌面包括标准牌和两个王，总共54张牌。</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>牌垛</term>
+			<listitem><para>一个特别的放牌位置。</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>等级</term>
+			<listitem><para>牌的点数，通常每个牌都有一个数，A 可以是最大或者最小，如果最大就是14，如果最小就是1，J、Q 和 K 通常是11、12和13。但是一些游戏以10为等级，这时候，A 就是11。</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>废牌区</term>
+			<listitem><para>保留区的牌通常可以放在游戏任何地方，通常它里面是不能排序的。</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>空位</term>
+			<listitem><para>参看牌垛。</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>标准牌</term>
+			<listitem><para>52张牌的一副牌，有四种花色各十三张牌，每种花色包括 A、2一直到10、J、Q、K，花色一般是梅花、黑桃、红桃和方块，它们可以按两种颜色排序，通常是红和黑，红桃和方块是红色，梅花和黑桃是黑色。纸牌王允许使用不同的牌面，这样一来，新的颜色和花色可以加进来。</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>发牌区</term>
+			<listitem><para>桌面排列区发牌以后，所剩余的牌，通常是扣着的。</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>花色</term>
+			<listitem><para>标准牌中四种不同的类型，通常是梅花、黑桃、红桃和方块。</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>桌面排列区</term>
+			<listitem><para>游戏的区域，主要的移动操作，通常是可以排序。</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>废牌区</term>
+			<listitem><para>牌翻开后放置位置，通常来自发牌区，最上面的牌可参与游戏。</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

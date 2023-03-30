@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Les Voleurs</title>
+
+  <para>Écrit par Robert Brady</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet Joker</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Sept piles de cinq cartes, face visible.</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers la défausse.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>La défausse est à construire en montant ou descendant à partir des cartes du tableau. Les jokers sont libres et peuvent être joués sur n'importe quoi et on peut jouer n'importe quoi sur eux.</para>
+  <para>À n'importe quel moment, une carte peut être retournée de la pioche vers la défausse.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Le tableau ci-dessous montre les points que vous recevez pour chaque type de carte. Pas de point pour les jokers.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Carte</entry>
+          <entry>Points</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>As</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Valet, reine</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Roi</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Comme vous pouvez voir toutes les cartes du tableau, essayez d'enlever les cartes dans un ordre qui vous permettra de faire les suites les plus longues possibles, car vous avez un nombre limité de cartes dans la pioche.</para>
+        </sect2>
+</sect1>

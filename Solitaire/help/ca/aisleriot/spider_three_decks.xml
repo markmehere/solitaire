@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Aranya de tres baralles</title>
+
+	<para>Escrit per en Jonathan Blandford i en Daniel Werner</para>
+
+	<sect2><title>Configuració</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla triple</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La baralla es col·loca aquí després de repartir al tauler. En fer clic es repartirà una carta de cara amunt a cada pila.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Dotze piles a la part superior. No són part de les «regles oficials».</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Dotze piles. A les primeres sis piles es reparteixen 4 cartes cara avall i una carta de cara amunt, mentre que a la resta de piles es reparteixen 3 cartes cara avall i una carta de cara amunt. Les cartes es poden construir baixant independentment del pal. Les seqüències de cartes del mateix pal es poden moure com una unitat. Les piles buides es poden omplir amb qualsevol carta o unitat movible.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Objectiu</title>
+	<para>Aconseguir dotze seqüències de cartes (tres de cada pal) a la base que baixin des del rei a l'as.</para>
+	<para>Si voleu un repte extremadament difícil, també podeu guanyar formant les dotze seqüències al tauler. Això és més difícil perquè hi ha menys piles buides disponibles. De fet, és pràcticament impossible.</para>
+	</sect2>
+
+	<sect2><title>Regles</title>
+	<para>Construïu baixant independentment del pal. Les seqüències de cartes del mateix pal es poden moure com una unitat. Les piles buides es poden omplir amb qualsevol carta o seqüència legal.</para>
+	<para>En fer clic en qualsevol moment a la pila principal es repartirà una carta cara amunt a cada pila. A diferència d'altres variants de l'aranya, es permet que hi hagi piles buides durant les reparticions.</para>
+	<para>Una seqüència de tretze cartes es pot moure a la pila base. Un cop allà, aquestes cartes no es poden jugar més.</para>
+	</sect2>
+
+	<sect2><title>Puntuació</title>
+	<para>Per cada seqüència per pal, els punts que s'aconsegueixen són (longitud de la seqüència - 1).</para>
+	<para>Puntuació màxima possible: 144</para>
+	</sect2>
+
+	<sect2><title>Estratègia</title>
+	<para>Si no teniu èxit al començament, no us hi tornareu addicte. Construïu per pal sempre que sigui possible, però mostreu tantes cartes com pugueu.</para>
+	</sect2>
+</sect1>

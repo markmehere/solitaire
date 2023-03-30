@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Escorpión</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. Las últimas tres cartas se colocan aquí después de dar.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Siete montones a la derecha del montón. * Se da una carta boca abajo a cada una de las primeras cuatro filas. Se da una carta boca arriba a cada una de las últimas tres filas. Repetir * dos veces más, dando a un total de tres filas. Se da una carta boca arriba a cada montón durante cuatro filas más.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Crea cuatro montones de trece cartas cada uno, cada montón formado por un palo en orden de rango.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas del tablero se construyen descendentemente por palo. Se pueden mover grupos de cartas sin importar que sean o no secuencia. Un montón vacío del tablero se puede llenar con un rey o grupo de cartas con un rey en el fondo.</para>
+	<para>En cualquier momento, pulsar en el montón hará que que se den las últimas tres cartas, una en cada uno de los tres primeros montones.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Para cualquier secuencia de un mismo palo, la puntuación conseguida es (longitud de la secuencia menos 1). Cada vez que se crea una secuencia de trece cartas y está en el montón adecuado, consigue cuatro puntos adicionales como recompensa. Conseguir una carta que estaba boca abajo se recompensa con tres puntos.</para>
+	<para>Máxima puntuación posible: 100</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Desatar nudos no siempre es fácil. Evite hacerse un lío del que no pueda salir.</para>
+        </sect2>
+</sect1>

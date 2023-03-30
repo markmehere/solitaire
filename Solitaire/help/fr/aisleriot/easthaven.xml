@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>L'asile de l'est</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut à droite. À construire par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Sept piles en bas. On distribue deux cartes face cachée et une carte face visible sur chaque pile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Enlever toutes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les suites peuvent être déplacées comme une unité. Les piles vides du tableau peuvent être remplies par les Rois ou les suites commençant par un Roi.</para>
+  <para>Une pile vide du tableau doit être remplie si possible avant de distribuer d'autres cartes. Cliquer sur la pioche distribue une carte face visible sur chaque pile du tableau. La dernière distribution place une carte face visible sur les trois premières piles. Pas de redistribution.</para>
+  <para>Les fondations sont à construire par couleur de l'As au Roi. Les cartes des fondations ne sont plus en jeu.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Déplacez les cartes vers les fondations tant que vous le pouvez, car la prochaine distribution risque de les bloquer. Cependant, comme les cartes des fondations ne sont plus en jeu, vous pouvez être bloqué plus tard, en ayant besoin de cette carte. Avec un peu de chance, cette difficulté sera la plus grande que vous affronterez aujourd'hui.</para>
+        </sect2>
+</sect1>

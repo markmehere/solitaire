@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Dubbletter</title>
+  <para>Skrivet av Rosanna Yuen</para>
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kortleken placeras här efter given. Korten vänds ett i taget till Kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Direkt till höger om högen. Tas från högen. Översta kortet är tillgängligt för spel.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Sju högar på högra sidan som utgör en bågform (ett upp-och-nedvänt U). Placera ett kort med framsidan upp på varje hög. Om en kung läggs ut under den här given, ta bort den och placera den i botten av kortleken. Lägg ett annat kort i denna hög. Varje reservhög kan bara innehålla ett kort. När en reservhög är tom, fylls den automatiskt från kasthögen eller om den är tom från högen. Om en kung placeras i en av reservhögarna när första given är över är denna hög fryst eftersom kungar inte kan flyttas.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>En hög i mitten på den nedersta raden av reservhögarna. Byggs upp från det ursprungliga kortet genom att fördubbla oavsett färg.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort kan flyttas till grundhögen om de är två gånger värdet av det översta kortet i grundhögen. Knektar och damer är elva respektive tolv. Om det dubblerade numret överstiger tretton, dra ifrån tretton för att finna nästa kort. Serien går:</para>
+  <para>Ess, 2, 4, 8, 3, 6, dam, knekt, 9, 5, 10, 7, upprepa...</para>
+  <para>Korten vänds från högen till kasthögen ett i taget. Hanteringsordningen när högen är tom är att flytta alla korten i kasthögen tillbaka till högen. Du kan gå igenom kortleken tre gånger.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Utan en kung kan du inte ha döda kungen. Undvik dem.</para>
+        </sect2>
+</sect1>

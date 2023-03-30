@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Ond</title>
+
+  <para>Skrivet av Zach Keene</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Då alla återstående korten alltid delas ut till bordshögarna, kommer den alltid att vara tom. Obegränsade omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>Högarna längst upp till höger; essen placeras från spelstart. Bygg upp i färg från ess till kung.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Upp till tretton högar, dela fyra kort i taget tills högen är slut. Bordshögarna kan byggas ner i färg.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Grundhögarna byggs upp i färg och bordshögarna byggs ner i färg. Om inga drag är möjliga (eller om du bara känner för det), klicka på den tomma kortplatsen uppe till vänster för en omgiv.</para>
+  <para>Omgivar genomförs genom att placera bordshögarna ovanpå varandra i ordning med början från den sista högen. Kortleken vänds sedan helt enkelt för en omgiv, fyra kort i taget, tillbaka till bordshögarna. Om inga drag görs, kommer omgiven inte ändra arrangemanget av korten. Därför är spelet förlorat om inga drag är möjliga omedelbart efter en omgiv.</para>
+  <para>Obs: ett degenererat fall inträffar vid en omgiv där den sista bordshögen bara innehåller ett kort och det enda möjliga draget är från den sista bordshögen som den var före omgiven. Att göra detta drag med en omgiv resulterar bara i det ursprungliga kort-arrangemanget. AisleRiot kommer att avsluta spelet om denna situation upptäcks.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Om det går att bygga på flera av bordshögarna, välj att bygga på den med högsta valör först.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Odessa</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la part esquerra. Per a construir pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Set piles. Es reparteixen tres files cara avall seguides de tres files cara amunt. Llavors es reparteixen dues files més cara amunt a les cinc piles del mig.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant per pal. Els grups de cartes es poden moure independentment de la seqüència. Els grups de cartes en seqüència es poden moure a una pila base apropiada i receptiva. Una pila buida al tauler només es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+	<para>Les bases es construeixen pujant per pal des de l'as al rei. Les cartes a les bases no es poden jugar.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+	<para>Cap</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Quan el joc s'ha repartit, qualsevol seqüència de cartes que baixi per pal és premiada amb un punt per carta. Cada moviment dins del tauler serà premiat amb un punt per cada carta a la seqüència nova. També es premia amb un punt per cada carta col·locada a la base.</para>
+	<para>Puntuació màxima possible: 412</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Com més aguanteu, més aconseguireu. Intenteu mantenir les cartes fora de les bases tant com sigui possible. Com més llargues les seqüències, més punts obtindreu.</para>
+        </sect2>
+</sect1>

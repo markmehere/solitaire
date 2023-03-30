@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="https://www.freedesktop.org/standards/appdata/1.0" type="desktop">
+  <id>sol.desktop</id>
+  <metadata_license>GPL-3.0+ or GFDL-1.3-only</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Aisleriot Solitaire</name>
+  <name xml:lang="as">Aisleriot Solitaire</name>
+  <name xml:lang="be">Пасьянс Aisleriot</name>
+  <name xml:lang="bg">Пасианси</name>
+  <name xml:lang="bs">Aisleriot Solitaire</name>
+  <name xml:lang="ca">Solitari Aisleriot</name>
+  <name xml:lang="ca@valencia">Solitari Aisleriot</name>
+  <name xml:lang="cs">Solitér Aisleriot</name>
+  <name xml:lang="da">Kabale</name>
+  <name xml:lang="de">AisleRiot Solitaire</name>
+  <name xml:lang="el">Πασιέντζα Aisleriot</name>
+  <name xml:lang="en_GB">Aisleriot Solitaire</name>
+  <name xml:lang="eo">Aisleriot ermitludo</name>
+  <name xml:lang="es">Solitario Aisleriot</name>
+  <name xml:lang="eu">AisleRiot bakar-jokoa</name>
+  <name xml:lang="fi">Aisleriot-pasianssi</name>
+  <name xml:lang="fr">Solitaire Aisleriot</name>
+  <name xml:lang="fur">Solitari Aisleriot</name>
+  <name xml:lang="gl">Solitario AisleRiot</name>
+  <name xml:lang="hr">Aisleriot pasijans</name>
+  <name xml:lang="hu">Aisleriot pasziánsz</name>
+  <name xml:lang="id">Aisleriot Solitaire</name>
+  <name xml:lang="is">AisleRiot kapall</name>
+  <name xml:lang="it">Solitario Aisleriot</name>
+  <name xml:lang="ja">Aisleriot ソリティア</name>
+  <name xml:lang="ko">아일라이어트 솔리테어</name>
+  <name xml:lang="lt">AisleRiot pasjansas</name>
+  <name xml:lang="lv">Aisleriot Solitaire</name>
+  <name xml:lang="nb">Aisleriot Solitaire</name>
+  <name xml:lang="ne">एस्लेरिओट सोलिटेइर</name>
+  <name xml:lang="nl">Aisleriot patience</name>
+  <name xml:lang="oc">Solitari Aisleriot</name>
+  <name xml:lang="pl">Pasjans AisleRiot</name>
+  <name xml:lang="pt">Solitário Aisleriot</name>
+  <name xml:lang="pt_BR">Paciência Aisleriot</name>
+  <name xml:lang="ro">Solitaire Aisleriot</name>
+  <name xml:lang="ru">Пасьянс Айслериот</name>
+  <name xml:lang="sk">Solitér Aisleriot</name>
+  <name xml:lang="sl">Pasjansa AisleRiot</name>
+  <name xml:lang="sr">Пасијанс</name>
+  <name xml:lang="sr@latin">Pasijans</name>
+  <name xml:lang="sv">Aisleriot-patiens</name>
+  <name xml:lang="tr">Aisleriot İskambil Falı</name>
+  <name xml:lang="uk">Пасьянс Айслеріот</name>
+  <name xml:lang="zh_CN">AisleRiot 纸牌游戏</name>
+  <name xml:lang="zh_HK">Aisleriot 接龍遊戲</name>
+  <name xml:lang="zh_TW">Aisleriot 接龍遊戲</name>
+  <summary>Play many different solitaire games</summary>
+  <summary xml:lang="af">Speel baie verskillende soorte patience</summary>
+  <summary xml:lang="ar">إلعب ألعاب صولتار عديدةً مختلفة</summary>
+  <summary xml:lang="as">বিভিন্ন ধৰণৰ solitaire খেলক</summary>
+  <summary xml:lang="ast">Xugar a dellos xuegos de solitariu</summary>
+  <summary xml:lang="az">Birdən çox fərqli solitaire oyununu oynayın</summary>
+  <summary xml:lang="be">Разнастайныя гульні ў пасьянс</summary>
+  <summary xml:lang="bg">Игра с голям набор от пасианси</summary>
+  <summary xml:lang="bn">বিভিন্ন ধরনের সলিটেয়ার খেলুন</summary>
+  <summary xml:lang="bn_IN">বিভিন্ন ধরনের সলিটেয়ার খেলুন</summary>
+  <summary xml:lang="bs">Igrajte više različitih igara pasijansa</summary>
+  <summary xml:lang="ca">Jugueu a molts jocs de solitari diferents</summary>
+  <summary xml:lang="ca@valencia">Jugueu a molts jocs de solitari diferents</summary>
+  <summary xml:lang="cs">Zahrajte si plno různých solitérových her</summary>
+  <summary xml:lang="cy">Chwarae nifer o gemau amynedd gwahanol</summary>
+  <summary xml:lang="da">Spil mange forskellige kortspil</summary>
+  <summary xml:lang="de">Viele verschiedene Solitaire-Spiele spielen</summary>
+  <summary xml:lang="dz">སོ་ལི་ཊེར་རྩེདམོ་མ་འདྲཝ་ ལེ་ཤ་རྩེ།</summary>
+  <summary xml:lang="el">Παίξτε πολλά διαφορετικά παιχνίδια πασιέντζας</summary>
+  <summary xml:lang="en@shaw">𐑐𐑤𐑱 𐑥𐑧𐑯𐑦 𐑛𐑦𐑓𐑼𐑩𐑯𐑑 𐑕𐑪𐑤𐑦𐑑𐑺 𐑜𐑱𐑥𐑟</summary>
+  <summary xml:lang="en_CA">Play many different solitaire games</summary>
+  <summary xml:lang="en_GB">Play many different solitaire games</summary>
+  <summary xml:lang="eo">Ludu plurajn diversajn ermitludojn</summary>
+  <summary xml:lang="es">Juegue a diferentes solitarios</summary>
+  <summary xml:lang="et">Palju erinevaid kaardiladumismänge</summary>
+  <summary xml:lang="eu">Jolastu hainbat bakar-joko</summary>
+  <summary xml:lang="fa">بازی‌های مختلف یک نفره بازی کنید</summary>
+  <summary xml:lang="fi">Pelaa monia erilaisia pasiansseja</summary>
+  <summary xml:lang="fr">Jouer à plusieurs jeux de solitaire différents</summary>
+  <summary xml:lang="fur">Zuie a diviers gjenars di solitaris</summary>
+  <summary xml:lang="ga">Imir neart cluichí aonair difriúla</summary>
+  <summary xml:lang="gl">Xogar a moitos solitarios diferentes</summary>
+  <summary xml:lang="gu">ઘણી બધી અલગ સોલિટૅર રમત રમો</summary>
+  <summary xml:lang="he">משחק בהרבה משחקי סוליטייר שונים</summary>
+  <summary xml:lang="hi">भिन्न प्रकार के सॉलिटेयर खेल खेलें</summary>
+  <summary xml:lang="hr">Igraj više različitih varijanti pasijansa</summary>
+  <summary xml:lang="hu">Sok különféle pasziánszjáték</summary>
+  <summary xml:lang="id">Mainkan bermacam permainan solitaire yang berbeda</summary>
+  <summary xml:lang="is">Spila marga ólíka kapla</summary>
+  <summary xml:lang="it">Gioca differenti tipi di solitari</summary>
+  <summary xml:lang="ja">いろいろなソリティアゲームを楽しんでください</summary>
+  <summary xml:lang="km">លេង​ល្បែង solitaire ខុស​ៗ​គ្នា​ជាច្រើន</summary>
+  <summary xml:lang="kn">ಅನೇಕ ಬಗೆಯ ಸಾಲಿಟೇರ್ ಆಟವನ್ನು ಆಡು</summary>
+  <summary xml:lang="ko">여러가지 솔리테어 게임을 플레이합니다</summary>
+  <summary xml:lang="lt">Žaisti įvairius pasjansų žaidimus</summary>
+  <summary xml:lang="lv">Spēlē daudz dažādas solitaire spēles</summary>
+  <summary xml:lang="mai">भिन्न प्रकार क' सॉलिटेयर खेल खेलू</summary>
+  <summary xml:lang="mk">Играјте различни игри со карти</summary>
+  <summary xml:lang="ml">പലതരം സോളിറ്റെയര്‍ കളികള്‍ കളിക്കുക</summary>
+  <summary xml:lang="mn">Өөр олон хөзрийн тоглоомууд тоглох</summary>
+  <summary xml:lang="mr">अनेक वेगवेगळे सॉलिटेयर खेळ खेळा</summary>
+  <summary xml:lang="ms">Main pelbagai jenis permainan solitaire</summary>
+  <summary xml:lang="nb">Spill mange forskjellige solitaire-spill</summary>
+  <summary xml:lang="ne">विभिन्न सोलिटेइर खेल खेल्नुहोस्</summary>
+  <summary xml:lang="nl">Speel veel verschillende soorten patiencespellen</summary>
+  <summary xml:lang="nn">Spel mange ulike kabalar</summary>
+  <summary xml:lang="oc">Jogar a mantun jòc de solitari diferents</summary>
+  <summary xml:lang="or">ଅନେକ ଭିନ୍ନ ଭିନ୍ନ ସଲିଟେଯାର ଖେଳ ଗୁଡିକୁ ଖେଳ</summary>
+  <summary xml:lang="pa">ਕਈ ਹੋਰ ਸੋਲੀਟਾਇਰ ਖੇਡ ਖੇਡੋ</summary>
+  <summary xml:lang="pl">Zbiór różnych pasjansów</summary>
+  <summary xml:lang="pt">Jogue muitos jogos solitários diferentes</summary>
+  <summary xml:lang="pt_BR">Jogue muitos jogos diferentes de paciência</summary>
+  <summary xml:lang="ro">Joacă multe alte jocuri solitaire</summary>
+  <summary xml:lang="ru">Позволяет играть во множество различных пасьянсов</summary>
+  <summary xml:lang="sk">Množstvo kartových hier pre jedného hráča</summary>
+  <summary xml:lang="sl">Igrajte več različnih iger pasjanse</summary>
+  <summary xml:lang="sq">Lojra të shumta solitaire</summary>
+  <summary xml:lang="sr">Играјте различите варијанте пасијанса</summary>
+  <summary xml:lang="sr@latin">Igrajte različite varijante pasijansa</summary>
+  <summary xml:lang="sv">Spela många olika patiensspel</summary>
+  <summary xml:lang="ta">பல வித சாலிடேர் விளையாட்டை விளையாடு</summary>
+  <summary xml:lang="te">రకరకాలైన సాల్టైర్ ఆటలను ఆడుము</summary>
+  <summary xml:lang="th">เล่นเกมถอดไพ่สารพัดแบบ</summary>
+  <summary xml:lang="tr">Farkli iskambil falı oyunlarını oynayın</summary>
+  <summary xml:lang="ug">نۇرغۇن ئوخشىمايدىغان solitaire ئويۇننى ئويناش</summary>
+  <summary xml:lang="uk">Дозволяє грати у багато різних пасьянсів</summary>
+  <summary xml:lang="vi">Chơi nhiều trò chơi solitaire khác nhau</summary>
+  <summary xml:lang="xh">Dlala imidlalo emininzi eyahlukeneyo ye-solitaire</summary>
+  <summary xml:lang="zh_CN">玩各种纸牌游戏</summary>
+  <summary xml:lang="zh_HK">玩不同類型的接龍遊戲</summary>
+  <summary xml:lang="zh_TW">玩不同類型的接龍遊戲</summary>
+  <description>
+    <p>Aisleriot — also known as sol or solitaire — is a card game application that features over 80 different solitaire-type card games which are designed to play using a mouse, keyboard, or trackpad.</p>
+    <p xml:lang="as">Aisleriot — sol অথবা solitaire নামৰেও জনাজাত — এটা তাচ পাতৰ খেল এপ্লিকেচন যি ৮০ ৰ অধিক বিভিন্ন solitaire-ধৰণ তাচ খেলসমূহ অন্তৰ্ভুক্ত কৰে যিসমূহ এটা মাউছ, কিবৰ্ড, অথবা ট্ৰেকপেড ব্যৱহাৰ কৰি খেলিবলে ৰূপাঙ্কিত।</p>
+    <p xml:lang="be">Aisleriot, таксама вядомы як саліцёр ці пасьянс, - гэта праграма-картачная гульня, якая падтрымлівае больш за 80 варыянтаў пасьянсу. У яе можна гуляць з дапамогай мышы, клавіятуры ці чулай панэлі.</p>
+    <p xml:lang="bg">„Пасианси“ е набор от над 80 различни игри с карти за сам играч. Може да играете с мишка, клавиатура или сензорния панел.</p>
+    <p xml:lang="bs">Aisleriot — poznat i kao sol ili solitier — je igra s kartama koja pruža preko 80 raznih pasijansa za igru mišem, tastaturom ili trakpedom.</p>
+    <p xml:lang="ca">L'Aisleriot - també conegut com a sol o solitari - és una aplicació de jocs de cartes que conté fins a 80 tipus diferents de jocs de cartes semblants al solitari que estan pensats per ser jugats amb un ratolí, teclat o ratolí tàctil.</p>
+    <p xml:lang="ca@valencia">L'Aisleriot - també conegut com a sol o solitari - és una aplicació de jocs de cartes que conté fins a 80 tipus diferents de jocs de cartes semblants al solitari que estan pensats per ser jugats amb un ratolí, teclat o ratolí tàctil.</p>
+    <p xml:lang="cs">Aisleriot, také známý jako Solitér, je karetní hra, která zahrnuje více než 80 různých karetních her pro jednoho hráče. Je navržena pro hraní myší, klavesnicí a touchpadem.</p>
+    <p xml:lang="da">Aisleriot — også kendt som sol, solitaire eller kabale — er et kortspilsprogram som tilbyder over 80 forskellige kabaler, dvs. kortspil for en enkelt spiller, som er designet til at blive spillet med mus, tastatur eller pegeplade.</p>
+    <p xml:lang="de">Aisleriot – auch bekannt als »Sol« oder «Solitaire« – ist ein Kartenspielprogramm, das mehr als 80 verschiedene Varianten des »Solitaire« Spiels zu bieten hat. Man kann sie mit mit allen Eingabegeräten spielen.</p>
+    <p xml:lang="el">Aisleriot — γνωστό και ως sol ή πασιέντζα — είναι ένα παιχνίδι με χαρτιά με περισσότερους από 80 διαφορετικούς τύπους πασιέντζας, σχεδιασμένο για να παίξετε χρησιμοποιώντας το ποντίκι, το πληκτρολόγιο ή την πινακίδα αφής.</p>
+    <p xml:lang="en_GB">Aisleriot — also known as sol or solitaire — is a card game application that features over 80 different solitaire-type card games which are designed to play using a mouse, keyboard, or trackpad.</p>
+    <p xml:lang="eo">Aisleriot — ankaŭ konita kiel ermitludo — estas kartluda aplikaĵo kun pli ol 80 diversaj ermitludaj kartudoj, desegnitaj por ludi per muso, klavaro, aŭ tuŝplato.</p>
+    <p xml:lang="es">Aisleriot (también conocido como sol o slitario) es una aplicación de juego de cartas que incluye 80 tipos de solitarios diferentes, diseñados para jugar con el ratón, el teclado o un «trackpad».</p>
+    <p xml:lang="eu">Aisleriot — bakar-jokoa bezala ere ezaguna — 80 bakar-joko mota desberdin baino gehiago eskaintzen dituen karta-jokoen aplikazio bat da sagua, teklatua edo eta trackpad-a erabiliz jokatzeko.</p>
+    <p xml:lang="fi">Aisleriot - tunnetaan myös nimellä sol, solitaire tai pasianssi - on korttipelisovellus, jolla voi pelata yli 80:tä eri pasianssityyppistä peliä hiirtä, näppäimistöä tai kosketuslevyä käyttäen.</p>
+    <p xml:lang="fr">Aisleriot — aussi connu sous le nom de sol ou solitaire — est un logiciel de jeu de cartes comportant plus de 80 jeux de cartes de type solitaire conçus pour être joués avec une souris, un clavier ou un pavé tactile.</p>
+    <p xml:lang="fur">Aisleriot — cognossût ancje come solitari — al è un zûc di cjartis cun plui di 80 diviers zûcs di solitaris, pensâts par jessi zuiâts cun mouse, tastiere o trackpad.</p>
+    <p xml:lang="gl">Aisleriot — tamén coñecido como sol ou solitario — é un aplicativo de xogo de cartas que conta con 80 xogos de cartas tipo solitario diferentes os cales están deseñados para xogar usando un rato, teclado ou área táctil.</p>
+    <p xml:lang="hr">Aisleriot — još poznat kao i pasijans — je aplikacija kartaške igra koja pruža preko 80 različitih izvedenica pasijans kartaških igra koje su dizajnirane za igranje pomoću miša, tipkovnice ili dodirne površine.</p>
+    <p xml:lang="hu">Az Aisleriot - ismert még pasziánszként is - egy kártyajáték alkalmazás, amely több mint 80 különböző pasziánsz típusú kártyajátékot tartalmaz, amelyek egér, billentyűzet vagy érintőtábla használatával történő játékhoz lettek tervezve.</p>
+    <p xml:lang="id">Aisleriot — juga dikenal sebagai sol atau solitaire — adalah aplikasi permainan kartu yang memiliki lebih dari 80 permainan kartu bertipe solitaire yang dirancang untuk dimainkan memakai tetikus, papan tik, atau trackpad.</p>
+    <p xml:lang="is">Aisleriot — einnig þekkt sem sol eða solitaire — er spilaforrit sem inniheldur yfir 80 spilakapla, sem hægt er að leggja með því að nota músina, lyklaborð eða snertiplatta.</p>
+    <p xml:lang="it">Aisleriot, noto anche come solitario, è un gioco di carte con oltre 80 diversi giochi di solitari pensati per essere giocati con mouse, tastiera o trackpad.</p>
+    <p xml:lang="ko">아일라이어트(솔리테어)는 80가지의 솔리테어 형식의 카드 게임이 들어 있는 카드 게임 프로그램입니다. 마우스, 키보드, 트랙패드를 사용해 즐길 수 있습니다.</p>
+    <p xml:lang="lt">Aisleriot — dar žinomas kaip soliteris — yra kortų žaidimo programa su 80 skirtingų soliterio tipo kortų žaidimų, skirtų žaisti pele, klaviatūra ar jutikliniu kilimėliu.</p>
+    <p xml:lang="lv">Aisleriot — zināms arī kā sol vai pasjans — ir kāršu spēļu lietotne, kura ir vairāk kā 80 dažādu pasjansa veida kāršu spēles, kuras var spēlēt ar peli, tastatūru vai skārienpaliktni.</p>
+    <p xml:lang="nb">Aisleriot – også kjent som solitaire – er et kortspill som har over 80 forskjellige kabalspill som er laget for å spilles med mus, tastatur eller trackpad.</p>
+    <p xml:lang="nl">Aisleriot — ook bekend als patience — is een kaartspeltoepassing die beschikt over meer dan 80 verschillende patience-kaartspellen die zijn ontworpen om met een muis, toetsenbord of trackpad te spelen.</p>
+    <p xml:lang="oc">Aisleriot — tanben conegut jol nom de sol o solitari — es un logicial de jòc de cartas que compòrta mai de 80 jòcs de cartas de tipe solitari concebuts per èsser jogats amb una mirga, un clavièr o un pavat tactil.</p>
+    <p xml:lang="pl">AisleRiot to program do gier karcianych, zawierający ponad 80 różnych gier typu pasjans, zaprojektowanych do grania za pomocą myszy, klawiatury lub panelu dotykowego.</p>
+    <p xml:lang="pt">Aisleriot — também conhecido como sol ou solitário — é uma aplicação de jogos de cartas com mais de 80 jogos diferentes, desenhados para funcionar com o rato, teclado ou trackpad.</p>
+    <p xml:lang="pt_BR">O Aisleriot — também conhecido como sol ou paciência — é um aplicativo de jogo de cartas que apresenta mais de 80 tipos diferentes de jogos projetados para serem disputados usando um mouse, teclado, ou trackpad.</p>
+    <p xml:lang="ro">Aisleriot — cunoscut de asemenea ca sol sau solitaire — este o aplicație de jocuri de cărți care oferă peste 80 de jocuri de cărți de tip solitaire diferite care sunt concepute pentru a le juca utilizând un maus, o tastatură, sau un trackpad.</p>
+    <p xml:lang="ru">Айслериот (известный также как sol) — это приложение, предлагающее более 80 различных пасьянсов и ориентированное на использование мыши, клавиатуры или трекпада.</p>
+    <p xml:lang="sk">Hra Aisleriot - tiež známa ako sol alebo solitér - je kartová hra, ktorá disponuje s viac ako 80 rôznymi kartovými hrami typu solitér, ktoré sú navrhnuté na hranie pomocou myši, klávesnice alebo trackpadu.</p>
+    <p xml:lang="sl">Pesjansa Aisleriot je igra s kartami, ki omogoča igranje 80 različic igre z uporabo miške, tipkovnice in sledilne ploščice.</p>
+    <p xml:lang="sr">Пасијанс — такође познат као соло — је програм карташких игара који садржи преко 80 различитих карташких игара за једног играча које су осмишљене за играње мишем, тастатуром или додирном таблом.</p>
+    <p xml:lang="sr@latin">Pasijans — takođe poznat kao solo — je program kartaških igara koji sadrži preko 80 različitih kartaških igara za jednog igrača koje su osmišljene za igranje mišem, tastaturom ili dodirnom tablom.</p>
+    <p xml:lang="sv">Aisleriot — även känt som sol eller patiens — är ett kortspelsprogram med över 80 olika patienser som är designade för att spelas med mus, tangentbord eller styrplatta.</p>
+    <p xml:lang="tr">Aisleriot — sol ya da solitaire olarak da bilinir — bir fare, klavye ya da dokunmatik iz sürücü kullanarak oynamak üzere tasarlanmış 80’den fazla solitaire tipi kart oyunu sunan bir kart oyunu uygulamasıdır.</p>
+    <p xml:lang="uk">Айслеріот — також відомий як пасьянс — програма з понад 80 карткових ігор на кшталт пасьянсу, які створено для гри мишею, клавіатурою та тягучою панеллю. </p>
+    <p xml:lang="zh_CN">Aisleriot —— 又称 sol 或 solitaire（纸牌）—— 带有超过 80 种设计给鼠标、键盘或触摸板的纸牌类型游戏。</p>
+    <p xml:lang="zh_HK">Aisleriot — 亦稱為接龍遊戲 — 是由超過 80 種不同類型的接龍型啤牌遊戲應用程式，專為使用滑鼠、鍵盤或觸控板而設計。</p>
+    <p xml:lang="zh_TW">Aisleriot — 亦稱為接龍遊戲 — 是由超過 80 種不同類型的接龍型紙牌遊戲應用程式，專為使用滑鼠、鍵盤或觸控板而設計。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">https://wiki.gnome.org/Apps/Aisleriot?action=AttachFile&amp;do=get&amp;target=aisleriot-3.10.png</screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <url type="homepage">https://wiki.gnome.org/Apps/Aisleriot</url>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">aisleriot</translation>
+</component>

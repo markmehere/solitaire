@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Osmosis"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Osmos</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Fyra högar till vänster korten läggs om lott. Dela tre kort med framsidan ner och ett uppåtvänt kort i varje reservhög. Inget byggande är tillåtet.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar till höger. Lägg ett kort på första grundhögen.</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Placera alla återstående korten här. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Alla kort av färgen i den första grundhögen kan när som helst spelas till denna grundhög. Varje efterföljande grundhög kan endast startas med ett kort av samma valör som det första kortet. Väl startad kan de efterföljande grundhögarna byggas upp i färg så länge ett kort av samma valör redan finns i grundhögen direkt ovanför den. Spela kort från reservhögen när så är möjligt enligt dessa regler.</para>
+	<para>Korten vänds från högen till kasthögen ett åt gången. Översta kortet i kasthögen är spelbart. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till Högen. Du kan gå igenom kortleken tre gånger.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+	<para>Tre kortgivar: Lägg tre kort i taget från högen till kasthögen och möjliggör obegränsade omgivar.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Det är ingen tillfällighet att patienser även är kända som ”tålamodskrävande spel”. Lägg inte automatiskt första lediga kort på den andra (och tredje) grundhögen. Ibland är det värt att använda en annan färg för att frigöra fler kort från reservhögen.</para>
+        </sect2>
+</sect1>

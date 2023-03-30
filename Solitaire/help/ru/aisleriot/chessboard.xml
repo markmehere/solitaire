@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Chessboard">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Шахматная доска</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки в середине. Собираются по возрастанию по масти, начиная с выбранной вами основной карты. После короля набор, если нужно, продолжается с туза. Карты из оснований перекладывать нельзя.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>По пять стопок с каждой стороны основания. На каждую сдаётся по пять карт лицом вверх, на верхние две стопки кладётся по одной карте лицом вверх. Верхнюю карту любой стопки игрового поля можно перемещать.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переместить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты стопок игрового поля можно собирать по возрастанию и убыванию с учётом масти. Перемещать можно только верхнюю карту каждой стопки. На пустую ячейку можно поместить любую доступную карту.</para>
+  <para>Карты в основаниях собираются по возрастанию, начиная с выбранной вами основной карты (карты, первой положенной на основания). После короля набор, если нужно, продолжается с туза. Карты из оснований перекладывать нельзя.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую карту в основании даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>С умом выбирайте основную карту. Поспешив с выбором, можно попасть впросак.</para>
+        </sect2>
+</sect1>

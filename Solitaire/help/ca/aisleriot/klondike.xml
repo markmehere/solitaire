@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Klondike"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Klondike</title>
+
+  <para>Escrit per en Jonathan Blandford</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es mostren una per una a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei. La carta superior de cada base es pot tornar a jugar al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Set piles. Es reparteix una carta de cara amunt a la primera pila. Es col·loca una carta cara avall a la resta de les piles. Es col·loca una carta cara amunt a la pila següent seguida d'una carta cara avall en totes les piles cobertes. Es repeteix fins que hi ha set cartes a l'última pila. El tauler es pot construir baixant i alternant el color. Els grups de cartes es poden moure. Les piles buides només es poden omplir amb reis i grups de cartes que comencin amb un rei.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure. Una pila buida només es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+  <para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+  <para>Les bases es construeixen pujant des de l'as al rei. Les cartes a les bases es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+  <para>En fer doble clic a una carta de la base es mouran a la base totes les cartes que hi puguin anar. És molt útil per netejar al final de la partida.</para>
+
+          </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Hi ha tres camins possibles per a jugar. Les diferències entre ells és com es reparteixen les cartes de la pila principal.</para>
+  <variablelist>
+    <varlistentry><term>Cartes de tres en tres</term>
+      <listitem>
+        <para>Les cartes es reparteixen des de la pila principal de tres en tres. No hi ha límit de quants cops es torna a donar des de la pila principal.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Cartes d'una en una</term>
+      <listitem>
+        <para>Les cartes es reparteixen des de la pila principal d'una en una. Tot i això, només podeu tornar a donar des de la pila principal dos cops.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Sense cartes per tornar a donar</term>
+      <listitem>
+        <para>Les cartes es giren individualment a la pila de descartades. No es torna a donar. Jugueu d'aquesta manera si voleu un gran repte (i una mica de frustració).</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Sense límit de tornar a donar</term>
+      <listitem>
+        <para>Les cartes es reparteixen des de la pila principal d'una en una. No hi ha límit de quants cops es torna a donar des de la pila principal.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Probablement considerareu que un dels dos primers mètodes és el tradicional, depenent d'on viviu i qui us ha ensenyat. L'opció de no tornar a donar és la trobada normalment a les regles antigues, però rarament es juga al joc d'aquesta manera.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>No desistiu. Intenteu mètodes de força bruta quan la partida sembli perduda. A vegades una combinació amb les cartes de les bases i tornar a ordenar les seqüències alliberarà algunes cartes necessàries.</para>
+        </sect2>
+</sect1>

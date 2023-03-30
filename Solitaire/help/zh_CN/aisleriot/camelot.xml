@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>卡米洛特</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>游戏开始的时候，所有的牌都放在发牌区里，每次发一张到废牌区，不能重复。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>放置发牌区过来的牌，只能放一张，必须立刻放到桌面上。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>四行四列，每个空位可以放一张牌。K 只能放在四个角上，Q只能放在第一行和最后一行中间的两个位置，J 只能放在 第一列和最后一列中间的两个位置。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>除了 J、Q 和 K 以外，移除其他所有的牌就羸了，如图所示——</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>羸了的桌面图。</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>——发牌区和废牌区是空的，不考虑花色。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>这个游戏分两个阶段，二者可以相互切换直至羸或输。第一阶段是将桌面上的空位全部填满，然后到第二阶段，要注意的是，您不能直接跳到第二阶段，只有第一阶段填满后才能进入第二阶段。另外有一点是，可以跳到第一阶段，但记住这时必须要完成第一阶段才能进入第二阶段。唯一的例外是，当发牌区或废牌区为空的情况时。</para>
+	<para>第一阶段——点击发牌区，翻一张牌到废牌区，如果牌是一个：</para>
+	<itemizedlist>
+		<listitem>
+			<para>K：放在桌面上四个角的位置上。</para>
+		</listitem>
+		<listitem>
+			<para>Q：放在第一行或最下面一行的中间位置上。</para>
+		</listitem>
+		<listitem>
+			<para>J：放在第一列或最后面一列的中间位置上。</para>
+		</listitem>
+		<listitem>
+			<para>其他牌：可以放在任何一个空位上。</para>
+		</listitem>
+	</itemizedlist>
+	<para>第二阶段——点击10并移走它，其他两张加起来为10的，也可以用拖动的方法移走。</para>
+	<para>如果一张花牌没有位置可放就输了，或者所有的空位都填满，也没有牌可移也会输。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分：40</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>中间的位置总是最安全的，在第一阶段，尽量在中间放牌，把边角空出来，如果看到两个可以成对的，那就可以放在边角上，在第二阶段可以移除它们。</para>
+        </sect2>
+</sect1>

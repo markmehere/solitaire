@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eight_Off"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Eight Off</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen links. Aufbau nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+	  <entry>Reservestapel</entry>
+	  <entry>Acht Stapel oben. Jeder Reservestapel hält höchstens eine Karte. Auf die ersten vier Reservestapel wird zu Spielbeginn jeweils eine Karte ausgegeben.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Acht Stapel unterhalb der Reservestapel. Die Karten werden offen auf den Spieltisch ausgegeben, mit sechs Karten in jeder Ablage.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Der Spieltisch wird nach Farbe abgebaut. Nur die oberste Karte oder Kartengruppe darf bewegt werden. Ein Satz Karten darf nur bewegt werden, wenn die Anzahl der Karten gleich oder kleiner der Anzahl freier Reserveplätze plus eins ist. Leere Plätze auf dem Spieltisch können nur mit einem König oder einem mit einem König beginnenden Satz belegt werden.</para>
+  <para>Fundamentstapel werden nach Farbe von Ass bis König aufgebaut. Obwohl Karten im Fundamentstapel praktisch noch im Spiel sind, besteht kein Bedarf, diese zu bewegen, weil dies in keiner Weise sinnvoll ist.</para>
+  <para>Jede oberste Karte auf dem Spieltisch darf in einen leeren Reserveplatz gelegt werden. Diese Karten stehen für ein Zurückspielen auf den Spieltisch oder den Fundamentstapel zur Verfügung.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte auf dem Fundamentstapel zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Bewegen Sie jede Karte so früh wie möglich auf den Fundamentstapel. Sie anderweitig liegen zu lassen schränkt nur Ihre Bewegungsfreiheit ein.</para>
+        </sect2>
+</sect1>

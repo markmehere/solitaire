@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thumb_And_Pouch"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Daumen und Beutel</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Zwei Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau erfolgt aufsteigend von Ass bis König. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>
+	    Seven piles.  Deal card face up in first pile.  Place one
+	    card face down on all other piles.  Place one card face up
+	    on next pile followed by one card face down on all covered
+	    piles.  Repeat until there are seven cards in last pile.
+	    Tableau can be built down in any suit but own.  Groups of
+	    cards can be moved.  Empty piles can be filled by any legal
+	    sequence of cards.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    Cards in the Tableau are built down by any suit but own.  Groups of
+    cards can be moved.  An empty pile in the Tableau can be filled with
+    a any legal sequence of cards.
+  </para>
+  <para>Karten werden vom Talon einzeln auf den Restestapel umgedreht. Die oberste Karte auf dem Restestapel ist im Spiel. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. Sie können drei Mal das Kartendeck durcharbeiten.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Brute force may not always work, but in this case it probably will.
+  </para>
+        </sect2>
+</sect1>

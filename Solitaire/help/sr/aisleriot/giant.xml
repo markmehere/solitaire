@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Џин</title>
+
+  <para>Написао Ed Sirett</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Дупли шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. На талон се дели цео ред. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Осам гомила горе десно. Слажу се по знаку, од аса до краља. Карта на врху сваког „темеља“ се може враћати на талон.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Осам гомила. Дели се по једна отворена карта на свих осам гомила.</entry>
+	</row>
+	<row>
+	  <entry>Резерва</entry>
+	  <entry>Десно од талона. Празна у почетку. Може да држи једну, било коју карту.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте у гомиле на „темељу“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте на талону се слажу на доле по наизменичним бојама. Може се померати или једна карта или цела група карата. Празно место на талону се може попунити било којом картом. Постоји и опција да се ограничи кретање карата у зависности од њихових знакова. Погледајте испод.</para>
+  <para>Цео ред се одједном дели са гомиле на талон. Резерва може, али не мора бити попуњена, како год желите.</para>
+  <para>„Темељи“ се слажу по знаку од аса до краља. Карта на врху сваког „темеља“ је у игри. Дуплим кликом на карту ће она бити премештена на одговарајући „темељ“ ако је такав потез могућ. Дуплим кликом на „темељ“ ће на њега бити премештено што је могуће више карата.</para>
+          </sect2>
+        <sect2><title>Опције</title>
+
+  <para>Могућа су два начина играња. Разлика је у томе како се карте на талону слажу.</para>
+  <variablelist>
+    <varlistentry><term>Иста боја</term>
+      <listitem>
+      <para>Карте морају бити истог знака да би се померале заједно и морају се слагати на друге карте истог тог знака.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Наизменичне боје</term>
+      <listitem>
+         <para>To be moved as a group cards must be in a sequence of alternating colors. The top card must be placed on a card of
+               the opposite color.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси по један поен.</para>
+  <para>Највећи могући број поена: 104</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Избегавајте да закопавате мале карте на талону. Користите резерву паметно.</para>
+        </sect2>
+</sect1>

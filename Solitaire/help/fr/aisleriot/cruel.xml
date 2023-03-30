@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Cruel</title>
+
+  <para>Écrit par Zach Keene</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Toutes les cartes restantes sont toujours distribuées sur le tableau, la pioche est donc toujours vide. Redistributions illimitées.</entry>
+	</row>
+	<row>
+	  <entry>Fondations</entry>
+	  <entry>Les quatre piles de droite dans la rangée du haut. Les As sont placés ici dès le début de la partie. À construire en montant par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Jusqu'à treize piles, sur lesquelles on distribue les cartes quatre par quatre jusqu'à ce que la pioche soit vide. Les piles du tableau peuvent être construites en descendant par couleur.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Construisez les fondations en montant par couleur et les piles du tableau en descendant par couleur. Si aucun déplacement n'est possible (ou simplement si vous en avez envie), cliquez sur l'emplacement vide en haut à gauche pour redistribuer.</para>
+  <para>Les redistributions sont faites en plaçant les piles du tableau l'une sur l'autre dans l'ordre, en commençant par la dernière pile. Ensuite, le paquet est simplement retourné et redistribué, quatre cartes à la fois, vers le tableau. Si aucun déplacement n'a été effectué, la redistribution ne change pas l'ordre des cartes. Par conséquent, la partie est perdue si aucun déplacement n'est possible immédiatement après une redistribution.</para>
+  <para>Note : il existe un cas d'erreur lorsqu'après une redistribution, la dernière pile du tableau ne contient qu'une carte et que le seul déplacement possible est depuis l'avant-dernière pile du tableau. Effectuer ce déplacement et redistribuer reproduit la disposition initiale des cartes. Aisleriot termine le jeu si cette situation est détectée.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Si vous pouvez construire sur plus d'une pile du tableau, choisissez en premier de construire sur celle de plus haut rang.</para>
+        </sect2>
+</sect1>

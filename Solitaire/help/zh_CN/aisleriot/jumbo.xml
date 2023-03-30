@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>强伯</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，重复一次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>在发牌区的右边，每次从发牌区发一张，最上面的牌可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的牌垛，按花色从 A 到 K 递增收牌，收牌区最上面的牌还可以参与到游戏中。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>九垛牌，先依次放九张扣着的牌，再依次放八张扣着的牌，再依次放七张扣着的牌，依此类推。直到第一垛有九张牌，把每垛的最后一张翻开。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按不同花色交替递减排列，排列好的可以一起移动，空位可以放 K 或 K 开头的一组牌。</para>
+  <para>发牌区每次往废牌区发一张牌，废牌区最上面的牌可用于游戏中，发牌区空了以后，废牌区的牌按原来的顺序重新回到收牌区，可以重复一次。</para>
+  <para>收牌区按花色从 A 到 K 递增排列，里面的牌还可以参与游戏，双击一张牌可以移到收牌区，如果它是可以移动的。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分：104</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Teppich</title>
+
+  <para>Geschrieben von Vincent Povirk</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau erfolgt nach Farbe von Ass bis König. Asse werden vor dem Geben entfernt und auf die Fundamentstapel gelegt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Der »Teppich«. Vier Zeilen zu je fünf Karten, offen ausgelegt. Die Karten auf dem Spieltisch stehen für das Spiel zur Verfügung. Einen Aufbau im herkömmlichen Sinn gibt es nicht. Leere Plätze werden automatisch aus dem Reststapel gelegt, wenn dies nicht möglich ist, aus dem Talon.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Die Karten auf dem Spieltisch stehen für das Spiel zur Verfügung.</para>
+  <para>Karten werden vom Talon auf den Restestapel einzeln aufgedeckt. Die oberste Karte des Reststapels ist im Spiel. Es gibt keine Neuverteilungen.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte, die in den Fundamentstapeln abgelegt wird, zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Legen Sie einfach alles, was möglich ist, auf den Fundamentstapel.</para>
+        </sect2>
+</sect1>

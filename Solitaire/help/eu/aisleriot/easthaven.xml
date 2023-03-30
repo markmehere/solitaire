@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Ekialdeko portua</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Hemen jartzen da sorta, mahaian eskualdia banatu ondoren.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian, eskuinean. Irudien arabera gorantz osatu behar dira, batekotik erregera.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zazpi pila behean. Pila bakoitzean, banatu bi karta behera begira eta beste bat gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak kentzea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko pilak beherantz osa daitezke, kolorea txandakatuz. Elkarren segidan dauden kolore desberdineko karta multzoak batera mugi daitezke. Mahaiko pila hutsetan erregeak edo erregearekin hasten diren karta multzoak jar daitezke.</para>
+  <para>Mahaiko toki hutsak bete egin behar dira, ahal izanez gero, karta gehiago banatu baino lehen. Sortan klik egitean, karta bat jartzen da, gora begira, mahaiko pila bakoitzean. Azken banaketak lehen hiru piletan karta bana jartzen du gora begira. Ezin da berriro banatu.</para>
+  <para>Oinarria gorantz osatu behar da, batekotik erregera, irudia kontuan hartuta. Oinarriko kartak ezin dira jokoan erabili.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletan kokatutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Eraman kartak oinarrietara ahal bezain laster, hurrengo banaketan blokeatu egin daitezke eta. Hala ere, oinarrietako kartak ezin dira berriro erabili, eta horrek ere eragin dezake blokeatua gelditzea, oinarrira mugitutako karten beharrean. Baina lasai, hori izango da eta gaurko arazorik handiena.</para>
+        </sect2>
+</sect1>

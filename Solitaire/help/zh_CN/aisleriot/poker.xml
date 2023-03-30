@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>纸牌戏</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>在发牌区旁边，废牌区只能放一张牌。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>五行五列，每个空位只能放一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>尽可能地创建“一手牌”来得分，牌局可以有十二手牌——五行、五列，以及两个对角线，超过75分就可以羸。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>点击发牌区每次发一张牌，这张牌移走后才能接着发下一张牌，一旦放下，这张牌就不能再移动了。</para>
+
+          </sect2>
+        <sect2><title>选项</title>
+
+  <para>乱序模式：选中此项，放下的牌还可以移动，这种模式下您要120分才能羸。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>一手牌的积分使用英国记点积分系统，如下所述</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>手</entry>
+          <entry>描述</entry>
+          <entry>得分</entry>
+        </row>
+        <row>
+          <entry>同花顺</entry>
+          <entry>相同花色按顺序排列的一组牌</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>四张相同的</entry>
+          <entry>包含四张相同点数的牌</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>顺子</entry>
+          <entry>按顺序排列的一组牌</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>满堂红</entry>
+          <entry>三个里面有两个点数相同</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>三个相同点数</entry>
+          <entry>包含三个相同点数的牌</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>同花</entry>
+          <entry>五张牌都是相同花色</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>两对</entry>
+          <entry>包含两对相同的牌</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>一对</entry>
+          <entry>包含两张相同的牌</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>可能得到的的最高分：276</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>记住您几乎可以看到一半的牌，对此做出相应的计划，不要想着能骗过电脑。</para>
+        </sect2>
+</sect1>

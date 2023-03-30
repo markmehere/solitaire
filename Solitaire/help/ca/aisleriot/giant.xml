@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Gegant</title>
+
+  <para>Escrit per l'Ed Sirett</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla doble</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Totes les cartes es col·loquen aquí després de repartir al tauler. Les cartes es reparteixen de fila en fila a les piles del tauler. Només es reparteixen un cop.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Vuit piles a la part superior dreta. Per construir pujant per pal des de l'as al rei. La carta superior de cada base es pot tornar a jugar al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Vuit piles. Es reparteix una carta de cara amunt a cadascuna de les vuit piles.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>A la dreta del tauler. Inicialment buit. Poc contenir qualsevol carta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant i alternant el color. Les cartes es poden moure individualment o per grups. Un lloc buit al tauler es pot omplir amb qualsevol carta. Hi ha l'opció de restringir el moviment a les cartes del mateix pal. Vegeu a sota.</para>
+  <para>Les cartes es reparteixen des de la pila principal al tauler en files completes. Podeu optar per deixar la reserva buida o ocupada.</para>
+  <para>Les bases es construeixen pujant per pal de l'as al rei. Les cartes superiors a les bases es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible. En fer doble clic a una base es mouran automàticament tantes cartes com sigui possible a la base.</para>
+          </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Hi ha dues maneres de jugar-hi. La diferència rau en com es construeixen les cartes al tauler.</para>
+  <variablelist>
+    <varlistentry><term>Del mateix pal</term>
+      <listitem>
+      <para>Les cartes han de ser del mateix pal per poder-les moure com a grup i s'han de col·locar sobre una carta del mateix pal.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>De colors alternants</term>
+      <listitem>
+         <para>To be moved as a group cards must be in a sequence of alternating colors. The top card must be placed on a card of
+               the opposite color.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 104</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Eviteu que les cartes més baixes es quedin al tauler. Utilitzeu la reserva amb intel·ligència.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Blanda</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla kort utom essen placeras här i början av spelet. Att klicka på högen kommer att dela ut ett kort till var och en av de fyra reservhögarna. Tillåter två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar överst, till höger om högen. Placera ett ess på varje grundhög för att starta spelet. Grundhögarna byggs i stigande ordning oavsett färg.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Fyra högar placerade under grundhögarna. Varje gång man klickar på högen, kommer ett kort att placeras på varje reservhög. Översta kortet är tillgängligt för spel. Korten på reservhögarna kan bara flyttas till grundhögarna.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Spelet börjar genom att dela fyra kort med framsidan upp på reservhögarna. Om möjligt, spela kort från reservhögarna till grundhögarna. Fortsätt efter detta mönster tills inga fler kort finns kvar i högen och inga fler flyttningar till grundhögarna kan göras.</para>
+  <para>Ta de återstående korten från reservhögarna och blanda. Placera åter dessa kort på högen för omgiv. Två omgivar.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att komma ihåg vad som är lagt tidigare i reservhögarna. När en valmöjlighet ges, är det denna kunskap som bör hjälpa dig att bestämma vilket kort du kan spela.</para>
+        </sect2>
+</sect1>

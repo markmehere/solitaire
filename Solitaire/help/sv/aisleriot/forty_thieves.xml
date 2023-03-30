@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Fyrtio rövare</title>
+
+  <para>Skrivet av Ed Sirett</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen, det översta kortet i kasthögen är tillgängligt för spel.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar uppe till höger. För att byggas i färg från ess till kung.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    <entry>Tio högar. Dela fyra rader med framsidan uppåt för att starta. Bordshögarna kan byggas ned i färg. Kort flyttas ett och ett. Tomma högar kan fyllas med vilket kort som helst.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned i samma färg. Kort kan bara flyttas ett och ett. En tom plats i bordshögarna kan fyllas med vilket kort som helst. Som en genväg kan du flytta fler än ett om det finns tillräckligt med tomma platser. Kort kan också flyttas i grupper till grundhögarna.</para>
+  <para>Kort spelas ett och ett från högen till kasthögen vars översta kort är tillgängligt för spel. Inga omgivar.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Att dubbelklicka på en grundhög kommer att spela upp korten automatiskt. Att dubbelklicka på ett kort i bordshögarna eller kasthögen kommer att flytta det till rätt grundhög om en sådan åtgärd är möjlig, eller till bordshögarna om möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger 5 poäng. När en grundhög är komplett (från ess till kung) ger det ytterligare 60 poäng.</para>
+  <para>Högsta möjliga poäng: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Avstå från att flytta upp kort till bordshögarna för att erhålla en tom plats så snart som möjligt. Balansera sedan behovet för att bevara tomma platser mot behovet av att spara låga kort från att begravas i kasthögen.</para>
+        </sect2>
+</sect1>

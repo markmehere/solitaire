@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>小偷</title>
+
+  <para>Robert Brady 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>包含王的一副牌</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>七垛牌，每垛五张，翻开放。</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>所有剩余的牌放在这儿，每次翻一张到废牌区，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有牌移到废牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>废牌区可以递增或递减放置桌面上的牌，不考虑花色，王算是额外的，可以当作任何牌，上面可以也放其他任何牌。</para>
+  <para>另外一点，牌可以从发牌区发往废牌区。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>下表列出了各种牌可以获得的积分，王不得分。</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>牌</entry>
+          <entry>得分</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>A</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2，3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4，5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6，7，8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9，10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Jack, Queen</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>K</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>因为可以看到桌面上所有的牌，所以试着设计“奔跑”的牌序，尽可能移除牌，收牌区的牌是有限的。</para>
+        </sect2>
+</sect1>

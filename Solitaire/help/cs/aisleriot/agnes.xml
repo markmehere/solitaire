@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+  <sect2><title>Podmínky</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání karet je zbytek sady položen zde. Karty jsou rozdávány po sedmi, každých sedm na jednu hromádku rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte je sestavit podle barvy do postupky, z krále se cyklí na eso. Na první hromádku seřazených je rozdána jedna karta. I na ostatních hromádkách pak musíte začít touto hodnotou karty.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    <entry>Sedm hromádek. První karta se rozdá lícem nahoru. Na ostatní hromádky se rozdá po jedné kartě lícem dolů. Na následující jednu hromádku se položí jedna karta lícem nahoru a na ostatní opět lícem dolů. Tak se to opakuje, až na poslední hromádce je sedm karet. Rozdané karty můžete skládat do sestupných postupek ve stejné barevnosti. Lze přesouvat skupiny karet. Prázdné hromádky se mohou obsadit jen při dalším líznutí z volných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Cíl</title>
+  <para>Přesunout všechny karty do seřazených.</para>
+  </sect2>
+  <sect2><title>Pravidla</title>
+  <para>Na hromádkách s rozdanými kartami můžete skládat sestupné postupky ve stejné barevnosti. Seřazené skupiny karet stejné barevnosti můžete přesouvat naráz.</para>
+  <para>Při každém líznutí se otočí po jedné kartě z volných na každou hromádku rozdaných, dokud se volné karty nespotřebují.</para>
+  <para>Seřazené se skládají do postupky v barvě, pokud je potřeba, cyklí se z krále na eso. Karty v seřazených se mohou dál zapojovat do hry. Dvojitým kliknutím na kartu v rozdaných se ona karta přesune na příslušnou hromádku v seřazených, pokud je takový tah možný.</para>
+</sect2>
+  <sect2><title>Bodování</title>
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+</sect2>
+
+  <sect2><title>Strategie</title>
+  <para>Zkuste sestavit sestupnou postupku kdekoliv je to možné. Zkuste vybojovat co nejvíce bodů je možné, protože dohrát hru do konce je velmi obtížné.</para>
+</sect2>
+</sect1>

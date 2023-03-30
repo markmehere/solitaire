@@ -1,0 +1,1459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		510E416D29C5FDC300AF80D4 /* libcairo-gobject.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 51B9271029C5FD73003B36AE /* libcairo-gobject.2.dylib */; };
+		510E419129C5FDC400AF80D4 /* libgio-2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E416E29C5FDC300AF80D4 /* libgio-2.0.0.dylib */; };
+		510E419229C5FDC400AF80D4 /* libjpeg.8.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E416F29C5FDC300AF80D4 /* libjpeg.8.dylib */; };
+		510E419329C5FDC400AF80D4 /* libxcb-render.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417029C5FDC300AF80D4 /* libxcb-render.0.dylib */; };
+		510E419429C5FDC400AF80D4 /* libgraphite2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417129C5FDC300AF80D4 /* libgraphite2.3.dylib */; };
+		510E419529C5FDC400AF80D4 /* libgmodule-2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417229C5FDC300AF80D4 /* libgmodule-2.0.0.dylib */; };
+		510E419629C5FDC400AF80D4 /* librsvg-2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417329C5FDC300AF80D4 /* librsvg-2.2.dylib */; };
+		510E419729C5FDC400AF80D4 /* libgc.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417429C5FDC300AF80D4 /* libgc.1.dylib */; };
+		510E419829C5FDC400AF80D4 /* libpng16.16.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417529C5FDC400AF80D4 /* libpng16.16.dylib */; };
+		510E419929C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417629C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib */; };
+		510E419A29C5FDC400AF80D4 /* libpixman-1.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417729C5FDC400AF80D4 /* libpixman-1.0.dylib */; };
+		510E419B29C5FDC400AF80D4 /* libfontconfig.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417829C5FDC400AF80D4 /* libfontconfig.1.dylib */; };
+		510E419C29C5FDC400AF80D4 /* libgmp.10.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417929C5FDC400AF80D4 /* libgmp.10.dylib */; };
+		510E419D29C5FDC400AF80D4 /* libXext.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417A29C5FDC400AF80D4 /* libXext.6.dylib */; };
+		510E419E29C5FDC400AF80D4 /* libfribidi.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417B29C5FDC400AF80D4 /* libfribidi.0.dylib */; };
+		510E419F29C5FDC400AF80D4 /* libgtk-3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417C29C5FDC400AF80D4 /* libgtk-3.0.dylib */; };
+		510E41A129C5FDC400AF80D4 /* libgdk-3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417E29C5FDC400AF80D4 /* libgdk-3.0.dylib */; };
+		510E41A229C5FDC400AF80D4 /* libpango-1.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E417F29C5FDC400AF80D4 /* libpango-1.0.0.dylib */; };
+		510E41A329C5FDC400AF80D4 /* libxcb-shm.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418029C5FDC400AF80D4 /* libxcb-shm.0.dylib */; };
+		510E41A429C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418129C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib */; };
+		510E41A529C5FDC400AF80D4 /* libepoxy.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418229C5FDC400AF80D4 /* libepoxy.0.dylib */; };
+		510E41A629C5FDC400AF80D4 /* libltdl.7.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418329C5FDC400AF80D4 /* libltdl.7.dylib */; };
+		510E41A729C5FDC400AF80D4 /* libunistring.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418429C5FDC400AF80D4 /* libunistring.5.dylib */; };
+		510E41A829C5FDC400AF80D4 /* libcairo.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418529C5FDC400AF80D4 /* libcairo.2.dylib */; };
+		510E41A929C5FDC400AF80D4 /* libintl.8.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418629C5FDC400AF80D4 /* libintl.8.dylib */; };
+		510E41AA29C5FDC400AF80D4 /* libharfbuzz.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418729C5FDC400AF80D4 /* libharfbuzz.0.dylib */; };
+		510E41AB29C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418829C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib */; };
+		510E41AC29C5FDC400AF80D4 /* libXrender.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418929C5FDC400AF80D4 /* libXrender.1.dylib */; };
+		510E41AD29C5FDC400AF80D4 /* libxcb.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418A29C5FDC400AF80D4 /* libxcb.1.dylib */; };
+		510E41AE29C5FDC400AF80D4 /* libpcre2-8.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418B29C5FDC400AF80D4 /* libpcre2-8.0.dylib */; };
+		510E41AF29C5FDC400AF80D4 /* libfreetype.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418C29C5FDC400AF80D4 /* libfreetype.6.dylib */; };
+		510E41B029C5FDC400AF80D4 /* libgobject-2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418D29C5FDC400AF80D4 /* libgobject-2.0.0.dylib */; };
+		510E41B129C5FDC400AF80D4 /* libglib-2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418E29C5FDC400AF80D4 /* libglib-2.0.0.dylib */; };
+		510E41B229C5FDC400AF80D4 /* libatk-1.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E418F29C5FDC400AF80D4 /* libatk-1.0.0.dylib */; };
+		510E41B329C5FDC400AF80D4 /* libX11.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E419029C5FDC400AF80D4 /* libX11.6.dylib */; };
+		510E41B529C5FE4000AF80D4 /* libatk-1.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418F29C5FDC400AF80D4 /* libatk-1.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41B629C5FE4000AF80D4 /* libcairo.2.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418529C5FDC400AF80D4 /* libcairo.2.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41B729C5FE4000AF80D4 /* libepoxy.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418229C5FDC400AF80D4 /* libepoxy.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41B829C5FE4000AF80D4 /* libfontconfig.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417829C5FDC400AF80D4 /* libfontconfig.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41B929C5FE4000AF80D4 /* libfreetype.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418C29C5FDC400AF80D4 /* libfreetype.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BA29C5FE4000AF80D4 /* libfribidi.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417B29C5FDC400AF80D4 /* libfribidi.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BB29C5FE4000AF80D4 /* libgc.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417429C5FDC300AF80D4 /* libgc.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BC29C5FE4000AF80D4 /* libgdk_pixbuf-2.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418129C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BD29C5FE4000AF80D4 /* libgdk-3.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417E29C5FDC400AF80D4 /* libgdk-3.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BE29C5FE4000AF80D4 /* libgio-2.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E416E29C5FDC300AF80D4 /* libgio-2.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41BF29C5FE4000AF80D4 /* libglib-2.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418E29C5FDC400AF80D4 /* libglib-2.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C029C5FE4000AF80D4 /* libgmodule-2.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417229C5FDC300AF80D4 /* libgmodule-2.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C129C5FE4000AF80D4 /* libgmp.10.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417929C5FDC400AF80D4 /* libgmp.10.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C229C5FE4000AF80D4 /* libgobject-2.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418D29C5FDC400AF80D4 /* libgobject-2.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C329C5FE4000AF80D4 /* libgraphite2.3.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417129C5FDC300AF80D4 /* libgraphite2.3.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C429C5FE4000AF80D4 /* libgtk-3.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417C29C5FDC400AF80D4 /* libgtk-3.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C629C5FE4000AF80D4 /* libharfbuzz.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418729C5FDC400AF80D4 /* libharfbuzz.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C729C5FE4000AF80D4 /* libintl.8.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418629C5FDC400AF80D4 /* libintl.8.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C829C5FE4000AF80D4 /* libjpeg.8.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E416F29C5FDC300AF80D4 /* libjpeg.8.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41C929C5FE4000AF80D4 /* libltdl.7.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418329C5FDC400AF80D4 /* libltdl.7.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CA29C5FE4000AF80D4 /* libpango-1.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417F29C5FDC400AF80D4 /* libpango-1.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CB29C5FE4000AF80D4 /* libpangocairo-1.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418829C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CC29C5FE4000AF80D4 /* libpangoft2-1.0.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417629C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CD29C5FE4000AF80D4 /* libpcre2-8.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418B29C5FDC400AF80D4 /* libpcre2-8.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CE29C5FE4000AF80D4 /* libpixman-1.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417729C5FDC400AF80D4 /* libpixman-1.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41CF29C5FE4000AF80D4 /* libpng16.16.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417529C5FDC400AF80D4 /* libpng16.16.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D029C5FE4000AF80D4 /* librsvg-2.2.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417329C5FDC300AF80D4 /* librsvg-2.2.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D129C5FE4000AF80D4 /* libunistring.5.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418429C5FDC400AF80D4 /* libunistring.5.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D229C5FE4000AF80D4 /* libX11.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E419029C5FDC400AF80D4 /* libX11.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D329C5FE4000AF80D4 /* libxcb-render.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417029C5FDC300AF80D4 /* libxcb-render.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D429C5FE4000AF80D4 /* libxcb-shm.0.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418029C5FDC400AF80D4 /* libxcb-shm.0.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D529C5FE4000AF80D4 /* libxcb.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418A29C5FDC400AF80D4 /* libxcb.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D629C5FE4000AF80D4 /* libXext.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E417A29C5FDC400AF80D4 /* libXext.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D729C5FE4000AF80D4 /* libXrender.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E418929C5FDC400AF80D4 /* libXrender.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41D829C5FE4000AF80D4 /* libcairo-gobject.2.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 51B9271029C5FD73003B36AE /* libcairo-gobject.2.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41DC29C6085B00AF80D4 /* libXau.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E41DB29C6085B00AF80D4 /* libXau.6.dylib */; };
+		510E41DD29C6089500AF80D4 /* libXau.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E41DB29C6085B00AF80D4 /* libXau.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41DF29C6096900AF80D4 /* libXdmcp.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E41DE29C6096900AF80D4 /* libXdmcp.6.dylib */; };
+		510E41E029C6097100AF80D4 /* libXdmcp.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E41DE29C6096900AF80D4 /* libXdmcp.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		510E41E229C6ECA100AF80D4 /* libguile-2.2.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 510E41E129C6ECA100AF80D4 /* libguile-2.2.1.dylib */; };
+		510E41E329C6ECC800AF80D4 /* libguile-2.2.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 510E41E129C6ECA100AF80D4 /* libguile-2.2.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		5138959429B851840033A0C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5138959329B851840033A0C7 /* main.m */; };
+		5164656F29B8ABC000C2FFBA /* share in Resources */ = {isa = PBXBuildFile; fileRef = 5164656E29B8ABC000C2FFBA /* share */; };
+		5164659029B8D5F500C2FFBA /* menus.ui in Resources */ = {isa = PBXBuildFile; fileRef = 5164658F29B8D5F500C2FFBA /* menus.ui */; };
+		5166217529D1C3F800426F24 /* Firework.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5166217429D1C3F800426F24 /* Firework.sks */; };
+		5166217829D1C60E00426F24 /* SolWinScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 5166217629D1C60E00426F24 /* SolWinScene.m */; };
+		5175B98529B99B260058BCB1 /* SolMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5175B98429B99B260058BCB1 /* SolMenuItem.m */; };
+		5175B98A29B9A7DC0058BCB1 /* SolActionDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 5175B98929B9A7DC0058BCB1 /* SolActionDictionary.m */; };
+		5175B98C29B9B09C0058BCB1 /* SolMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 5175B98B29B9B09C0058BCB1 /* SolMenu.m */; };
+		5175B98F29B9CE3F0058BCB1 /* SolMenuBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 5175B98E29B9CE3F0058BCB1 /* SolMenuBar.m */; };
+		519A1F3B29CB16C500BE411C /* aisleriot.supp in Copy Files */ = {isa = PBXBuildFile; fileRef = 519A1EDB29CB150600BE411C /* aisleriot.supp */; };
+		519A1F3D29CB181500BE411C /* api.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3E29CB0A1E00BE411C /* api.scm */; };
+		519A1F3E29CB181F00BE411C /* doublets.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1A29CB0A1E00BE411C /* doublets.scm */; };
+		519A1F3F29CB181F00BE411C /* camelot.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1B29CB0A1E00BE411C /* camelot.scm */; };
+		519A1F4029CB181F00BE411C /* osmosis.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1C29CB0A1E00BE411C /* osmosis.scm */; };
+		519A1F4129CB181F00BE411C /* gaps.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1D29CB0A1E00BE411C /* gaps.scm */; };
+		519A1F4229CB181F00BE411C /* clock.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1E29CB0A1E00BE411C /* clock.scm */; };
+		519A1F4329CB181F00BE411C /* first-law.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E1F29CB0A1E00BE411C /* first-law.scm */; };
+		519A1F4429CB181F00BE411C /* maze.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2029CB0A1E00BE411C /* maze.scm */; };
+		519A1F4529CB181F00BE411C /* easthaven.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2129CB0A1E00BE411C /* easthaven.scm */; };
+		519A1F4629CB181F00BE411C /* bakers-game.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2229CB0A1E00BE411C /* bakers-game.scm */; };
+		519A1F4729CB181F00BE411C /* valentine.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2329CB0A1E00BE411C /* valentine.scm */; };
+		519A1F4829CB181F00BE411C /* bear-river.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2429CB0A1E00BE411C /* bear-river.scm */; };
+		519A1F4929CB181F00BE411C /* cover.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2529CB0A1E00BE411C /* cover.scm */; };
+		519A1F4A29CB181F00BE411C /* wall.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2629CB0A1E00BE411C /* wall.scm */; };
+		519A1F4B29CB181F00BE411C /* beleaguered-castle.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2729CB0A1E00BE411C /* beleaguered-castle.scm */; };
+		519A1F4C29CB181F00BE411C /* westhaven.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2829CB0A1E00BE411C /* westhaven.scm */; };
+		519A1F4D29CB181F00BE411C /* yukon.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2929CB0A1E00BE411C /* yukon.scm */; };
+		519A1F4E29CB181F00BE411C /* scuffle.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2A29CB0A1E00BE411C /* scuffle.scm */; };
+		519A1F4F29CB181F00BE411C /* giant.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2B29CB0A1E00BE411C /* giant.scm */; };
+		519A1F5029CB181F00BE411C /* escalator.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2C29CB0A1E00BE411C /* escalator.scm */; };
+		519A1F5129CB181F00BE411C /* terrace.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2D29CB0A1E00BE411C /* terrace.scm */; };
+		519A1F5229CB181F00BE411C /* spiderette.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2E29CB0A1E00BE411C /* spiderette.scm */; };
+		519A1F5329CB181F00BE411C /* gold-mine.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E2F29CB0A1E00BE411C /* gold-mine.scm */; };
+		519A1F5429CB181F00BE411C /* elevator.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3029CB0A1E00BE411C /* elevator.scm */; };
+		519A1F5529CB181F00BE411C /* odessa.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3129CB0A1E00BE411C /* odessa.scm */; };
+		519A1F5629CB181F00BE411C /* whitehead.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3229CB0A1E00BE411C /* whitehead.scm */; };
+		519A1F5729CB181F00BE411C /* aunt-mary.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3329CB0A1E00BE411C /* aunt-mary.scm */; };
+		519A1F5829CB181F00BE411C /* fortress.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3429CB0A1E00BE411C /* fortress.scm */; };
+		519A1F5929CB181F00BE411C /* klondike.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3529CB0A1E00BE411C /* klondike.scm */; };
+		519A1F5A29CB181F00BE411C /* eagle-wing.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3629CB0A1E00BE411C /* eagle-wing.scm */; };
+		519A1F5B29CB181F00BE411C /* golf.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3729CB0A1E00BE411C /* golf.scm */; };
+		519A1F5C29CB181F00BE411C /* bristol.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3829CB0A1E00BE411C /* bristol.scm */; };
+		519A1F5D29CB181F00BE411C /* agnes.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3929CB0A1E00BE411C /* agnes.scm */; };
+		519A1F5E29CB181F00BE411C /* canfield.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3A29CB0A1E00BE411C /* canfield.scm */; };
+		519A1F5F29CB181F00BE411C /* scorpion.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3B29CB0A1E00BE411C /* scorpion.scm */; };
+		519A1F6029CB181F00BE411C /* king-albert.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3C29CB0A1E00BE411C /* king-albert.scm */; };
+		519A1F6129CB181F00BE411C /* treize.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3D29CB0A1E00BE411C /* treize.scm */; };
+		519A1F6229CB181F00BE411C /* napoleons-tomb.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E3F29CB0A1E00BE411C /* napoleons-tomb.scm */; };
+		519A1F6329CB181F00BE411C /* cruel.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4029CB0A1E00BE411C /* cruel.scm */; };
+		519A1F6429CB181F00BE411C /* lady-jane.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4129CB0A1E00BE411C /* lady-jane.scm */; };
+		519A1F6529CB181F00BE411C /* straight-up.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4229CB0A1E00BE411C /* straight-up.scm */; };
+		519A1F6629CB181F00BE411C /* peek.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4329CB0A1E00BE411C /* peek.scm */; };
+		519A1F6729CB181F00BE411C /* eight-off.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4629CB0A1E00BE411C /* eight-off.scm */; };
+		519A1F6829CB181F00BE411C /* kansas.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4729CB0A1E00BE411C /* kansas.scm */; };
+		519A1F6929CB181F00BE411C /* yield.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4929CB0A1E00BE411C /* yield.scm */; };
+		519A1F6A29CB181F00BE411C /* seahaven.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4A29CB0A1E00BE411C /* seahaven.scm */; };
+		519A1F6B29CB181F00BE411C /* backbone.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4B29CB0A1E00BE411C /* backbone.scm */; };
+		519A1F6C29CB181F00BE411C /* isabel.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4C29CB0A1E00BE411C /* isabel.scm */; };
+		519A1F6D29CB181F00BE411C /* kings-audience.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4D29CB0A1E00BE411C /* kings-audience.scm */; };
+		519A1F6E29CB181F00BE411C /* jumbo.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4E29CB0A1E00BE411C /* jumbo.scm */; };
+		519A1F6F29CB181F00BE411C /* eliminator.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E4F29CB0A1E00BE411C /* eliminator.scm */; };
+		519A1F7029CB181F00BE411C /* helsinki.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5029CB0A1E00BE411C /* helsinki.scm */; };
+		519A1F7129CB181F00BE411C /* poker.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5129CB0A1E00BE411C /* poker.scm */; };
+		519A1F7229CB181F00BE411C /* freecell.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5229CB0A1E00BE411C /* freecell.scm */; };
+		519A1F7329CB181F00BE411C /* bakers-dozen.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5329CB0A1E00BE411C /* bakers-dozen.scm */; };
+		519A1F7429CB181F00BE411C /* glenwood.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5429CB0A1E00BE411C /* glenwood.scm */; };
+		519A1F7529CB181F00BE411C /* hamilton.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5529CB0A1E00BE411C /* hamilton.scm */; };
+		519A1F7629CB181F00BE411C /* thirteen.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5629CB0A1E00BE411C /* thirteen.scm */; };
+		519A1F7729CB181F00BE411C /* neighbor.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5729CB0A1E00BE411C /* neighbor.scm */; };
+		519A1F7829CB181F00BE411C /* quatorze.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5829CB0A1E00BE411C /* quatorze.scm */; };
+		519A1F7929CB181F00BE411C /* athena.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5929CB0A1E00BE411C /* athena.scm */; };
+		519A1F7A29CB181F00BE411C /* sir-tommy.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5A29CB0A1E00BE411C /* sir-tommy.scm */; };
+		519A1F7B29CB181F00BE411C /* spider.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5B29CB0A1E00BE411C /* spider.scm */; };
+		519A1F7C29CB181F00BE411C /* royal-east.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5C29CB0A1E00BE411C /* royal-east.scm */; };
+		519A1F7D29CB181F00BE411C /* carpet.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5D29CB0A1E00BE411C /* carpet.scm */; };
+		519A1F7E29CB181F00BE411C /* monte-carlo.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5E29CB0A1E00BE411C /* monte-carlo.scm */; };
+		519A1F7F29CB181F00BE411C /* gay-gordons.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E5F29CB0A1E00BE411C /* gay-gordons.scm */; };
+		519A1F8029CB181F00BE411C /* union-square.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6029CB0A1E00BE411C /* union-square.scm */; };
+		519A1F8129CB181F00BE411C /* thumb-and-pouch.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6129CB0A1E00BE411C /* thumb-and-pouch.scm */; };
+		519A1F8229CB181F00BE411C /* will-o-the-wisp.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6229CB0A1E00BE411C /* will-o-the-wisp.scm */; };
+		519A1F8329CB181F00BE411C /* thieves.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6329CB0A1E00BE411C /* thieves.scm */; };
+		519A1F8429CB181F00BE411C /* plait.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6429CB0A1E00BE411C /* plait.scm */; };
+		519A1F8529CB181F00BE411C /* saratoga.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6629CB0A1E00BE411C /* saratoga.scm */; };
+		519A1F8629CB181F00BE411C /* streets-and-alleys.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6729CB0A1E00BE411C /* streets-and-alleys.scm */; };
+		519A1F8729CB181F00BE411C /* auld-lang-syne.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6E29CB0A1E00BE411C /* auld-lang-syne.scm */; };
+		519A1F8829CB181F00BE411C /* block-ten.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6829CB0A1E00BE411C /* block-ten.scm */; };
+		519A1F8929CB181F00BE411C /* pileon.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6929CB0A1E00BE411C /* pileon.scm */; };
+		519A1F8A29CB181F00BE411C /* zebra.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6A29CB0A1E00BE411C /* zebra.scm */; };
+		519A1F8B29CB181F00BE411C /* diamond-mine.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6C29CB0A1E00BE411C /* diamond-mine.scm */; };
+		519A1F8C29CB181F00BE411C /* accordion.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6D29CB0A1E00BE411C /* accordion.scm */; };
+		519A1F8D29CB181F00BE411C /* jamestown.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E6F29CB0A1E00BE411C /* jamestown.scm */; };
+		519A1F8E29CB181F00BE411C /* gypsy.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7029CB0A1E00BE411C /* gypsy.scm */; };
+		519A1F8F29CB181F00BE411C /* chessboard.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7129CB0A1E00BE411C /* chessboard.scm */; };
+		519A1F9029CB181F00BE411C /* fortunes.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7229CB0A1E00BE411C /* fortunes.scm */; };
+		519A1F9129CB181F00BE411C /* spider-three-decks.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7329CB0A1E00BE411C /* spider-three-decks.scm */; };
+		519A1F9229CB181F00BE411C /* ten-across.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7429CB0A1E00BE411C /* ten-across.scm */; };
+		519A1F9329CB181F00BE411C /* triple-peaks.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7529CB0A1E00BE411C /* triple-peaks.scm */; };
+		519A1F9429CB181F00BE411C /* labyrinth.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7629CB0A1E00BE411C /* labyrinth.scm */; };
+		519A1F9529CB181F00BE411C /* fourteen.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7729CB0A1E00BE411C /* fourteen.scm */; };
+		519A1F9629CB181F00BE411C /* forty-thieves.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7829CB0A1E00BE411C /* forty-thieves.scm */; };
+		519A1F9729CB181F00BE411C /* hopscotch.scm in Resources */ = {isa = PBXBuildFile; fileRef = 519A1E7929CB0A1E00BE411C /* hopscotch.scm */; };
+		51A9279129B85FDB0012D2BA /* game.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A9273B29B85FDB0012D2BA /* game.m */; };
+		51A9279229B85FDB0012D2BA /* ar-style-gtk.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9273C29B85FDB0012D2BA /* ar-style-gtk.c */; };
+		51A9279329B85FDB0012D2BA /* sol.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9273D29B85FDB0012D2BA /* sol.c */; };
+		51A9279429B85FDB0012D2BA /* ar-cursor.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9273E29B85FDB0012D2BA /* ar-cursor.c */; };
+		51A9279529B85FDB0012D2BA /* util.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9273F29B85FDB0012D2BA /* util.c */; };
+		51A9279629B85FDB0012D2BA /* ar-clock.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9274029B85FDB0012D2BA /* ar-clock.c */; };
+		51A9279729B85FDB0012D2BA /* aisleriot.gresource.xml in Resources */ = {isa = PBXBuildFile; fileRef = 51A9274329B85FDB0012D2BA /* aisleriot.gresource.xml */; };
+		51A9279929B85FDB0012D2BA /* ar-application.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9274529B85FDB0012D2BA /* ar-application.c */; };
+		51A9279A29B85FDB0012D2BA /* board-noclutter.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9274729B85FDB0012D2BA /* board-noclutter.c */; };
+		51A9279C29B85FDB0012D2BA /* aisleriot.gresource.xml.in in Resources */ = {isa = PBXBuildFile; fileRef = 51A9274A29B85FDB0012D2BA /* aisleriot.gresource.xml.in */; };
+		51A9279D29B85FDB0012D2BA /* aisleriot-ui.xml in Resources */ = {isa = PBXBuildFile; fileRef = 51A9274E29B85FDB0012D2BA /* aisleriot-ui.xml */; };
+		51A927A029B85FDB0012D2BA /* ar-stock.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9275529B85FDB0012D2BA /* ar-stock.c */; };
+		51A927A129B85FDB0012D2BA /* stats-dialog.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9275729B85FDB0012D2BA /* stats-dialog.c */; };
+		51A927A229B85FDB0012D2BA /* ar-help.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9275B29B85FDB0012D2BA /* ar-help.c */; };
+		51A927A429B85FDB0012D2BA /* ar-card.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9275F29B85FDB0012D2BA /* ar-card.c */; };
+		51A927A529B85FDB0012D2BA /* ar-gsettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276029B85FDB0012D2BA /* ar-gsettings.m */; };
+		51A927A629B85FDB0012D2BA /* ar-card-theme-svg.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276129B85FDB0012D2BA /* ar-card-theme-svg.c */; };
+		51A927A729B85FDB0012D2BA /* ar-card-theme.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276329B85FDB0012D2BA /* ar-card-theme.c */; };
+		51A927A829B85FDB0012D2BA /* ar-marshal.list in Resources */ = {isa = PBXBuildFile; fileRef = 51A9276429B85FDB0012D2BA /* ar-marshal.list */; };
+		51A927AA29B85FDB0012D2BA /* ar-conf.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276629B85FDB0012D2BA /* ar-conf.m */; };
+		51A927AC29B85FDB0012D2BA /* ar-runtime.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276C29B85FDB0012D2BA /* ar-runtime.c */; };
+		51A927AD29B85FDB0012D2BA /* ar-svg.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9276F29B85FDB0012D2BA /* ar-svg.c */; };
+		51A927AE29B85FDB0012D2BA /* ar-card-theme-preimage.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277029B85FDB0012D2BA /* ar-card-theme-preimage.c */; };
+		51A927B129B85FDB0012D2BA /* ar-show.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277529B85FDB0012D2BA /* ar-show.c */; };
+		51A927B329B85FDB0012D2BA /* ar-card-surface-cache.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277929B85FDB0012D2BA /* ar-card-surface-cache.c */; };
+		51A927B429B85FDB0012D2BA /* ar-debug.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277A29B85FDB0012D2BA /* ar-debug.c */; };
+		51A927B529B85FDB0012D2BA /* ar-profile.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277B29B85FDB0012D2BA /* ar-profile.c */; };
+		51A927B629B85FDB0012D2BA /* ar-string-utils.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277D29B85FDB0012D2BA /* ar-string-utils.c */; };
+		51A927B729B85FDB0012D2BA /* ar-sound.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9277E29B85FDB0012D2BA /* ar-sound.c */; };
+		51A927B829B85FDB0012D2BA /* ar-card-themes.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278129B85FDB0012D2BA /* ar-card-themes.c */; };
+		51A927B929B85FDB0012D2BA /* ar-marshal.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278229B85FDB0012D2BA /* ar-marshal.c */; };
+		51A927BC29B85FDB0012D2BA /* conf.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278829B85FDB0012D2BA /* conf.c */; };
+		51A927BD29B85FDB0012D2BA /* ar-style.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278B29B85FDB0012D2BA /* ar-style.c */; };
+		51A927BE29B85FDB0012D2BA /* ar-game-chooser.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278C29B85FDB0012D2BA /* ar-game-chooser.c */; };
+		51A927BF29B85FDB0012D2BA /* aisleriot-debug-ui.xml in Resources */ = {isa = PBXBuildFile; fileRef = 51A9278D29B85FDB0012D2BA /* aisleriot-debug-ui.xml */; };
+		51A927C029B85FDB0012D2BA /* ar-resources.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278E29B85FDB0012D2BA /* ar-resources.c */; };
+		51A927C129B85FDB0012D2BA /* window.m in Sources */ = {isa = PBXBuildFile; fileRef = 51A9278F29B85FDB0012D2BA /* window.m */; };
+		51A927C229B85FDB0012D2BA /* help-overlay.ui in Resources */ = {isa = PBXBuildFile; fileRef = 51A9279029B85FDB0012D2BA /* help-overlay.ui */; };
+		51B9270729C54E80003B36AE /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 51B9270629C54E80003B36AE /* Credits.rtf */; };
+		51C15ED629D441E6000D581B /* SolFinishEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 51C15ED529D441E6000D581B /* SolFinishEffects.m */; };
+		51C5BDFD29BF67DA00355AD1 /* SolFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 51C5BDFC29BF67DA00355AD1 /* SolFileManager.m */; };
+		51C5BE0129C0093400355AD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51C5BE0029C0093400355AD1 /* Assets.xcassets */; };
+		51EEFACB29D10350000F310B /* SolLostEffect.m in Sources */ = {isa = PBXBuildFile; fileRef = 51EEFACA29D10350000F310B /* SolLostEffect.m */; };
+		51F95DEE29CB2AFE002B888B /* org.pazolli.Solitaire.gschema.xml in Resources */ = {isa = PBXBuildFile; fileRef = 51F95DED29CB2AFD002B888B /* org.pazolli.Solitaire.gschema.xml */; };
+		51F95DF729CFCACE002B888B /* Solitaire.help in Resources */ = {isa = PBXBuildFile; fileRef = 51F95DF629CFCACE002B888B /* Solitaire.help */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildRule section */
+		519A1EDA29CB0A3D00BE411C /* PBXBuildRule */ = {
+			isa = PBXBuildRule;
+			compilerSpec = com.apple.compilers.proxy.script;
+			filePatterns = "*.scm";
+			fileType = pattern.proxy;
+			inputFiles = (
+			);
+			isEditable = 1;
+			outputFiles = (
+				"$(DERIVED_FILE_DIR)/$(INPUT_FILE_BASE).go",
+			);
+			runOncePerArchitecture = 0;
+			script = "/opt/homebrew/Cellar/guile@2/2.2.7_3/bin/guildar compile \"$SCRIPT_INPUT_FILE\" -o \"$DERIVED_FILE_DIR/$INPUT_FILE_BASE.go\" \n";
+		};
+/* End PBXBuildRule section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		510E41B429C5FE2500AF80D4 /* Copy Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				510E41E329C6ECC800AF80D4 /* libguile-2.2.1.dylib in Copy Files */,
+				510E41E029C6097100AF80D4 /* libXdmcp.6.dylib in Copy Files */,
+				510E41DD29C6089500AF80D4 /* libXau.6.dylib in Copy Files */,
+				510E41B529C5FE4000AF80D4 /* libatk-1.0.0.dylib in Copy Files */,
+				510E41B629C5FE4000AF80D4 /* libcairo.2.dylib in Copy Files */,
+				510E41B729C5FE4000AF80D4 /* libepoxy.0.dylib in Copy Files */,
+				510E41B829C5FE4000AF80D4 /* libfontconfig.1.dylib in Copy Files */,
+				510E41B929C5FE4000AF80D4 /* libfreetype.6.dylib in Copy Files */,
+				510E41BA29C5FE4000AF80D4 /* libfribidi.0.dylib in Copy Files */,
+				510E41BB29C5FE4000AF80D4 /* libgc.1.dylib in Copy Files */,
+				510E41BC29C5FE4000AF80D4 /* libgdk_pixbuf-2.0.0.dylib in Copy Files */,
+				510E41BD29C5FE4000AF80D4 /* libgdk-3.0.dylib in Copy Files */,
+				510E41BE29C5FE4000AF80D4 /* libgio-2.0.0.dylib in Copy Files */,
+				510E41BF29C5FE4000AF80D4 /* libglib-2.0.0.dylib in Copy Files */,
+				510E41C029C5FE4000AF80D4 /* libgmodule-2.0.0.dylib in Copy Files */,
+				510E41C129C5FE4000AF80D4 /* libgmp.10.dylib in Copy Files */,
+				510E41C229C5FE4000AF80D4 /* libgobject-2.0.0.dylib in Copy Files */,
+				510E41C329C5FE4000AF80D4 /* libgraphite2.3.dylib in Copy Files */,
+				510E41C429C5FE4000AF80D4 /* libgtk-3.0.dylib in Copy Files */,
+				510E41C629C5FE4000AF80D4 /* libharfbuzz.0.dylib in Copy Files */,
+				510E41C729C5FE4000AF80D4 /* libintl.8.dylib in Copy Files */,
+				510E41C829C5FE4000AF80D4 /* libjpeg.8.dylib in Copy Files */,
+				510E41C929C5FE4000AF80D4 /* libltdl.7.dylib in Copy Files */,
+				510E41CA29C5FE4000AF80D4 /* libpango-1.0.0.dylib in Copy Files */,
+				510E41CB29C5FE4000AF80D4 /* libpangocairo-1.0.0.dylib in Copy Files */,
+				510E41CC29C5FE4000AF80D4 /* libpangoft2-1.0.0.dylib in Copy Files */,
+				510E41CD29C5FE4000AF80D4 /* libpcre2-8.0.dylib in Copy Files */,
+				510E41CE29C5FE4000AF80D4 /* libpixman-1.0.dylib in Copy Files */,
+				510E41CF29C5FE4000AF80D4 /* libpng16.16.dylib in Copy Files */,
+				510E41D029C5FE4000AF80D4 /* librsvg-2.2.dylib in Copy Files */,
+				510E41D129C5FE4000AF80D4 /* libunistring.5.dylib in Copy Files */,
+				510E41D229C5FE4000AF80D4 /* libX11.6.dylib in Copy Files */,
+				510E41D329C5FE4000AF80D4 /* libxcb-render.0.dylib in Copy Files */,
+				510E41D429C5FE4000AF80D4 /* libxcb-shm.0.dylib in Copy Files */,
+				510E41D529C5FE4000AF80D4 /* libxcb.1.dylib in Copy Files */,
+				510E41D629C5FE4000AF80D4 /* libXext.6.dylib in Copy Files */,
+				510E41D729C5FE4000AF80D4 /* libXrender.1.dylib in Copy Files */,
+				510E41D829C5FE4000AF80D4 /* libcairo-gobject.2.dylib in Copy Files */,
+			);
+			name = "Copy Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		519A1F3A29CB16AD00BE411C /* Copy Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = lib/valgrind;
+			dstSubfolderSpec = 7;
+			files = (
+				519A1F3B29CB16C500BE411C /* aisleriot.supp in Copy Files */,
+			);
+			name = "Copy Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		510E416E29C5FDC300AF80D4 /* libgio-2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgio-2.0.0.dylib"; path = "Solitaire/arm64-lib/libgio-2.0.0.dylib"; sourceTree = "<group>"; };
+		510E416F29C5FDC300AF80D4 /* libjpeg.8.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libjpeg.8.dylib; path = "Solitaire/arm64-lib/libjpeg.8.dylib"; sourceTree = "<group>"; };
+		510E417029C5FDC300AF80D4 /* libxcb-render.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libxcb-render.0.dylib"; path = "Solitaire/arm64-lib/libxcb-render.0.dylib"; sourceTree = "<group>"; };
+		510E417129C5FDC300AF80D4 /* libgraphite2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libgraphite2.3.dylib; path = "Solitaire/arm64-lib/libgraphite2.3.dylib"; sourceTree = "<group>"; };
+		510E417229C5FDC300AF80D4 /* libgmodule-2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgmodule-2.0.0.dylib"; path = "Solitaire/arm64-lib/libgmodule-2.0.0.dylib"; sourceTree = "<group>"; };
+		510E417329C5FDC300AF80D4 /* librsvg-2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "librsvg-2.2.dylib"; path = "Solitaire/arm64-lib/librsvg-2.2.dylib"; sourceTree = "<group>"; };
+		510E417429C5FDC300AF80D4 /* libgc.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libgc.1.dylib; path = "Solitaire/arm64-lib/libgc.1.dylib"; sourceTree = "<group>"; };
+		510E417529C5FDC400AF80D4 /* libpng16.16.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libpng16.16.dylib; path = "Solitaire/arm64-lib/libpng16.16.dylib"; sourceTree = "<group>"; };
+		510E417629C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libpangoft2-1.0.0.dylib"; path = "Solitaire/arm64-lib/libpangoft2-1.0.0.dylib"; sourceTree = "<group>"; };
+		510E417729C5FDC400AF80D4 /* libpixman-1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libpixman-1.0.dylib"; path = "Solitaire/arm64-lib/libpixman-1.0.dylib"; sourceTree = "<group>"; };
+		510E417829C5FDC400AF80D4 /* libfontconfig.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfontconfig.1.dylib; path = "Solitaire/arm64-lib/libfontconfig.1.dylib"; sourceTree = "<group>"; };
+		510E417929C5FDC400AF80D4 /* libgmp.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libgmp.10.dylib; path = "Solitaire/arm64-lib/libgmp.10.dylib"; sourceTree = "<group>"; };
+		510E417A29C5FDC400AF80D4 /* libXext.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libXext.6.dylib; path = "Solitaire/arm64-lib/libXext.6.dylib"; sourceTree = "<group>"; };
+		510E417B29C5FDC400AF80D4 /* libfribidi.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfribidi.0.dylib; path = "Solitaire/arm64-lib/libfribidi.0.dylib"; sourceTree = "<group>"; };
+		510E417C29C5FDC400AF80D4 /* libgtk-3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgtk-3.0.dylib"; path = "Solitaire/arm64-lib/libgtk-3.0.dylib"; sourceTree = "<group>"; };
+		510E417E29C5FDC400AF80D4 /* libgdk-3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgdk-3.0.dylib"; path = "Solitaire/arm64-lib/libgdk-3.0.dylib"; sourceTree = "<group>"; };
+		510E417F29C5FDC400AF80D4 /* libpango-1.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libpango-1.0.0.dylib"; path = "Solitaire/arm64-lib/libpango-1.0.0.dylib"; sourceTree = "<group>"; };
+		510E418029C5FDC400AF80D4 /* libxcb-shm.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libxcb-shm.0.dylib"; path = "Solitaire/arm64-lib/libxcb-shm.0.dylib"; sourceTree = "<group>"; };
+		510E418129C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgdk_pixbuf-2.0.0.dylib"; path = "Solitaire/arm64-lib/libgdk_pixbuf-2.0.0.dylib"; sourceTree = "<group>"; };
+		510E418229C5FDC400AF80D4 /* libepoxy.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libepoxy.0.dylib; path = "Solitaire/arm64-lib/libepoxy.0.dylib"; sourceTree = "<group>"; };
+		510E418329C5FDC400AF80D4 /* libltdl.7.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libltdl.7.dylib; path = "Solitaire/arm64-lib/libltdl.7.dylib"; sourceTree = "<group>"; };
+		510E418429C5FDC400AF80D4 /* libunistring.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libunistring.5.dylib; path = "Solitaire/arm64-lib/libunistring.5.dylib"; sourceTree = "<group>"; };
+		510E418529C5FDC400AF80D4 /* libcairo.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcairo.2.dylib; path = "Solitaire/arm64-lib/libcairo.2.dylib"; sourceTree = "<group>"; };
+		510E418629C5FDC400AF80D4 /* libintl.8.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libintl.8.dylib; path = "Solitaire/arm64-lib/libintl.8.dylib"; sourceTree = "<group>"; };
+		510E418729C5FDC400AF80D4 /* libharfbuzz.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libharfbuzz.0.dylib; path = "Solitaire/arm64-lib/libharfbuzz.0.dylib"; sourceTree = "<group>"; };
+		510E418829C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libpangocairo-1.0.0.dylib"; path = "Solitaire/arm64-lib/libpangocairo-1.0.0.dylib"; sourceTree = "<group>"; };
+		510E418929C5FDC400AF80D4 /* libXrender.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libXrender.1.dylib; path = "Solitaire/arm64-lib/libXrender.1.dylib"; sourceTree = "<group>"; };
+		510E418A29C5FDC400AF80D4 /* libxcb.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxcb.1.dylib; path = "Solitaire/arm64-lib/libxcb.1.dylib"; sourceTree = "<group>"; };
+		510E418B29C5FDC400AF80D4 /* libpcre2-8.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libpcre2-8.0.dylib"; path = "Solitaire/arm64-lib/libpcre2-8.0.dylib"; sourceTree = "<group>"; };
+		510E418C29C5FDC400AF80D4 /* libfreetype.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfreetype.6.dylib; path = "Solitaire/arm64-lib/libfreetype.6.dylib"; sourceTree = "<group>"; };
+		510E418D29C5FDC400AF80D4 /* libgobject-2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libgobject-2.0.0.dylib"; path = "Solitaire/arm64-lib/libgobject-2.0.0.dylib"; sourceTree = "<group>"; };
+		510E418E29C5FDC400AF80D4 /* libglib-2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libglib-2.0.0.dylib"; path = "Solitaire/arm64-lib/libglib-2.0.0.dylib"; sourceTree = "<group>"; };
+		510E418F29C5FDC400AF80D4 /* libatk-1.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libatk-1.0.0.dylib"; path = "Solitaire/arm64-lib/libatk-1.0.0.dylib"; sourceTree = "<group>"; };
+		510E419029C5FDC400AF80D4 /* libX11.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libX11.6.dylib; path = "Solitaire/arm64-lib/libX11.6.dylib"; sourceTree = "<group>"; };
+		510E41DB29C6085B00AF80D4 /* libXau.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libXau.6.dylib; path = "Solitaire/arm64-lib/libXau.6.dylib"; sourceTree = "<group>"; };
+		510E41DE29C6096900AF80D4 /* libXdmcp.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libXdmcp.6.dylib; path = "Solitaire/arm64-lib/libXdmcp.6.dylib"; sourceTree = "<group>"; };
+		510E41E129C6ECA100AF80D4 /* libguile-2.2.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libguile-2.2.1.dylib"; path = "Solitaire/arm64-lib/libguile-2.2.1.dylib"; sourceTree = "<group>"; };
+		5138958829B851830033A0C7 /* Marc Solitaire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Marc Solitaire.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5138959329B851840033A0C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5138959529B851840033A0C7 /* Solitaire.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Solitaire.entitlements; sourceTree = "<group>"; };
+		5138959B29B85BDF0033A0C7 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		5164656A29B8AB8300C2FFBA /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; name = lib; path = ../../../sol/lib; sourceTree = "<group>"; };
+		5164656E29B8ABC000C2FFBA /* share */ = {isa = PBXFileReference; lastKnownFileType = folder; path = share; sourceTree = "<group>"; };
+		5164658F29B8D5F500C2FFBA /* menus.ui */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = menus.ui; sourceTree = "<group>"; };
+		5166217429D1C3F800426F24 /* Firework.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Firework.sks; sourceTree = "<group>"; };
+		5166217629D1C60E00426F24 /* SolWinScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SolWinScene.m; sourceTree = "<group>"; };
+		5166217729D1C60E00426F24 /* SolWinScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SolWinScene.h; sourceTree = "<group>"; };
+		5175B98429B99B260058BCB1 /* SolMenuItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SolMenuItem.m; sourceTree = "<group>"; };
+		5175B98629B99E5E0058BCB1 /* SolMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SolMenuItem.h; sourceTree = "<group>"; };
+		5175B98829B9A7B10058BCB1 /* SolActionDictionary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SolActionDictionary.h; sourceTree = "<group>"; };
+		5175B98929B9A7DC0058BCB1 /* SolActionDictionary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SolActionDictionary.m; sourceTree = "<group>"; };
+		5175B98B29B9B09C0058BCB1 /* SolMenu.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SolMenu.m; sourceTree = "<group>"; };
+		5175B98D29B9B0B60058BCB1 /* SolMenu.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SolMenu.h; sourceTree = "<group>"; };
+		5175B98E29B9CE3F0058BCB1 /* SolMenuBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SolMenuBar.m; sourceTree = "<group>"; };
+		5175B99029B9CE5B0058BCB1 /* SolMenuBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SolMenuBar.h; sourceTree = "<group>"; };
+		519A1E1A29CB0A1E00BE411C /* doublets.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = doublets.scm; sourceTree = "<group>"; };
+		519A1E1B29CB0A1E00BE411C /* camelot.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = camelot.scm; sourceTree = "<group>"; };
+		519A1E1C29CB0A1E00BE411C /* osmosis.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = osmosis.scm; sourceTree = "<group>"; };
+		519A1E1D29CB0A1E00BE411C /* gaps.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gaps.scm; sourceTree = "<group>"; };
+		519A1E1E29CB0A1E00BE411C /* clock.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = clock.scm; sourceTree = "<group>"; };
+		519A1E1F29CB0A1E00BE411C /* first-law.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "first-law.scm"; sourceTree = "<group>"; };
+		519A1E2029CB0A1E00BE411C /* maze.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = maze.scm; sourceTree = "<group>"; };
+		519A1E2129CB0A1E00BE411C /* easthaven.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = easthaven.scm; sourceTree = "<group>"; };
+		519A1E2229CB0A1E00BE411C /* bakers-game.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bakers-game.scm"; sourceTree = "<group>"; };
+		519A1E2329CB0A1E00BE411C /* valentine.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = valentine.scm; sourceTree = "<group>"; };
+		519A1E2429CB0A1E00BE411C /* bear-river.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bear-river.scm"; sourceTree = "<group>"; };
+		519A1E2529CB0A1E00BE411C /* cover.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cover.scm; sourceTree = "<group>"; };
+		519A1E2629CB0A1E00BE411C /* wall.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wall.scm; sourceTree = "<group>"; };
+		519A1E2729CB0A1E00BE411C /* beleaguered-castle.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "beleaguered-castle.scm"; sourceTree = "<group>"; };
+		519A1E2829CB0A1E00BE411C /* westhaven.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = westhaven.scm; sourceTree = "<group>"; };
+		519A1E2929CB0A1E00BE411C /* yukon.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = yukon.scm; sourceTree = "<group>"; };
+		519A1E2A29CB0A1E00BE411C /* scuffle.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = scuffle.scm; sourceTree = "<group>"; };
+		519A1E2B29CB0A1E00BE411C /* giant.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = giant.scm; sourceTree = "<group>"; };
+		519A1E2C29CB0A1E00BE411C /* escalator.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = escalator.scm; sourceTree = "<group>"; };
+		519A1E2D29CB0A1E00BE411C /* terrace.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = terrace.scm; sourceTree = "<group>"; };
+		519A1E2E29CB0A1E00BE411C /* spiderette.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = spiderette.scm; sourceTree = "<group>"; };
+		519A1E2F29CB0A1E00BE411C /* gold-mine.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "gold-mine.scm"; sourceTree = "<group>"; };
+		519A1E3029CB0A1E00BE411C /* elevator.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = elevator.scm; sourceTree = "<group>"; };
+		519A1E3129CB0A1E00BE411C /* odessa.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = odessa.scm; sourceTree = "<group>"; };
+		519A1E3229CB0A1E00BE411C /* whitehead.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = whitehead.scm; sourceTree = "<group>"; };
+		519A1E3329CB0A1E00BE411C /* aunt-mary.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "aunt-mary.scm"; sourceTree = "<group>"; };
+		519A1E3429CB0A1E00BE411C /* fortress.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fortress.scm; sourceTree = "<group>"; };
+		519A1E3529CB0A1E00BE411C /* klondike.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = klondike.scm; sourceTree = "<group>"; };
+		519A1E3629CB0A1E00BE411C /* eagle-wing.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "eagle-wing.scm"; sourceTree = "<group>"; };
+		519A1E3729CB0A1E00BE411C /* golf.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = golf.scm; sourceTree = "<group>"; };
+		519A1E3829CB0A1E00BE411C /* bristol.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bristol.scm; sourceTree = "<group>"; };
+		519A1E3929CB0A1E00BE411C /* agnes.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = agnes.scm; sourceTree = "<group>"; };
+		519A1E3A29CB0A1E00BE411C /* canfield.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = canfield.scm; sourceTree = "<group>"; };
+		519A1E3B29CB0A1E00BE411C /* scorpion.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = scorpion.scm; sourceTree = "<group>"; };
+		519A1E3C29CB0A1E00BE411C /* king-albert.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "king-albert.scm"; sourceTree = "<group>"; };
+		519A1E3D29CB0A1E00BE411C /* treize.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = treize.scm; sourceTree = "<group>"; };
+		519A1E3E29CB0A1E00BE411C /* api.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = api.scm; sourceTree = "<group>"; };
+		519A1E3F29CB0A1E00BE411C /* napoleons-tomb.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "napoleons-tomb.scm"; sourceTree = "<group>"; };
+		519A1E4029CB0A1E00BE411C /* cruel.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cruel.scm; sourceTree = "<group>"; };
+		519A1E4129CB0A1E00BE411C /* lady-jane.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "lady-jane.scm"; sourceTree = "<group>"; };
+		519A1E4229CB0A1E00BE411C /* straight-up.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "straight-up.scm"; sourceTree = "<group>"; };
+		519A1E4329CB0A1E00BE411C /* peek.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = peek.scm; sourceTree = "<group>"; };
+		519A1E4629CB0A1E00BE411C /* eight-off.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "eight-off.scm"; sourceTree = "<group>"; };
+		519A1E4729CB0A1E00BE411C /* kansas.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = kansas.scm; sourceTree = "<group>"; };
+		519A1E4929CB0A1E00BE411C /* yield.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = yield.scm; sourceTree = "<group>"; };
+		519A1E4A29CB0A1E00BE411C /* seahaven.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = seahaven.scm; sourceTree = "<group>"; };
+		519A1E4B29CB0A1E00BE411C /* backbone.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = backbone.scm; sourceTree = "<group>"; };
+		519A1E4C29CB0A1E00BE411C /* isabel.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = isabel.scm; sourceTree = "<group>"; };
+		519A1E4D29CB0A1E00BE411C /* kings-audience.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "kings-audience.scm"; sourceTree = "<group>"; };
+		519A1E4E29CB0A1E00BE411C /* jumbo.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jumbo.scm; sourceTree = "<group>"; };
+		519A1E4F29CB0A1E00BE411C /* eliminator.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = eliminator.scm; sourceTree = "<group>"; };
+		519A1E5029CB0A1E00BE411C /* helsinki.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = helsinki.scm; sourceTree = "<group>"; };
+		519A1E5129CB0A1E00BE411C /* poker.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = poker.scm; sourceTree = "<group>"; };
+		519A1E5229CB0A1E00BE411C /* freecell.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = freecell.scm; sourceTree = "<group>"; };
+		519A1E5329CB0A1E00BE411C /* bakers-dozen.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bakers-dozen.scm"; sourceTree = "<group>"; };
+		519A1E5429CB0A1E00BE411C /* glenwood.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = glenwood.scm; sourceTree = "<group>"; };
+		519A1E5529CB0A1E00BE411C /* hamilton.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hamilton.scm; sourceTree = "<group>"; };
+		519A1E5629CB0A1E00BE411C /* thirteen.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = thirteen.scm; sourceTree = "<group>"; };
+		519A1E5729CB0A1E00BE411C /* neighbor.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = neighbor.scm; sourceTree = "<group>"; };
+		519A1E5829CB0A1E00BE411C /* quatorze.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = quatorze.scm; sourceTree = "<group>"; };
+		519A1E5929CB0A1E00BE411C /* athena.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = athena.scm; sourceTree = "<group>"; };
+		519A1E5A29CB0A1E00BE411C /* sir-tommy.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "sir-tommy.scm"; sourceTree = "<group>"; };
+		519A1E5B29CB0A1E00BE411C /* spider.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = spider.scm; sourceTree = "<group>"; };
+		519A1E5C29CB0A1E00BE411C /* royal-east.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "royal-east.scm"; sourceTree = "<group>"; };
+		519A1E5D29CB0A1E00BE411C /* carpet.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = carpet.scm; sourceTree = "<group>"; };
+		519A1E5E29CB0A1E00BE411C /* monte-carlo.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "monte-carlo.scm"; sourceTree = "<group>"; };
+		519A1E5F29CB0A1E00BE411C /* gay-gordons.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "gay-gordons.scm"; sourceTree = "<group>"; };
+		519A1E6029CB0A1E00BE411C /* union-square.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "union-square.scm"; sourceTree = "<group>"; };
+		519A1E6129CB0A1E00BE411C /* thumb-and-pouch.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "thumb-and-pouch.scm"; sourceTree = "<group>"; };
+		519A1E6229CB0A1E00BE411C /* will-o-the-wisp.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "will-o-the-wisp.scm"; sourceTree = "<group>"; };
+		519A1E6329CB0A1E00BE411C /* thieves.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = thieves.scm; sourceTree = "<group>"; };
+		519A1E6429CB0A1E00BE411C /* plait.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = plait.scm; sourceTree = "<group>"; };
+		519A1E6629CB0A1E00BE411C /* saratoga.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = saratoga.scm; sourceTree = "<group>"; };
+		519A1E6729CB0A1E00BE411C /* streets-and-alleys.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "streets-and-alleys.scm"; sourceTree = "<group>"; };
+		519A1E6829CB0A1E00BE411C /* block-ten.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "block-ten.scm"; sourceTree = "<group>"; };
+		519A1E6929CB0A1E00BE411C /* pileon.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pileon.scm; sourceTree = "<group>"; };
+		519A1E6A29CB0A1E00BE411C /* zebra.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zebra.scm; sourceTree = "<group>"; };
+		519A1E6C29CB0A1E00BE411C /* diamond-mine.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "diamond-mine.scm"; sourceTree = "<group>"; };
+		519A1E6D29CB0A1E00BE411C /* accordion.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = accordion.scm; sourceTree = "<group>"; };
+		519A1E6E29CB0A1E00BE411C /* auld-lang-syne.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "auld-lang-syne.scm"; sourceTree = "<group>"; };
+		519A1E6F29CB0A1E00BE411C /* jamestown.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jamestown.scm; sourceTree = "<group>"; };
+		519A1E7029CB0A1E00BE411C /* gypsy.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gypsy.scm; sourceTree = "<group>"; };
+		519A1E7129CB0A1E00BE411C /* chessboard.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chessboard.scm; sourceTree = "<group>"; };
+		519A1E7229CB0A1E00BE411C /* fortunes.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fortunes.scm; sourceTree = "<group>"; };
+		519A1E7329CB0A1E00BE411C /* spider-three-decks.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "spider-three-decks.scm"; sourceTree = "<group>"; };
+		519A1E7429CB0A1E00BE411C /* ten-across.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ten-across.scm"; sourceTree = "<group>"; };
+		519A1E7529CB0A1E00BE411C /* triple-peaks.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "triple-peaks.scm"; sourceTree = "<group>"; };
+		519A1E7629CB0A1E00BE411C /* labyrinth.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = labyrinth.scm; sourceTree = "<group>"; };
+		519A1E7729CB0A1E00BE411C /* fourteen.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fourteen.scm; sourceTree = "<group>"; };
+		519A1E7829CB0A1E00BE411C /* forty-thieves.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "forty-thieves.scm"; sourceTree = "<group>"; };
+		519A1E7929CB0A1E00BE411C /* hopscotch.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hopscotch.scm; sourceTree = "<group>"; };
+		519A1EDB29CB150600BE411C /* aisleriot.supp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = aisleriot.supp; path = ../../../sol/lib/valgrind/aisleriot.supp; sourceTree = "<group>"; };
+		51A9273A29B85FDB0012D2BA /* ar-stock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-stock.h"; sourceTree = "<group>"; };
+		51A9273B29B85FDB0012D2BA /* game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = game.m; sourceTree = "<group>"; };
+		51A9273C29B85FDB0012D2BA /* ar-style-gtk.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-style-gtk.c"; sourceTree = "<group>"; };
+		51A9273D29B85FDB0012D2BA /* sol.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sol.c; sourceTree = "<group>"; };
+		51A9273E29B85FDB0012D2BA /* ar-cursor.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-cursor.c"; sourceTree = "<group>"; };
+		51A9273F29B85FDB0012D2BA /* util.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = util.c; sourceTree = "<group>"; };
+		51A9274029B85FDB0012D2BA /* ar-clock.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-clock.c"; sourceTree = "<group>"; };
+		51A9274129B85FDB0012D2BA /* ar-style-private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-style-private.h"; sourceTree = "<group>"; };
+		51A9274229B85FDB0012D2BA /* stats-dialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "stats-dialog.h"; sourceTree = "<group>"; };
+		51A9274329B85FDB0012D2BA /* aisleriot.gresource.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = aisleriot.gresource.xml; sourceTree = "<group>"; };
+		51A9274529B85FDB0012D2BA /* ar-application.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-application.c"; sourceTree = "<group>"; };
+		51A9274629B85FDB0012D2BA /* conf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = conf.h; sourceTree = "<group>"; };
+		51A9274729B85FDB0012D2BA /* board-noclutter.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "board-noclutter.c"; sourceTree = "<group>"; };
+		51A9274829B85FDB0012D2BA /* window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = window.h; sourceTree = "<group>"; };
+		51A9274929B85FDB0012D2BA /* aisleriot.schemas.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = aisleriot.schemas.in; sourceTree = "<group>"; };
+		51A9274A29B85FDB0012D2BA /* aisleriot.gresource.xml.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = aisleriot.gresource.xml.in; sourceTree = "<group>"; };
+		51A9274B29B85FDB0012D2BA /* ar-game-chooser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-game-chooser.h"; sourceTree = "<group>"; };
+		51A9274C29B85FDB0012D2BA /* ar-resources.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-resources.h"; sourceTree = "<group>"; };
+		51A9274D29B85FDB0012D2BA /* ar-style.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-style.h"; sourceTree = "<group>"; };
+		51A9274E29B85FDB0012D2BA /* aisleriot-ui.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "aisleriot-ui.xml"; sourceTree = "<group>"; };
+		51A9275129B85FDB0012D2BA /* game-names.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "game-names.h"; sourceTree = "<group>"; };
+		51A9275229B85FDB0012D2BA /* sol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sol.h; sourceTree = "<group>"; };
+		51A9275329B85FDB0012D2BA /* ar-style-gtk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-style-gtk.h"; sourceTree = "<group>"; };
+		51A9275429B85FDB0012D2BA /* game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
+		51A9275529B85FDB0012D2BA /* ar-stock.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-stock.c"; sourceTree = "<group>"; };
+		51A9275629B85FDB0012D2BA /* ar-clock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-clock.h"; sourceTree = "<group>"; };
+		51A9275729B85FDB0012D2BA /* stats-dialog.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "stats-dialog.c"; sourceTree = "<group>"; };
+		51A9275829B85FDB0012D2BA /* util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = util.h; sourceTree = "<group>"; };
+		51A9275A29B85FDB0012D2BA /* ar-show.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-show.h"; sourceTree = "<group>"; };
+		51A9275B29B85FDB0012D2BA /* ar-help.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-help.c"; sourceTree = "<group>"; };
+		51A9275D29B85FDB0012D2BA /* ar-card-theme-private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card-theme-private.h"; sourceTree = "<group>"; };
+		51A9275F29B85FDB0012D2BA /* ar-card.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card.c"; sourceTree = "<group>"; };
+		51A9276029B85FDB0012D2BA /* ar-gsettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ar-gsettings.m"; sourceTree = "<group>"; };
+		51A9276129B85FDB0012D2BA /* ar-card-theme-svg.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card-theme-svg.c"; sourceTree = "<group>"; };
+		51A9276229B85FDB0012D2BA /* ar-sound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-sound.h"; sourceTree = "<group>"; };
+		51A9276329B85FDB0012D2BA /* ar-card-theme.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card-theme.c"; sourceTree = "<group>"; };
+		51A9276429B85FDB0012D2BA /* ar-marshal.list */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ar-marshal.list"; sourceTree = "<group>"; };
+		51A9276629B85FDB0012D2BA /* ar-conf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ar-conf.m"; sourceTree = "<group>"; };
+		51A9276729B85FDB0012D2BA /* ar-string-utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-string-utils.h"; sourceTree = "<group>"; };
+		51A9276829B85FDB0012D2BA /* ar-profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-profile.h"; sourceTree = "<group>"; };
+		51A9276929B85FDB0012D2BA /* ar-debug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-debug.h"; sourceTree = "<group>"; };
+		51A9276A29B85FDB0012D2BA /* ar-card-surface-cache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card-surface-cache.h"; sourceTree = "<group>"; };
+		51A9276C29B85FDB0012D2BA /* ar-runtime.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-runtime.c"; sourceTree = "<group>"; };
+		51A9276D29B85FDB0012D2BA /* ar-marshal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-marshal.h"; sourceTree = "<group>"; };
+		51A9276E29B85FDB0012D2BA /* ar-card-themes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card-themes.h"; sourceTree = "<group>"; };
+		51A9276F29B85FDB0012D2BA /* ar-svg.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-svg.c"; sourceTree = "<group>"; };
+		51A9277029B85FDB0012D2BA /* ar-card-theme-preimage.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card-theme-preimage.c"; sourceTree = "<group>"; };
+		51A9277129B85FDB0012D2BA /* ar-card-private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card-private.h"; sourceTree = "<group>"; };
+		51A9277429B85FDB0012D2BA /* ar-help.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-help.h"; sourceTree = "<group>"; };
+		51A9277529B85FDB0012D2BA /* ar-show.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-show.c"; sourceTree = "<group>"; };
+		51A9277629B85FDB0012D2BA /* ar-gsettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-gsettings.h"; sourceTree = "<group>"; };
+		51A9277729B85FDB0012D2BA /* ar-card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card.h"; sourceTree = "<group>"; };
+		51A9277929B85FDB0012D2BA /* ar-card-surface-cache.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card-surface-cache.c"; sourceTree = "<group>"; };
+		51A9277A29B85FDB0012D2BA /* ar-debug.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-debug.c"; sourceTree = "<group>"; };
+		51A9277B29B85FDB0012D2BA /* ar-profile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-profile.c"; sourceTree = "<group>"; };
+		51A9277C29B85FDB0012D2BA /* ar-conf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-conf.h"; sourceTree = "<group>"; };
+		51A9277D29B85FDB0012D2BA /* ar-string-utils.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-string-utils.c"; sourceTree = "<group>"; };
+		51A9277E29B85FDB0012D2BA /* ar-sound.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-sound.c"; sourceTree = "<group>"; };
+		51A9277F29B85FDB0012D2BA /* ar-card-theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-card-theme.h"; sourceTree = "<group>"; };
+		51A9278129B85FDB0012D2BA /* ar-card-themes.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-card-themes.c"; sourceTree = "<group>"; };
+		51A9278229B85FDB0012D2BA /* ar-marshal.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-marshal.c"; sourceTree = "<group>"; };
+		51A9278429B85FDB0012D2BA /* ar-svg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-svg.h"; sourceTree = "<group>"; };
+		51A9278529B85FDB0012D2BA /* ar-runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-runtime.h"; sourceTree = "<group>"; };
+		51A9278729B85FDB0012D2BA /* ar-cursor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-cursor.h"; sourceTree = "<group>"; };
+		51A9278829B85FDB0012D2BA /* conf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = conf.c; sourceTree = "<group>"; };
+		51A9278929B85FDB0012D2BA /* ar-application.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-application.h"; sourceTree = "<group>"; };
+		51A9278A29B85FDB0012D2BA /* board-noclutter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "board-noclutter.h"; sourceTree = "<group>"; };
+		51A9278B29B85FDB0012D2BA /* ar-style.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-style.c"; sourceTree = "<group>"; };
+		51A9278C29B85FDB0012D2BA /* ar-game-chooser.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-game-chooser.c"; sourceTree = "<group>"; };
+		51A9278D29B85FDB0012D2BA /* aisleriot-debug-ui.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "aisleriot-debug-ui.xml"; sourceTree = "<group>"; };
+		51A9278E29B85FDB0012D2BA /* ar-resources.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-resources.c"; sourceTree = "<group>"; };
+		51A9278F29B85FDB0012D2BA /* window.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = window.m; sourceTree = "<group>"; tabWidth = 2; };
+		51A9279029B85FDB0012D2BA /* help-overlay.ui */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "help-overlay.ui"; sourceTree = "<group>"; };
+		51B9270629C54E80003B36AE /* Credits.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Credits.rtf; sourceTree = "<group>"; };
+		51B9271029C5FD73003B36AE /* libcairo-gobject.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libcairo-gobject.2.dylib"; path = "Solitaire/arm64-lib/libcairo-gobject.2.dylib"; sourceTree = "<group>"; };
+		51C15ED429D441E6000D581B /* SolFinishEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SolFinishEffects.h; sourceTree = "<group>"; };
+		51C15ED529D441E6000D581B /* SolFinishEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SolFinishEffects.m; sourceTree = "<group>"; };
+		51C5BDFB29BF67DA00355AD1 /* SolFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SolFileManager.h; sourceTree = "<group>"; };
+		51C5BDFC29BF67DA00355AD1 /* SolFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SolFileManager.m; sourceTree = "<group>"; };
+		51C5BE0029C0093400355AD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		51EEFACA29D10350000F310B /* SolLostEffect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SolLostEffect.m; sourceTree = "<group>"; };
+		51EEFACC29D103E5000F310B /* SolLostEffect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SolLostEffect.h; sourceTree = "<group>"; };
+		51F95DED29CB2AFD002B888B /* org.pazolli.Solitaire.gschema.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = org.pazolli.Solitaire.gschema.xml; sourceTree = "<group>"; };
+		51F95DEF29CB2B3D002B888B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		51F95DF629CFCACE002B888B /* Solitaire.help */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Solitaire.help; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5138958529B851830033A0C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				510E419129C5FDC400AF80D4 /* libgio-2.0.0.dylib in Frameworks */,
+				510E419229C5FDC400AF80D4 /* libjpeg.8.dylib in Frameworks */,
+				510E419329C5FDC400AF80D4 /* libxcb-render.0.dylib in Frameworks */,
+				510E419429C5FDC400AF80D4 /* libgraphite2.3.dylib in Frameworks */,
+				510E419529C5FDC400AF80D4 /* libgmodule-2.0.0.dylib in Frameworks */,
+				510E419629C5FDC400AF80D4 /* librsvg-2.2.dylib in Frameworks */,
+				510E419729C5FDC400AF80D4 /* libgc.1.dylib in Frameworks */,
+				510E419829C5FDC400AF80D4 /* libpng16.16.dylib in Frameworks */,
+				510E419929C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib in Frameworks */,
+				510E419A29C5FDC400AF80D4 /* libpixman-1.0.dylib in Frameworks */,
+				510E419B29C5FDC400AF80D4 /* libfontconfig.1.dylib in Frameworks */,
+				510E419C29C5FDC400AF80D4 /* libgmp.10.dylib in Frameworks */,
+				510E419D29C5FDC400AF80D4 /* libXext.6.dylib in Frameworks */,
+				510E419E29C5FDC400AF80D4 /* libfribidi.0.dylib in Frameworks */,
+				510E419F29C5FDC400AF80D4 /* libgtk-3.0.dylib in Frameworks */,
+				510E41DC29C6085B00AF80D4 /* libXau.6.dylib in Frameworks */,
+				510E41A129C5FDC400AF80D4 /* libgdk-3.0.dylib in Frameworks */,
+				510E41A229C5FDC400AF80D4 /* libpango-1.0.0.dylib in Frameworks */,
+				510E41A329C5FDC400AF80D4 /* libxcb-shm.0.dylib in Frameworks */,
+				510E41A429C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib in Frameworks */,
+				510E41A529C5FDC400AF80D4 /* libepoxy.0.dylib in Frameworks */,
+				510E41A629C5FDC400AF80D4 /* libltdl.7.dylib in Frameworks */,
+				510E41A729C5FDC400AF80D4 /* libunistring.5.dylib in Frameworks */,
+				510E41A829C5FDC400AF80D4 /* libcairo.2.dylib in Frameworks */,
+				510E41A929C5FDC400AF80D4 /* libintl.8.dylib in Frameworks */,
+				510E41AA29C5FDC400AF80D4 /* libharfbuzz.0.dylib in Frameworks */,
+				510E41AB29C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib in Frameworks */,
+				510E41AC29C5FDC400AF80D4 /* libXrender.1.dylib in Frameworks */,
+				510E41AD29C5FDC400AF80D4 /* libxcb.1.dylib in Frameworks */,
+				510E41AE29C5FDC400AF80D4 /* libpcre2-8.0.dylib in Frameworks */,
+				510E41DF29C6096900AF80D4 /* libXdmcp.6.dylib in Frameworks */,
+				510E41AF29C5FDC400AF80D4 /* libfreetype.6.dylib in Frameworks */,
+				510E41B029C5FDC400AF80D4 /* libgobject-2.0.0.dylib in Frameworks */,
+				510E41B129C5FDC400AF80D4 /* libglib-2.0.0.dylib in Frameworks */,
+				510E41B229C5FDC400AF80D4 /* libatk-1.0.0.dylib in Frameworks */,
+				510E41E229C6ECA100AF80D4 /* libguile-2.2.1.dylib in Frameworks */,
+				510E41B329C5FDC400AF80D4 /* libX11.6.dylib in Frameworks */,
+				510E416D29C5FDC300AF80D4 /* libcairo-gobject.2.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5138957F29B851830033A0C7 = {
+			isa = PBXGroup;
+			children = (
+				51F95DEF29CB2B3D002B888B /* .gitignore */,
+				5138958A29B851830033A0C7 /* Solitaire */,
+				5138958929B851830033A0C7 /* Products */,
+				51B9270F29C5FD73003B36AE /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		5138958929B851830033A0C7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5138958829B851830033A0C7 /* Marc Solitaire.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5138958A29B851830033A0C7 /* Solitaire */ = {
+			isa = PBXGroup;
+			children = (
+				51F95DF629CFCACE002B888B /* Solitaire.help */,
+				5164656E29B8ABC000C2FFBA /* share */,
+				5164656A29B8AB8300C2FFBA /* lib */,
+				5138959B29B85BDF0033A0C7 /* config.h */,
+				519A1EDE29CB15F800BE411C /* games-api */,
+				519A1E1929CB0A1E00BE411C /* games */,
+				51A9273929B85FDB0012D2BA /* src */,
+				51F95DF029CB2DEA002B888B /* schemas */,
+				519A1EDB29CB150600BE411C /* aisleriot.supp */,
+				51C5BE0029C0093400355AD1 /* Assets.xcassets */,
+				5138959329B851840033A0C7 /* main.m */,
+				51B9270629C54E80003B36AE /* Credits.rtf */,
+				5138959529B851840033A0C7 /* Solitaire.entitlements */,
+				5166217429D1C3F800426F24 /* Firework.sks */,
+			);
+			path = Solitaire;
+			sourceTree = "<group>";
+		};
+		5175B98329B99AEC0058BCB1 /* cocoa */ = {
+			isa = PBXGroup;
+			children = (
+				51C5BDFB29BF67DA00355AD1 /* SolFileManager.h */,
+				51C5BDFC29BF67DA00355AD1 /* SolFileManager.m */,
+				5175B98629B99E5E0058BCB1 /* SolMenuItem.h */,
+				5175B98429B99B260058BCB1 /* SolMenuItem.m */,
+				5175B98829B9A7B10058BCB1 /* SolActionDictionary.h */,
+				5175B98929B9A7DC0058BCB1 /* SolActionDictionary.m */,
+				5175B98D29B9B0B60058BCB1 /* SolMenu.h */,
+				5175B98B29B9B09C0058BCB1 /* SolMenu.m */,
+				5175B99029B9CE5B0058BCB1 /* SolMenuBar.h */,
+				5175B98E29B9CE3F0058BCB1 /* SolMenuBar.m */,
+				51EEFACC29D103E5000F310B /* SolLostEffect.h */,
+				51EEFACA29D10350000F310B /* SolLostEffect.m */,
+				5166217729D1C60E00426F24 /* SolWinScene.h */,
+				5166217629D1C60E00426F24 /* SolWinScene.m */,
+				51C15ED429D441E6000D581B /* SolFinishEffects.h */,
+				51C15ED529D441E6000D581B /* SolFinishEffects.m */,
+			);
+			path = cocoa;
+			sourceTree = "<group>";
+		};
+		519A1E1929CB0A1E00BE411C /* games */ = {
+			isa = PBXGroup;
+			children = (
+				519A1E1A29CB0A1E00BE411C /* doublets.scm */,
+				519A1E1B29CB0A1E00BE411C /* camelot.scm */,
+				519A1E1C29CB0A1E00BE411C /* osmosis.scm */,
+				519A1E1D29CB0A1E00BE411C /* gaps.scm */,
+				519A1E1E29CB0A1E00BE411C /* clock.scm */,
+				519A1E1F29CB0A1E00BE411C /* first-law.scm */,
+				519A1E2029CB0A1E00BE411C /* maze.scm */,
+				519A1E2129CB0A1E00BE411C /* easthaven.scm */,
+				519A1E2229CB0A1E00BE411C /* bakers-game.scm */,
+				519A1E2329CB0A1E00BE411C /* valentine.scm */,
+				519A1E2429CB0A1E00BE411C /* bear-river.scm */,
+				519A1E2529CB0A1E00BE411C /* cover.scm */,
+				519A1E2629CB0A1E00BE411C /* wall.scm */,
+				519A1E2729CB0A1E00BE411C /* beleaguered-castle.scm */,
+				519A1E2829CB0A1E00BE411C /* westhaven.scm */,
+				519A1E2929CB0A1E00BE411C /* yukon.scm */,
+				519A1E2A29CB0A1E00BE411C /* scuffle.scm */,
+				519A1E2B29CB0A1E00BE411C /* giant.scm */,
+				519A1E2C29CB0A1E00BE411C /* escalator.scm */,
+				519A1E2D29CB0A1E00BE411C /* terrace.scm */,
+				519A1E2E29CB0A1E00BE411C /* spiderette.scm */,
+				519A1E2F29CB0A1E00BE411C /* gold-mine.scm */,
+				519A1E3029CB0A1E00BE411C /* elevator.scm */,
+				519A1E3129CB0A1E00BE411C /* odessa.scm */,
+				519A1E3229CB0A1E00BE411C /* whitehead.scm */,
+				519A1E3329CB0A1E00BE411C /* aunt-mary.scm */,
+				519A1E3429CB0A1E00BE411C /* fortress.scm */,
+				519A1E3529CB0A1E00BE411C /* klondike.scm */,
+				519A1E3629CB0A1E00BE411C /* eagle-wing.scm */,
+				519A1E3729CB0A1E00BE411C /* golf.scm */,
+				519A1E3829CB0A1E00BE411C /* bristol.scm */,
+				519A1E3929CB0A1E00BE411C /* agnes.scm */,
+				519A1E3A29CB0A1E00BE411C /* canfield.scm */,
+				519A1E3B29CB0A1E00BE411C /* scorpion.scm */,
+				519A1E3C29CB0A1E00BE411C /* king-albert.scm */,
+				519A1E3D29CB0A1E00BE411C /* treize.scm */,
+				519A1E3F29CB0A1E00BE411C /* napoleons-tomb.scm */,
+				519A1E4029CB0A1E00BE411C /* cruel.scm */,
+				519A1E4129CB0A1E00BE411C /* lady-jane.scm */,
+				519A1E4229CB0A1E00BE411C /* straight-up.scm */,
+				519A1E4329CB0A1E00BE411C /* peek.scm */,
+				519A1E4629CB0A1E00BE411C /* eight-off.scm */,
+				519A1E4729CB0A1E00BE411C /* kansas.scm */,
+				519A1E4929CB0A1E00BE411C /* yield.scm */,
+				519A1E4A29CB0A1E00BE411C /* seahaven.scm */,
+				519A1E4B29CB0A1E00BE411C /* backbone.scm */,
+				519A1E4C29CB0A1E00BE411C /* isabel.scm */,
+				519A1E4D29CB0A1E00BE411C /* kings-audience.scm */,
+				519A1E4E29CB0A1E00BE411C /* jumbo.scm */,
+				519A1E4F29CB0A1E00BE411C /* eliminator.scm */,
+				519A1E5029CB0A1E00BE411C /* helsinki.scm */,
+				519A1E5129CB0A1E00BE411C /* poker.scm */,
+				519A1E5229CB0A1E00BE411C /* freecell.scm */,
+				519A1E5329CB0A1E00BE411C /* bakers-dozen.scm */,
+				519A1E5429CB0A1E00BE411C /* glenwood.scm */,
+				519A1E5529CB0A1E00BE411C /* hamilton.scm */,
+				519A1E5629CB0A1E00BE411C /* thirteen.scm */,
+				519A1E5729CB0A1E00BE411C /* neighbor.scm */,
+				519A1E5829CB0A1E00BE411C /* quatorze.scm */,
+				519A1E5929CB0A1E00BE411C /* athena.scm */,
+				519A1E5A29CB0A1E00BE411C /* sir-tommy.scm */,
+				519A1E5B29CB0A1E00BE411C /* spider.scm */,
+				519A1E5C29CB0A1E00BE411C /* royal-east.scm */,
+				519A1E5D29CB0A1E00BE411C /* carpet.scm */,
+				519A1E5E29CB0A1E00BE411C /* monte-carlo.scm */,
+				519A1E5F29CB0A1E00BE411C /* gay-gordons.scm */,
+				519A1E6029CB0A1E00BE411C /* union-square.scm */,
+				519A1E6129CB0A1E00BE411C /* thumb-and-pouch.scm */,
+				519A1E6229CB0A1E00BE411C /* will-o-the-wisp.scm */,
+				519A1E6329CB0A1E00BE411C /* thieves.scm */,
+				519A1E6429CB0A1E00BE411C /* plait.scm */,
+				519A1E6629CB0A1E00BE411C /* saratoga.scm */,
+				519A1E6729CB0A1E00BE411C /* streets-and-alleys.scm */,
+				519A1E6E29CB0A1E00BE411C /* auld-lang-syne.scm */,
+				519A1E6829CB0A1E00BE411C /* block-ten.scm */,
+				519A1E6929CB0A1E00BE411C /* pileon.scm */,
+				519A1E6A29CB0A1E00BE411C /* zebra.scm */,
+				519A1E6C29CB0A1E00BE411C /* diamond-mine.scm */,
+				519A1E6D29CB0A1E00BE411C /* accordion.scm */,
+				519A1E6F29CB0A1E00BE411C /* jamestown.scm */,
+				519A1E7029CB0A1E00BE411C /* gypsy.scm */,
+				519A1E7129CB0A1E00BE411C /* chessboard.scm */,
+				519A1E7229CB0A1E00BE411C /* fortunes.scm */,
+				519A1E7329CB0A1E00BE411C /* spider-three-decks.scm */,
+				519A1E7429CB0A1E00BE411C /* ten-across.scm */,
+				519A1E7529CB0A1E00BE411C /* triple-peaks.scm */,
+				519A1E7629CB0A1E00BE411C /* labyrinth.scm */,
+				519A1E7729CB0A1E00BE411C /* fourteen.scm */,
+				519A1E7829CB0A1E00BE411C /* forty-thieves.scm */,
+				519A1E7929CB0A1E00BE411C /* hopscotch.scm */,
+			);
+			path = games;
+			sourceTree = "<group>";
+		};
+		519A1EDE29CB15F800BE411C /* games-api */ = {
+			isa = PBXGroup;
+			children = (
+				519A1E3E29CB0A1E00BE411C /* api.scm */,
+			);
+			path = "games-api";
+			sourceTree = "<group>";
+		};
+		51A9273929B85FDB0012D2BA /* src */ = {
+			isa = PBXGroup;
+			children = (
+				5175B98329B99AEC0058BCB1 /* cocoa */,
+				51A9275929B85FDB0012D2BA /* lib */,
+				51A9278929B85FDB0012D2BA /* ar-application.h */,
+				51A9274529B85FDB0012D2BA /* ar-application.c */,
+				51A9275629B85FDB0012D2BA /* ar-clock.h */,
+				51A9274029B85FDB0012D2BA /* ar-clock.c */,
+				51A9278729B85FDB0012D2BA /* ar-cursor.h */,
+				51A9273E29B85FDB0012D2BA /* ar-cursor.c */,
+				51A9274B29B85FDB0012D2BA /* ar-game-chooser.h */,
+				51A9278C29B85FDB0012D2BA /* ar-game-chooser.c */,
+				51A9274C29B85FDB0012D2BA /* ar-resources.h */,
+				51A9278E29B85FDB0012D2BA /* ar-resources.c */,
+				51A9273A29B85FDB0012D2BA /* ar-stock.h */,
+				51A9275529B85FDB0012D2BA /* ar-stock.c */,
+				51A9275329B85FDB0012D2BA /* ar-style-gtk.h */,
+				51A9273C29B85FDB0012D2BA /* ar-style-gtk.c */,
+				51A9274129B85FDB0012D2BA /* ar-style-private.h */,
+				51A9274D29B85FDB0012D2BA /* ar-style.h */,
+				51A9278B29B85FDB0012D2BA /* ar-style.c */,
+				51A9278A29B85FDB0012D2BA /* board-noclutter.h */,
+				51A9274729B85FDB0012D2BA /* board-noclutter.c */,
+				51A9275429B85FDB0012D2BA /* game.h */,
+				51A9275129B85FDB0012D2BA /* game-names.h */,
+				51A9273B29B85FDB0012D2BA /* game.m */,
+				51A9275229B85FDB0012D2BA /* sol.h */,
+				51A9273D29B85FDB0012D2BA /* sol.c */,
+				51A9274229B85FDB0012D2BA /* stats-dialog.h */,
+				51A9275729B85FDB0012D2BA /* stats-dialog.c */,
+				51A9274829B85FDB0012D2BA /* window.h */,
+				51A9278F29B85FDB0012D2BA /* window.m */,
+				51A9275829B85FDB0012D2BA /* util.h */,
+				51A9273F29B85FDB0012D2BA /* util.c */,
+				51A9274629B85FDB0012D2BA /* conf.h */,
+				51A9278829B85FDB0012D2BA /* conf.c */,
+				51A9274329B85FDB0012D2BA /* aisleriot.gresource.xml */,
+				51A9274929B85FDB0012D2BA /* aisleriot.schemas.in */,
+				51A9274A29B85FDB0012D2BA /* aisleriot.gresource.xml.in */,
+				51A9274E29B85FDB0012D2BA /* aisleriot-ui.xml */,
+				51A9278D29B85FDB0012D2BA /* aisleriot-debug-ui.xml */,
+				51A9279029B85FDB0012D2BA /* help-overlay.ui */,
+				5164658F29B8D5F500C2FFBA /* menus.ui */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		51A9275929B85FDB0012D2BA /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				51A9277129B85FDB0012D2BA /* ar-card-private.h */,
+				51A9277729B85FDB0012D2BA /* ar-card.h */,
+				51A9275F29B85FDB0012D2BA /* ar-card.c */,
+				51A9275D29B85FDB0012D2BA /* ar-card-theme-private.h */,
+				51A9277029B85FDB0012D2BA /* ar-card-theme-preimage.c */,
+				51A9276E29B85FDB0012D2BA /* ar-card-themes.h */,
+				51A9278129B85FDB0012D2BA /* ar-card-themes.c */,
+				51A9276129B85FDB0012D2BA /* ar-card-theme-svg.c */,
+				51A9277F29B85FDB0012D2BA /* ar-card-theme.h */,
+				51A9276329B85FDB0012D2BA /* ar-card-theme.c */,
+				51A9276A29B85FDB0012D2BA /* ar-card-surface-cache.h */,
+				51A9277929B85FDB0012D2BA /* ar-card-surface-cache.c */,
+				51A9277C29B85FDB0012D2BA /* ar-conf.h */,
+				51A9276629B85FDB0012D2BA /* ar-conf.m */,
+				51A9276929B85FDB0012D2BA /* ar-debug.h */,
+				51A9277A29B85FDB0012D2BA /* ar-debug.c */,
+				51A9276829B85FDB0012D2BA /* ar-profile.h */,
+				51A9277B29B85FDB0012D2BA /* ar-profile.c */,
+				51A9276D29B85FDB0012D2BA /* ar-marshal.h */,
+				51A9278229B85FDB0012D2BA /* ar-marshal.c */,
+				51A9276229B85FDB0012D2BA /* ar-sound.h */,
+				51A9277E29B85FDB0012D2BA /* ar-sound.c */,
+				51A9275A29B85FDB0012D2BA /* ar-show.h */,
+				51A9277529B85FDB0012D2BA /* ar-show.c */,
+				51A9277429B85FDB0012D2BA /* ar-help.h */,
+				51A9275B29B85FDB0012D2BA /* ar-help.c */,
+				51A9277629B85FDB0012D2BA /* ar-gsettings.h */,
+				51A9276029B85FDB0012D2BA /* ar-gsettings.m */,
+				51A9276429B85FDB0012D2BA /* ar-marshal.list */,
+				51A9276729B85FDB0012D2BA /* ar-string-utils.h */,
+				51A9278529B85FDB0012D2BA /* ar-runtime.h */,
+				51A9276C29B85FDB0012D2BA /* ar-runtime.c */,
+				51A9278429B85FDB0012D2BA /* ar-svg.h */,
+				51A9276F29B85FDB0012D2BA /* ar-svg.c */,
+				51A9277D29B85FDB0012D2BA /* ar-string-utils.c */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		51B9270F29C5FD73003B36AE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				510E418F29C5FDC400AF80D4 /* libatk-1.0.0.dylib */,
+				510E418529C5FDC400AF80D4 /* libcairo.2.dylib */,
+				510E418229C5FDC400AF80D4 /* libepoxy.0.dylib */,
+				510E417829C5FDC400AF80D4 /* libfontconfig.1.dylib */,
+				510E418C29C5FDC400AF80D4 /* libfreetype.6.dylib */,
+				510E417B29C5FDC400AF80D4 /* libfribidi.0.dylib */,
+				510E417429C5FDC300AF80D4 /* libgc.1.dylib */,
+				510E418129C5FDC400AF80D4 /* libgdk_pixbuf-2.0.0.dylib */,
+				510E417E29C5FDC400AF80D4 /* libgdk-3.0.dylib */,
+				510E416E29C5FDC300AF80D4 /* libgio-2.0.0.dylib */,
+				510E418E29C5FDC400AF80D4 /* libglib-2.0.0.dylib */,
+				510E417229C5FDC300AF80D4 /* libgmodule-2.0.0.dylib */,
+				510E417929C5FDC400AF80D4 /* libgmp.10.dylib */,
+				510E418D29C5FDC400AF80D4 /* libgobject-2.0.0.dylib */,
+				510E417129C5FDC300AF80D4 /* libgraphite2.3.dylib */,
+				510E417C29C5FDC400AF80D4 /* libgtk-3.0.dylib */,
+				510E41E129C6ECA100AF80D4 /* libguile-2.2.1.dylib */,
+				510E418729C5FDC400AF80D4 /* libharfbuzz.0.dylib */,
+				510E418629C5FDC400AF80D4 /* libintl.8.dylib */,
+				510E416F29C5FDC300AF80D4 /* libjpeg.8.dylib */,
+				510E418329C5FDC400AF80D4 /* libltdl.7.dylib */,
+				510E417F29C5FDC400AF80D4 /* libpango-1.0.0.dylib */,
+				510E418829C5FDC400AF80D4 /* libpangocairo-1.0.0.dylib */,
+				510E417629C5FDC400AF80D4 /* libpangoft2-1.0.0.dylib */,
+				510E418B29C5FDC400AF80D4 /* libpcre2-8.0.dylib */,
+				510E417729C5FDC400AF80D4 /* libpixman-1.0.dylib */,
+				510E417529C5FDC400AF80D4 /* libpng16.16.dylib */,
+				510E417329C5FDC300AF80D4 /* librsvg-2.2.dylib */,
+				510E418429C5FDC400AF80D4 /* libunistring.5.dylib */,
+				510E419029C5FDC400AF80D4 /* libX11.6.dylib */,
+				510E417029C5FDC300AF80D4 /* libxcb-render.0.dylib */,
+				510E41DE29C6096900AF80D4 /* libXdmcp.6.dylib */,
+				510E418029C5FDC400AF80D4 /* libxcb-shm.0.dylib */,
+				510E418A29C5FDC400AF80D4 /* libxcb.1.dylib */,
+				510E41DB29C6085B00AF80D4 /* libXau.6.dylib */,
+				510E417A29C5FDC400AF80D4 /* libXext.6.dylib */,
+				510E418929C5FDC400AF80D4 /* libXrender.1.dylib */,
+				51B9271029C5FD73003B36AE /* libcairo-gobject.2.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		51F95DF029CB2DEA002B888B /* schemas */ = {
+			isa = PBXGroup;
+			children = (
+				51F95DED29CB2AFD002B888B /* org.pazolli.Solitaire.gschema.xml */,
+			);
+			path = schemas;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5138958729B851830033A0C7 /* Marc Solitaire */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5138959829B851840033A0C7 /* Build configuration list for PBXNativeTarget "Marc Solitaire" */;
+			buildPhases = (
+				5138958429B851830033A0C7 /* Sources */,
+				5138958529B851830033A0C7 /* Frameworks */,
+				5138958629B851830033A0C7 /* Resources */,
+				510E41B429C5FE2500AF80D4 /* Copy Files */,
+				519A1F3A29CB16AD00BE411C /* Copy Files */,
+				519A1F9829CB182F00BE411C /* Run Script */,
+				51B9270829C56CD0003B36AE /* Run Script */,
+			);
+			buildRules = (
+				519A1EDA29CB0A3D00BE411C /* PBXBuildRule */,
+			);
+			dependencies = (
+			);
+			name = "Marc Solitaire";
+			productName = Solitaire;
+			productReference = 5138958829B851830033A0C7 /* Marc Solitaire.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5138958029B851830033A0C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					5138958729B851830033A0C7 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 5138958329B851830033A0C7 /* Build configuration list for PBXProject "Solitaire" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5138957F29B851830033A0C7;
+			productRefGroup = 5138958929B851830033A0C7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5138958729B851830033A0C7 /* Marc Solitaire */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5138958629B851830033A0C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51F95DEE29CB2AFE002B888B /* org.pazolli.Solitaire.gschema.xml in Resources */,
+				519A1F3E29CB181F00BE411C /* doublets.scm in Resources */,
+				519A1F3F29CB181F00BE411C /* camelot.scm in Resources */,
+				519A1F4029CB181F00BE411C /* osmosis.scm in Resources */,
+				519A1F4129CB181F00BE411C /* gaps.scm in Resources */,
+				519A1F4229CB181F00BE411C /* clock.scm in Resources */,
+				519A1F4329CB181F00BE411C /* first-law.scm in Resources */,
+				519A1F4429CB181F00BE411C /* maze.scm in Resources */,
+				519A1F4529CB181F00BE411C /* easthaven.scm in Resources */,
+				519A1F4629CB181F00BE411C /* bakers-game.scm in Resources */,
+				519A1F4729CB181F00BE411C /* valentine.scm in Resources */,
+				519A1F4829CB181F00BE411C /* bear-river.scm in Resources */,
+				519A1F4929CB181F00BE411C /* cover.scm in Resources */,
+				519A1F4A29CB181F00BE411C /* wall.scm in Resources */,
+				519A1F4B29CB181F00BE411C /* beleaguered-castle.scm in Resources */,
+				519A1F4C29CB181F00BE411C /* westhaven.scm in Resources */,
+				519A1F4D29CB181F00BE411C /* yukon.scm in Resources */,
+				519A1F4E29CB181F00BE411C /* scuffle.scm in Resources */,
+				519A1F4F29CB181F00BE411C /* giant.scm in Resources */,
+				519A1F5029CB181F00BE411C /* escalator.scm in Resources */,
+				519A1F5129CB181F00BE411C /* terrace.scm in Resources */,
+				519A1F5229CB181F00BE411C /* spiderette.scm in Resources */,
+				519A1F5329CB181F00BE411C /* gold-mine.scm in Resources */,
+				519A1F5429CB181F00BE411C /* elevator.scm in Resources */,
+				519A1F5529CB181F00BE411C /* odessa.scm in Resources */,
+				519A1F5629CB181F00BE411C /* whitehead.scm in Resources */,
+				519A1F5729CB181F00BE411C /* aunt-mary.scm in Resources */,
+				519A1F5829CB181F00BE411C /* fortress.scm in Resources */,
+				519A1F5929CB181F00BE411C /* klondike.scm in Resources */,
+				519A1F5A29CB181F00BE411C /* eagle-wing.scm in Resources */,
+				519A1F5B29CB181F00BE411C /* golf.scm in Resources */,
+				519A1F5C29CB181F00BE411C /* bristol.scm in Resources */,
+				519A1F5D29CB181F00BE411C /* agnes.scm in Resources */,
+				519A1F5E29CB181F00BE411C /* canfield.scm in Resources */,
+				519A1F5F29CB181F00BE411C /* scorpion.scm in Resources */,
+				519A1F6029CB181F00BE411C /* king-albert.scm in Resources */,
+				519A1F6129CB181F00BE411C /* treize.scm in Resources */,
+				519A1F6229CB181F00BE411C /* napoleons-tomb.scm in Resources */,
+				519A1F6329CB181F00BE411C /* cruel.scm in Resources */,
+				519A1F6429CB181F00BE411C /* lady-jane.scm in Resources */,
+				519A1F6529CB181F00BE411C /* straight-up.scm in Resources */,
+				519A1F6629CB181F00BE411C /* peek.scm in Resources */,
+				519A1F6729CB181F00BE411C /* eight-off.scm in Resources */,
+				519A1F6829CB181F00BE411C /* kansas.scm in Resources */,
+				5166217529D1C3F800426F24 /* Firework.sks in Resources */,
+				519A1F6929CB181F00BE411C /* yield.scm in Resources */,
+				519A1F6A29CB181F00BE411C /* seahaven.scm in Resources */,
+				519A1F6B29CB181F00BE411C /* backbone.scm in Resources */,
+				519A1F6C29CB181F00BE411C /* isabel.scm in Resources */,
+				519A1F6D29CB181F00BE411C /* kings-audience.scm in Resources */,
+				519A1F6E29CB181F00BE411C /* jumbo.scm in Resources */,
+				519A1F6F29CB181F00BE411C /* eliminator.scm in Resources */,
+				519A1F7029CB181F00BE411C /* helsinki.scm in Resources */,
+				519A1F7129CB181F00BE411C /* poker.scm in Resources */,
+				519A1F7229CB181F00BE411C /* freecell.scm in Resources */,
+				519A1F7329CB181F00BE411C /* bakers-dozen.scm in Resources */,
+				519A1F7429CB181F00BE411C /* glenwood.scm in Resources */,
+				519A1F7529CB181F00BE411C /* hamilton.scm in Resources */,
+				519A1F7629CB181F00BE411C /* thirteen.scm in Resources */,
+				519A1F7729CB181F00BE411C /* neighbor.scm in Resources */,
+				519A1F7829CB181F00BE411C /* quatorze.scm in Resources */,
+				519A1F7929CB181F00BE411C /* athena.scm in Resources */,
+				519A1F7A29CB181F00BE411C /* sir-tommy.scm in Resources */,
+				519A1F7B29CB181F00BE411C /* spider.scm in Resources */,
+				519A1F7C29CB181F00BE411C /* royal-east.scm in Resources */,
+				519A1F7D29CB181F00BE411C /* carpet.scm in Resources */,
+				519A1F7E29CB181F00BE411C /* monte-carlo.scm in Resources */,
+				519A1F7F29CB181F00BE411C /* gay-gordons.scm in Resources */,
+				519A1F8029CB181F00BE411C /* union-square.scm in Resources */,
+				519A1F8129CB181F00BE411C /* thumb-and-pouch.scm in Resources */,
+				519A1F8229CB181F00BE411C /* will-o-the-wisp.scm in Resources */,
+				519A1F8329CB181F00BE411C /* thieves.scm in Resources */,
+				519A1F8429CB181F00BE411C /* plait.scm in Resources */,
+				519A1F8529CB181F00BE411C /* saratoga.scm in Resources */,
+				519A1F8629CB181F00BE411C /* streets-and-alleys.scm in Resources */,
+				519A1F8729CB181F00BE411C /* auld-lang-syne.scm in Resources */,
+				519A1F8829CB181F00BE411C /* block-ten.scm in Resources */,
+				519A1F8929CB181F00BE411C /* pileon.scm in Resources */,
+				519A1F8A29CB181F00BE411C /* zebra.scm in Resources */,
+				519A1F8B29CB181F00BE411C /* diamond-mine.scm in Resources */,
+				519A1F8C29CB181F00BE411C /* accordion.scm in Resources */,
+				519A1F8D29CB181F00BE411C /* jamestown.scm in Resources */,
+				519A1F8E29CB181F00BE411C /* gypsy.scm in Resources */,
+				519A1F8F29CB181F00BE411C /* chessboard.scm in Resources */,
+				519A1F9029CB181F00BE411C /* fortunes.scm in Resources */,
+				519A1F9129CB181F00BE411C /* spider-three-decks.scm in Resources */,
+				519A1F9229CB181F00BE411C /* ten-across.scm in Resources */,
+				519A1F9329CB181F00BE411C /* triple-peaks.scm in Resources */,
+				519A1F9429CB181F00BE411C /* labyrinth.scm in Resources */,
+				519A1F9529CB181F00BE411C /* fourteen.scm in Resources */,
+				519A1F9629CB181F00BE411C /* forty-thieves.scm in Resources */,
+				519A1F9729CB181F00BE411C /* hopscotch.scm in Resources */,
+				519A1F3D29CB181500BE411C /* api.scm in Resources */,
+				51A927C229B85FDB0012D2BA /* help-overlay.ui in Resources */,
+				51A927BF29B85FDB0012D2BA /* aisleriot-debug-ui.xml in Resources */,
+				51F95DF729CFCACE002B888B /* Solitaire.help in Resources */,
+				5164656F29B8ABC000C2FFBA /* share in Resources */,
+				51A9279D29B85FDB0012D2BA /* aisleriot-ui.xml in Resources */,
+				51A9279C29B85FDB0012D2BA /* aisleriot.gresource.xml.in in Resources */,
+				51A927A829B85FDB0012D2BA /* ar-marshal.list in Resources */,
+				51B9270729C54E80003B36AE /* Credits.rtf in Resources */,
+				5164659029B8D5F500C2FFBA /* menus.ui in Resources */,
+				51A9279729B85FDB0012D2BA /* aisleriot.gresource.xml in Resources */,
+				51C5BE0129C0093400355AD1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		519A1F9829CB182F00BE411C /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/newInputFile",
+			);
+			name = "Run Script";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "mkdir -p \"$TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH/share/glib-2.0/schemas\"\n/opt/homebrew/bin/glib-compile-schemas \"$SRCROOT/Solitaire/schemas\" --targetdir=\"$TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH/share/glib-2.0/schemas\"\ncd \"$TARGET_BUILD_DIR/$UNLOCALIZED_RESOURCES_FOLDER_PATH\"\nmkdir -p \"lib/aisleriot/guile/2.2/aisleriot/api\" \nmv -f \"api.go\" \"lib/aisleriot/guile/2.2/aisleriot/api.go\" \nfind . -name '*.go' -maxdepth 1 -exec mv {} lib/aisleriot/guile/2.2/ \\;\n";
+		};
+		51B9270829C56CD0003B36AE /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/bash;
+			shellScript = "git=$(sh /etc/profile; which git)\nbuild_number=$(\"$git\" rev-parse --short HEAD)\n\ntarget_plist=\"$TARGET_BUILD_DIR/$INFOPLIST_PATH\"\ndsym_plist=\"$DWARF_DSYM_FOLDER_PATH/$DWARF_DSYM_FILE_NAME/Contents/Info.plist\"\n\necho \"note: Setting build number to $build_number of $target_plist\"\n\nfor plist in \"$target_plist\" \"$dsym_plist\"; do\n  if [ -f \"$plist\" ]; then\n    /usr/libexec/PlistBuddy -c \"Set :CFBundleVersion ${build_number}\" \"$plist\"\n  fi\ndone\n\nif [ -f \"$settings_root_plist\" ]; then\n  settingsVersion=\"$APP_MARKETING_VERSION (${number_of_commits})\"\n  /usr/libexec/PlistBuddy -c \"Set :PreferenceSpecifiers:1:DefaultValue $settingsVersion\" \"$settings_root_plist\"\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5138958429B851830033A0C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51A9279929B85FDB0012D2BA /* ar-application.c in Sources */,
+				51A927AC29B85FDB0012D2BA /* ar-runtime.c in Sources */,
+				51A927B729B85FDB0012D2BA /* ar-sound.c in Sources */,
+				51A9279A29B85FDB0012D2BA /* board-noclutter.c in Sources */,
+				51C15ED629D441E6000D581B /* SolFinishEffects.m in Sources */,
+				51A927BC29B85FDB0012D2BA /* conf.c in Sources */,
+				51A927A229B85FDB0012D2BA /* ar-help.c in Sources */,
+				51C5BDFD29BF67DA00355AD1 /* SolFileManager.m in Sources */,
+				51A927AA29B85FDB0012D2BA /* ar-conf.m in Sources */,
+				51A927B429B85FDB0012D2BA /* ar-debug.c in Sources */,
+				51A927B629B85FDB0012D2BA /* ar-string-utils.c in Sources */,
+				5166217829D1C60E00426F24 /* SolWinScene.m in Sources */,
+				51A927A029B85FDB0012D2BA /* ar-stock.c in Sources */,
+				51A927A429B85FDB0012D2BA /* ar-card.c in Sources */,
+				5175B98F29B9CE3F0058BCB1 /* SolMenuBar.m in Sources */,
+				51A927BE29B85FDB0012D2BA /* ar-game-chooser.c in Sources */,
+				51A927A129B85FDB0012D2BA /* stats-dialog.c in Sources */,
+				51A927C029B85FDB0012D2BA /* ar-resources.c in Sources */,
+				51A927B529B85FDB0012D2BA /* ar-profile.c in Sources */,
+				51A927A629B85FDB0012D2BA /* ar-card-theme-svg.c in Sources */,
+				5175B98A29B9A7DC0058BCB1 /* SolActionDictionary.m in Sources */,
+				5175B98529B99B260058BCB1 /* SolMenuItem.m in Sources */,
+				51A9279129B85FDB0012D2BA /* game.m in Sources */,
+				51A927A729B85FDB0012D2BA /* ar-card-theme.c in Sources */,
+				51A927BD29B85FDB0012D2BA /* ar-style.c in Sources */,
+				51A927A529B85FDB0012D2BA /* ar-gsettings.m in Sources */,
+				5138959429B851840033A0C7 /* main.m in Sources */,
+				51A9279529B85FDB0012D2BA /* util.c in Sources */,
+				51A9279429B85FDB0012D2BA /* ar-cursor.c in Sources */,
+				51A927C129B85FDB0012D2BA /* window.m in Sources */,
+				51A927AE29B85FDB0012D2BA /* ar-card-theme-preimage.c in Sources */,
+				51A927B329B85FDB0012D2BA /* ar-card-surface-cache.c in Sources */,
+				51A9279329B85FDB0012D2BA /* sol.c in Sources */,
+				51A927B129B85FDB0012D2BA /* ar-show.c in Sources */,
+				51A927AD29B85FDB0012D2BA /* ar-svg.c in Sources */,
+				5175B98C29B9B09C0058BCB1 /* SolMenu.m in Sources */,
+				51EEFACB29D10350000F310B /* SolLostEffect.m in Sources */,
+				51A9279229B85FDB0012D2BA /* ar-style-gtk.c in Sources */,
+				51A9279629B85FDB0012D2BA /* ar-clock.c in Sources */,
+				51A927B829B85FDB0012D2BA /* ar-card-themes.c in Sources */,
+				51A927B929B85FDB0012D2BA /* ar-marshal.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5138959629B851840033A0C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5138959729B851840033A0C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5138959929B851840033A0C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = Solitaire/Solitaire.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "Marc-Solitaire-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.card-games";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2019 Chris Aguilar  Copyright © 1998-2006 Jonathan Blandford; © 2007-2015 Christian Persch; © 2023 Mark Pazolli  Distributed under the terms of the GNU GPLv3";
+				INFOPLIST_KEY_NSMainNibFile = MainMenu;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solitaire/arm64-lib",
+				);
+				LINK_WITH_STANDARD_LIBRARIES = YES;
+				MARKETING_VERSION = 1.4.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = org.pazolli.Solitaire;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SYSTEM_HEADER_SEARCH_PATHS = (
+					"/opt/homebrew/Cellar/guile@2/2.2.7_3/include/guile/2.2",
+					/opt/homebrew/opt/gmp/include,
+					/opt/homebrew/opt/readline/include,
+					"/opt/homebrew/opt/bdw-gc/include",
+					"/opt/homebrew/Cellar/gtk+3/3.24.37/include/gtk-3.0",
+					"/opt/homebrew/Cellar/glib/2.74.6/include/gio-unix-2.0",
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					/opt/homebrew/Cellar/libepoxy/1.5.10/include,
+					"/opt/homebrew/Cellar/pango/1.50.14/include/pango-1.0",
+					/opt/homebrew/Cellar/harfbuzz/7.1.0/include/harfbuzz,
+					"/opt/homebrew/Cellar/pango/1.50.14/include/pango-1.0",
+					/opt/homebrew/Cellar/fribidi/1.0.12/include/fribidi,
+					/opt/homebrew/Cellar/harfbuzz/7.1.0/include/harfbuzz,
+					/opt/homebrew/Cellar/graphite2/1.3.14/include,
+					"/opt/homebrew/Cellar/atk/2.38.0/include/atk-1.0",
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					"/opt/homebrew/Cellar/librsvg/2.55.1/include/librsvg-2.0",
+					"/opt/homebrew/Cellar/gdk-pixbuf/2.42.10/include/gdk-pixbuf-2.0",
+					"/opt/homebrew/Cellar/jpeg-turbo/2.1.5.1/include",
+					/opt/homebrew/Cellar/libtiff/4.4.0_1/include,
+					/opt/homebrew/Cellar/glib/2.74.6/include,
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					/opt/homebrew/Cellar/glib/2.74.6/include,
+					"/opt/homebrew/Cellar/glib/2.74.6/include/glib-2.0",
+					"/opt/homebrew/Cellar/glib/2.74.6/lib/glib-2.0/include",
+					/opt/homebrew/opt/gettext/include,
+					/opt/homebrew/Cellar/pcre2/10.42/include,
+					"/opt/homebrew/Cellar/pixman/0.42.2/include/pixman-1",
+					/opt/homebrew/Cellar/fontconfig/2.14.2/include,
+					/opt/homebrew/opt/freetype/include/freetype2,
+					/opt/homebrew/Cellar/libpng/1.6.39/include/libpng16,
+					/opt/homebrew/Cellar/libxcb/1.15_1/include,
+					/opt/homebrew/Cellar/libxrender/0.9.11/include,
+					/opt/homebrew/Cellar/libxext/1.3.5/include,
+					/opt/homebrew/Cellar/libx11/1.8.4/include,
+					/opt/homebrew/Cellar/libxcb/1.15_1/include,
+					/opt/homebrew/Cellar/libxau/1.0.11/include,
+					/opt/homebrew/Cellar/libxdmcp/1.1.4/include,
+					/opt/homebrew/Cellar/xorgproto/2022.2/include,
+					/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi,
+				);
+			};
+			name = Debug;
+		};
+		5138959A29B851840033A0C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_ENTITLEMENTS = Solitaire/Solitaire.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = "Marc-Solitaire-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.card-games";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2019 Chris Aguilar  Copyright © 1998-2006 Jonathan Blandford; © 2007-2015 Christian Persch; © 2023 Mark Pazolli  Distributed under the terms of the GNU GPLv3";
+				INFOPLIST_KEY_NSMainNibFile = MainMenu;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solitaire/arm64-lib",
+				);
+				LINK_WITH_STANDARD_LIBRARIES = YES;
+				MARKETING_VERSION = 1.4.0;
+				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = org.pazolli.Solitaire;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SYSTEM_HEADER_SEARCH_PATHS = (
+					"/opt/homebrew/Cellar/guile@2/2.2.7_3/include/guile/2.2",
+					/opt/homebrew/opt/gmp/include,
+					/opt/homebrew/opt/readline/include,
+					"/opt/homebrew/opt/bdw-gc/include",
+					"/opt/homebrew/Cellar/gtk+3/3.24.37/include/gtk-3.0",
+					"/opt/homebrew/Cellar/glib/2.74.6/include/gio-unix-2.0",
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					/opt/homebrew/Cellar/libepoxy/1.5.10/include,
+					"/opt/homebrew/Cellar/pango/1.50.14/include/pango-1.0",
+					/opt/homebrew/Cellar/harfbuzz/7.1.0/include/harfbuzz,
+					"/opt/homebrew/Cellar/pango/1.50.14/include/pango-1.0",
+					/opt/homebrew/Cellar/fribidi/1.0.12/include/fribidi,
+					/opt/homebrew/Cellar/harfbuzz/7.1.0/include/harfbuzz,
+					/opt/homebrew/Cellar/graphite2/1.3.14/include,
+					"/opt/homebrew/Cellar/atk/2.38.0/include/atk-1.0",
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					"/opt/homebrew/Cellar/librsvg/2.55.1/include/librsvg-2.0",
+					"/opt/homebrew/Cellar/gdk-pixbuf/2.42.10/include/gdk-pixbuf-2.0",
+					"/opt/homebrew/Cellar/jpeg-turbo/2.1.5.1/include",
+					/opt/homebrew/Cellar/libtiff/4.4.0_1/include,
+					/opt/homebrew/Cellar/glib/2.74.6/include,
+					/opt/homebrew/Cellar/cairo/1.16.0_5/include/cairo,
+					/opt/homebrew/Cellar/glib/2.74.6/include,
+					"/opt/homebrew/Cellar/glib/2.74.6/include/glib-2.0",
+					"/opt/homebrew/Cellar/glib/2.74.6/lib/glib-2.0/include",
+					/opt/homebrew/opt/gettext/include,
+					/opt/homebrew/Cellar/pcre2/10.42/include,
+					"/opt/homebrew/Cellar/pixman/0.42.2/include/pixman-1",
+					/opt/homebrew/Cellar/fontconfig/2.14.2/include,
+					/opt/homebrew/opt/freetype/include/freetype2,
+					/opt/homebrew/Cellar/libpng/1.6.39/include/libpng16,
+					/opt/homebrew/Cellar/libxcb/1.15_1/include,
+					/opt/homebrew/Cellar/libxrender/0.9.11/include,
+					/opt/homebrew/Cellar/libxext/1.3.5/include,
+					/opt/homebrew/Cellar/libx11/1.8.4/include,
+					/opt/homebrew/Cellar/libxcb/1.15_1/include,
+					/opt/homebrew/Cellar/libxau/1.0.11/include,
+					/opt/homebrew/Cellar/libxdmcp/1.1.4/include,
+					/opt/homebrew/Cellar/xorgproto/2022.2/include,
+					/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi,
+				);
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5138958329B851830033A0C7 /* Build configuration list for PBXProject "Solitaire" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5138959629B851840033A0C7 /* Debug */,
+				5138959729B851840033A0C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5138959829B851840033A0C7 /* Build configuration list for PBXNativeTarget "Marc Solitaire" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5138959929B851840033A0C7 /* Debug */,
+				5138959A29B851840033A0C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5138958029B851830033A0C7 /* Project object */;
+}

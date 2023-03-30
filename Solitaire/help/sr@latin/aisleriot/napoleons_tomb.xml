@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Napoleonova grobnica</title>
+
+  <para>Napisao Kimmo Karlsson</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Pored gomile.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Mreža tri sa tri, sve karte otvorene.</entry>
+	</row>
+	<row>
+		<entry>„Temelji“</entry>
+		<entry>Centar gomile se slaže na dole, uglovi na gore. Znak nije bitan.</entry>
+	</row>
+	<row>
+		<entry>Rezerve</entry>
+		<entry>Četiri gomile na mreži koje nisu „temelji“. Svaka rezerva može da drži samo jednu kartu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte jednake ili manje od 6 na centralnu gomilu, karte 7 i više na gomile u uglovima.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Klik na gomilu okreće karte. Pomerajte jednu po jednu kartu na talon. Jednom kada se postavi na „temelj“, karta ne može da se pomera. Svaka od gomila u uglu se slaže od 7 do kralja. Centralna gomila se slaže na dole od 6 do asa. Posle asa opet dolazi 6 itd. Znak nije bitan.</para>
+
+          </sect2>
+        <sect2><title>Opcije</title>
+
+  <para>Deljenje po tri karte: ako delite po tri karte odjednom sa gomile, kroz špil možete proći tri puta.</para>
+  <para>Autoplay: ako uključite ovo, karte se automatski premeštaju na „temelje“ čim je to moguće.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Trudite se da čuvate rezervu. Nije lako staviti Napoleona u grobnicu, ali vredi pokušati.</para>
+        </sect2>
+</sect1>

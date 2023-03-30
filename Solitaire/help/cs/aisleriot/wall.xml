@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Wall"><!--<sect1info>
+		<copyright>
+			<year>2015</year>
+			<holder>Otto Wallenius, Markus Tuhkanen</holder>
+		</copyright>
+		<author>
+			<firstname>Otto</firstname>
+			<surname>Wallenius</surname>
+		</author>
+		<address><email>owalleni@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Hradby</title>
+
+	<sect2><title>Podmínky</title>
+
+	    <informaltable>
+		    <tgroup cols="2">
+			    <tbody>
+	          <row>
+		          <entry>Typ sady</entry>
+		          <entry>Standardní dvojitá sada karet</entry>
+	          </row>
+	          <row>
+		          <entry>Volné</entry>
+		          <entry>Levá dolní hromádka s 39 kartami. Karty se po třech naráz lížou do otočených.</entry>
+	          </row>
+	          <row>
+		          <entry>Otočené</entry>
+		          <entry>Tři hromádky úplně vpravo v dolní řadě. Lížou se z volných, vždy po jedné na každou z hromádek.</entry>
+	          </row>
+	          <row>
+		          <entry>Rozdané</entry>
+		          <entry>Hradby, post dolní stráže, post horní stráže a trůn.</entry>
+	          </row>
+	          <row>
+		          <entry>Hradby</entry>
+		          <entry>45 karet v šesti řádcích.</entry>
+	          </row>
+	          <row>
+		          <entry>Post dolní stráže</entry>
+		          <entry>Čtyři hromádky po třech kartách, na začátku otočené lícem dolů.</entry>
+	          </row>
+	          <row>
+		          <entry>Post horní stráže</entry>
+		          <entry>Tři hromádky po dvou kartách.</entry>
+	          </row>
+	          <row>
+		          <entry>Trůn</entry>
+		          <entry>Hromádka se dvěma pikovými králi.</entry>
+	          </row>
+			    </tbody>
+		    </tgroup>
+	    </informaltable>
+    </sect2>
+    
+    <sect2><title>Cíl</title>
+        <para>Sesadit dva krále z trůnu.</para>
+    </sect2>
+    
+    <sect2><title>Pravidla</title>
+
+	    <para>Začínáte odspodu hradeb a pokoušíte se postupně vyšplhat až na trůn tím, že po cestě odebíráte karty. Karty můžete odebrat tím, že na ně zaútočíte kartami z otočených, které se lížou po třech z volných. Když v otočených dojdou karty a vy nemůžete se zbývajícími kartami v otočených sesadit oba krále z trůnu, je hra prohraná.</para>
+	    <para>Otočené karty používané k útokům se nazývají <emphasis>útočné karty</emphasis>. Útok na některé z karet nebo hromádek uspěje, pokud <emphasis>síla</emphasis> útočné karty přesáhne sílu napadené karty nebo hromádky. Síla je vypočítána jako součet hodnot karet dle popisu níže. Při úspěšném útoku jsou odebrány jako napadené, tak útočící karty.</para>
+	    
+	    <sect3><title>Pořadí odebírání karet</title>
+	    <para>Základní pravidlo je odstranit karty bezprostředně nad a vedle již prázdných pozic v rozdaných.</para>
+            <variablelist>
+            <varlistentry><term>Hradby</term>
+              <listitem>
+                <para>Na začátku lze odstranit všechny karty v dolní řadě hradeb. Dále pak lze odstranit kteroukoliv kartu, když byla odstraněna karta zakrývající její levý nebo pravý dolní roh, nebo byla odstraněna karta ve stejné (vodorovné) řadě vedle ní.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Post dolní stráže</term>
+              <listitem>
+                <para>Hromádku lze odstranit, pokud jedna ze dvou karet v hradbách přímo pod ní již byla odstraněna nebo byla odstraněna hromádka vedle ní v postu dolní stráže.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Post horní stráže</term>
+              <listitem>
+                <para>Hromádku lze odstranit, jakmile je odstraněna hromádka nejblíže jejímu levému nebo pravému dolnímu rohu v postu dolní stráže, nebo jakmile je odstraněna hromádka vedle ní v postu horní stráže.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Trůn</term>
+              <listitem>
+                <para>Může být odstraněn, když jsou odstraněny všechny hromádky v postech horní stráže.</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>            
+        </sect3>
+	    
+	    <sect3><title>Síla</title>
+	        <para>Pro útočné karty je síla dána součtem hodnot karet.</para>
+            <para>U většiny karet v hradbách je síla dána součtem hodnoty karty a hodnot karet, které se jí dotýkají v levém a pravém horním rohu. U karet v horní řadě hradeb je síla jednoduše hodnota karty. U karet na levém a pravém okraji hradeb je síla dána součtem hodnoty karty, hodnoty karty, která se jí dotýká v horním rohu a hodnoty karty přímo nad ní.</para>
+            <para>Hromádky v postech dolní stráže, v postech horní stráže a trůn musí být odstraněny vždy jako celá hromádka. Síla hromádky je součtem hodnot karet na této hromádce.</para>
+            <para>Eso je nejslabší.</para>
+	    </sect3>
+	
+	    <sect3><title>Útočení</title>
+	        <para>Můžete útočit libovolnou kombinací karet v otočených tak, že je seskupíte a přetáhnete na kartu, na kterou chcete zaútočit. Kliknutím na kartu v rozdaných zaútočíte na tuto kartu všemi kartami v otočených. Nové karty si lze z volných líznout do otočených kdykoliv. Líznutím nových karet se ale zahodí karty, které byly v otočených před tím.</para>
+            <para>Hromádky v pozicích dolní stráže se chovají jinak, než ostatní. Při prvním útoku se karty v této hromádce otočí lícem nahoru a útočící karta se odebere. Pokud je první útok úspěšný, hromádka se normálně odstraní. Pokud ale útok selže, následné neúspěšné útoky na tuto hromádku nezpůsobují odebrání útočících karet.</para>
+        </sect3>
+        
+        <sect3><title>Ostatní pravidla</title>
+            <para>Dvojité kliknutí na rozdanou kartu je zkratkou k útoku. Má to stejný efekt, jako kliknutí (viz Útočení) a navíc způsobí líznutí nových karet z volných do otočených bez ohledu na to, jestli byl útok úspěšný či nikoliv.</para>
+        </sect3>
+	</sect2>
+	
+    <sect2><title>Bodování</title>
+
+	    <para>Každý úspěšný útok je ohodnocen hodnotou síly napadené karty nebo hromádky.</para>
+
+	</sect2>
+    <sect2><title>Strategie</title>
+
+	    <para>Nejlepší je pohybovat se přímo nahoru, pokud je to možné. Než začnete, zkuste nají nejjednodušší cestu skrz hradby.</para>
+	    <para>Snažte se kartami nemrhat, před líznutím proveďte co nejvíce útoků je možné.</para>
+	    <para>Když se snažíte odstranit hromádky v pozicích dolní stráže, je často dobrý nápad nejprve karty obrátit zaútočením na ně nízkou kartou a po té se rozhodnout, jestli se pokusit projít tudy nebo přes nějakou jinou hromádku v pozicích dolní stráže. Všimněte si, že očekávaná síla hromádky na postu dolní stráže je o něco menší než 21.</para>
+    </sect2>
+</sect1>

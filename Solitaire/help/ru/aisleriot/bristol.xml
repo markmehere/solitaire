@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Бристоль</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. Сюда помещаются оставшиеся после сдачи игрового поля карты. Пересдач нет.</entry>
+	</row>
+	<row>
+	  <entry>Резерв</entry>
+	  <entry>Три стопки справа от колоды. По щелчку на колоде на каждый резерв сдаётся по одной карте.</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки сверху справа. Карты в основаниях собираются по возрастанию без учёта масти.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Сдаётся восемь стопок по три карты в каждой.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переложить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты игрового поля собираются по убыванию без учёта масти. Карты можно перемещать только по одной. Пустые ячейки игрового поля заполнять нельзя.</para>
+  <para>За каждую сдачу из колоды на резервные стопки помещается по одной карте. Верхнюю карту каждой резервной стопки можно перемещать. Пустые резервные стопки можно заполнить только сдав карты из колоды.</para>
+  <para>Карты в основаниях собираются без учёта масти по возрастанию от туза до короля. Карты из оснований перемещать нельзя.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>Каждая карта в стопках оснований даёт одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Никогда не оглядывайтесь. Первым делом разбирайтесь с картами, запертыми в обратном порядке. Перемещайте как можно больше карт из резерва в игровое поле, так как королей двигать нелегко.</para>
+        </sect2>
+</sect1>

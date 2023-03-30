@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Král Albert</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky nahoře. Musíte skládat postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Sedm hromádek napravo. Na každou je na začátku hry rozdána jedna karta lícem nahoru. Karty nemůžete nijak přeskládávat a prázdné pozice se nemohou znovu zaplnit.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Devět hromádek, s devíti kartami v první hromádce, osmi v druhé, a tak dále, až s jednou kartou v poslední hromádce. Karty se rozdávají lícem dolů. Vrchní karta na každé hromádce se nakonec otočí.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Prázdné pozice v rozdaných lze obsadit libovolnou kartou nebo poskládanou postupkou.</para>
+  <para>Karty z hromádek v záložních můžete zahrát do rozdaných nebo seřazených. Prázdné pozice v záložních nelze znovu zaplnit.</para>
+  <para>Hromádky v seřazených musíte skládat do postupek v barvě, od esa po krále. Karty v seřazených jsou stále ve hře.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Pamatujte, že na prázdnou pozici v rozdaných můžete položit libovolnou kartu. Prioritou v této hře je odkrytí nových karet.</para>
+        </sect2>
+</sect1>

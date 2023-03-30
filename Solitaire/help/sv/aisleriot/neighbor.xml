@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Granne</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Delas ut till bordshögarna på det sätt som beskrivs nedan.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Ett fem gånger fem stort rutnät, där varje plats kan innehålla ett kort. Ett kort delas ut till varje plats i spelets början. Tomma platser fylls automatiskt genom att flytta korten från höger till vänster, från kortet längst till vänster i raden under till platsen längst till höger samt från högen till övriga tomma platser.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Ta bort alla kort.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Klicka på kungar för att ta bort dem. Övriga kort tas bort i par som tillsammans blir tretton så länge som de två korten ligger horisontellt, vertikalt eller diagonalt.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+	<para>Ingen</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje borttaget kort ger 1 poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Ta bort kort högre upp på bordet först eftersom det skapar mer rörelse i rutnätet.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenwood</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Oberer linker Stapel. Der Rest des Kartensatzes wird hier nach dem Geben auf Spieltisch und Reservestapel abgelegt. Die Karten werden einzeln auf den Restestapel aufgedeckt. Eine Neuverteilung.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Stapel oben rechts. Der erste Fundamentstapel wird durch Wahl einer Karte vom Reservestapel durch den Spieler begonnen. Es wird nach Farbe aufgebaut, wobei von König zu Ass bei Bedarf ein Sprung erfolgt.</entry>
+	</row>
+	<row>
+	  <entry>Reservestapel</entry>
+	  <entry>
+	 		Four piles of three cards each on the left hand side
+	  	dealt face up.  The top card in each Reserve is available for
+	  	play.  No cards can be put in empty Reserve piles.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Vier Ablagen unter den Fundamentstapeln. Eine Karte wird sichtbar auf jeden Fundamentstapel ausgegeben. Der Spieltisch kann in wechselnden Farben aufgebaut werden. Die oberste Karte kann auf den Fundamentstapel gespielt werden. Ganze Stapel können auf den Spieltisch verschoben werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    The first item of play is to select an available card for the first
+    Foundation.  Once selected, all other Foundations must also start
+    with this value.
+  </para>
+  <para>Die Fundamentstapel werden nach Farbe aufgebaut, wobei von König zu Ass bei Bedarf ein Sprung erfolgt. Auf einen Fundamentstapel gelegte Karten sind nicht mehr im Spiel.</para>
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Komplette Kartenstapel können auf einen anderen Stapelplatz auf dem Tisch verschoben werden. Leere Ablagen auf dem Spieltisch können mit einer beliebigen Karte des Reservestapels gefüllt werden, oder vom Restestapel, falls alle Reservestapel leer sind.</para>
+  <para>Karten werden einzeln vom Talon auf den Restestapel gelegt. Es gibt eine Neuverteilung.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte auf dem Fundamentstapel zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Seien Sie vorsichtig bei der Auswahl Ihres ersten Fundamentstapels. Versuchen Sie, so früh wie möglich Karten aus den Reservestapeln zu nehmen. Manchmal ist es besser, Karten im Spiel zu behalten, als diese auf den Fundamentstapel zu legen.</para>
+        </sect2>
+</sect1>

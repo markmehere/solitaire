@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fortaleza</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en el medio. Se construyen ascendentemente por palo desde el as hasta el rey. Las cartas de la fundación no se consideran más en juego.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Cinco montones a cada lado de la fundación. Se dan cinco cartas boca arriba en cada uno de estos montones y una más en las dos pilas de arriba. La carta de la cima de cualquier montón del tablero está disponible para jugarla.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a la fundación.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas de los montones del tablero se pueden construir ascendentemente o descendentemente por palo. Sólo la carta de la cima de cada montón está disponible para jugar. Los montones vacíos se pueden llenar con cualquier carta disponible.</para>
+  <para>La fundación se construye ascendentemente desde el as hasta el rey por palo. Las cartas de la fundación no se consideran más en juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta en los montones de la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Salvaguarde todo hueco vacío del tablero que pueda conseguir. Éstos son la clave de un juego con exito.</para>
+        </sect2>
+</sect1>

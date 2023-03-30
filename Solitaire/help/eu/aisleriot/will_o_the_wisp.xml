@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Will o the wisp</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Gainean klik egitean, karta bat banatzen da mahaiko pila guztietara, azken eskualdian izan ezik; azkenekoan, lehen hiru piletan jartzen da karta bana.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian, eskuinean.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zazpi pila behean. Pila bakoitzean, banatu bi karta behera begira eta beste bat gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Osatu beherantz, irudiaren arabera eta elkarren segidan, hamahiru kartako lau pila.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko pilak beherantz osa daitezke, irudia kontuan hartu gabe. Irudi bereko karta-segidak batera mugi daitezke. Mahaiko pila hutsetan edozein karta edo karta-segida jar daiteke.</para>
+  <para>Mahaiko pila guztiak bete egin behar dira kartak banatu aurretik. Sortan klik egitean, karta bat jartzen da pila bakoitzean, azkeneko banaketan izan ezik; kasu horretan, karta bana jartzen da lehenengo hiru piletan.</para>
+  <para>Irudi bateko hamahiru kartaz osatutako segida oinarri-pila batera mugi daiteke. Oinarriko kartak ezin dira gehiago erabili.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Irudi bereko eta segidan dauden karta-bikote bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ahal denean, saiatu mahaiko pila bat hutsik izaten, kartak mugitzeko lekua izan dezazun.</para>
+        </sect2>
+</sect1>

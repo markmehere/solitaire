@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Тепих</title>
+
+  <para>Написао Vincent Povirk</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Остатак шпила се после дељења ставља овде. Карте се, једна по једна, окрећу на отпад. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири гомиле горе десно. Слажу се по знаку, од аса до краља. Асови се уклањају пре дељења и постављају се на „темеље“.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>„Тепих“. Четири реда од по пет отворених карата. Карте на талону су у игри. Нема слагања. Празна места се аутоматски попуњавају са отпада ако је могуће, или из гомиле.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте у гомиле на „темељу“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте на талону су у игри.</para>
+  <para>Карте се, једна по једна окрећу са гомиле на отпад. Карта са врха отпада је у игри. Нема поновних дељења.</para>
+  <para>„Темељи“ се слажу од аса до краља. Карте на „темељу“ су у игри. Дуплим кликом карта се премешта на одговарајући „темељ“ ако је такав потез могућ.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси један поен.</para>
+  <para>Највећи могући број поена: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Само стављајте шта год можете на „темеље“.</para>
+        </sect2>
+</sect1>

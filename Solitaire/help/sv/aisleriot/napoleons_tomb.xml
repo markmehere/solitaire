@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Napoleons grav</title>
+
+  <para>Skrivet av Kimmo Karlsson</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Bredvid högen.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Rutnät bestående av tre gånger tre, alla med framsidan upp.</entry>
+	</row>
+	<row>
+		<entry>Grundhögar</entry>
+		<entry>Mittenhögen i rutnätet skall byggas ned, hörnen byggas upp. Färgen spelar ingen roll.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>De fyra platserna i rutnätet som inte är grundhögar. Varje reservhög kan bara bestå av ett kort i taget.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla kort av valören 6 eller mindre till centrumhögen, 7 eller högre till hörnplatserna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Klicka på högen för att vända upp kort. Flytta ett kort åt gången till Bordshögarna. När ett kort har placeras på en grundhög kan det inte flyttas. Varje hörnplats byggs från 7 och upp till kung. Mittenhögen byggs från 6 och ned till ess. Efter ess läggs ytterligare en 6:a, o.s.v. Färgen spelar ingen roll.</para>
+
+          </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Givar med tre kort: Om du delar tre kort i taget från högen, får du gå igenom kortleken tre gånger.</para>
+  <para>Spela automatiskt: Om spela automatiskt är aktiverad flyttas korten automatiskt till grundhögarna så snart som möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att spara på reservhögarna. Det är inte lätt till att få Napoleon till sin grav, men fortsätt att försöka.</para>
+        </sect2>
+</sect1>

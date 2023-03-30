@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jamestown"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Джеймстаун</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. В начале игры все карты помещаются сюда.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Девять стопок, разложенных по трём строкам и столбцам. На каждую стопку игрового поля сдаётся по карте лицом вверх.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты убираются парами равного достоинства. Пустые ячейки автоматически заполняются из колоды.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную пару даётся два очка.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Единственная сложность в том, чтобы убрать пары как можно быстрее.</para>
+        </sect2>
+</sect1>

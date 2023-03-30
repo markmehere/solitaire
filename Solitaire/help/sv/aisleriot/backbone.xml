@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Backbone</title>
+
+  <para>Skrivet av Vincent Povirk</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>En hög under grundhögarna till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna och reservhögen. Korten vänds ett i taget till kasthögen. En omgiv.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>En hög till höger om högen. Tas från högen. Översta kortet är tillgängligt för spel.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar uppe till höger. Byggs upp i färg från ess till kung.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Två staplar med 9 kort vardera, med ett ensamt kort över båda staplarna. Kort som inte skyms är tillgängligt för spel var som helst förutom till tomma bordshögar.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Åtta högar, fyra på varje sida om reservhögarna. Ett kort delas ut till varje bordshög när spelet startar. Byggs ned i färg. Tomma platser kan fyllas med vilket ensamt kort som helst. Endast ett kort åt gången kan flyttas.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned i färg. Endast ett kort kan flyttas åt gången. Tomma kortplatser kan fyllas med valfritt kort med undantag av kort från reservhögen.</para>
+  <para>Korten vänds individuellt från högen till kasthögen. Översta kortet i kasthögen är i spel. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till högen. Du kan gå igenom kortleken två gånger.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 104</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Du kan använda grundhögarnas tomma platser för att flytta flera kort. Var försiktig med kungarna i reservhögen: det enda sättet att ta bort dem på är att flytta dem ovanpå en dam i grundhögarna.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Helsinki</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden automatisch auf den Spieltisch gebracht, sobald es eine Lücke gibt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Zehn Stapel. Eine Karte wird sichtbar auf jeden Stapel ausgegeben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Entfernen Sie paarweise Karten, die gemeinsam einen Wert von 13 ergeben. Asse zählen Eins, Buben Elf und Damen Zwölf. Könige werden einzeln entfernt.</para>
+  <para>Leere Tischstapel werden automatisch aus dem Talon gefüllt.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Arbeiten Sie so schnell wie Sie können.</para>
+        </sect2>
+</sect1>

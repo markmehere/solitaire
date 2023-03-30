@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Западна лука</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. Карте се окрећу на отпад једна по једна. Нема поновних дељења.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+		<entry>„Темељ“</entry>
+		<entry>Четири гомиле у горњем реду. Слажу се по знаку од аса до краља.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Десет гомила од по три карте, са последњом картом окренутом.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Померити све карте на „темеље“.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карте на талону се слажу на доле по наизменичним бојама. Последња окренута карта на свакој од гомила је у игри. Празна места се могу попуњавати било којим низом карата.</para>
+	<para>„Темељи“ се слажу по знаку од аса до краља. Карте на „темељу“ више нису у игри.</para>
+	<para>Карте се окрећу једна по једна са гомиле на отпад. Карта на врху отпада је у игри. Нема поновних дељења.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Свака карта премештена на „темељ“ доноси један поен.</para>
+	<para>Највећи могући број поена: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Опрез је за оне који имају нешто уложено. Живите опасно. Играјте шта стигнете, шансе су на вашој страни.</para>
+        </sect2>
+</sect1>

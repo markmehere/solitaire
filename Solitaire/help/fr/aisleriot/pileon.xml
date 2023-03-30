@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Écrit par Nick Lamb</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Quinze piles, placées en rangées de quatre piles. On distribue les cartes quatre par quatre, face visible, sur les treize premières piles. On laisse les deux derniers emplacements vides. Une pile peut contenir de zéro à quatre cartes.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Réarrangez les cartes de façon à ce que chaque pile contienne les quatre cartes d'une même valeur. Cela devrait laisser deux piles vides, mais peu importe que ce soit les mêmes piles que celles qui étaient vides au début.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les cartes peuvent être déplacées sur une carte de même valeur, tant que la pile ne dépasse pas quatre cartes. Les groupes de cartes peuvent être déplacés si les cartes ont la même valeur, mais cela ne donne pas de points. Un emplacement vide peut être rempli par n'importe quelle carte ou groupe de cartes de même valeur.</para>
+	<para>Une fois qu'une pile contient quatre cartes de même valeur, elle est bloquée, et la carte supérieure est retournée pour indiquer qu'il n'y a plus rien à faire avec ces cartes. Elles ne sont plus en jeu, mais ce serait de toute façon inutile de les déplacer.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque pile bloquée de quatre cartes vaut quatre points, un pour chaque carte. C'est le seul moyen de gagner des points.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Gardez une pile vide autant que possible. Ne construisez pas une pile de trois cartes sur une carte seule, en particulier si la dernière carte de l'ensemble n'est pas la plus basse d'une autre pile.</para>
+        </sect2>
+</sect1>

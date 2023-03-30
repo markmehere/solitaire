@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Syne</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten mit Ausnahme der Asse werden hier am Beginn des Spiels abgelegt. Durch Anklicken des Talons wird jeweils eine Karte auf jeden Reservestapel gelegt.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben, rechts vom Talon. Legen Sie ein Ass auf jeden Fundamentstapel am Beginn des Spiels. Die Fundamentstapel werden aufsteigend ungeachtet der Farbe aufgebaut.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Vier Ablagen unterhalb der Fundamentstapel. Bei jedem Anklicken des Talons wird eine Karte auf jeden der Reservestapel gelegt. Mit der obersten Karte wird gespielt. Reservekarten können nur auf den Fundamentstapeln abgelegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Das Spiel beginnt mit dem Geben von vier Karten in den Reservestapel. Falls möglich, sollten Sie Karten vom Reservestapel auf den Fundamentstapel legen. Wiederholen Sie dies, bis keine Karten mehr im Talon übrig sind und kein Ablegen auf den Fundamentstapeln mehr möglich ist. Ein ähnliches, etwas leichteres Spiel ist Scuffle.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Glauben Sie an Ihr Glück? Obwohl dieses Spiel mehr Grips beim Spielen verlangt als »Clock«, verlangt die erforderliche Fertigkeit vor Allem Aufmerksamkeit. Einfach toll für gedankenloses Spielen.</para>
+        </sect2>
+</sect1>

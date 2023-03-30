@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jumbo</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Po vyprázdnění se sem karty z otočených jednou vrátí.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Napravo hned vedle volných. Karty se během hraní po jedné lížou z volných. Vrchní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek vpravo nahoře. Musíte je poskládat do postupek v barvě od esa po krále. Vrchní kartu v každé z hromádek je možné vrátit zpět do hry na rozdané.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Devět hromádek. Rozdává se po jedné kartě lícem dolů na všech devět hromádek, pak po jedné kartě na prvních osm hromádek, následně po jedné kartě na prvních sedm hromádek atd., dokud není v první hromádce devět karet. Poslední karta na každé z hromádek se pak otočí.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Lze přesouvat skupiny karet. Prázdné hromádky v rozdaných můžete obsadit králem nebo skupinou karet s králem vespod.</para>
+  <para>Karty se lížou jednotlivě z volných do otočených. Vrchní karta v otočených je ve hře. Až je hromádka s volnými prázdná, přesunou se na ni zpět všechny karty z otočených, zachová se pořadí. To se provede jen jednou.</para>
+  <para>Seřazené se musí poskládat do postupky v barvě, od esa po krále. Karty v seřazených jsou stále ve hře. Dvojitým kliknutím se karta přesune z rozdaných na příslušné místo v seřazených, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

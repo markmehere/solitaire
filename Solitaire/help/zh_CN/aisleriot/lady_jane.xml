@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Lady_Jane"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>简女士</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛，桌面上发剩下的牌放在这儿，每次往保留区的每一垛上发一张牌，当发牌区只剩两张牌时，它们会翻开都可用于游戏中。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右上角的四垛牌，桌面和保留区发牌后，第一个位置会放一张牌作为基准，按花色递增收牌。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>右边的七垛牌，最上面的牌可以移到桌面或收牌区，空位不能填充，除非是从发牌区发牌过来。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>在发牌区和收牌区下面的七垛牌，第一垛发一张牌面朝上的，再在后面所有垛上放一张扣着的牌，在第二垛放一张翻开的牌，后面所有垛放一张扣着的牌，重复直到最后一垛牌是七张。桌面上的牌按不同花色交替排列，一组牌可以一起移动，出现的空位只能由比基准牌小一点数或者以它开头的一组牌填充。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按不同花色交替排列，排列好的牌可以一起移动，桌面上出现的空位可以填充比基准牌低一点数或它开头的一组牌来填充。</para>
+	<para>发牌区发牌到保留区，每次往每一垛上发一张牌。</para>
+	<para>保留区或收牌区最上面的牌可以用于游戏中，保留区的牌相互之间不能移动。</para>
+	<para>收牌区按花色从基准牌递增收牌，其他空位也按照基准牌的点数开始收牌，A 放在 K 的上面，2放在 A 的上面，收牌区的牌还可以用在游戏中，双击一张牌可以把它移到收牌区，如果它是可以移动的。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>更深入地看，开始比较困难，无论何时都要尽可能地把牌移出保留区。</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bristol</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wir hier nach dem Geben des Spieltisches abgelegt. Es gibt keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Drei Ablagen rechts vom Talon. Eine Karte wird auf jeden der Reservestapel gegeben, sobald der Talon angeklickt wird.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Fundamentstapel werden aufsteigend nach Rang aufgebaut, ungeachtet der Farbe.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Geben Sie acht Ablagen zu je drei Karten mit der Bildseite nach oben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten auf dem Spieltisch werden absteigend ungeachtet der Farbe aufgebaut. Karten können nur einzeln bewegt werden. Eine leerer Stapel auf dem Spieltisch kann nicht belegt werden.</para>
+  <para>Karten werden vom Talon auf die drei Reservestapel umgedreht, eine Karte pro Verteilung. Mit den obersten Karten jedes Reservestapels wird gespielt. Leere Reservestapel können nur mit der nächsten Verteilung aus dem Talon belegt werden.</para>
+  <para>Fundamentstapel werden ungeachtet der Farbe aufsteigend von Ass bis König aufgebaut. Die Karten im Fundamentstapel stehen dann nicht mehr für das Spiel zur Verfügung.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Blicken Sie niemals zurück. Karten, die in umgekehrter Reihenfolge versperrt sind, müssen so früh wie möglich angegangen werden. Bewegen Sie so viele Karten wie möglich vom Reservestapel auf den Spieltisch, weil Könige schwierig zu verschieben sind.</para>
+        </sect2>
+</sect1>

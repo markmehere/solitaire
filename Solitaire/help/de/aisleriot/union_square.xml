@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Union Square</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Doppelblatt</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Deal face up a four by four grid for the Tableau, making sixteen piles.
+			Top card of each pile available for play.
+		</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>
+			Four piles on the right.  Foundation piles are built by suit from Ace to
+			King, then King back to Ace.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Verschieben Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>
+		Cards in Tableau can be built either up or down in suit.  However, each
+		pile must follow only one of these rules.  For example, if a Tableau
+		pile has a three of clubs over a two of clubs, one can only play a four
+		of clubs on this pile.  Any available card can be played on to an empty
+		Tableau pile.
+	</para>
+	<para>
+		Foundation piles are to be built in suit from Ace to King, followed by
+		another King, then back down to Ace, giving 26 cards per pile when game
+		is won.  Cards in Foundation piles are no longer in play.
+	</para>
+	<para>Karten werden einzeln vom Talon auf den Restestapel umgedreht. Die oberste Karte des Restestapels ist im Spiel. Es gibt keine Neuverteilungen.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte, die in den Fundamentstapeln abgelegt wird, erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 104</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		A string of beads can be added to from both ends, and so should your
+		piles.  Make good use of any empty slots to append cards.  With a little
+		perseverance, this game can be a lot of fun!
+	</para>
+        </sect2>
+</sect1>

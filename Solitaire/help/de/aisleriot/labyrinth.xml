@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Labyrinth</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der restliche Kartensatz wir hier nach dem Geben des Spieltisches abgelegt.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>
+	  	Four piles top right.  Aces are placed in their
+	  	respective Foundation pile prior to shuffling the deck.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Eine Karte wird offen auf jeden Tischstapel zu Spielbeginn gelegt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    Build any cards from the Tableau in suit and sequence on to the
+    Foundation.  Spaces are automatically filled from the Stock.
+  </para>
+  <para>
+    Once the eight cards in the Tableau piles cannot be played, click on
+    the Stock to deal a card to each pile.  Empty slots in the Tableau
+    are no longer filled automatically.
+  </para>
+  <para>
+    Cards at the top and bottom of each Tableau pile is available for
+    play on to the Foundation piles.  There is no building on the
+    Tableau.  There is no redeal.
+  </para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte auf dem Fundamentstapel zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Get plenty of sleep the night before so that you are bright and
+    alert when you play this game.  Move any card you possibly can on to
+    the Foundation piles.  Have fun!
+  </para>
+        </sect2>
+</sect1>

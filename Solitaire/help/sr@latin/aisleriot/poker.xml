@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Poker</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Pored gomile. Otpad može da drži samo jednu kartu.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Mreža pet sa pet. Svako mesto može da drži jednu kartu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Osvojite što je više moguće poena koristeći pokeraške ruke. Na tabli postoji dvanaest ruku — 5 redova, 5 kolona i 2 dijagonale. Za pobedu se smatra osvajanje 75 ili više poena.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Klikom na gomilu okrećete jednu po jednu kartu. Okrenuta karta se mora staviti negde na talon pre nego što se okrene naredna karta. Kada se jednom postavi, karta se više ne pomera.</para>
+
+          </sect2>
+        <sect2><title>Opcije</title>
+
+  <para>Pomešani režim: ako odaberete ovo, možete pomerati karte nakon što ih stavite. Tada će vam trebati 120 poena za pobedu.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Pokeraške ruke se boduju po britanskom sistemom, koji je dat kao</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Ruka</entry>
+          <entry>Opis</entry>
+          <entry>Poena</entry>
+        </row>
+        <row>
+          <entry>Fleš rojal</entry>
+          <entry>Karte su po redu i istog su znaka</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Poker</entry>
+          <entry>Sadrži četiri iste karte</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Kenta</entry>
+          <entry>Karte su po redu</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Ful</entry>
+          <entry>Tri karte sa jednom vrednošću i dve sa drugom</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Triling</entry>
+          <entry>Sadrži tri iste karte</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Boja</entry>
+          <entry>Svih pet karata su istog znaka</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Dva para</entry>
+          <entry>Sadrži dva skupa sa po dve iste karte</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Jedan par</entry>
+          <entry>Sadrži dve iste karte</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Najveći mogući broj poena: 276</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Zapamtite da ćete videti skoro pola špila i planirajte unapred. Pokušaji blefiranja računara se ne preporučuju.</para>
+        </sect2>
+</sect1>

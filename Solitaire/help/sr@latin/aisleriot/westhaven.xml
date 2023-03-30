@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Zapadna luka</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se okreću na otpad jedna po jedna. Nema ponovnih deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri gomile u gornjem redu. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Deset gomila od po tri karte, sa poslednjom kartom okrenutom.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte na „temelje“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte na talonu se slažu na dole po naizmeničnim bojama. Poslednja okrenuta karta na svakoj od gomila je u igri. Prazna mesta se mogu popunjavati bilo kojim nizom karata.</para>
+	<para>„Temelji“ se slažu po znaku od asa do kralja. Karte na „temelju“ više nisu u igri.</para>
+	<para>Karte se okreću jedna po jedna sa gomile na otpad. Karta na vrhu otpada je u igri. Nema ponovnih deljenja.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta premeštena na „temelj“ donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Oprez je za one koji imaju nešto uloženo. Živite opasno. Igrajte šta stignete, šanse su na vašoj strani.</para>
+        </sect2>
+</sect1>

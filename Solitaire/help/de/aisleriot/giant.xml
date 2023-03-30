@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Giant</title>
+
+  <para>Geschrieben von Ed Sirett</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten werden hier nach dem Geben des Spieltisches abgelegt. Die Karten werden gleichzeitig reihenweise auf den Spieltisch ausgegeben. Es gibt keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Acht Ablagen oben rechts. Der Aufbau erfolgt aufsteigend nach Farbe von Ass bis König. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Acht Stapel. Eine Karte wird sichtbar auf alle acht Stapel ausgegeben.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Auf dem Spieltisch rechts. Ist anfangs leer. Darf mit jeder Einzelkarte belegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Karten können einzeln oder gruppenweise verschoben werden. Leere Ablagen auf dem Spieltisch können mit jeder beliebigen Karte belegt werden. Es gibt die Möglichkeit, die Verschiebung auf Karten der selben Farbe zu beschränken. Lesen Sie weiter unten.</para>
+  <para>
+    Cards are dealt from the Stock to the Tableau in complete rows. The reserve may be empty or
+    occupied as you wish.
+  </para>
+  <para>Fundamentstapel werden aufsteigend von Ass nach König aufgebaut. Die obersten Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist. Ein Doppelklick auf einen Fundamentstapel legt automatisch so viele Karten wie möglich auf die Fundamentstapel.</para>
+          </sect2>
+        <sect2><title>Optionen</title>
+
+  <para>
+    There are two ways to play. The difference between them
+    is in how the cards may be built in the tableau.
+  </para>
+  <variablelist>
+    <varlistentry><term>Gleiche Farbe</term>
+      <listitem>
+      <para>Cards must be of the same suit to be moved as a group and must be placed on a card of the same suit.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Abwechselnde Farben</term>
+      <listitem>
+         <para>To be moved as a group cards must be in a sequence of alternating colors. The top card must be placed on a card of
+               the opposite color.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Vermeiden Sie kleine Karten im Tableau verborgen zu lassen. Nutzen Sie den Reservestapel klug.</para>
+        </sect2>
+</sect1>

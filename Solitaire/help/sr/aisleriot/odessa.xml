@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Одеса</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>„Темељ“</entry>
+		<entry>Четири гомиле лево. Слажу се по знаку од аса до краља.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Седам гомила. Деле се три затворене карте, па три отворене карте, а затим још два реда отворених карата у средишњих пет гомила.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Померити све карте у гомиле на „темељу“.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карте на талону се слажу по знаку. Групе карата се могу померати невезано за њихов редослед. Групе карата у редоследу се могу померити на одговарајући „темељ“. Празно место на талону се може попунити краљем или групом карата где је краљ на почетку.</para>
+	<para>„Темељи„ се слажу по знаку од аса до краља. Карте на „темељу“ нису више у игри.</para>
+
+	        </sect2>
+        <sect2><title>Опције</title>
+
+	<para>Ништа</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Када се карте поделе, сваки опадајући низ карата по знаку доноси један поен по карти. Сваки потез на талону ће донети један поен за сваку карту у новокреираном низу. Поен се добија и за сваку карту стављену на „темељ“.</para>
+	<para>Највећи могући број поена: 412</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Што више издржите, више ћете имати. Покушајте да макнете карте подаље од „темеља“ што више можете. Већи низ карата донеће вам више поена.</para>
+        </sect2>
+</sect1>

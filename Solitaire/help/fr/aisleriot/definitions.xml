@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="fr">
+	<title>Glossaire</title>
+
+	<para>Note de l'auteur : ces définitions ne sont là que pour servir de guide. Consultez les règles de chacun des jeux car chaque jeu peut redéfinir ou modifier les règles pour le plaisir.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Carte de base</term>
+			<listitem><para>La première carte distribuée dans une fondation. Les autres fondations doivent généralement commencer par une carte de même rang. Voir : Fondation</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Construire par couleur (rouge et noir) alternée</term>
+			<listitem><para>On peut construire en plaçant une carte sur une autre carte de la couleur opposée. Exemple : placer un Carreau sur un Pique est correct, mais placer un Carreau sur un Cœur ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Construire sur n'importe quelle couleur sauf la sienne</term>
+			<listitem><para>On peut construire en plaçant une carte sur une autre carte de n'importe quelle couleur sauf la couleur de la carte originale. Exemple : placer un Carreau sur un Cœur est correct, mais placer un Cœur sur un autre Cœur ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Construire par couleur (rouge et noir)</term>
+			<listitem><para>On peut construire en plaçant une carte sur une autre carte de la même couleur (rouge et noir). Exemple : placer un Carreau sur un Cœur est correct, mais placer un Carreau sur un Trèfle ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Construire quelle que soit la couleur</term>
+			<listitem><para>Tout est bon.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Construire par couleur</term>
+			<listitem><para>On peut construire en plaçant une carte sur une autre carte de la même couleur. Exemple : placer un Pique sur un Pique est correct, mais placer un Pique sur un Trèfle ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Construire en descendant</term>
+			<listitem><para>On peut construire en plaçant une carte sur une carte de rang supérieur. En général, cela implique une différence d'un rang seulement entre les deux cartes. Exemple : placer un 10 sur un Valet est correct, mais placer un 10 sur un 9 ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Construire en descendant de *</term>
+			<listitem><para>On peut construire en plaçant une carte sur une carte de rang supérieur de *. Exemple : si * est 2, placer un 10 sur une Dame est correct, mais placer un 10 sur un Valet ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Construire en montant</term>
+			<listitem><para>On peut construire en plaçant une carte sur une carte de rang inférieur. En général, cela implique une différence d'un rang seulement entre les deux cartes. Exemple : placer une Dame sur un Valet est correct, mais placer une Dame sur un Roi ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Construire en montant de *</term>
+			<listitem><para>On peut construire en plaçant une carte sur une carte de rang inférieur de *. Exemple : si * est 2, placer un 10 sur un 8 est correct, mais placer un 10 sur un 9 ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Construire en montant ou en descendant</term>
+			<listitem><para>On peut construire en plaçant une carte sur une carte de rang supérieur ou inférieur. Exemple : placer un Valet sur une Dame est correct, mais placer un 10 sur une Dame ne l'est pas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Construction</term>
+			<listitem><para>La possibilité de placer une carte (ou un groupe de cartes) sur une autre carte. En fonction du rang, vous pouvez construire en montant, construire en descendant ou construire en montant/descendant de *. En fonction des couleurs, vous pouvez construire par couleur, construire par couleur (rouge et noir), construire par couleur (rouge et noir) alternée, construire sur n'importe quelle couleur sauf la sienne ou construire quelle que soit la couleur. Notez que tous les jeux qui construisent suivront deux de ces règles, une de chaque liste.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Paquet</term>
+			<listitem><para>Le jeu de cartes utilisé. La plupart des jeux utilisent un Paquet standard, mais les jeux utilisant un Paquet double, un Paquet Joker ou un Paquet réduit ne sont pas rares.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Paquet double</term>
+			<listitem><para>Un paquet de cartes constitué de deux Paquets standards, formant un total de 104 cartes.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Fondation</term>
+			<listitem><para>Si un jeu possède des fondations, la partie est généralement gagnée en plaçant toutes les cartes dans les fondations.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Paquet Joker</term>
+			<listitem><para>Un paquet de cartes constitué d'un Paquet standard et de deux jokers, formant un total de 54 cartes.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Pile</term>
+			<listitem><para>Un endroit particulier où les cartes peuvent être placées.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Rang</term>
+			<listitem><para>La valeur d'une carte. Les cartes avec des nombres ont généralement le rang de leur nombre associé. Les As peuvent être hauts ou bas. S'ils sont haut, leur rang vaut 14. S'ils sont bas, leur rang vaut 1. Le Valet, la Dame et le Roi ont généralement un rang de 11, 12 et 13 respectivement. Cependant, certains jeux peuvent mettre le rang de ces cartes à 10. Dans un tel cas, un As haut peut valoir 11.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Réserves</term>
+			<listitem><para>Les cartes dans les réserves peuvent généralement être utilisées n'importe où. On ne peut pas, en principe, construire sur elles.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Emplacement</term>
+			<listitem><para>Voir Pile.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Paquet standard</term>
+			<listitem><para>Un paquet de cartes de poker de 52 cartes. Il y a quatre couleurs de treize cartes chacune. Chaque couleur contient un As, 2 à 10, Valet, Dame et Roi. Ces couleurs sont généralement Trèfles, Piques, Cœurs et Carreaux. Ces couleurs peuvent être groupées en deux couleurs, généralement noir et rouge. Les Trèfles et les Piques sont noirs tandis que les Cœurs et les Carreaux sont rouges. Aisleriot permet l'utilisation de plusieurs paquets. Dans ce cas, les nouvelles couleurs contiennent plus de cartes en conséquences.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Pioche</term>
+			<listitem><para>Le reste du paquet après que toutes les cartes de départ aient été distribuées. Les cartes de la pioche sont généralement gardées face cachée.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Couleur</term>
+			<listitem><para>Quatre différentes sortes dans un paquet standard. Généralement Trèfles, Piques, Cœurs et Carreaux.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Tableau</term>
+			<listitem><para>Le terrain de jeu, où se déroule l'action principale. Autorise généralement les constructions.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Défausse</term>
+			<listitem><para>Une pile de cartes face visible, généralement à côté de la Pioche. Les cartes du dessus sont généralement en jeu.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

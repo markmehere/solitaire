@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kansas"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kansas</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>
+			Four piles on top right.  Deal one card on first Foundation pile to
+			start.  Other Foundation piles are to be started with the other three
+			cards with the same rank as this base card.  All four piles are to be
+			built up, with the ranks continuous.
+		</entry>
+	</row>
+	<row>
+		<entry>Reserve</entry>
+		<entry>
+			Pile under Stock.  Deal twelve cards here to begin.  Top card available
+			for play on to Tableau or Foundation piles.
+		</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Three piles bottom right.  Deal one card on each pile to start.  Piles
+			can be built down regardless of suit.  Spaces are automatically filled
+			from Reserve.  Once Reserve is empty, Tableau spaces can be filled from
+			the Waste at your leisure.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Verschieben Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Karten auf dem Spieltisch werden absteigend ungeachtet der Farbe aufgebaut. Karten können in Gruppen bewegt werden. Ein leerer Platz auf dem Spieltisch wird automatisch aus dem Reservestapel aufgefüllt. Wenn der Reservestapel leer ist, darf eine leere Ablage mit der obersten Karte des Ablagestapels nach Ihrem Belieben gefüllt werden.</para>
+	<para>Karten werden einzeln vom Talon auf den Reservestapel gelegt. Die oberste Karte ist im Spiel. Es gibt keine Neuverteilungen.</para>
+	<para>Fundamentstapel werden von der Basiskarte aufsteigend nach Farbe aufgebaut (die erste Karte wird auf den ersten Fundamentstapel ausgegeben). Neue Fundamentstapel werden begonnen, sobald eine Karte des gleichen Ranges wie die bei der Verteilung zuerst ausgegebene auf einen leeren Fundamentstapel abgelegt wird. Asse werden auf Könige und Zweier auf Asse abgelegt. Die Karten in den Fundamentstapeln sind nicht mehr im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		You can't go digging through junkyards.  Once a card is buried in the
+		waste, it is hard to get back.  Try and move as many cards from the
+		Waste to the Tableau as possible.
+	</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenwood</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna och reservhögen. Korten vänds ett i taget till kasthögen. En omgiv.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar överst till höger. Första grundhögen startas genom att välja ett kort från reservhögarna. Byggs upp i färg, hoppa från kung till ess vid behov.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Fyra högar med tre kort vardera på vänster sida, alla med framsidan upp. Det översta kortet i varje reservhög är tillgängligt för spel. Inga kort kan läggas i en tom reservhögs plats.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Fyra platser nedanför grundhögarna. Lägg ett kort med framsidan upp på varje plats. Bordshögarna kan byggas ned genom att växla kulör. Översta kortet kan spelas upp på grundhögarna. Hela högar kan flyttas till en annan bordshög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Den första punkten i spelet är att välja ett tillgängligt kort för den första grundhögen. När du väl har valt måste de övriga grundhögarna också börja med samma valör.</para>
+  <para>Grundhögarna byggs upp i färg och hoppar från kung till ess vid behov. När ett kort väl har placerats på en grundhög är det ur spel.</para>
+  <para>Kort i bordshögarna byggs ned genom att växla kulör. Hela högar med kort kan flyttas till en annan bordshög. Tomma platser i bordshögarna kan fyllas med ett tillgängligt kort från reservhögarna eller, om alla reservhögarna är tomma, från kasthögarna.</para>
+  <para>Korten vänds ett och ett från högen till kasthögen. En omgiv.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Var försiktig när du väljer din första grundhög. Försök att få bort korten från reservhögen så tidigt som möjligt. Det är ibland viktigare att hålla korten i spel än att flytta dem till bordshögarna.</para>
+        </sect2>
+</sect1>

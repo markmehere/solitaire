@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>迷魂阵</title>
+
+  <para>由 Matthew Wilcox 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>48张：标准牌，不要 K</entry>
+	</row>
+
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>五十四个空格排列成六行九列，按顺序发八张牌，第九个空着，再在十到十七位置上发牌，让第十八个空着，接着就正常发完牌，然后去掉所有的 K(这个游戏没有弄太复杂)，这样就有六个空位。牌左边的空位可以放相同花色且小一点数的牌，右边的空位可以放相同花色但大一点数的牌。A 放在 Q 的后面，或者放在左上角的空位中，Q 可以放在 A 的左边，或者右下角的位置。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把每个花色的牌按递增顺序排好，A 在左上角的位置，创建一系列牌序：相同花色的 A 到 Q，再另外一个 A 接着上一个 Q，再第三个 A 接上一个Q，第四个 A 接上一个 Q，从 A 到 Q 都是相同的花色。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>每次移动一张牌，牌左边的空位可以放相同花色且小一点数的牌，右边的空位可以放相同花色但大一点数的牌。A 放在 Q 的后面，或者放在左上角的空位中，Q 可以放在 A 的左边，或者右下角的位置。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每正确排好一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>多个连续的空位可以排上一长队牌，当心在移动一张牌时出现无尽循环的陷阱。</para>
+        </sect2>
+</sect1>

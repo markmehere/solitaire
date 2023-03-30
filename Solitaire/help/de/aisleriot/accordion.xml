@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Accordion</title>
+
+  <para>Geschrieben von Ed Sirett</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Vierundfünfzig Plätze in fünf Reihen zu je neun und eine letzte Reihe zu sieben. Je Platz wird eine Karte offen verteilt. Die Plätze sollten als eine fortlaufende Reihe gesehen werden. Die Reihen ordnen den Spieltisch einfach nur so an, dass alles gleichzeitig gesehen werden kann. Demnach ist also der am weitesten rechte Platz einer Reihe links von dem Platz, der in der Reihe darunter am weitesten links ist.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten bis auf eine sind zu entfernen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Die Karten werden einzeln bewegt. Jede Karte kann auf eine andere Karte der gleichen Farbe oder des gleichen Wertes gelegt werden, die sich unmittelbar links oder drei Plätze weiter links befindet. Die Karte, die verdeckt wird, geht aus dem Spiel. Alle Karten (falls vorhanden) in Plätzen rechts der entstehenden Lücke werden in Richtung der Lücke verschoben, um sie zu schließen. Ein Doppelklick bewegt die Karte drei Plätze - sofern möglich - oder, falls dies fehlschlägt, wird die Karte einen Platz nach links verschoben.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 51</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Dies ist ein schwieriges Spiel. Versuchen Sie, zwei oder drei Karten gleichen Ranges in oder nahe der letzten Reihe zu finden. Versuchen Sie keine Karte dieses Rangs zu entfernen. Zum Schluss können Sie diese Karten zusammenschieben, um zu gewinnen.</para>
+        </sect2>
+</sect1>

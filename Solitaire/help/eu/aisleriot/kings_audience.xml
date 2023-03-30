@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Erregearen audientzia</title>
+
+  <para>Zach Keene-k idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+        <row>
+          <entry>Biltegiak (gelaurrea)</entry>
+          <entry>Hamasei kartaz osatutako kanpoko laukizuzena. Biltegiko kartak jokorako prest daude, eta hondarretik betetzen dira hutsuneak (edo sortatik, hondarrean kartarik ez badago).</entry>
+        </row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Erdiko errenkadako ezker-ezkerrean. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriz banatu.</entry>
+	</row>
+        <row>
+          <entry>Hondarra</entry>
+          <entry>Sortaren eskuinean. Hondarreko goiko karta jokoan erabil daiteke.</entry>
+        </row>
+        <row>
+          <entry>"Tronuak"</entry>
+          <entry>"Audientzia-gelako" lau guneak (kanpoko hamasei karten barruko area). Irudi bereko erregea eta erregina erabilgarri daudenean, tronuetako batera eramaten dira.</entry>
+	</row>
+	<row>
+	  <entry>Oinarriak</entry>
+	  <entry>Audientzia-gelako beheko lau guneak. Irudi bereko txanka eta batekoa erabilgarri daudenean, oinarri-pila huts batean jar daitezke, txanka gainean dagoela. Oinarria beherantz osa daiteke ondoren, irudia kontuan hartuta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara edo tronuetara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>kartak banaka iraultzen dira sortatik hondarrera. Irudi bereko erregea eta erregina erabilgarri badaude, tronu batera eraman daitezke. Horretarako arrastatu erregea erreginaren gainera (edo alderantziz), edo egin klik bikoitza bi kartetako batean. Halaber, irudi bereko txanka eta batekoa erabilgarri badaude, oinarri-pila batera eraman daitezke (urrats berdinei jarraituz).</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Audientzia-geletan jarritako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Bat ere ez; Erregearen audientzia zortean oinarritzen da.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Дијамантска мина</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Једна гомила на врху. Слажите низове кароа (дијаманата) почевши од неког по вашем избору.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Тринаест гомила. Деле се по три затворене карте и једна отворена карта на сваку од гомила.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Склонити све карое на „темељ“, док на талону све карте треба да буду поређане по знаку, почевши од асова.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте (осим кароа) се могу слагати у низ без обзира на знак. Низови карата се могу заједно померати. Празна места се могу попуњавати било којом картом (осим кароа) или низом карата.</para>
+  <para>Карои се не могу померити осим ако се поставе на „темељ“. Каро „темељ“ се мора сложити по вредности, али може да крене од било ког броја.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки постављени каро на „темељ“ доноси онолико поена колика је вредност те карте, при чему ас доноси један поен, жандари једанаест, даме дванаест, а краљеви тринаест поена.</para>
+  <para>Сваки низ од аса до краља са талона доноси три поена.</para>
+  <para>Највећи могући број поена: 100</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Копање кароа је тежак посао. Имајте у виду да не вреде све каро карте исто. Не заборавите да очистите за собом и да остале знакове поставите у низ.</para>
+        </sect2>
+</sect1>

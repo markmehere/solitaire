@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Doble baraja</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Hay un reparto.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Ocho montones en la parte superior derecha. Se colocan los ocho ases en estos montones para empezar la fundación. La fundación se construye ascendentemente alternando el color hasta los reyes. Las cartas en la fundación no se consideran más en juego.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Ocho montones bajo la fundación. Se da una carta a cada montón del tablero al empezar. Los montones del tablero se construyen descendentemente alternando el color. Sólo la carta de la cima de cada montón está disponible para el juego. Los espacios vacíos se llenan inmediatamente desde la basura, o si la basura está vacía, desde el montón.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueve todas las cartas a los montones de la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas del tablero se construyen descendentemente alternando el color. Sólo la carta de la cima de cada montón está en juego. Sin embargo, para facilitar el juego, un montón entero se puede mover al montón apropiado de la fundación si tal movimiento es posible. Pulsar dos veces sobre un montón moverá la carta de la cima al montón apropiado de la fundación, si tal movimiento es posible.</para>
+	<para>Los espacios en el tablero se llenan automáticamente desde la basura o, si la basura está vacía, desde el montón.</para>
+	<para>Se da desde el montón a la basura de una carta en una. La carta de la cima de la basura está disponible para el juego. Hay un reparto.</para>
+	<para>La fundación se construye ascendentemente alternando el color desde el as hasta el rey. Las cartas en los montones de la fundación no se consideran más en juego.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 96</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Hay muy pocas segundas oportunidades en la vida real, así que úselas cuando las encuentre. Las oportunidades son que necesite usar un segundo reparto para ganar el juego. Recuerde dónde están las cartas clave y estará contento de que lo hizo.</para>
+        </sect2>
+</sect1>

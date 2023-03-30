@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Totes les cartes es col·loquen a la pila principal al començament de la partida. Aquestes es giren una per una a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Per a agafar des de la pila principal. Només es pot tenir una carta que s'ha de jugar immediatament al tauler.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Graella quatre per quatre, cada casella pot contenir una carta. Els reis només es poden col·locar en els espais de les cantonades. Les reines només es poden col·locar en els dos espais del mig de la primera i de l'última fila. Les jotes només es poden col·locar en els dos espais del mig de la primera i de l'última columna.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Suprimiu totes les cartes excepte les figures (jotes, reines i reis). Heu guanyat si el tauler s'assembla a aquest --</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>El tauler guanyador.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>-- i la pila principal i la pila de descartades estan buides. Els pals no importen.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Hi ha dues fases en aquest joc. Alterneu entre les dues fases fins que la partida es perd o es guanya. Comenceu a la primera fase fins que el tauler està totalment omplert. En aquest punt, canvieu a la segona fase. Fixeu-vos que no podeu començar la segona fase fins que el tauler està totalment omplert. En qualsevol moment, podeu tornar a la primera fase, però recordeu que no podeu tornar a la segona fase fins que el tauler torna a estar omplert. Una excepció a aquesta regla és quan la pila principal i la pila de descartades estan buides.</para>
+	<para>Primera fase -- Feu clic a la pila principal per a moure una carta a la pila de descartades buida. Si la carta és un:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Rei: Col·loqueu-lo a un espai de les quatre cantonades que estigui buit.</para>
+		</listitem>
+		<listitem>
+			<para>Reina: Col·loqueu-la a un dels dos espais de la fila superior o inferior que estigui buit.</para>
+		</listitem>
+		<listitem>
+			<para>Jota: Col·loqueu-la a un dels dos espais de les columnes de l'esquerra o de la dreta que estigui buit.</para>
+		</listitem>
+		<listitem>
+			<para>Qualsevol altra carta: Col·loqueu-la en qualsevol espai que estigui buit.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Segona fase -- Suprimiu els deus simplement en fer clic sobre ells. Suprimiu les parelles que sumin 10 arrossegant una carta sobre la seva parella.</para>
+	<para>La partida es perd si una carta figura no es pot posar al lloc apropiat o si tots els espais estan omplerts i no es poden suprimir cartes.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta suprimida puntua un punt.</para>
+	<para>Puntuació màxima possible: 40</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>La part més segura és la del mig. Durant la primera fase de la partida, reparteix al mig abans d'anar als costats. Si veieu una possible parella, col·loqueu aquesta carta al costat de manera que podreu alliberar més espais del costat durant la segona fase de la partida.</para>
+        </sect2>
+</sect1>

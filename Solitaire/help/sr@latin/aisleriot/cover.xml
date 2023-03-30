@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Zaklon</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve preostale karte se posle deljenja stavljaju ovde.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    <entry>Četiri gomile. Na početku igre se deli po jedna karta na svako mesto. Prazna mesta se odmah pune iz gomile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Isprazniti gomilu.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Bilo koje dve karte sa talona se mogu ukloniti ako su istog znaka. Prazna mesta se odmah popunjavaju kartama iz gomile. Igra je gotova kada na talonu od svakog znaka ostane samo jedna karta.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki uklonjeni par donosi dva poena.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Mala brza igra koja se igra bez mnogo razmišljanja, pa će vam dobri refleksi biti od presudnog značaja za rešavanje zadatka.</para>
+        </sect2>
+</sect1>

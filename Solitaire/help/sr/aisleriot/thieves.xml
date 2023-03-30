@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Лопови</title>
+
+  <para>Написао Robert Brady</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Шпил са џокерима</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Седам гомила са по пет отворених карата.</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Све преостале карте се постављају овде. Карте се окрећу једна по једна на отпад. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте на отпад.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Отпад се може слагати на горе или на доле од доступних карата са талона. Џокери се могу одиграти на било коју карту и било која карта се може одиграти на џокера.</para>
+  <para>Карта се, у сваком тренутку, може поделити са гомиле на отпад.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>У следећој табели дати су бројеви поена које добијате за сваки тип карте. За џокере се не добијају поени.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Карта</entry>
+          <entry>Поена</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Ас</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Jack, Queen</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Краљ</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Пошто можете да видите све карте на талону, покушајте да осмислите потезе у глави и да се решите што више карата можете, јер је допуна карата са гомиле ограничена.</para>
+        </sect2>
+</sect1>

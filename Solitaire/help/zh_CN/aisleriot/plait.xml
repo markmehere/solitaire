@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>辫子</title>
+
+	<para>W. Borgert 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>两副牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>从右边数第三列中间的牌垛，可以重发两次。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>从右边数第四列中间的牌垛，在发牌区的左边。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右边的八个牌垛，开始时已放了一张基准牌，所有空位都是从这张牌开始收取。</entry>
+	</row>
+	<row>
+		<entry>辫子</entry>
+		<entry>桌面中间的一组牌，开始有20张牌，只有最上面的一张可以移动。</entry>
+	</row>
+	<row>
+		<entry>边牌</entry>
+		<entry>桌面上边和下边，在中间辫子左边和右边的四个位置，可以自动从辫子发牌过来。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>在辫子左右各四垛牌，在上下边牌的中间，每垛只能放一张牌。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>八个收牌区都从一个相同的基准牌开始收牌，在开始的时候可以选择是递增还是递减排列，您可以从中间的“辫子”里收牌，也可以从两边的八垛牌，从四个边牌垛，或者从废牌区收牌。</para>
+	<para>如果没有移动的牌，发牌区也空了，这时游戏就会结束。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>没有得分，只有羸和输。</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>尽量移走“辫子”里的牌，它们很难翻开，然后拿走桌面上排列区的牌，它们会提供一些空位，用来临时存储一些牌。</para>
+        </sect2>
+</sect1>

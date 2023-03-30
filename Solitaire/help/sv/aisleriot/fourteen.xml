@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fjorton</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Dela alla korten med framsidan upp jämnt fördelat på tolv högar. De första fyra högarna kommer vardera ha fem kort medan de övriga högarna kommer alla ha fyra kort. Det öppna kortet i varje hög är i spel. Tomma platser kan inte fyllas.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort kan tas bort i par som tillsammans blir fjorton. Ess är värda ett och knektar, damer och kungar är värda 11, 12, respektive 13.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje borttaget kort ger 1 poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Tänk dig för! Försök att ta bort kort som ligger på matchande par annars kanske du fastnar.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gold_Mine"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Gold Mine</title>
+
+  <sect2><title>Configuração</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>
+	    Top left pile.  The rest of the deck is placed here after
+	    dealing on to the Tableau.  Cards are turned over three at a
+	    time to Waste.  
+	    No redeals.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>A serem retiradas do monte. Carta no topo disponível para jogar.</entry>
+	</row>
+	<row>
+	  <entry>Fundações</entry>
+	  <entry>Quatro pilhas superiores direita. Forme as pilhas por naipes do ás ao rei. A carta do topo de cada fundação pode ser jogada de volta ao tabuleiro.</entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>
+	    Seven piles, all empty to start.  
+        Gold Mine is a variation of <ulink type="help" url="ghelp:aisleriot#Klondike">Klondike</ulink>.  
+	    Tableau can be built down in alternating colors.  Groups of
+	    cards can be moved.  Empty piles can be filled with any card. 
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  </sect2>
+
+  <sect2><title>Objetivo</title>
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+  </sect2>
+
+  <sect2><title>Regras</title>
+  <para>
+    Cards in the Tableau are built down by alternating color.  Groups of
+    cards can be moved.  An empty pile in the Tableau can be filled with
+    any card.  
+  </para>
+  <para>
+    Cards are flipped from the Stock to the Waste three at a time.  Top
+    card in Waste is in play.  When Stock is empty, game over.  
+    Only one chance to get it right and establish your gold mine.  
+  </para>
+  <para>Fundações são construídas por naipe de ás ao rei. Cartas nas fundações ainda estão em jogo. Clique duplo numa carta irá movê-la para a pilha fase apropriada se tal movimento for válido.</para>
+  </sect2>
+
+  <sect2><title>Pontuação</title>
+  <para>Você ganha um ponto por cada carta nas pilhas de fundação.</para>
+  <para>Máxima pontuação possível: 52</para>
+  </sect2>
+
+  <sect2><title>Estratégia</title>
+  <para>
+    Be careful how you fill the empty foundation piles.  
+    With skill it is possible to win Gold Mine most of the time.  
+    If at first you do not succeed restart and try again.  
+  </para>
+  </sect2>
+</sect1>

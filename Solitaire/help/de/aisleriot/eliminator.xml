@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Eliminator</title>
+
+	<para>Geschrieben von Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Spielaufbau</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Art des Kartensatzes</entry>
+						<entry>Standard-Kartensatz</entry>
+					</row>
+					<row>
+						<entry>Kartenreihe</entry>
+						<entry>Vier Stapel. 13 Karten werden auf jeden der Stapel ausgeteilt. (Dies sind alle Karten.)</entry>
+					</row>
+					<row>
+						<entry>Fundamentstapel</entry>
+						<entry>Vier bis sechs leere Ablagen, die Sie in beiden Richtungen aufbauen können.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Ziel des Spiels</title>
+		<para>Alle Karten auf den Fundamentstapel verschieben.</para>
+	</sect2>
+
+	<sect2>
+		<title>Regeln</title>
+		<para>Jede Karte kann als erste Karte auf dem Fundament platziert werden. Fundamentstapel können beginnend mit der obersten Karte auf- oder abgebaut werden, ohne Rücksicht auf die Spielkartenfarbe. Könige können auf Asse gelegt werden und auch umgekehrt.</para>
+	</sect2>
+
+	<sect2>
+		<title>Punktwertung</title>
+		<para>Jede Karte, die vom Spieltisch auf eine Karte auf dem Restestapel gelegt wird, erzielt einen Punkt.</para>
+		<para>Maximal erzielbare Punkte: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Strategie</title>
+		<para>Stellen Sie sicher, dass Sie alle Karten betrachten, die kommen, und seien Sie sicher, dass sie keine Karte blockieren, die Sie benötigen, um diese auf die oberste Position zu legen.</para>
+	</sect2>
+</sect1>

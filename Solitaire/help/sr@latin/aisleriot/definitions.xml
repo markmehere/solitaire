@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="sr-Latn">
+	<title>Rečnik</title>
+
+	<para>Primedba autora; Ove definicije služe samo kao smernice. Pogledajte pojedinačne igre za tačna pravila pošto svaka igra ima pravo da redefiniše i izmeni pravila kako bi bila zabavnija.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Osnovna karta</term>
+			<listitem><para>Prva karta koja se deli u gomilu na „temelju“. Obično ostali „temelji“ treba da počinju sa kartom koja ima istu vrednost kao osnovna karta. Pogledati: „Temelj“,</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Slaganje po naizmeničnim bojama</term>
+			<listitem><para>Karte se slažu tako što je na jednu kartu dozvoljeno staviti kartu suprotne boje. Primer: Staviti karo na pik je dozvoljeno, ali staviti karo na herc nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Slaganje po bilo kom znaku osim sopstvenom</term>
+			<listitem><para>Karte se slažu tako što je na kartu jednog znaka dozvoljeno staviti kartu sa bilo kojim znakom osim znaka te prve karte. Primer: Staviti karo na herc je dozvoljeno, ali staviti herc na herc nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Slaganje po boji</term>
+			<listitem><para>Karte se slažu tako što je na jednu kartu dozvoljeno staviti kartu iste boje. Primer: Staviti karo na pik je dozvoljeno, ali staviti karo na tref nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Slaganje nevezano za znak</term>
+			<listitem><para>Sve je dozvoljeno.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Slaganje po znaku</term>
+			<listitem><para>Karte se slažu tako što je na jednu kartu dozvoljeno staviti samo kartu istog znaka. Primer: Staviti pik na pik je dozvoljeno, ali staviti pik na tref nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Slaganje na dole</term>
+			<listitem><para>Karte se slažu tako što je na kartu sa određenom vrednošću dozvoljeno staviti kartu sa vrednošću koja je za jedan manja. Primer: Staviti 10 na žandara je dozvoljeno, ali staviti 10 na 9 nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Slaganje na dole za po N</term>
+			<listitem><para>Karte se slažu tako što se na kartu sa većom vrednošću može staviti karta sa manjom vrednošću ako je razlika ove dve vrednosti jednaka N. Primer: Ako je N jednako 2, staviti 10 na damu je dozvoljeno, ali staviti 10 na žandara nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Slaganje na gore</term>
+			<listitem><para>Karte se slažu tako što je na kartu sa određenom vrednošću dozvoljeno staviti kartu sa vrednošću koja je za jedan veća. Primer: Staviti damu na žandara je dozvoljeno, ali staviti damu na kralja nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Slaganje na gore za po N</term>
+			<listitem><para>Karte se slažu tako što se na kartu sa manjom vrednošću može staviti karta sa većom vrednošću ako je razlika ove dve vrednosti jednaka N. Primer: Ako je N jednako 2, staviti 10 na 8 je dozvoljeno, ali staviti 10 na 9 nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Slaganje na gore ili dole</term>
+			<listitem><para>Karte se slažu tako što je na kartu sa određenom vrednošću dozvoljeno staviti kartu sa vrednošću koja je za jedan manja ili veća od vrednosti prve karte. Primer: Staviti žandara ili 10 na damu je dozvoljeno, ali staviti 10 na damu nije.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Slaganje</term>
+			<listitem><para>Mogućnost stavljanja karte (ili niza karata) na drugu kartu. Kad se gleda znak, možete slagati karte na dole, na gore, i na gore i na dole po *. Kad se gleda znak/boja, možete slagati karte po znaku, po boji, po naizmeničnim bojama, po bilo kom znaku osim sopstvenog, ili nevezano za znak. Primetite da će sve igre u kojima ima slaganja koristiti dva od ova pravila, po jedan sa svakog spiska.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Špil</term>
+			<listitem><para>Skup korišćenih karata. Većina igara koristi standardni špil, ali ima i igara koje koriste dupli špil, špil sa džokerima ili ogoljene špilove.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Dupli špil</term>
+			<listitem><para>Dva spojena špila karata sa ukupno 104 karte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>„Temelj“</term>
+			<listitem><para>Ako u igri postoji „temelj“, u njoj se obično pobeđuje ako se sve karte postave u gomile na „temelju“.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Špil sa džokerima</term>
+			<listitem><para>Standardni špil karata sa dodatna dva džokera, od ukupno 54 karte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Gomila</term>
+			<listitem><para>Obeležena površina na koju se mogu stavljati karte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Vrednost</term>
+			<listitem><para>
+				The value of the card. Numbered cards usually have the rank of the
+				associated number.  Aces can either be high or low.  If high, aces are
+				ranked 14.  If low, aces are ranked as 1.  J, Q, and K are usually
+				ranked 11, 12, and 13 respectively.  However, some games may rank these
+				cards as 10.  In such a case, a high ace might be ranked as 11.
+			</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Rezerva</term>
+			<listitem><para>Karte na rezervi se obično mogu stavljati bilo gde i uglavnom se ne mogu slagati.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Mesto</term>
+			<listitem><para>Videti Gomila.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Standardni špil</term>
+			<listitem><para>Špil sa 52 karte. Postoje četiri znaka od kojih svaki ima trinaest karata. Svaki znak ima asa, karte sa brojevima od 2 do 10, žandara, damu i kralja. Ovi znakovi su skoro uvek tref, pik, herc i karo. Znakovi se mogu podeliti u dve boje, obično u crna i crvenu. Trefovi i pikovi su crni, dok su hercovi i karoi crveni. Pošto Pasijans dozvoljava i drugačije špilove, nove boje i/ili znakovi se uklapaju u ovu paradigmu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Gomila</term>
+			<listitem><para>Ostatak špila posle prvog deljenja karata se obično okreće na dole.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Znak</term>
+			<listitem><para>Četiri različita tipa u standardnom špilu. Obično tref, pik, herc i karo.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Talon</term>
+			<listitem><para>Sto za igru, gde se uglavnom sve odigrava. U većini slučajeva je dozvoljeno slaganje karata na njemu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Otpad</term>
+			<listitem><para>Naslagane okrenute karte, obično pored gomile. Sa kartom na vrhu se uglavnom može igrati.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

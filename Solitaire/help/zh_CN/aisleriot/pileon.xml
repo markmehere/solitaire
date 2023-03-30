@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>根冠</title>
+
+	<para>Nick Lamb 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>十五垛牌，排列成四行，每垛放四张翻开的牌，一共放十三垛，最后两垛为空，每垛可以放四张牌，或者是空位。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>每垛牌放四张相同的牌，最后两垛为空，但是不必在意空位是否是原位或者开头成空位了。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>相同的牌可以放一起，但是不能超过四张，一组相同的可以一起移动，但不会得分，空位可以放任意一张或一组牌。</para>
+	<para>一旦一垛牌四张相同，就不能再移动了，最上面的牌显示不再需要它们，也不再参与到游戏中，移动它们也没什么意义。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>排列好一垛牌得4分，每张一分，没有其他得分的方法。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>尽可能保留一个空位，不要让单牌压在了最底下，尤其是这张牌在别处不是最下面。</para>
+        </sect2>
+</sect1>

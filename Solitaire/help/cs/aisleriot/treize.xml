@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Treize</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Líže se z volných. Vrchní a spodní karta jsou k dispozici do hry.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Karty se rozdávají do sedmi navzájem se překrývajících řádků, počínaje jednou kartou v prvním řádku a postupně se přidává v každém řádku o jednu kartu navíc. Ve výsledku se dosáhne tvaru pyramidy.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Odebrat všechny karty.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Všechny uvolněné karty v pyramidě jsou k dispozici do hry. Krále lze odebrat samostatně. Všechny ostatní karty se odebírají v párech, jejichž součet je třináct. Eso má hodnotu 1, kluk 11 a dáma 12.</para>
+	<para>Karty se lížou z volných do otočených po jedné. Vrchní a spodní karta jsou k dispozici do hry, buď navzájem nebo s některou dostupnou kartou v pyramidě. Vrchní karta v otočených může být zahrána i s druhou kartou v otočených. Do volných se hromádka nevrací.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá odebraná karta je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Tuto hru je snadnější vyhrát než hru Třináct. A to proto, že můžete dopředu plánovat a správnou strategií předejít zablokování.</para>
+        </sect2>
+</sect1>

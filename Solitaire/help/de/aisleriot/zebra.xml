@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Doppelblatt</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Eine Neuverteilung.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Acht Stapel oben rechts. Platzieren Sie acht Asse auf diesen Stapeln, um das Fundament zu beginnen. Die Fundamente müssen mit wechselnden Farben bis zum König bebaut werden. Karten im Fundament sind nicht länger im Spiel.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Acht Stapel unter den Fundamenten. Legen Sie auf jeden Stapel des Spieltisches eine Karte, um zu beginnen. Stapel auf dem Spieltisch müssen mit wechselnden Farben abgebaut werden. Nur die oberste Karte auf jedem Stapel ist spielbar. Leere Flächen müssen sofort mit Karten aus dem Reststapel gefüllt werden, oder wenn der Reststapel leer ist, aus dem Talon.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Verschieben Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Karten auf dem Spieltisch werden mit wechselnden Farben abgebaut. Nur die oberste Karte des Stapels ist spielbar. Allerdings um das Spiel zu vereinfachen kann ein ganzer Stapel auf ein geeignetes Fundament in einem Zug verschoben werden.  Ein Doppelklick auf den Stapel bewegt die oberste Karte zu einem geeigneten Fundamentstapel, falls dies möglich ist.</para>
+	<para>Flächen auf dem Spieltisch werden automatisch aus dem Restestapel belegt, oder wenn der Restestapel leer ist, aus dem Talon.</para>
+	<para>Karten werden einzeln vom Talon auf den Restestapel gelegt. Die oberste Karte des Restestapels ist im Spiel. Es gibt eine Neuverteilungen.</para>
+	<para>Fundamentstapel werden in wechselnden Farben von Assen zu Königen aufgebaut. Karten in Fundamentstapeln sind nicht mehr im Spiel.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>In der realen Welt gibt es nur selten eine zweite Chance, also sollten Sie sie nutzen, wenn Sie eine bekommen. Es ist wahrscheinlich, dass Sie eine zweite Karte brauchen, um das Spiel zu gewinnen. Merken Sie sich die wichtigen Karten, Sie werden es nicht bereuen.</para>
+        </sect2>
+</sect1>

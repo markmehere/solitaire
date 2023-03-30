@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fortet</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar i mitten. Byggs upp i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Fem högar på vardera sidan av grundhögarna. Lägg fem kort med framsidan upp på var och en av dessa högar och ett extra kort på de två översta högarna. Det översta kortet i samtliga bordshögar är tillgängligt för spel.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna kan byggas upp eller ner i färg. Endast det översta kortet i varje hög är spelbar. Tomma platser kan fyllas med valfritt spelbart kort.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Skydda alla tomma platser i bordshögarna du kan skapa. De är nyckeln till ett framgångsrikt spel.</para>
+        </sect2>
+</sect1>

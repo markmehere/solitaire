@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Whitehead"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>白头</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，桌面上发剩下的牌放在这儿，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角有四个空位，按照从 A 到 K 的递增顺序收牌，最上面的牌还可以拿回到桌面上参与游戏。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>七垛牌，所有的牌都是翻开的，第一垛一张牌，第二垛两张牌，最后一垛七张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按相同颜色递减排列，排列好的一组可以一起移动，空位可以填充任意一张牌或一组牌。</para>
+  <para>每次从发牌区发一张牌到废牌区，最上面的牌可以用在游戏中，不能重复发牌。</para>
+  <para>收牌区按从 A 到 K 的顺序收牌，在收牌区里的牌仍然可以参与游戏。双击桌面上的一张牌可以把它移到收牌区，如果这张牌可以收取的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>这个游戏中，桌面上的空位可以获得奖励品的，尽量多保留一段时间，直到您需要它们，这是一个好的策略。</para>
+        </sect2>
+</sect1>

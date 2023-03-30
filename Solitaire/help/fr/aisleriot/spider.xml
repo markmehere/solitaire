@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>L'araignée</title>
+
+	<para>Écrit par Jonathan Blandford</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet double</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le paquet est placé ici après distribution sur le tableau. Cliquer sur la pioche distribue une carte face visible sur chaque pile du tableau.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Huit piles du haut. Uniquement utilisées pour contenir les suites de cartes descendant du Roi à l'As une fois terminée.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Dix piles. Sur quatre piles (piles 1, 4, 7 et 10), on distribue cinq cartes face cachée et une carte face visible. Sur les autres piles, on distribue quatre cartes face cachée et une carte face visible. Les piles peuvent être construites en descendant quelle que soit la couleur. Les suites de la même couleur peuvent être déplacées comme un ensemble. Les piles vides peuvent être remplies par n'importe quelle carte ou suite de cartes.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Avoir huit suites (deux de chaque couleur) descendant du Roi à l'As dans les fondations.</para>
+	<para>Si vous recherchez un défi particulièrement difficile, ne déplacez pas les suites de cartes complètes vers une fondation. Vous pouvez aussi gagner en laissant les huit mêmes suites dans le tableau. C'est plus difficile, car il y a moins de piles vides disponibles. En fait, c'est presque impossible.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau sont construites en descendant quelle que soit la couleur. Les suites de la même couleur peuvent être déplacées comme un ensemble. Les piles vides peuvent être remplies par n'importe quelle carte ou suite de cartes.</para>
+	<para>À tout moment, un clic sur la pioche distribue une carte face visible sur chaque pile. Cependant, aucune pile ne doit être vide lors de la distribution. S'il y a une pile vide, un message d'erreur apparaît.</para>
+	<para>Une suite de treize cartes peut être déplacée vers une fondation. Une fois placées à cet endroit, ces cartes ne sont plus en jeu.</para>
+
+	        </sect2>
+        <sect2><title>Options</title>
+
+  <para>Il existe trois types de paquet possible. Chaque paquet contient 104 cartes.</para>
+  <variablelist>
+    <varlistentry><term>Une couleur</term>
+      <listitem>
+        <para>Le paquet est composé de huit séries de Piques. C'est le plus simple des paquets de l'araignée et c'est une bonne façon d'apprendre les bases.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Deux couleurs</term>
+      <listitem>
+        <para>Le paquet est composé de quatre séries de Cœurs et de Piques. Chaque couleur dispose de quatre séries complètes de cartes. Ce n'est pas aussi diabolique que le paquet standard de l'araignée avec les quatre couleurs.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Quatre couleurs</term>
+      <listitem>
+        <para>Le paquet est composé de deux paquets standards. Chaque couleur dispose de deux séries complètes de cartes. C'est le paquet standard du jeu de l'araignée. C'est aussi le plus difficile.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Dans beaucoup de règles traditionnelles de l'araignée, il n'y a pas de fondation et les suites complètes de cartes sont simplement retirées du jeu. Cela n'influence pas la manière de jouer.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+	<para>Pour chaque suite d'une couleur, les points obtenus sont : (longueur de la suite) - 1.</para>
+	<para>Score maximum possible : 96</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Si au début vous ne réussissez pas, ne devenez pas accro. Construisez en couleur à chaque fois que c'est possible, et rendez accessible le plus de cartes possible.</para>
+        </sect2>
+</sect1>

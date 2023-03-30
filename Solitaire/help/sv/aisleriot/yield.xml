@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yield"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Avkastning</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. översta och understa kortet är spelbara.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Dela sju överlappande rader med framsidan uppåt, börja med sju kort i första raden, minska med ett kort per rad och lägg korten för att åstadkomma en upp och nedvänd pyramid.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Ta bort alla kort.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Alla öppna kort i pyramiden är tillgängliga för spel. Kungar kan tas bort ensamma. Alla andra kort tas bort i par som tillsammans blir tretton där ess är 1, knekt är 11 och dam är 12.</para>
+	<para>Korten vänds ett åt gången från högen till kasthögen. Det översta och understa kortet är tillgängliga för spel antingen själva eller med de tillgängliga korten i pyramiden. Det översta kortet i kasthögen kan även spelas med det andra kortet i kasthögen. Ingen omgiv.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje borttaget kort ger 1 poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Att ta bort den första raden i pyramiden är den svåra biten. När detta har uppnåtts, är det ibland bättre att ta bort kort från kasthögen än från den omvända pyramiden, eftersom det finns fler kort i spel där.</para>
+        </sect2>
+</sect1>

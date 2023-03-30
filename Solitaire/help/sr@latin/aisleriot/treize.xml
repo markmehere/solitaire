@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Trez</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se okreću na otpad jedna po jedna. Nema ponovnih deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Karte na vrhu i na dnu su u igri.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Karte se dele u sedam redova koji se preklapaju, počevši sa jednom kartom u prvom redu, pa sa po jednom kartom više u svakom novom redu, uz preklapanje karata tako da se dobije piramida.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Ukloniti sve karte.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Sve karte koje nisu preklopljene u piramidi su u igri. Kraljevi se uklanjaju sami. Sve ostale karte se uklanjaju u parovima koji u zbiru daju trinaest, pri čemu as vredi 1, žandar 11, a dama 12.</para>
+	<para>Karte se jedna po jedna okreću sa gomile na otpad. Karte sa vrha i sa dna su u igri, ili kao jedna par ili u kombinaciji sa kartama iz piramide. Karta sa otpada se takođe može upariti sa drugom kartom sa otpada. Nema ponovnih deljenja.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka uklonjena karta donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Ova igra se lakše otvara od igre Trinaestica jer ovde možete planirati unapred i strategijama izbeći blokiranja.</para>
+        </sect2>
+</sect1>

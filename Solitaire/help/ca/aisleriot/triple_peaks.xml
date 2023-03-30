@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Triple pic</title>
+
+	<para>Escrit per en Richard Hoelscher</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es giren individualment a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Tot el joc està a la pila de descartades. Les cartes cara avall no són part de la puntuació en curs.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Es reparteixen 18 cartes cara avall en forma de tres triangles, amb tres files a cada triangle, incrementant amb una carta a la primera fila i tres a l'última. Es connecten els triangles repartint 10 cartes de cara amunt a la fila inferior. Les cartes del final de cada fila haurien de sobreposar-se amb les cartes del final de la fila superior, i les cartes interior haurien de sobreposar-se amb les dues cartes adjacents de la fila.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Suprimiu totes les cartes del tauler.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes exposades al tauler estan disponibles per a jugar. Es construeix a la carta superior de la pila de descartades amb cartes immediatament superiors o inferiors del tauler, independentment del pal. Els asos es col·loquen sobre els reis i sota els dosos.</para>
+	<para>Les cartes del tauler estan disponibles quan no estan cobertes per altres cartes.</para>
+	<para>Les cartes es poden girar individualment des de la pila principal a la part superior de la pila de descartades.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+	<para>Puntuació multiplicant: els punts es dupliquen per cada carta jugada en una ronda. Una ronda de cinc cartes puntuarà 1, 2, 4, 16 i 32 punts, amb un total de 55 punts. Les bonificacions valen 25 punts. No es descompten punts per jugar una carta des de la pila principal a la pila de descartades.</para>
+	<para>Arrodoniments progressius: després què totes les cartes s'hagin suprimit del tauler, comença una ronda nova. La puntuació de l'última ronda s'acumula a la ronda nova.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>La puntuació per a cada carta jugada és igual al número de cartes que heu jugat des que heu girat l'última carta des de la pila principal a la pila de descartades. Com més llarga sigui la ronda, més alta serà la puntuació.</para>
+	<para>Es dedueixen 5 punts quan gireu una carta des de la pila principal a la pila de descartades. Cada pic de triangle suprimit dóna una bonificació de 15 punts i a més a més tindreu 15 punts addicionals quan totes les cartes s'hagin suprimit del tauler.</para>
+	<para>Puntuació màxima possible en una sola ronda: 466</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentin</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Alla återstående kort placeras här efter given.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Högen längst upp till höger. Kan bara innehålla ett kort.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Fyra högar. Ett kort delas ut till varje hög i spelets början. Vid omgiv från högen flyttar alla kort som för närvarande är i bordshögarna till botten av högens kortplats.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Att ha alla korten i bordshögarna, varje hög ska bestå av ess till kung i en färg. Undvik att bli galen för att uppnå detta.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Om två av de utdelade korten till bordshögarna är i samma färg och i följd, placera det lägre kortet på det högre. Ess är låga, kungar är höga och sviter vänder inte. Klicka på högen för att fylla de tomma platserna som uppstår.</para>
+  <para>När inga fler kort kan flyttas på bordshögarna, klicka på högen för att dela ett kort till kasthögen. Om detta kort kan spelas till någon av bordshögarna, gör då det. Upprepa denna process tills det inte finns fler drag i bordshögarna eller från kasthögen.</para>
+  <para>I det här skedet, flyttas alla korten tillbaka från bordshögarna till underst av högen om du återigen klickar på den. Kortet i kasthögen placeras i första bordshögen och de övriga bordshögarna blir fyllda med ett kort från högen.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Det är ingen poängräkning i detta spel.</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ett bra spel för att döda tid. Valentin har verkligen ingen strategi, om inte strategin är att spela istället för att göra andra viktigare saker som att gå till sängs.</para>
+        </sect2>
+</sect1>

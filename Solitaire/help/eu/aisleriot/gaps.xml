@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Tarteak</title>
+
+  <para>Zach Keene-k idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Hamahiru kartako lau errenkadetan banatzen dira kartak; batekoak baztertu egiten dira, lau tarte uzteko. Bi bider bana daiteke berriro.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak segidan jartzea, bikotik erregera, irudia kontuan hartuta.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Ezker-ezkerreko zutabeko hutsunetan bikoak jar daitezke; irudiak ez du axola. Erregea ez diren karten eskuineko hutsunean karta horien irudi bera eta maila bat gehiago duten kartak jar daitezke. Erregeen edo beste tarteen ondoko tarteak ezin dira bete.</para>
+  <para>Ezker-ezkerreko gunean bikoa duen segida batean karta bat jartzen bada, karta hori ezin da berriz mugitu.</para>
+  <para>Kartak ezin badira mugitu (adibidez, tarte guztiak erregeen eskuinean daudelako), klik bikoitza egin karta baten gainean, eta berriro banatuko dira. Segidan ez dauden karta guztiak kendu, nahasi eta berriro banatzen dira. Soilik bi bider egin daiteke hori.</para>
+
+            </sect2>
+        <sect2><title>Aukerak</title>
+
+    <para>Berriro banatzean ausaz jarritako hutsuneak: hautatu hau berriro banatzean tarteak hausaz kokatzeko. Hautatua ez badago, berriz banatu ondoren segidan dauden karten eskuinean jartzen dira tarteak beti.</para>
+
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Ezker-ezkerreko gunean bikoa duela hasten den segidetako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Saihestu, ahal den bitartean, erregeen eskuinean hutsunea sortzen duten mugimenduak egitea.</para>
+        </sect2>
+</sect1>

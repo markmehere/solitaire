@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Osmosis"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Osmóza</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Záložní</entry>
+		<entry>Čtyři rozprostřené hromádky vlevo. Rozdávají se tři karty lícem dolů a jedna lícem nahoru na každou z nich. Nelze je nijak skládat.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky vpravo. Na první se rozdá jedna karta.</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Zde se položí zbývající karty. Karty se po jedné lížou do otočených. Po vyprázdnění se hromádka z otočených dvakrát vrátí zpět.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Libovolná karta ve stejné barvě, jako je karta na první hromádce v seřazených, může být kdykoliv zahrána na tuto hromádku. Všechny následující hromádky v seřazených musí být zahájeny kartou se stejnou hodnotou, jako je na první hromádce. Po té, co hra začne, lze na ostatních hromádkách pokládat karty v barvě, jen když je karta se stejnou hodnotou již v hromádce nad nimi. Karty ze záložních můžete zahrát do seřazených kdykoliv, když splňují tato pravidla.</para>
+	<para>Karty z hromádky s volnými do otočených se lížou po jedné. Vrchní otočená karta je k dispozici do hry. Až je hromádka volných prázdná, vrátí se do ní všechny otočené karty v pořadí jak jsou. Celou hromádku můžete ve výsledku projít třikrát.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+	<para>Lízání tří karet: Z volných do otočených se líže po třech kartách a počet vrácení hromádky zpět do volných není omezen.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Jeden bod za každou kartu umístěnou do seřazených.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Není náhodou, že se této hře někdy také říká „hra na trpělivost“. Nepokládejte automaticky první možnou kartu na druhou (a třetí) hromádku v seřazených. Někdy je výhodnější použít jinou barvu, protože se tím uvolní více karet ze záložních.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Freecell</title>
+
+	<para>Écrit par Changwoo Ryu</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>Quatre piles en haut à gauche. Chaque réserve ne peut contenir qu'une seule carte.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles en haut à droite. À construire par couleur de l'As au Roi. Les cartes des fondations ne sont plus en jeu.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Huit piles. On distribue toutes les cartes face visible sur ces huit piles, en finissant avec sept cartes sur chacune des quatre premières piles et six cartes sur chacune des quatre dernières piles. Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. Les cartes ne peuvent être déplacées qu'individuellement, mais comme raccourci, s'il y a assez de réserves libres pour faire le transfert, les suites peuvent être déplacées.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les groupes de cartes peuvent être déplacés s'il y a assez de réserves libres pour permettre de déplacer les cartes comme si elles étaient déplacées individuellement. Une pile vide du tableau peut être remplie avec n'importe quelle carte ou groupe de cartes.</para>
+	<para>Les fondations sont à construire par couleur de l'As au Roi. Les cartes dans les fondations ne sont plus en jeu. Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel déplacement est possible.</para>
+	<para>Les cartes dans les réserves peuvent être rejouées sur le tableau ou sur les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>L'espace est une commodité de grande valeur. Gardez libre autant de réserves que possible.</para>
+        </sect2>
+</sect1>

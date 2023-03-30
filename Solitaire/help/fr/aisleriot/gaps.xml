@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Gaps</title>
+
+  <para>Écrit par Zach Keene</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Toutes les cartes sont distribuées en quatre rangées de treize cartes. Les As sont ensuite enlevés pour laisser quatre emplacements vides. Deux redistributions.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Placer toutes les cartes en suite de couleur du Deux au Roi.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les emplacements vides dans la colonne tout à gauche peuvent être remplis en déplaçant un Deux de n'importe quelle couleur à cet endroit. Un emplacement vide sur la droite de n'importe quelle carte autre qu'un Roi peut être rempli par une carte de la même couleur mais supérieure d'un rang. Tous les emplacements vides à droite des Rois ne peuvent pas être remplis.</para>
+  <para>Une fois qu'une carte est placée dans une suite commençant par un Deux dans l'emplacement le plus à gauche, elle ne peut plus être déplacée.</para>
+  <para>Si aucun mouvement n'est possible (c'est-à-dire que tous les emplacements vides sont à droite des Rois), double-cliquer sur n'importe carte déclenche une redistribution. Toutes les cartes qui ne sont pas dans une suite sont enlevées, mélangées et redistribuées. Deux redistributions permises.</para>
+
+            </sect2>
+        <sect2><title>Options</title>
+
+    <para>Lacunes placées aléatoirement à la redistribution : cochez cette option afin que les emplacements vides soient placés au hasard après une redistribution. Sinon, les emplacements vides sont toujours placés immédiatement à droite des suites de cartes existantes après la redistribution.</para>
+
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte placée dans une suite, commençant par un Deux dans la pile la plus à gauche, vaut un point.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Évitez tout déplacement qui ajouterait un emplacement vide après un Roi aussi longtemps que possible.</para>
+        </sect2>
+</sect1>

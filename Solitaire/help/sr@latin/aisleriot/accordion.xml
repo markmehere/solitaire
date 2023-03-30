@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Harmonika</title>
+
+  <para>Napisao Ed Sirett</para>
+
+          <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+
+	<row>
+		<entry>Talon</entry>
+		<entry>Ima pedeset četiri mesta za karte podeljena u pet redova sa po devet kolona, osim poslednjeg reda koji ima sedam mesta. Karte se dele okrenute, jedna po jednom mestu. Sva mesta se gledaju kao jedna dugačka linija, redovi su tu samo kako bi se sve smestilo na ekran. Drugim rečima, skroz desna karta u nekom redu je levo od skroz leve karte iz sledećeg reda.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte osim jedne.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte se pomeraju jedna po jedna. Svaka karta se može staviti preko druge karte istog znaka ili vrednosti ako je jedno ili tri mesta levo od nje. Karta koja se prekriva se uklanja iz igre. Sve karte (ako ih ima) koje su desno od mesta karte koja se premešta se pomeraju jedno mesto levo da popune prazninu. Duplim klikom se karta premešta tri polja levo ako je moguće, a ako nije, proba se premeštanje jedno polje ulevo.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka uklonjena karta donosi 1 poen.</para>
+  <para>Najveći mogući broj poena: 51</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>
+    This is a difficult game. Try to find two or three cards of the same rank at or near the 
+    last row. Try not to remove any card of this rank. At the end you can move these cards
+    onto each other to win.
+  </para>
+        </sect2>
+</sect1>

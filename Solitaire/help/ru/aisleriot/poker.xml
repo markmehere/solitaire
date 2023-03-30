@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Покер</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Верхняя левая стопка.</entry>
+	</row>
+	<row>
+		<entry>Сброс</entry>
+		<entry>Рядом с колодой. В сбросе может лежать только одна карта.</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Таблица пять на пять, в каждой ячейке может лежать по карте.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Набрать как можно больше очков, собирая покерные комбинации. На игровом поле можно собрать двенадцать комбинаций — 5 строк, 5 столбцов и 2 диагонали. Для выигрыша требуется набрать набор не менее 75 очков.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Щелчок по колоде сдаёт одну карту, которую нужно переместить в одну из ячеек игрового поля перед следующей сдачей. Помещённую на игровое поле карту перекладывать нельзя.</para>
+
+          </sect2>
+        <sect2><title>Параметры</title>
+
+  <para>Перемешивать: когда включено, разрешается перемещать карты по игровому полю. Для победы в этом режиме нужно набрать по крайней мере 120 очков.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>Покерные комбинации оцениваются по Британской системе:</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Комбинация</entry>
+          <entry>Описания</entry>
+          <entry>Очки</entry>
+        </row>
+        <row>
+          <entry>Страйт-флаш</entry>
+          <entry>Пять карт одной масти по порядку</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Каре</entry>
+          <entry>Четыре карты одного достоинства</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Страйт</entry>
+          <entry>Пять карт по порядку</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Фулл-хаус</entry>
+          <entry>Три карты одного достоинства и две другого</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Трипс</entry>
+          <entry>Содержит три карты одного достоинства</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Флаш</entry>
+          <entry>Пять карт одной масти</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Две пары</entry>
+          <entry>Содержит две пары карт одного достоинства</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Одна пара</entry>
+          <entry>Содержит две карты одного достоинства</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Максимальное количество очков: 276</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Помните, что вам придётся использовать почти половину колоды, и стройте планы соответствующим образом. Блефовать с компьютером не рекомендуется.</para>
+        </sect2>
+</sect1>

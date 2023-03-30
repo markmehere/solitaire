@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Воры</title>
+
+  <para>Написано Робертом Брэди (Robert Brady)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Колода с джокерами</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Семь стопок по пять карт лицом вверх каждая.</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Сюда кладутся все оставшиеся карты. Из колоды карты сдаются на сброс по одной за раз. Пересдач нет.</entry>
+	</row>
+	<row>
+	  <entry>Сброс</entry>
+	  <entry>Набирается из колоды. Верхнюю карту можно перемещать.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переложить все карты на сброс.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты игрового поля можно перекладывать на сброс, собирая его в любом порядке. Джокеры играют роль любой карты.</para>
+  <para>В любой момент можно сдать карты из колоды на сброс.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>
+    The following table shows the points you receive for each type of card.
+    No points are scored for jokers.
+  </para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Card</entry>
+          <entry>Points</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Ace</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Jack, Queen</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>King</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Поскольку вам видны все карты игрового поля, постарайтесь собирать целые «цепочки», чтобы избавить от как можно большего числа карт, ибо их число в колоде ограничено.</para>
+        </sect2>
+</sect1>

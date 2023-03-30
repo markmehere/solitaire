@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Carlo</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior derecha. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se dan después de concatenar las cartas del tablero en los huecos vacíos.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Rejilla de cinco por cinco, cada una capaz de contener una carta. Se da una carta a cada espacio al principio del juego. Los huecos vacíos se pueden llenar moviendo cartas de derecha a izquierda, desde la carta más a la izquierda de la fila inferior hasta el espacio más a la derecha y desde el montón hasta todos los huecos vacíos pulsando en el montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas se pueden eliminar en parejas que tengan el mismo rango siempre que las dos cartas se toquen horizontal, vertical o diagonalmente.</para>
+  <para>En cualquier momento en el que haya montones vacíos en el tablero, repartir desde el montón hace que se muevan todas las cartas ya en el tablero de derecha a izquierda, moviéndolas hacia la fila de arriba a la derecha siempre que sea necesario para que todos los huecos vacíos se queden al final. El montón da cartas a estos montones vacíos.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada pareja de cartas eliminada puntúa dos tantos.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ponga atención a cómo encoje el tablero cuando se dan las cartas. Algunas veces dejar parejas intencionadamente permitirá que estén disponibles más parejas después de dar.</para>
+        </sect2>
+</sect1>

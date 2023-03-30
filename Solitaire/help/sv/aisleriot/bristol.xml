@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bristol</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Tre högar till höger om högen. Ett kort läggs på varje reservhög varje gång du klickar på högen.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger. Grundhögarna byggs upp i ordning oavsett färg.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Dela åtta högar med framsidan upp med tre kort i varje.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ner oavsett färg. Kort kan bara flyttas ett och ett. En tom plats i bordshögarna kan inte fyllas.</para>
+  <para>Korten vänds från högen till de tre reservhögarna, en kort vardera per giv. Översta kortet i varje reservhög är tillgängligt för spel. Tomma reservhögar kan inte fyllas utom med nästa giv från högen.</para>
+  <para>Grundhögarna byggs upp från ess till kung oavsett färg. Kort i Grundhögarna är inte längre i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Titta aldrig bakåt. Kort som blir låsta i tidigare drag bör åtgärdas så snart som möjligt. Flytta så många kort från reservhögarna till bordshögarna som du kan, för kungar är svåra att flytta.</para>
+        </sect2>
+</sect1>

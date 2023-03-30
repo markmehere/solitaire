@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gay Gordons</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Ablage oben links. Zwei Karten werden sichtbar hier ausgegeben. Die oberste Karte ist im Spiel. Sie kann nicht neu gefüllt oder aufgebaut werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Zehn Stapel. Legen Sie fünf Karten offen in jeden Stapel. Die oberste Karte jedes Stapels ist spielbar. Leere Stapel dürfen nicht wieder gefüllt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Entfernen Sie paarweise Karten, deren Wert maximal Elf ergibt. Könige gehen paarweise mit Damen. Buben gehen paarweise mit anderen Buben.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Das Entfernen jedes Kartenpaars erzielt zwei Punkte.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Versuchen Sie Karten aufzudecken, die unter ihren Paar-Partnern verborgen sind.</para>
+        </sect2>
+</sect1>

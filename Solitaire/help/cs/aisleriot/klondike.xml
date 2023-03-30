@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Klondike"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Klondike</title>
+
+  <para>Napsal Jonathan Blandford</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vlevo nahoře. Zbytek sady je po rozdání položen zde. Karty se po jedné lížou do otočených. Hromádka se dvakrát vrací.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte na nich poskládat vzestupnou postupku v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek. Rozdá se jedna karta lícem nahoru na první hromádku. Pak se pokládá po jedné kartě lícem dolů na další hromádky. Položí se jedna karta lícem nahoru na následující hromádku a následuje po jedné kartě lícem dolů na všechny další hromádky. Postup se opakuje, až je na poslední hromádce sedm karet. V rozdaných kartách můžete skládat sestupné postupky v barevnosti na střídačku. Lze přesouvat skupiny karet. Prázdné pozice můžete obsadit jen králem nebo skupinou karet začínající králem.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Lze přesouvat skupiny karet. Prázdné hromádky v rozdaných můžete obsadit králem nebo skupinou karet s králem vespod.</para>
+  <para>Karty z hromádky s volnými do otočených se lížou po jedné. Vrchní otočená karta je k dispozici do hry. Až je hromádka volných prázdná, vrátí se do ní všechny otočené karty v pořadí jak jsou. Celou hromádku můžete ve výsledku projít třikrát.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+  <para>Dvojitým kliknutím do seřazených se do seřazených přesunou všechny karty, které tam přesunout lze. To se hodí k rychlému vyčištění na konci hry.</para>
+
+          </sect2>
+        <sect2><title>Volby</title>
+
+  <para>Existují čtyři způsoby, jak hrát. Liší se mezi sebou tím, jak se karty lížou z volných.</para>
+  <variablelist>
+    <varlistentry><term>Lízat tří karty</term>
+      <listitem>
+        <para>Karty se z volných lížou po třech. Není nijak omezeno, kolikrát se hromádka otočených může vrátit do volných.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Lízat jednu kartu</term>
+      <listitem>
+        <para>Karty se z volných lížou po jedné. Do volných se hromádka otočených vrací dvakrát.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Znovu nerozdávat</term>
+      <listitem>
+        <para>Karty se z volných lížou po jedné. Do volných se karty již nevrací. Tuto verzi hrajte, pokud máte rádi výzvy (a frustraci).</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Znovu rozdávat neomezeně</term>
+      <listitem>
+        <para>Karty se z volných lížou po jedné. Není nijak omezeno, kolikrát se hromádka otočených může vrátit do volných.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>S největší pravděpodobností budete považovat první dva způsoby za tradiční – záleží odkud pocházíte a kdo vás hru učil. Variantu bez vracení karet do volných lze normálně najít v starších verzích pravidel, ale dnes se tak hra hraje zřídka.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Nevzdávejte to! Když už to vypadá, že je hra u konce, zkuste na to jít hrubou silou. Někdy kombinace z již seřazených karet a přeuspořádání řad uvolní některé potřebné karty.</para>
+        </sect2>
+</sect1>

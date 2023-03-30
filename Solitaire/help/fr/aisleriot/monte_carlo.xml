@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Carlo</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Grille de cinq par cinq emplacements, chacun pouvant contenir une carte. Une carte est distribuée dans chaque emplacement au début de la partie. Les emplacements vides sont remplis en déplaçant les cartes de la droite vers la gauche, la carte la plus à gauche de chaque rangée étant déplacée vers l'emplacement le plus à droite de la rangée supérieure. Les emplacements restant vides après cela sont remplis depuis la pioche.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Enlever toutes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les cartes peuvent être enlevées par paires de cartes de même valeur qui se touchent horizontalement, verticalement ou en diagonale.</para>
+  <para>Pour autant qu'il y ait des emplacements vides dans le tableau, la distribution commence par déplacer des cartes de la droite vers la gauche, la carte la plus à gauche de chaque rangée étant déplacée vers l'emplacement le plus à droite de la rangée supérieure. Les emplacements vides en bas de tableau sont ensuite remplis depuis la pioche.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque paire de cartes enlevée vaut deux point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Gardez un œil sur la façon dont le tableau va se condenser au moment de la distribution. Parfois, laisser des paires dans le tableau vous permettra d'avoir plus de paires disponibles à la prochaine distribution.</para>
+        </sect2>
+</sect1>

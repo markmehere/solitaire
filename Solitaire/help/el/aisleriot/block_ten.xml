@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Μπλοκ στο δέκα</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Μάνα</entry>
+	  <entry>Η στοίβα πάνω αριστερά. Στην αρχή της παρτίδας όλα τα φύλλα τοποθετούνται εδώ.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Εννέα στοίβες που σχηματίζουν ένα τετράγωνο 3Χ3. Σε κάθε στοίβα του ταμπλό μοιράζεται από ένα ανοιχτό φύλλο.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε όλα τα ζεύγη φύλλων με άθροισμα δέκα. Απομακρύνετε τις όμοιες φιγούρες (Βαλέδες, Ντάμες, Ρήγες) ανά ζεύγη. Τα δεκάρια δεν επιτρέπεται να απομακρυνθούν. Οι στοίβες που αδειάζουν συμπληρώνονται αυτόματα από τη μάνα.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε ζεύγος που απομακρύνεται αντιστοιχεί σε δύο βαθμούς.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 48</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Πρόκειται για καθαρό παιχνίδι τύχης. Οπότε, οι μόνες στρατηγικές που μπορείτε να χρησιμοποιήσετε είναι στρατηγικές για να αυξήσετε την τύχη σας.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Oděsa</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky vlevo. Musíte je seřadit do postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Sedm hromádek. Rozdají se tři řady lícem dolů, pak následují tři řady lícem nahoru. Nakonec se rozdají navíc dvě řady lícem nahoru na prostředních pět hromádek.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barvě. Skupiny karet můžete přesouvat bez ohledu na to, jestli tvoří postupku. Skupinu karet, která tvoří postupku, můžete přesunout na příslušnou hromádku v seřazených. Prázdnou pozici v rozdaných můžete obsadit králem nebo skupinou karet s králem vespod.</para>
+	<para>Hromádky v seřazených musíte poskládat do postupek v barvě, od esa po krále. Karty v seřazených jsou již mimo hru.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+	<para>Žádná</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Po té, co jsou karty rozdány, je každá karta tvořící v rozdaných sestupnou postupku ohodnocena 1 bodem. Za každý přesun v rozdaných, který vytvoří novou postupku, dostanete 1 bod. A navíc dostáváte po 1 bodu za každou kartu umístěnou do seřazených. </para>
+	<para>Maximální možný počet bodů: 412</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Čím víc si toho nasyslíte, tím víc toho budete mít. Snažte se udržet karty co nejdéle mimo seřazené a vytvářet z nich dlouhé postupky. Získáte tím více bodů.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Saratoga">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Саратога</title>
+
+  <para>Написао Alan Horkan, базирано на раду Jonathan Blandford-а</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Лева горња гомила. Остатак шпила се ставља овде после дељења на талон. Карте се окрећу по једна на „отпад“. Дозвољена су два дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>„Темељи“</entry>
+	  <entry>Четири гомиле на врху. Слажу се по знаку од аса до краља. Карта са врха сваког „темеља“ се може вратити на талон.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Седам гомила. Поставља се једна отворена карта на све гомиле. У следећем реду се прескаче прва гомила и ставља карта на све остале гомиле. Ово се наставља уз прескакање гомила са почетка док на последњој гомили не буде седам карата. У принципу, Саратога је иста као и Клондајк, само што су све карте окренуте на почетку. Могућност да се виде све карте искључује елемент ризика и чини Саратогу нешто лакшом за игру. Талон се слаже на доле по наизменичним бојама. Низови сложених карата се могу померати. Празна места се могу попуњавати само са краљевима или групама карата које почињу краљем.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте у гомиле на „темељу“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте на талону се слажу по наизменичним бојама. Низови карата се могу померати. На празне гомиле на талону се могу стављати само краљеви или низови карата где је краљ на дну.</para>
+  <para>Карте се окрећу из гомиле на „отпад“ једна по једна. Карта на врху „отпада“ је у игри. Када је гомила празна, све карте се премештају са „отпада“ на гомилу, у истом поретку. Кроз шпил се овако може проћи три пута.</para>
+  <para>„Темељи“ се слажу од аса до краља. Карте на „темељу“ су у игри. Дуплим кликом карта се премешта на одговарајући „темељ“ ако је такав потез могућ.</para>
+
+<!-- TODO 
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси по један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Не напуштајте брод који тоне! Пробајте све живо када делује да је игра готова. Комбиновање карата које су већ на „темељу“ и њихово преслагање може ослободити неку потребну карту.</para>
+        </sect2>
+</sect1>

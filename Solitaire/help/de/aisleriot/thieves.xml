@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Diebe</title>
+
+  <para>Geschrieben von Robert Brady</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Joker-Kartensatz.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Sieben Stapel zu je fünf Karten, alle nach oben.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Legen Sie alle verbleibenden Karten hier ab. Die Karten werden einzeln auf den Reststapel aufgedeckt. Ohne Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Verschieben Sie alle Karten auf den Reststapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Der Ablagestapel kann auf- oder abgebaut werden durch die Karten auf dem Spieltisch. Joker dürfen auf jede Karte gespielt werden als auch jede Karte auf Joker.</para>
+  <para>Zu jedem Zeitpunkt darf eine Karte vom Talon auf den Ablagestapel gelegt werden.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Die folgende Tabelle zeigt die erreichbaren Punkte für jeden Kartentyp. Joker erzielen keine Punkte.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Karte</entry>
+          <entry>Punkte</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Ass</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Bube, Dame</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>König</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Weil Sie alle Karten auf dem Spieltisch sehen, sollten Sie versuchen »Läufe« zu verbuchen und so viele Karten wie möglich loszuwerden, weil Sie nur eine begrenzte Menge an Karten im Talon besitzen.</para>
+        </sect2>
+</sect1>

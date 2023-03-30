@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Aunt Mary</title>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Лева горња гомила. Остатак шпила се ставља овде после дељења на талон. Карте се окрећу по једна на „отпад“. Дозвољена су два дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>„Темељи“</entry>
+	  <entry>Четири гомиле на врху. Слажу се по знаку од аса до краља. Карта са врха сваког „темеља“ се може вратити на талон.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>
+	    Six piles, deal card face up in first pile.  Place one
+	    card face down on all other piles.  Place one card face up
+	    on the first two piles then one card face down on all covered
+	    piles.  Place three cards face up and the rest face down and so on.  
+	    Repeat gradually revealing more cards each time until there are 
+            six rows with six cards.  
+	    Tableau can be built down in alternating colors.  Builds of
+	    cards can be moved.  Empty piles can only be filled by Kings
+	    or group of cards starting with a King.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте у гомиле на „темељу“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте на талону се слажу по наизменичним бојама. Низови карата се могу померати. На празне гомиле на талону се могу стављати само краљеви или низови карата где је краљ на дну.</para>
+  <para>Карте се окрећу из гомиле на „отпад“ једна по једна. Карта на врху „отпада“ је у игри. Када је гомила празна, све карте се премештају са „отпада“ на гомилу, у истом поретку. Кроз шпил се овако може проћи три пута.</para>
+  <para>„Темељи“ се слажу од аса до краља. Карте на „темељу“ су у игри. Дуплим кликом карта се премешта на одговарајући „темељ“ ако је такав потез могућ.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси по један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>
+    Aunt Mary is extremely difficult and rarely solvable.  
+    The real challenge is not finishing but seeing how far you can get.  
+  </para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

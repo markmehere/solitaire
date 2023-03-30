@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Trena</title>
+
+	<para>Escrit per en W. Borgert</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla doble</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Tercera fila de la banda dreta al mig. Es permet tornar a donar dos cops.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Quarta fila a la dreta al mig, directament a l'esquerra de la pila principal.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Vuit piles de la dreta. En començar hi ha una carta aquí. Aquesta és la carta base. Tots els camps han de començar amb aquesta carta.</entry>
+	</row>
+	<row>
+		<entry>Trena</entry>
+		<entry>El grup de cartes al mig de la taula. Comença amb 20 cartes. Només es pot moure la carta del nivell superior.</entry>
+	</row>
+	<row>
+		<entry>Cantonades</entry>
+		<entry>Els quatre camps a la part superior i inferior, esquerra i dreta de la trena. Aquests es tornen a omplir automàticament des de la trena.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Els vuit camps a la dreta i l'esquerra de la trena, entre els camps cantonada. Només hi pot haver una carta per pila.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moveu totes les cartes a les bases.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les vuit bases han de començar amb la mateixa carta. Al començament podeu seleccionar si construir pujant o baixant. Podeu agafar cartes des de la trena al mig del tauler, des dels vuit camps lliures a l'esquerra i dreta de la trena, des de les quatre cantonades al voltant de la trena i des de la pila de descartades.</para>
+	<para>Perdeu la partida si no podeu moure cap de les cartes disponibles a les piles base i la pila principal està buida.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>No hi ha puntuació. Només podeu guanyar o perdre.</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Agafeu les cartes de la trena quan sigui possible ja que són difícils d'alliberar. Després agafeu cartes del tauler ja que us donarà llocs buits per a emmagatzemar temporalment algunes cartes.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Medvědí řeka</title>
+
+  	<para>Napsali Bruce a Joel Levin</para>
+
+
+          <sect2><title>Podmínky</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky nahoře. Na první se rozdá jedna karta otočená lícem nahoru.</entry>
+	</row>
+
+	<row>
+	  <entry>Rozdané</entry>
+    	  <entry>Rozdává se na 18 hromádek uspořádaných do tří řad, po šesti hromádkách v každé. Všechny karty jsou otočené lícem nahoru a rozprostřené tak, aby byly všechny vidět. Pět prvních hromádek v každém řádku obsahuje tři karty. Šestá hromádka v každém řádku začíná se dvěma kartami.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Pravidla</title>
+
+  <para>Jedna náhodná karta je rozdána do seřazených. Její hodnota se stává základní kartou. Ostatní tři karty se stejnou hodnotou můžete položit na volné pozice v seřazených. Následně je potřeba skládat hromádky do vzestupných postupek v jedné barvě. Řada se „cyklí“ stylem dáma - král - eso - dvojka. Karty v seřazených se nesmí vracet zpět do rozdaných.</para>
+  <para>Žádná z hromádek v rozdaných nesmí mít víc než tři karty. Každou z vrchních karet v rozdaných je možné přesunout na jinou hromádku v rozdaných, pokud má stejnou barvu a hodnotu o jedna vyšší nebo o jedna nižší než vrchní karta v hromádce, na kterou se přesouvá. Karty se „cyklí“ z krále na eso.</para>
+  <para>Existují dva typy hromádek v rozdaných: „standardní“ a „děravé“. Prvních pět hromádek v každém řádku (tj. se třemi kartami) jsou standardní. Na prázdnou standardní hromádku NEMŮŽETE položit novou kartu. Poslední hromádka v každém řádku (tj. se dvěma kartami) je děravá hromádka. Na prázdnou děravou hromádku MŮŽETE položit novou kartu.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta přesunutá do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Strategie</title>
+
+  <para>Snažte se co nejdříve uvolnit jednu nebo i více děravých hromádek.</para>
+  <para>Nikdy není nevýhodné přesunout karty do seřazených. Přesouvejte jich tam, co nejvíce jde a co nejdříve to jde.</para>
+  <para>Karty, které mají nižší hodnotu, než základní karta, může být obtížné přesunout. Dávejte si pozor, kam je pokládáte.</para>
+  <para>Medvědí řeka se dá vyhrát tak jednu hru ze tří.</para>
+  
+        </sect2>
+        
+        
+</sect1>

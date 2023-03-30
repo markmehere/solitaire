@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="cs">
+	<title>Slovníček</title>
+
+	<para>Autorská poznámka: Tyto definice jsou myšleny jen jako vodítko. Viz jednotlivé hry, kdy každá hra má právo si pravidla změnit nebo nově definovat, aby byla zábavnější.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Základní karta</term>
+			<listitem><para>První karta rozdaná na jednu hromádku seřazených. Ostatní hromádky seřazených obvykle musí začít s kartou stejné hodnoty. Viz: Seřazené</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Skládání v barevnosti na střídačku</term>
+			<listitem><para>Při skládání je povoleno položit kartu na jinou kartu opačné barevnosti. Příklad: Položit káry na piky je v pořádku, ale položit káry na srdce ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Skládání v barvě vyjma stejné</term>
+			<listitem><para>Při skládání je povoleno položit na jinou kartu kartu s libovolnou barvou, vyjma té původní barvy. Příklad: Položit káry na srdce je v pořádku, ale položit srdce na srdce ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Skládání v barevnosti</term>
+			<listitem><para>Při skládání je povoleno položit kartu na jinou kartu téže barevnosti. Příklad: Položit káry na srdce je v pořádku, ale položit káry na kříže ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Skládání bez ohledu na barvu</term>
+			<listitem><para>Vše je v pořádku.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Skládání v barvě</term>
+			<listitem><para>Při skládání je povoleno položit kartu na jinou kartu stejné barvy. Příklad: Položit piky na piky je v pořádku, ale položit piky na kříže ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Skládání sestupně</term>
+			<listitem><para>Při skládání je povoleno položit kartu s nižší hodnotou na kartu s vyšší hodnotou. Obvykle se předpokládá rozdíl mez dvěma kartami jen o jednu hodnotu. Příklad: Položit 10 na spodka je v pořádku, ale položit 10 na 9 ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Skládání sestupně po *</term>
+			<listitem><para>Při skládání je povoleno položit kartu s nižší hodnotou na kartu s hodnotou vyšší o *. Příklad: Když * je 2, pak položit 10 na dámu je v pořádku, ale položit 10 na kluka ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Skládání vzestupně</term>
+			<listitem><para>Při skládání je povoleno položit kartu s vyšší hodnotou na kartu s nižší hodnotou. Obvykle se předpokládá rozdíl mez dvěma kartami jen o jednu hodnotu. Příklad: Položit dámu na spodka je v pořádku, ale položit dámu na krále ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Skládání vzestupně po *</term>
+			<listitem><para>Při skládání je povoleno položit kartu s vyšší hodnotou na kartu s hodnotou nižší o *. Příklad: Když * je 2, pak položit 10 na 8 je v pořádku, ale položit 10 na 9 ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Skládání vzestupně nebo sestupně</term>
+			<listitem><para>Při skládání je povoleno položit kartu na kartu s hodnotou o jedna vyšší nebo o jedna nižší. Příklad: Položit spodka na dámu nebo na 10 je v pořádku, ale položit 10 na dámu ne.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Skládání</term>
+			<listitem><para>Možnost položit kartu (nebo skupinu karet) na jinou kartu. S ohledem na hodnotu karet skládáte vzestupné nebo sestupné postupky či vzestupné nebo sestupné postupky o *. S ohledem na barvu/barevnost skládáte v barvě, v barevnosti, v barevnosti na střídačku, v barvě vyjma stejné nebo bez ohledu na barvu. Všimněte si, že všechny hry, ve kterých se skládá, používají dvě pravidla, po jednom z obou zmíněných.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Sada</term>
+			<listitem><para>Sada (balíček) použitých karet. Většina her používá standardní sadu, ale hry, které používají dvojitou sadu, žolíkovou sadu nebo holou sadu jsou také celkem běžné.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Dvojitá sada</term>
+			<listitem><para>Sada karet, který obsahuje dvě standardní sady, což dává celkem 104 karet.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Seřazené</term>
+			<listitem><para>Pokud má hra hromádky pro seřazené karty, vyhraje se hra obvykle tím, že poskládáte všechny karty na tato hromádky.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Žolíková sada</term>
+			<listitem><para>Sada karet obsahující standardní sadu a dva žolíky což dává celkem 54 karet.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Hromádka</term>
+			<listitem><para>Označené místo, kde se mohou nacházet karty.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Hodnota</term>
+			<listitem><para>Hodnota karty. Číselné karty mají obvykle hodnotu podle svého čísla. Eso může být buď vysoké nebo nízké. Když je vysoké, má hodnotu 14. Když je nízké, má hodnotu 1. J, Q a K mají obvykle hodnotu 11, 12 a 13. V některých hrách ale mohou mít tyto obrázkové karty hodnotu 10. V takovém případě má vysoké eso hodnotu 11.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Záložní</term>
+			<listitem><para>Karty v záložních jsou obvykle k dispozici kamkoliv do hry. Obvykle je nelze skládat.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Pozice</term>
+			<listitem><para>Viz hromádka.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Standardní sada</term>
+			<listitem><para>Pokerová sada s 52 kartami. Obsahuje čtyři barvy se třinácti kartami v každé. Každá barva obsahuje eso, 2 až 10, kluka, dámu a krále. Barvami jsou obvykle kříže, piky, srdce a káry. Tyto barvy je možné seskupit do dvou barevností, obvykle černé a červené. Kříže a piky jsou černé, zatím co srdce a káry červené. AisleRiot nabízí možnost používat i jiné sady. Pak nové barevnosti a/nebo barvy nahradí ty zmíněné podle stejného schématu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Volné</term>
+			<listitem><para>Zbytek balíčku po té, co byly všechny karty rozdány. Obvykle jsou karty lícem dolů.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Barva</term>
+			<listitem><para>Čtyři různé druhy ve standardní sadě. Obvykle kříže, piky, srdce a kára.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Rozdané</term>
+			<listitem><para>Herní pole, kde se odehrává hlavní činnost. Obvykle umožňuje karty skládat.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Otočené</term>
+			<listitem><para>Štos karet lícem nahoru, obvykle vedle volných. Vrchní karta je obvykle ve hře.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

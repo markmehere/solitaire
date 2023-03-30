@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Odessa</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles à gauche. À construire en montant par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Sept piles. On distribue trois rangées face cachée suivies de trois rangées face visible. On distribue ensuite deux autres rangées face visible dans les cinq piles du milieu.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau peuvent être construites en descendant par couleur. Les groupes de cartes peuvent être déplacés même lorsqu'elles ne forment pas une suite. Les suites peuvent être déplacées vers la fondation appropriée. Une pile vide dans le tableau peut être remplie par un Roi ou un groupe de cartes commençant par un Roi.</para>
+	<para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes des fondations ne sont plus en jeu.</para>
+
+	        </sect2>
+        <sect2><title>Options</title>
+
+	<para>Aucune</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Quand un jeu est distribué, toute suite descendant par couleur vaut un point par carte. Tout déplacement dans le tableau vaut un point par nombre de carte dans la nouvelle suite créée. Chaque carte dans les fondations vaut aussi un point.</para>
+	<para>Score maximum possible : 412</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Plus vous pouvez tenir longtemps, plus vous gagnerez de points. Essayez de garder les cartes en dehors des fondations aussi longtemps que possible. Plus les suites sont grandes, plus vous marquez de points.</para>
+        </sect2>
+</sect1>

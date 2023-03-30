@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright © 2012 Christian Persch
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3, or (at your option)
+  any later version.
+
+  This program is distributed in the hope conf it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<gresources>
+  <gresource prefix="/org/gnome/aisleriot">
+    <file alias="art/slot.svg" compressed="true" preprocess="xml-stripblanks">../data/slot.svg</file>
+    <file alias="art/baize.png">../data/baize.png</file>
+    <file alias="gtk/help-overlay.ui" preprocess="xml-stripblanks" compressed="true">./help-overlay.ui</file>
+    <file alias="ui/menus.xml">./aisleriot-ui.xml</file>
+    <file alias="ui/debug-menus.xml">./aisleriot-debug-ui.xml</file>
+  </gresource>
+</gresources>

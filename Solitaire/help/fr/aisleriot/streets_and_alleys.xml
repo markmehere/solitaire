@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Rues et ruelles</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles dans la colonne du milieu. À construire en montant de l'As au Roi. La carte supérieure de chaque fondation peut être rejouée sur le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Huit emplacements (quatre à gauche des fondations et quatre à droite). On distribue toutes les cartes face visible de telle façon à ce qu'il y ait sept cartes sur chaque pile de gauche et six sur chaque pile de droite.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant quelle que soit la couleur. Une seule carte peut être déplacée à la fois. Les piles vides peuvent être remplies avec n'importe quelle carte.</para>
+  <para>Les fondations sont à construire par couleur.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Construisez si possible de façon égale sur toutes les fondations. Essayez d'avoir un emplacement vide dans le tableau.</para>
+  </sect2>
+</sect1>

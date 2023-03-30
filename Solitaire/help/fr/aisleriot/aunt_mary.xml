@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Tante Marie</title>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Deux redistributions.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondations</entry>
+	  <entry>Quatre piles en haut à droite. À construire en montant par couleur de l'As au Roi. La carte supérieure de chaque fondation peut être rejouée sur le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Six piles. On distribue une carte face visible sur la première pile. On place une carte face cachée sur toutes les autres piles. On place une carte face visible sur les deux premières piles, puis une carte face cachée sur toutes les autres piles. On place trois cartes face visible, puis des cartes face cachée sur les autres piles et ainsi de suite. Cela se répète avec toujours plus de cartes visibles jusqu'à ce qu'il y ait six rangées de six cartes. Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. Les groupes de cartes peuvent être déplacés. Les piles vides peuvent seulement être remplies par des Rois ou des suites commençant par un Roi.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les groupes de cartes peuvent être déplacés. Une pile vide du tableau peut seulement être remplie par un Roi ou une suite commençant par un Roi.</para>
+  <para>Les cartes sont retournées depuis la pioche vers la défausse une par une. La carte du sommet de la défausse peut être jouée. Quand la pioche est vide, toutes les cartes de la défausse sont remises sur la pioche, en gardant l'ordre des cartes. Il y a deux redistributions.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes dans les fondations sont toujours en jeu. Double-cliquer sur une carte la déplace dans la fondation appropriée si c'est possible.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Tante Marie est très difficile et il est rare de pouvoir terminer le jeu. Le vrai défi n'est pas de terminer, mais d'aller le plus loin possible.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

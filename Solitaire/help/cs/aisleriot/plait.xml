@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Cop</title>
+
+	<para>Napsal W. Borgert</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Dvě sady</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Třetí sloupec zprava uprostřed. Hromádka se dvakrát vrací.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Čtyři řady zprava ke středu, nalevo hned vedle volných.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Osm hromádek vpravo. Na začátku je zde jedna karta. Jedná se o základní kartu. Všechny hromádky musí začít touto kartou.</entry>
+	</row>
+	<row>
+		<entry>Cop</entry>
+		<entry>Skupina karet uprostřed stolu. Začíná s 20 kartami. Přesunout lze vždy jen jednu vrchní kartu.</entry>
+	</row>
+	<row>
+		<entry>Hřebeny</entry>
+		<entry>Čtyři hromádky nahoře, dole, vlevo a vpravo od copu. Automaticky se doplňují z copu.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Osm pozic nalevo a napravo od copu, mezi hřebeny. V každé hromádce může být jen jedna karta.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Všech osm hromádek v seřazených musí začínat stejnou hodnotou karty. Na začátku si můžete zvolit, jestli chcete skládat vzestupnou nebo sestupnou postupku. Karty můžete odebírat z copu uprostřed stolu, z osmi volných hromádek nalevo a napravo od copu, ze čtyř hřebenů okolo copu a z hromádky volných.</para>
+	<para>Hra je prohraná, pokud není k dispozici žádná karta, která by šla přesunout do seřazených a hromádka volných je prázdná.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Žádné bodování. Buď vyhrajete nebo prohrajete.</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Nejdříve se snažte brát kartu z copu, protože od tam je nejtěžší je dostat. Odebráním karet z rozdaných zase získáte volné pozice, na které si můžete dočasně odkládat některé karty.</para>
+        </sect2>
+</sect1>

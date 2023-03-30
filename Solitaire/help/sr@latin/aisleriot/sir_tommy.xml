@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Ser Tomi</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde na početku igre. Karte se okreću jedna po jedna na otpad.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Desno od gomile. Može da drži samo jednu kartu. Karte se odmah moraju staviti na drugi „temelj“ ili na rezervu po vašem izboru.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile gore, desno od otpada. Slažu se u nizu od asa do kralja nevezano za znak.</entry>
+	</row>
+	<row>
+	  <entry>Rezerve</entry>
+	  <entry>Četiri gomile ispod „temelja“. Karte sa rezerve se mogu igrati samo na „temelje“.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Slažite „temelje“ po nizu od asa do kralja nevezano za znak. Karte na „temelju“ više nisu u igri. Karte se sa gomile okreću jedna po jedna na otpad. Ali, pošto otpad može da drži samo jednu kartu, ova karta se odmah mora odigrati na „temelj“ ili na neku od četiri rezerve. Karte na rezervi se ne mogu preslagati.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta pomerena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Gledajte da u rezervu ne stavljate karte veće vrednosti preko karata manje vrednosti.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Gaztelua</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila erdian. Gorantz osatu behar dira, batekotik erregera, irudia kontuan hartuta. Oinarriko kartak ezin dira jokoan erabili.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Bost pila oinarriaren alde banatan. Banatu bost karta gora begira pila horietako bakoitzean, eta karta bat gehiago goiko bi piletan. Mahaiko pila guztietako goiko kartak jokoan daude.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko piletan dauden kartak irudien arabera osatu behar dira gorantz edo beherantz. Pila bakoitzeko goiko karta bakarrik erabil daiteke jokoan. Edozein karta jar daiteke toki hutsetan.</para>
+  <para>Oinarriak irudiaren arabera gorantz osatu behar dira, batekotik erregera. Oinarri-piletako kartak ezin dira jokoan erabili.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ondo zaindu mahaian lortutako gune huts guztiak. Jokoa irabazteko giltza izan daitezke.</para>
+        </sect2>
+</sect1>

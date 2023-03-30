@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Покер</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Поред гомиле. Отпад може да држи само једну карту.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Мрежа пет са пет. Свако место може да држи једну карту.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Освојите што је више могуће поена користећи покерашке руке. На табли постоји дванаест руку — 5 редова, 5 колона и 2 дијагонале. За победу се сматра освајање 75 или више поена.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Кликом на гомилу окрећете једну по једну карту. Окренута карта се мора ставити негде на талон пре него што се окрене наредна карта. Када се једном постави, карта се више не помера.</para>
+
+          </sect2>
+        <sect2><title>Опције</title>
+
+  <para>Помешани режим: ако одаберете ово, можете померати карте након што их ставите. Тада ће вам требати 120 поена за победу.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Покерашке руке се бодују по британском системом, који је дат као</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Рука</entry>
+          <entry>Опис</entry>
+          <entry>Поена</entry>
+        </row>
+        <row>
+          <entry>Флеш ројал</entry>
+          <entry>Карте су по реду и истог су знака</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Покер</entry>
+          <entry>Садржи четири исте карте</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Кента</entry>
+          <entry>Карте су по реду</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Фул</entry>
+          <entry>Три карте са једном вредношћу и две са другом</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Трилинг</entry>
+          <entry>Садржи три исте карте</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Боја</entry>
+          <entry>Свих пет карата су истог знака</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Два пара</entry>
+          <entry>Садржи два скупа са по две исте карте</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Један пар</entry>
+          <entry>Садржи две исте карте</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Највећи могући број поена: 276</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Запамтите да ћете видети скоро пола шпила и планирајте унапред. Покушаји блефирања рачунара се не препоручују.</para>
+        </sect2>
+</sect1>

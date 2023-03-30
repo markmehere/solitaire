@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>汤米爵士</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌，每次往废牌区发一张牌。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>发牌区右边的牌垛，只能存放一张牌，里面的牌必须立刻移到收牌区或者放到保留区。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>废牌区右边的四垛牌，按顺序从 A 到 K 收牌，不必考虑花色。</entry>
+	</row>
+	<row>
+	  <entry>保留区</entry>
+	  <entry>收牌区下面的四垛牌，保留区的牌只能移到收牌区。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>收牌区按顺序从 A 到 K 收牌，不考虑花色，里面的牌不能再参与游戏，每次发牌区向废牌区发一张牌，废牌区只能放一张牌，这张牌要立刻移到收牌区或者保留区，保留区的牌不能再重新排列。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每移动一张牌到收牌区得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>在保留区中尽量不要让大牌压着小牌。</para>
+        </sect2>
+</sect1>

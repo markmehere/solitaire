@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Ala d'àguila</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Es gira una carta cada vegada a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Directament a la dreta de la pila principal. Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Bases</entry>
+	  <entry>
+	    Four piles top right.
+	    One card is dealt in the first Foundation at the start of the game,
+	    this is the base card.
+	    Other Foundations must be started with a card of the same rank as the
+	    base card.
+	    To be built up in suit from the base card.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Lloc del mig (en la part inferior). Aquí es reparteixen tretze cartes cara avall. Gireu les cartes per a omplir qualsevol espai al tauler. Quan només quedi una carta a la reserva, aquesta es girarà i es podrà jugar a la base o a una pila del tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Vuit llocs (quatre a l'esquerra i quatre a la dreta de la reserva). Es reparteix una carta de cara amunt a cada lloc. El tauler es pot construir baixant per pal. Les cartes es poden moure individualment a altres llocs del tauler o en grup a la base. Cada lloc del tauler pot tenir un màxim de tres cartes.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes del tauler es construeixen baixant per pal. Les cartes només es poden moure individualment a una altra pila del tauler. Tot i això, per a facilitar la monotonia, els grups de cartes es poden moure a les bases. Un lloc buit al tauler s'omple automàticament des de la reserva. Si la reserva està buida, el lloc buit es pot omplir amb una carta de la pila de descartades o des d'una altra pila del tauler.</para>
+  <para>La reserva existeix principalment per a repartir cartes als llocs buits del tauler. Tot i això, quan només queda una carta a la reserva, aquesta es tornarà visible i es podrà jugar.</para>
+  <para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. Quan la pila principal està buida, es mouen totes les cartes de pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+  <para>Les bases es construeixen pujant per pal des de la carta base (la primera carta repartida a la primera base). Les bases noves es comencen quan una carta del mateix rang que la primera carta col·locada durant la repartició es col·loca a una pila base buida. Els asos es col·loquen sobre els reis, i els dosos sobre els asos. Les cartes a les bases no es poden jugar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Una petita planificació porta a un llarg camí. Comproveu abans d'apilar cartes al tauler. Recordeu la regla de les tres cartes per lloc.</para>
+        </sect2>
+</sect1>

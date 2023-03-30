@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentine</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdia banatutakoan, hemen jartzen dira gainerako karta guztiak.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Goiko eskuineko pila. Aldiko karta bakarra izan dezake.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Lau pila. Jokoaren hasieran karta bat jartzen da pila bakoitzean. Sortako kartak berriro banatzean, une horretan mahaian dauden gainerako kartak sortaren azpira mugitzen dira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Kartak guztiak mahaian edukitzea, pila bakoitzean irudi batekoak goranzko segida, batekotik erregera, osatuz. Kontuz ibili, zoratu gabe.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaian banatu diren bi karta irudi berekoak eta elkarren segidakoak badira, ipini kartarik txikiena handienaren gainean. Batekoak txikienak dira, erregeak handienak; segidak ez du buelta ematen. Egin klik pilan, sortu diren leku hutsak betetzeko.</para>
+  <para>Mahaiko kartak erabili ezin direnean, egin klik sortan, karta bat hondarrera eramateko. Eraman karta hori mahaiko pila batera, horretako aukera badago. Errepikatu prozedura hori mahaiko edo hondarreko kartak mugitzeko aukerarik gabe gelditu arte.</para>
+  <para>
+    At this point, clicking on the Stock again moves all the cards
+    in the Tableau back to the bottom of the Stock.  The card in the
+    Waste is put in the first Tableau pile and the rest of the Tableau
+    is filled with one card to each pile from the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Joko honetan ez dago punturik.</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Denbora pasarako joko aparta da. Valentine-n jokatzeko ez da estrategiarik behar, jokatzeagatik gauza garrantzitsuagoak (adibidez, oheratzea) egin gabe uzteko behar den estrategia izan ezik.</para>
+        </sect2>
+</sect1>

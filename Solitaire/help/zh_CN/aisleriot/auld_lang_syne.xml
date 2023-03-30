@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>友谊地久天长</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛。游戏开始时，除了 A 以外，其他牌都放在这里。点击发牌区会发出四张翻开的牌。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角有四个空位，每个空位在开始时都放有一个 A，收牌区只考虑点数不管花色。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>收牌区下面的四个空位，每次点一下发牌区，每个空位上放一张牌，最上面的牌可以移到收牌区，废牌区的牌只能移到收牌区。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌都移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>游戏开始时，先从发牌区发四张牌，如果允许，就把牌移到收牌区。重复操作直到发牌区没有牌，也没有牌可以移到收牌区。有个稍微简单些的类似游戏叫混战。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>您相信运气吗？虽然这个游戏比“钟表”小游戏更具有技巧，需要注意复杂的细节。是一个不需要费神的强大游戏。</para>
+        </sect2>
+</sect1>

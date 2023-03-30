@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>自动扶梯</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，桌面上发牌剩下的放在这儿，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>放置发牌区发过来的牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>七行交错压着的牌，最上面一行一张，然后每一行比上一行多一张牌，排列成一个金字塔形。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有牌移到废牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>金字塔里所有没被压着的牌都可以参与游戏，只要点数比废牌区的牌大一点或小一点，都可以移到废牌区，A 在 K 上面，在二的下面。</para>
+  <para>收牌区每次往废牌区发一张牌，不能重复。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>从桌面上移除一张牌得一分。</para>
+  <para>可能得到的最高分是：28</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>提前做好计划，这样将来会很方便。</para>
+        </sect2>
+</sect1>

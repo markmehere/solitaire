@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Istočna luka</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Špil se stavlja ovde posle deljenja na talon.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gornje gomile. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Sedam gomila na dnu. Dele se po dve zatvorene i jedna otvorena kartu na svaku od gomila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Talon se slaže sa kartama naizmeničnih boja. Nizovi karta složenih po redu i naizmeničnim bojama se mogu zajedno pomerati. Na prazne gomile u talonu se mogu stavljati kraljevi ili nizovi karata koji počinju sa kraljem.</para>
+  <para>Prazna mesta na talonu se moraju, ako je moguće, popuniti pre narednog deljenja. Klikom na gomilu se deli po jedna otvorena karta na svaku gomilu u talonu. Pri poslednjem deljenju se stavlja jedna otvorena karta samo na prve tri gomile. Nema ponovnih deljenja.</para>
+  <para>„Temelj“ se slaže po znaku od asa do kralja. Karte na „temelju“ nisu više u igri.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta stavljena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pomerajte odmah karte na „temelj“ jer ih već naredno deljenje može blokirati. Ipak, pošto karte na „temelju“ nisu više u igri, može se desiti da se zaglavite jer vam treba baš ta karta. Nadamo se da će ovaj problem biti najteži problem koji će vas zadesiti danas.</para>
+        </sect2>
+</sect1>

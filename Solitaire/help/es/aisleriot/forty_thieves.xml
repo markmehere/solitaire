@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Cuarenta ladrones</title>
+
+  <para>Escrito por Ed Sirett</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Doble baraja</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de repartir el tablero. Las cartas se reparten de una a una a la basura. La carta superior de la basura está disponible para el juego.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Ocho pilas en la parte superior derecha. Se construye por palo del as hasta el rey.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+    <entry>Diez montones. Se dan cuatro filas de cartas boca arriba al comienzo. El tablero se puede construir hacia abajo por palo. Las cartas se mueven de una en una. Los montones vacíos se pueden rellenar con cualquier carta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas del tablero se construyen desdentemente sobre el mismo palo. Las cartas sólo se pueden mover de una en una. Un montón vacío en el tablero se puede llenar con cualquier carta. Como atajo, puede mover más de una carta si hay suficientes espacios vacíos. Las cartas también se pueden mover en grupos sobre los montones objetivo.</para>
+  <para>Las cartas se juegan de una en una desdel montón a la basura, cuya carta superior está disponible para el juego. No hay repartos.</para>
+  <para>Los objetivos se construyen ascendentemente desde el as hasta el rey. Al pulsar dos veces sobre un objetivo, se jugarán automáticamente las cartas. Al pulsar dos veces sobre una carta en el tablero o en la basura, la moverá al montón objetivo apropiado si tal movimiento es posible, o al tablero si es posible.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa 5 tantos. Cuando un montón de la fundación se completa (desde el as hasta el rey), puntúa 60 tantos más.</para>
+  <para>Máxima puntuación posible: 1000</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Absténgase de llevar cartas al tablero para obtener espacios libres tan pronto como le sea posible. Entonces balancee los requerimientos para mantener espacios vacíos en contra de la necesidad de guardar las cartas bajas para que no sean enterradas en la basura.</para>
+        </sect2>
+</sect1>

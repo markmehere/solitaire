@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Rövare</title>
+
+  <para>Skrivet av Robert Brady</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Kortlek med joker</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar med fem kort vardera, vända med framsidan upp.</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Placera de återstående korten här. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till kasthögen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kasthögen kan byggas upp eller ner från de tillgängliga korten på bordshögarna. Jokrar är fria och kan spelas på vilken valör som helst samt ett kort med valfri valör kan spelas på en joker.</para>
+  <para>Kort kan när som helst vändas från högen till kasthögen.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Följande tabell visar poängen du får för varje typ av kort. Inga poäng ges för jokrar.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Kort</entry>
+          <entry>Poäng</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Ess</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Knekt, dam</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Kung</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Eftersom du kan se alla korten på bordshögarna, försök att skapa långa sviter, för att försöka bli av med så många kort som möjligt då du bara har en begränsad uppsättning av kort i högen.</para>
+        </sect2>
+</sect1>

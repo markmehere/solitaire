@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Lavirint</title>
+
+  <para>Napisao Matthew Wilcox</para>
+
+          <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>48 karata: standardni špil bez kraljeva</entry>
+	</row>
+
+	<row>
+		<entry>Talon</entry>
+		<entry>Pedeset četiri mesta u šest redova sa po devet kolona. Karte se dele na mesta od jedan do osam, a deveto mesto ostaje prazno. Karte na zatim dele na mesta od deset do sedamnaest, a osamnaesto mesto ostaje prazno. Ovo se ponavlja do kraja, zatim se uklanjaju svi kraljevi (koji više ne učestvuju u igri), tako da ukupno ostane šest praznih mesta. Svaka karta se može pomeriti levo od druge karte istog znaka i za jedan veće vrednosti. Svaka karta se može pomeriti desno od druge karte istog znaka i za jedan manje vrednosti. As se može pomeriti desno od dame ili na prazno mesto gore levo. Dama se može pomeriti levo od asa ili na prazno mesta dole desno.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Potrebno je postaviti svaki od znakova u rastućem redosledu, sa asom u gornjem levom uglu, da napravite niz karata: as do dame u jednom, as do dame u drugom, as do dame i trećem i as do dame u četvrtom znaku.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte se pomeraju jedna po jedna. Svaka karta se može pomeriti levo od druge karte istog znaka i za jedan veće vrednosti. Svaka karta se može pomeriti desno od druge karte istog znaka i za jedan manje vrednosti. As se može pomeriti desno od dame ili na prazno mesto gore levo. Dama se može pomeriti levo od asa ili na prazno mesta dole desno.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta postavljena pored karte istog znaka i u pravilnom redosledu donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Više povezanih praznih mesta daju vam mogućnost generisanja dugačkih nizova karata. Čuvajte se da ne upadnete u situaciju u kojoj stalno premeštate istu kartu na dva ista mesta.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Deset popreko</title>
+
+	<para>Napisao James LewisMoss</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Privremena polja</entry>
+		<entry>Mesta na koja stavljate jednu kartu van igre. Na početku igre su ova polja popunjena. U jednoj verziji igre, na ova polja ne možete da stavljate karte kada se privremena polja isprazne.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Deset gomila na dnu. Deljenje se vrši tako što se podele 10 karata s leva na desno i okrene prva i poslednja karta. Zatim se postavi 10 karata sa desna na levo (obrnuto), a okrenu prve dve i poslednje dve karte. Ovo se nastavlja (uz obrtanje smera i okretanje po jedne karte više sa svake strane u svakom prolazu) dok ne postavite 50 karata. Poslednje dve karte se stavljaju na privremena polja.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Formirajte četiri gomile na talonu, istog znaka, od kralja do asa.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Samo se kralj može pomeriti na prazno mesto u talonu.</para>
+	<para>Karte se mogu premestiti na druge karte samo ako im se znakovi slažu, a karta koja se premešta je za jedan manja od karte na koju se ona stavlja. Ovo važi i za nizove karata koji se premeštaju dok god je karta na početku niza odgovarajuća.</para>
+
+	        </sect2>
+        <sect2><title>Opcije</title>
+
+	<para>Dozvoljena upotreba privremenih polja: Ako su uključena, privremena polja se mogu koristiti i pošto se isprazne.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Ili pobeđujete ili gubite. Nema poena.</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Ovo je jako teška igra (i dosta zavisi od početnog rasporeda karata). Ne zaboravite da imate privremena polja. Pokušajte da ih očistite što pre jer su jako korisna ako se zaglavite.</para>
+        </sect2>
+</sect1>

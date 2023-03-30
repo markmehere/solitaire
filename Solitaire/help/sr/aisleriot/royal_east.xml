@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Краљевски исток</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. Карте се окрећу на отпад једна по једна. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири угла у мрежи три са три. Дели се једна карта на први „темељ“. Ова карта је основна карта. Слаже се на горе по знаку, стављајући асове на краљеве ако је потребно.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Дели се једна отворена карта у сваку од пет гомила на талону. Ове гомиле праве крст у виду мреже три са три.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте на „темеље“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте на талону се слажу на доле невезано за знак. Краљеви се стављају на асове. Карте се могу померати само једна по једна. Било која карта се може ставити у празно место на талону.</para>
+  <para>Сваки „темељ“ мора да почиње картом која има исту вредност као и основна карта. „Темељи“ се слажу на горе, почевши од основне карте и преламајући се од краља на аса ако је потребно. Карте на „темељу“ нису више у игри.</para>
+  <para>Карте се окрећу једна по једна са гомиле на отпад. Карта на врху отпада је у игри. Нема поновних дељења.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Скривена блага су дивна ствар, али само ако знате где се налазе. Сигурно ће вам помоћи ако памтите које карте су на којој гомили.</para>
+        </sect2>
+</sect1>

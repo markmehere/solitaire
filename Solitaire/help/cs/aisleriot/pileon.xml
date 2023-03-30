@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Napsal Nick Lamb</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Patnáct hromádek uspořádaných v řádcích po čtyřech. Rozdává se po čtyřech kartách lícem nahoru na prvních třináct hromádek. Dvě poslední se ponechají prázdné. V průběhu hry mohou být na každé hromádce nanejvýše čtyři karty a nejméně jedna.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přerovnat karty tak, aby na každé hromádce byly čtyři karty stejné hodnoty. Tím pádem by měly zůstat dvě hromádky prázdné, ale nezáleží na tom, jestli to budou ty stejné, co na začátku hry.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Kartu můžete přesunou na kteroukoliv jinou kartu, která má stejnou hodnotu, ale hromádka přitom nesmí narůst nad čtyři karty. Skupiny karet lze přesouvat, když mají všechny stejnou hodnotu, nepřináší to ale žadný zisk navíc. Na prázdnou pozici je možné položit libovolnou kartu nebo skupinu karet se stejnou hodnotou.</para>
+	<para>Jakmile hromádka obsahuje všechny čtyři karty stejné hodnoty, je zmrazena a horní karty je otočena, abyste poznali, že s těmito kartami již nepotřebujete nic dělat. Tyto karty již nejsou ve hře, ale jejich přesouvání by stejně nepřineslo žádný užitek.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Když je hromádka se čtyřmi kartami zmrazena, dostanete 4 body, po jednom za každou kartu. Za nic jiného se body nepřidělují.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Udržujte si jednu hromádku čistou, co to jen nejvíce jde. Nedovolte, aby se na hromádce poskládali tři karty stejné hodnoty nad jedinou kartou jiné hodnoty, hlavně když chybějící karta do čtveřice není spodní kartou v jiné hromádce.</para>
+        </sect2>
+</sect1>

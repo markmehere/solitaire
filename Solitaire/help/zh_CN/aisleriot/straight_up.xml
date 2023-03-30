@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Straight_Up"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>直上</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的一垛牌，放置桌面上发剩下的牌，每次往废牌区发一张牌，可以重复两次。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右上角的四垛牌，开始时每垛上已经放一张2在里面，按花色递增收牌到 A。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>发牌区下面的牌垛，开始放有13张牌，最上面的牌可以移到桌面和收牌区。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>右下边的四垛牌，开始时每垛发一张牌，按花色排列，空位自动从保留区牌，一旦保留区为空，还可以从废牌区发牌过来。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按花色递减排列，排列好的一组可以一起移动，桌面上的空位自动从保留区填充，如果保留区为空，也可以从废牌区发牌过来。</para>
+	<para>发牌区每次发一张牌到废牌区，最上面的可参与游戏，可以重复两次发牌。</para>
+	<para>收牌区按花色从2到 A 收牌，里面的牌不能再参与到游戏中，双击一张牌可以自动移动对应的收牌区，如果它是可以移动的话。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每移动一张牌到收牌区得一分。</para>
+	<para>可能得到的最高分是：48</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>不要让任何牌掉队！尽可能地往收牌区移动。</para>
+        </sect2>
+</sect1>

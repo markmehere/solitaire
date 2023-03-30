@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Mezery</title>
+
+  <para>Napsal Zach Keene</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Všechny karty se rozdají do čtyř řad po třinácti kartách v každé. Esa se odstraní, aby se vytvořily čtyři mezery. Povolena jsou dvě zamíchání.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Umístit všechny karty do postupky v barvě, od dvojky po krále.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Do mezer v úplně levém sloupci můžete můžete přesunout dvojky libovolné barvy. Mezeru napravo od libovolné karty, vyjma krále, můžete zaplnit kartou, která má stejnou barvu a o jedno vyšší hodnotu než ta před mezerou. Mezery za králem a jiné mezery nelze zaplnit.</para>
+  <para>Jakmile se karta stane součástí postupky počínaje dvojkou v úplně levém sloupci, nelze ji již přesouvat.</para>
+  <para>Když není možný žádný další tah (tj. všechny mezery následují za králem), klikněte dvojitě na libovolnou kartu a karty se znovu rozdají. Všechna karty, které zatím nejsou v postupce se odeberou, promíchají a znovu rozdají. Provést to lze dvakrát.</para>
+
+            </sect2>
+        <sect2><title>Volby</title>
+
+    <para>Náhodné pozice mezer při opětovném rozdání: Zaškrtněte, aby se při opětovném rozdání mezery rozmístily náhodně. Pokud zaškrtnuté není, objeví se po opětovném rozdání mezery vždy hned napravo za posledními kartami v postupkách.</para>
+
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu umístěnou do postupky, počínaje dvojkou úplně vlevo, dostanete 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Co nejdéle se vyhýbejte jakémukoliv kroku, který přidá mezeru za krále.</para>
+        </sect2>
+</sect1>

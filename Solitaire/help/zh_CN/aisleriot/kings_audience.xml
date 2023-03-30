@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>国王会议</title>
+
+  <para>Zach Keene 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+        <row>
+          <entry>保留区(接待室)</entry>
+          <entry>外面一圈排成方形的十六张牌，保留区的牌可用于游戏中，可以从废牌区(或者如果为空，可从发牌区填充)。</entry>
+        </row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>中间一行左边的牌垛，每次往废牌区发一张，不能重复。</entry>
+	</row>
+        <row>
+          <entry>废牌区</entry>
+          <entry>发牌区右边的空位，最上面的牌可用于游戏中。</entry>
+        </row>
+        <row>
+          <entry>“王座”</entry>
+          <entry>“接见室”里面的四个空位(在十六张牌环绕的里面)。无论何时，有可用的相同花色的 K 和 Q，它们可以移到这里面。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>接见室下边的四个空位，无论何时，有可用的相同花色 J 和 A，它们可以移动到一个空位里，J 在上面。然后按花色递减顺序收牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的收到收牌区或者王座里。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>发牌区每次往废牌区发一张牌，无论何时，有可用的相同花色的 K 和 Q，它们可以移到王座里，把 K 移到 Q 上(反之亦然)，或者双击其他牌。无论何时，有可用的相同花色的 J 和 A，它们可以移到收牌区里，按相同的方式。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每移走接见室的一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>无，国王会议游戏基本上就是靠运气。</para>
+        </sect2>
+</sect1>

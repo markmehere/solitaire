@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bristol</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá hromádka. Zde se po rozdání položí zbytek karet ze sady. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Tři hromádky napravo od volných. Pokaždé, když na volné kliknete, lízne se po jedné kartě do všech záložních.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Seřazené hromádky musíte skládat ve vzestupné postupce bez ohledu na barvu.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Karty se rozdají lícem nahoru po třech kartách na každou hromádku.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat sestupně bez ohledu na barvu. Přesouvat je možné jen jednotlivé karty. Prázdnou hromádku nelze znovu zaplnit.</para>
+  <para>Karty se lížou z volných do tří hromádek záložních, jedna karta do každé při každém líznutí. Vrchní karta v každé hromádce záložních je k dispozici do hry. Na prázdnou hromádku záložních není možné pokládat, doplní se při následujícím líznutí.</para>
+  <para>Hromádky v seřazených skládejte do postupky bez ohledu na barvu, od esa po krále. Karty v seřazených jsou již mimo hru.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Karty, které jsou blokované v opačném pořadí, je třeba řešit co nejdříve. Přesuňte co nejvíce karet ze záložních do rozdaných, přesunout krále je problém.</para>
+        </sect2>
+</sect1>

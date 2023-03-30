@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Quaranta lladres</title>
+
+  <para>Escrit per l'Ed Sirett</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla doble</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir el tauler. Les cartes es reparteixen d'una en una a la pila de descartades. La carta superior de la pila de descartades està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Vuit piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+    <entry>Deu piles. Per a començar es reparteixen quatre files cara amunt. El tauler es construeix baixant per pal. Les cartes es mouen individualment. Les piles buides es poden omplir amb qualsevol carta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant per pal. Les cartes es mouen individualment. Una pila buida al tauler es pot omplir amb qualsevol carta. Podeu moure més d'una carta si hi ha suficients espais buits. Les cartes també es poden moure en grups a les piles base.</para>
+  <para>Les cartes es poden jugar individualment des de la pila principal a la pila de descartades, on la carta superior està disponible per a jugar. No es torna a donar.</para>
+  <para>Les bases es construeixen pujant per pal des de l'as al rei. En fer doble clic a una base les cartes es jugaran automàticament. En fer doble clic a una carta del tauler o de la pila de descartades aquesta es mourà a la pila base apropiada si aquest moviment és possible, o al tauler si és possible.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a la base puntua 5 punts. Quan es completa una pila base (des de l'as al rei), es puntuen 60 punts més.</para>
+  <para>Puntuació màxima possible: 1000</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>No intenteu tornar cartes al tauler per a obtenir un espai buit tan ràpid com sigui possible. Equilibreu les necessitats per a mantenir espais buits en contra la necessitat de desar les cartes baixes perquè no siguin enterrades en la pila de descartades.</para>
+        </sect2>
+</sect1>

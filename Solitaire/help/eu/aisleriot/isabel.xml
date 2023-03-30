@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Isabel</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Hamahiru pila. Pila bakoitzean jarri bi karta behera begira eta beste bat gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak kentzea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Maila bereko karta-bikoteak kendu behar dira. Karta bat kentzen den bakoitzean, azpiko karta gora begira jartzen da jokoan erabiltzeko. Toki hutsak ez dira betetzen.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Kendutako karta-bikote bakoitzeko, bi puntu.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Pila bakoitza lau kartekin hasten da. Toki bakoitzean zenbat karta geratzen den gogoan hartu eta kartak uniformeki kentzen saiatzea da gakoa.</para>
+        </sect2>
+</sect1>

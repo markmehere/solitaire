@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Helsinki</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Es col·loca una carta al tauler automàticament quan hi ha un espai.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Deu piles. Es reparteix una carta de cara amunt a cada pila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Suprimiu les cartes en parelles que sumin tretze, on els asos valen un, les jotes valen onze i les reines valen dotze. Els reis són suprimits individualment.</para>
+  <para>Les piles buides del tauler s'omplen automàticament des de la pila principal.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta suprimida puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Aneu tan ràpid com podeu.</para>
+        </sect2>
+</sect1>

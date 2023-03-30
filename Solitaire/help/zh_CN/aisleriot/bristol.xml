@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>布里斯托尔</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角是发牌区，桌面上剩下的牌放这儿，不能重复发牌。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>发牌区右边的三个空位，每点击一下发牌区，每个里面可以放一张翻开的。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的四个空位，按递增顺序收牌不考虑花色。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>桌面上有八垛翻开的牌，每垛三张。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按递减顺序排列，不考虑花色，每次移动一张，空出的位置不能再放牌。</para>
+  <para>发牌区每次发出三张到废牌区，最上面的牌可以用在游戏中，空出的位置不能放其他牌，只能放发牌区来的牌。</para>
+  <para>收牌区从 A 到 K 递增收牌，不考虑花色。收进来的牌不能再用在游戏中。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>下面的牌看不到，尽可能把下面压着的牌翻出来，尽量把废牌区的牌移到桌面上，K 是最难移动的。</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>跨越十</title>
+
+	<para>James LewisMoss 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>临时置牌点</entry>
+		<entry>放置不用的牌，开始时由游戏填充，有一种版本在它们空了以后，不允许您再放别的牌进去。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>底下的十垛牌，先从左到右发十张扣着的牌，然后把第一张和最后一张翻开，接着再从右到左(反转)发十张牌，把开头两张和最后两张翻开。继续这样发牌(转圈发每次多翻开一张)，直到发到50张牌，最后剩下两张放入上边的临时置牌点。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>桌面上排成四垛牌，每垛包含相同花色从 K 到 A 的牌。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>只有 K 可以放在桌面上的空位中。</para>
+	<para>移动的牌必须花色相同，并且比目的地的牌小一点数，移动一垛牌时最前头一张要跟目的地的牌相匹配。</para>
+
+	        </sect2>
+        <sect2><title>选项</title>
+
+	<para>允许使用临时置牌点</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>只有羸或输，没有得分。</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>这个游戏很难羸(跟开始牌的摆放很有关系)。不要忘记临时置牌点，尽快清空它们，在出现卡住时很有用。</para>
+        </sect2>
+</sect1>

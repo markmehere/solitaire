@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Catorze</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Els espais buits al tauler s'omplen automàticament amb cartes de la pila principal.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Graella de cinc per cinc, cada una capaç de tenir una carta. Es reparteix una carta a cada espai al començament de la partida. Els espais buits s'omplen des de la pila principal. Quan la pila principal s'ha acabat, els espais s'omplen movent les cartes des de la dreta a l'esquerra, des de la carta més a l'esquerra de la fila inferior a l'espai més a la dreta, deixant tots els espais buits al final.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes es poden suprimir per parelles si sumen catorze (les jotes valen 11, les reines 12 i els reis 13) i estan a la mateixa fila o columna.</para>
+  <para>Els llocs buits s'omplen automàticament des de la pila principal. Quan la pila principal s'ha acabat, les cartes a la dreta d'una pila buida es mouran automàticament per a omplir l'espai, les piles buides de la columna de la dreta s'omplen amb cartes de la columna de l'esquerra de la fila de sota.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parella de cartes suprimida puntua dos punts.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>A vegades, enmig d'aquest joc, només hi ha un moviment. Feu-lo. Un cop la pila principal s'hagi acabat, hi haurà molts moviments al tauler.</para>
+        </sect2>
+</sect1>

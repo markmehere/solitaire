@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Will o' the Wisp</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Cuando se pulsa, se da una carta a cada montón del tablero excepto en el último reparto que coloca una carta en cada uno de los tres primeros montones.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Siete montones en la parte inferior. Se dan dos cartas boca abajo y una carta boca arriba en cada montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Crear cuatro montones de trece cartas cada uno ordenados secuencialmente por palo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Los montones del tablero se pueden construir descendentemente sin importar el palo. Las secuencias de cartas del mismo palo se pueden mover como si fuesen una unidad. Los montones vacíos del tablero se pueden llenar con cualquier carta o grupo de cartas.</para>
+  <para>Cada montón del tablero se debe rellenar antes de repartir. Pulsando en el montón almacén se repartirá una carta a cada montón del tablero a excepción del último reparto que colocara una carta en cada una de las tres primeras pilas.</para>
+  <para>Una secuencia de las trece cartas de un palo se puede mover al montón objetivo. Las cartas colocadas en el objetivo no se consideran en juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada par de cartas seguidas del mismo palo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Intenta mantener vacío el montón del tablero siempre que sea posible para crear un espacio de intercambio para poder mover las cartas.</para>
+        </sect2>
+</sect1>

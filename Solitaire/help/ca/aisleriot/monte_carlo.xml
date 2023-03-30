@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Carlo</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es reparteixen després de concatenar el tauler als llocs buits.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Graella cinc per cinc, cada una capaç de tenir una carta. Es reparteix una carta a cada espai al començament de la partida. Els llocs buits s'omplen automàticament movent les cartes des de la dreta a l'esquerra, des de la carta més a l'esquerra de la fila inferior a l'espai més a la dreta, i des de la pila principal a qualsevol espai buit en fer clic a la pila principal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes són suprimides per parelles que tenen el mateix valor sempre que les dues cartes es toquin en horitzontal, en vertical o en diagonal.</para>
+  <para>En qualsevol punt al que hi hagi piles buides al tauler, repartir des de la pila principal mou totes les cartes al tauler des de la dreta a l'esquerra i movent-les a la fila superior a la dreta si és necessari perquè tots els llocs buits es quedin al final. Llavors la pila principal es reparteix en aquests llocs buits.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parella de cartes suprimida puntua dos punts.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Vigileu com s'encongeix el tauler quan es reparteix. A vegades deixar parelles intencionadament farà que hi hagi més parelles disponibles després de repartir.</para>
+        </sect2>
+</sect1>

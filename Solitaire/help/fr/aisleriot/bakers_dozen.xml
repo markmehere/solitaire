@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Les boulangers</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut. À construire par couleur de l'As au Roi. La carte supérieure de chaque fondation peut être rejouée sur le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+    <entry>Treize piles. Quatre cartes sont distribuées face visible sur chaque pile. Les Rois sont placés tout au fond de leur pile respective.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>La carte supérieure de chaque pile du tableau peut être déplacée sur une autre pile du tableau si sa valeur est juste inférieure à la carte supérieure de la pile de destination, quelle que soit la couleur. Les piles vides du tableau ne peuvent pas être remplies.</para>
+  <para>Les fondations sont à construire par couleur de l'As au Roi. Les cartes des fondations sont toujours en jeu. Double-cliquer sur une carte du tableau la déplace vers la fondation appropriée si un tel déplacement est possible.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Faites attention à ne pas enterrer les cartes de bas rang. Essayez de ne pas vider trop rapidement les piles du tableau.</para>
+        </sect2>
+</sect1>

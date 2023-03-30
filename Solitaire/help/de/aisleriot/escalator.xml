@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Rolltreppe</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Geben Sie offen sieben überlappende Reihen, beginnend mit einer Karte in der ersten Reihe und dann jeweils eine mehr in den folgenden Reihen. Es ergibt sich die Form einer Pyramide.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Verschieben Sie alle Karten auf den Reststapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Alle aufgedeckten Karten der Pyramide sind spielbar. Bebauen Sie den Restestapel mit diesen verfügbaren Karten, indem Sie eine Karte mit einem leicht höheren oder leicht niedrigeren Rang als den der obersten Karte auf dem Reservestapel spielen. Asse sind über den Königen und unter der Zwei.</para>
+  <para>Karten werden vom Talon auf den Restestapel einzeln aufgedeckt. Es gibt keine Neuverteilungen.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte, die vom Spieltisch entfernt wird, zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 28</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Versuchen Sie im Voraus zu planen, so dass Sie zukünftig punkten.</para>
+        </sect2>
+</sect1>

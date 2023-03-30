@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hamilton">  <!--<sect1info>
+    <copyright>
+      <year>2014</year>
+      <holder>Timothy Goodwin</holder>
+    </copyright>
+    <author>
+      <firstname>Timothy</firstname>
+      <surname>Goodwin</surname></author>
+    <address><email>toby@flare.email</email></address>
+  </sect1info>-->
+
+  <title>Hamilton</title>
+
+  <para>Escrito por Timothy Goodwin</para>
+
+  <sect2><title>Ajustes</title>
+
+    <informaltable>
+      <tgroup cols="2">
+        <tbody>
+          <row>
+            <entry>Tipo de baraja</entry>
+            <entry>Baraja estándar</entry>
+          </row>
+          <row>
+            <entry>Montón</entry>
+            <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de repartirlas en el tablero. Las tres primeras cartas se pueden devolver una a una al selector. Después escoja una carta base, pulsando sobre el montón dejando una carta boca arriba en cada montón del tablero.</entry>
+          </row>
+          <row>
+            <entry>Selector</entry>
+            <entry>En la parte superior izquierda, cerca del almacén. Mientras elige una carta base, pulsando sobre el montón deje la carta superior boca arriba al selector. La carta del selector se puede mover a la fundación. O si el almacén se ha pulsado de nuevo, esta se volverá boca abajo en el fondo del almacén, y la próxima carta se desplazará al selector.</entry>
+          </row>
+          <row>
+            <entry>Objetivo</entry>
+            <entry>Cuatro montones en la parte superior derecha. Se construye ascendentemente del mismo palo desde la carta base hasta el rey, y luego desde el as hasta la carta con valor de una unidad menos que la carta base.</entry>
+          </row>
+          <row>
+            <entry>Tablero</entry>
+            <entry>Siete montones. Se da una carta boca arriba en cada montón. Comience en la segunda fila sobre el segundo montón en el tablero, y deje una carta boca arriba en cada montón excepto la primera. Repita hasta que queden siete cartas en el último montón. El juego se construye de forma descendente con cartas del mismo color. Los grupos de cartas ordenadas y las del juego se pueden mover. Los montones vacíos pueden rellenarse por una carta o un grupo de cartas ordenadas.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+
+  </sect2>
+
+  <sect2><title>Meta</title>
+    <para>Mover todas las cartas a los montones objetivo.</para>
+  </sect2>
+
+  <sect2><title>Reglas</title>
+    <para>Para comenzar el juego, una carta se voltea desde el almacén hasta el selector. Esta carta se puede mover hacia la fundación, en cualquier caso, esta será la carta base de este juego. De lo contrario se devuelve la carta al fondo del almacén boca abajo, y la próxima carta se volteará desde el almacén hasta el selector. Si no se escoge ninguna de las tres primeras cartas, el juego termina. Si pulsamos dos veces sobre el selector, moverá la carta hacia la fundación.</para>
+    <para>Las cartas en el tablero se ordenan hacia abajo alternando el color. Un rey se puede colocar sobre un as (a excepción de que la carta base sea un as).Se pueden mover grupos de cartas. Un montón vacío en el tablero se puede rellenar con cualquier carta, o con un grupo de cartas ordenadas de un mismo palo.</para>
+    <para>La fundación se construye ascendentemente por palo desde la carta base hasta el rey, el as, el dos, y así hasta llegar a una carta menos que la carta base. Por ejemplo, si la carta base es siete, la fundación se construye ascendentemente desde el siete hasta el rey, as hasta el seis. Las cartas de la fundación están todavía en juego.</para>
+    <para>Un grupo de cartas ordenadas y del mismo palo pueden moverse a la fundación con un simple movimiento. Pulsando dos veces sobre un montón del tablero desplazará todas las cartas posibles desde ese montón hacia la fundación.</para>
+  </sect2>
+
+  <sect2><title>Puntuación</title>
+    <para>Cada carta eliminada puntúa un tanto.</para>
+    <para>Máxima puntuación posible: 52</para>
+  </sect2>
+
+  <sect2><title>Estrategia</title>
+    <para>Escoja sabiamente. Si no puede pasar a la Fundación todas las cartas visibles del valor de la carta base, es poco probable que gane. Un espacio vacío en el tablero no tiene valor.</para>
+  </sect2>
+
+  <sect2><title>Dedicatoria</title>
+    <para>Dedico este juego a mi padre Geoffrey Hamilton Goodwin (b. 1937). Él me enseñó con mucha paciencia los juegos del solitario. Ambos creemos que Hamilton es un paquete de juegos sencillo y muy interesante.</para>
+  </sect2>
+
+  <sect2><title>Referencias</title>
+    <para>Este juego se llama <emphasis>Agnes</emphasis> en el libro <emphasis>Juegos de paciencia</emphasis> de <emphasis>Basil Dalton</emphasis>, London 1924.</para>
+  </sect2>
+</sect1>

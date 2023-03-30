@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Klockan</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Lägg korten i en klockform, med tolv högar och fyra kort i vardera.</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Placera de sista fyra korten i högen (mitten av bordshögarna) och vänd det översta kortet.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Vända alla kort.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Flytta det översta kortet i mittenhögen till avsedd hög. Bordshögarna ligger i form av en klocka, så de numrerade korten placeras där de skulle lagts på en analog klocka. Ess läggs på ett och knekt och dam läggs på elva respektive tolv. För alla de människor som aldrig haft en analog klocka så är mönstret följande:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Klockans layout.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Kungar stannar i mittenhögen. När ett kort flyttas till en ny hög (eller är meningen att stanna i samma hög, som i förekommande fall med kungen) tas bottenkortet i den högen och placeras överst i mittenhögen med framsidan upp. Detta nya kort är spelklart. För att flytta ett kort till avsedd hög, antingen dubbelklicka på den avsedda högen eller dra kortet dit.</para>
+	<para>Spelet är slut när det finns fyra kungar i mittenhögen. I det här skedet, har du vunnit om målet har uppnåtts. Observera att om ett kort i en hög är på rätt plats är det ok även om det är med framsidan ned.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i avsedd hög av klockan (kungar räknas inte, eftersom det inte finns några kungar på riktiga klockor) ger en poäng.</para>
+	<para>Högsta möjliga poäng: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Hitta ett sätt att automatisera det här spelet. Det finns aldrig några beslut som skall göras. Om du förlorar är det inte ditt fel. (Och omvänt, om du vinner är det bara tur!)</para>
+        </sect2>
+</sect1>

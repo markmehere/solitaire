@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Första lagen</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla kort placeras här i början. När den är tom förs korten från bordshögarna tillbaka till högen.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Fyra högar till höger. Varje giv från högen kommer att lägga ett kort på varje bordshög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Om du klickar på högen delas ett kort till varje bordshög. Om något av korten som visas i bordshögarna är av samma valör, flytta ihop de likadana korten till den längst till vänster. Tomma högar kan endast fyllas genom efterföljande giv från högen.</para>
+  <para>Om det vid något tillfälle är samma valör på alla fyra kort som visas tas de bort.</para>
+  <para>När högen är tom samlas bordshögarna ihop från höger till vänster och läggs tillbaka till högen. Det första kortet som delas ut kommer alltid att vara det första kortet tills det kan tas bort. Obegränsade omgivar.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje uppsättning av fyra kort som tas bort ger en poäng.</para>
+  <para>Högsta möjliga poäng: 13</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Glöm inte att använda bromsen! Det här spelet kanske aldrig tar slut om du inte noga väljer huruvida du skall göra ett drag.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jamestown"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jamestown</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vlevo nahoře. Na začátku hry se všechny karty položí zde.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Devět pozic v uspořádání 3×3. Na každou pozici se rozdá jedna karta lícem nahoru.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty je možné odebírat v párech se stejnou hodnotou. Prázdné pozice se automaticky doplní z volných.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Odstranění každého páru karet je hodnocené 2 body.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Odebírejte karty, jak nejrychleji to jde. To je jediná výzva.</para>
+        </sect2>
+</sect1>

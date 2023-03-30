@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Склад</title>
+
+	<para>Написано Ником Лэмбом (Nick Lamb)</para>
+
+	        <sect2><title>Описание</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Пятнадцать стопок, расположенных в рядах по четыре. На первые тринадцать сдаётся по четыре карты лицом вверх. В каждой стопке может лежать максимум четыре карты.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Задача</title>
+
+	<para>
+		Rearrange the cards so that each pile contains all four cards from a single
+		value. This should leave two piles empty, but it doesn't matter whether
+		they are the same piles which were empty at the start.
+	</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карты можно перекладывать на другие карты такого же достоинства при условии, что в соответствующей стопке останется не более четырёх карт. Можно перемещать целые группы карт одного достоинства. В пустую ячейку можно поместить любую карту или группу карт одного достоинства.</para>
+	<para>Когда в стопке оказывается четыре карты одного достоинства, она замораживается, при этом верхняя карта стопки переворачивается, чтобы показать, что со стопкой больше ничего делать нельзя. Карты таких стопок выходят из игры, но в любом случае было бы бесполезно их куда-то перекладывать.</para>
+
+	        </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+	<para>Когда стопка из четырёх карт замораживается, вам даётся четыре очка, по одному за карту. Другого способа заработать очки нет.</para>
+	<para>Максимальное количество очков: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегия</title>
+
+	<para>Старайтесь как можно больше держать одну из ячеек пустой. Не собирайте группу из трёх карт поверх другой, особенно если четвёртая карта из набора не лежит в самом низу другой стопки.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Araña</title>
+
+	<para>Escrito por Jonathan Blandford</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Doble baraja</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. La baraja se coloca aquí después de dar en el tablero. Al pulsar se da un carta boca arriba en cada montón.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Ocho montones en la parte superior. Sólo se usan para contener secuencias de cartas que van desde el rey hacia abajo, hasta el as una vez completadas.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Diez montones. Cuatro montones (montones 1, 4 7 y 10) donde se dan cinco cartas boca abajo y una carta boca arriba mientras que al resto de los montones se dan cuatro cartas boca abajo y una carta boca arriba. Las cartas se pueden construir descendentemente sin importar el palo. Las secuencias de cartas del mismo palo se pueden mover como una unidad. Los montones vacíos se pueden llenar con cualquier carta o unidad movible.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Tener en la fundación ocho secuencias de cartas hacia abajo desde el rey hasta el as.</para>
+	<para>Si quiere un reto extremadamente difícil no mueva las secuencias completadas a la fundación. También puedes gana dejando las ocho secuencias en el tablero. Esto es complicado porque hay pocos montones vacíos disponibles. De hecho, es casi imposible.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Se construye hacia abajo sin importar el palo. Las secuencias de cartas del mismo palo se pueden mover como si fuesen una unidad. Los montones vacíos se pueden rellenar con cualquier carta o secuencia válida.</para>
+	<para>Al pulsar en el montón en cualquier momento hará que se reparta una carta boca arriba a cada montón. Sin embargo, todos los montones deben tener cartas. Si hay un montón vacío, aparecerá un mensaje de error.</para>
+	<para>Una secuencia de cartas que va del rey hasta el as se puede mover as un montón de la fundación. Una vez allí, estas cartas no están más disponibles para el juego.</para>
+
+	        </sect2>
+        <sect2><title>Opciones</title>
+
+  <para>Hay tres posibles tipos de barajas. Cada baraja tiene 104 cartas.</para>
+  <variablelist>
+    <varlistentry><term>Un palo</term>
+      <listitem>
+        <para>La baraja es la unión de ocho palos de picas. Ésta es la más simple de todas las barajas de la Araña y una buena manera de aprender la base del juego.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Dos palos</term>
+      <listitem>
+        <para>La baraja son cuatro palos de corazones y cuatro de picas. Hay cuatro secuencias completas de cartas por cada palo. Éste no es tan diabólicamente difícil como la baraja de cuatro palos de la Araña.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Cuatro palos</term>
+      <listitem>
+        <para>La baraja es una baraja doble. Hay dos secuencias completas por cada palo. Ésta es la baraja estándar de la Araña. También la de mayor dificultad.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Muchas implementaciones tradicionales de la Araña no usan una fundación y simplemente eliminan las secuencias completas de cartas. Esto no tiene ningún impacto en el juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Para cada secuencia por palo los puntos que se consiguen son (longitud de la secuencia menos uno).</para>
+	<para>Máxima puntuación posible: 96</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Si al principio no tiene éxito, no le creará adicción. Construya por palo siempre que sea posible, pero exponga tantas cartas como pueda.</para>
+        </sect2>
+</sect1>

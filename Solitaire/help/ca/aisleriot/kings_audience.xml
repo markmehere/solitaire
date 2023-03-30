@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Audiència reial</title>
+
+  <para>Escrit per en Zach Keene</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+        <row>
+          <entry>Reserves (avantsala)</entry>
+          <entry>El rectangle exterior de setze cartes. Les cartes a la reserva estan disponibles per a jugar i es tornen a omplir des de la pila de descartades (o la pila principal si no hi ha cartes a la pila de descartades).</entry>
+        </row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>El lloc esquerre a la fila central. Les cartes es giren individualment a la pila de descartades. No es torna a donar.</entry>
+	</row>
+        <row>
+          <entry>Pila de descartades</entry>
+          <entry>Lloc a la dreta de la pila principal. La carta superior de la pila de descartades està disponible per a jugar.</entry>
+        </row>
+        <row>
+          <entry>«Trons»</entry>
+          <entry>Quatre llocs a la part superior de la «sala d'audiència» (l'àrea dins de les setze cartes). Quan un rei i una reina del mateix pal estan disponibles, es poden moure a un d'aquests llocs.</entry>
+	</row>
+	<row>
+	  <entry>Bases</entry>
+	  <entry>A sota els quatre llocs a la sala d'audiència. Quan una jota i un as del mateix pal estan disponibles, s'han de moure a un lloc buit de la base, amb la jota a sobre. Llavors la base es pot construir baixant per pal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moveu totes les cartes a les piles base o trons.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Es reparteixen cartes d'una en una des de la pila principal a la pila de descartades. Quan un rei i una reina del mateix pal estan disponibles, es poden moure a un tron arrossegant el rei sobre la reina (o al revés) o en fer doble clic a una de les cartes. Quan una jota i un as del mateix pal estan disponibles, es poden moure a la base de la mateixa manera.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a la sala d'audiència rep un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Cap; l'audiència reial es basa totalment en la sort.</para>
+        </sect2>
+</sect1>

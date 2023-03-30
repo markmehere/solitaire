@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Конверт</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. Cюда помещаются все оставшиеся после сдачи карты.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+    <entry>Четыре стопки. В начале игры на каждую кладётся по одной карте. Пустые ячейки сразу заполняются картами из колоды.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты из колоды.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Любые две карты из игрового поля можно убрать, если у них одинаковая масть. Пустые ячейки сразу заполняются картами из колоды. Игра заканчивается, когда в игровом поле лежит всего по одной карте каждой масти.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную пару даётся два очка.</para>
+  <para>Максимальное количество очков: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Короткий и не обременённый раздумиями пасьянс, который лучше всего складывать без мысли в голове и быстрыми движениями.</para>
+        </sect2>
+</sect1>

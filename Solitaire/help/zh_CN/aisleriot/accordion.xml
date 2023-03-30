@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>手风琴</title>
+
+  <para>由 Ed Sirett 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>桌面有五十四个位置，上面五行每行放九张牌，最后一行放七张牌。每个位置放一张翻开的牌，所有的牌连成一行，牌面都可以看到。最右边的位置跟下一行最左边的位置连在一起。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把全部的牌收成一垛。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>牌一个接一个地移动，所有的牌都可以移到它左边相同花色，或者相隔二个空位的相同花色牌上。这张牌盖在原来那张上面，而出现的空缺会被右边的牌填充。双击一张牌可以使它移动到左边去，如果这张牌可以移动的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每移动一张牌得1分。</para>
+  <para>可能得到的最高分是：51</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>
+    This is a difficult game. Try to find two or three cards of the same rank at or near the 
+    last row. Try not to remove any card of this rank. At the end you can move these cards
+    onto each other to win.
+  </para>
+        </sect2>
+</sect1>

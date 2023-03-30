@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY % local.common.attrib "xmlns:xi  CDATA  #FIXED 'http://www.w3.org/2003/XInclude'">
+<!ENTITY appversion "3.2">
+<!ENTITY manrevision "3.2">
+<!ENTITY date "September 2011">
+<!ENTITY app "<application>AisleRiot</application>">
+<!ENTITY appname "AisleRiot">
+]>
+<!--
+      (Do not remove this comment block.)
+  Maintained by the GNOME Documentation Project
+  http://developer.gnome.org/projects/gdp
+  Template version: 2.0 beta
+  Template last modified Feb 12, 2002
+-->
+<!-- =============Document Header ============================= -->
+<book xmlns:xi="http://www.w3.org/2003/XInclude" id="index" lang="fr">
+<!-- please do not change the id; for translations, change lang to -->
+<!-- appropriate code -->
+  <bookinfo>
+    <title>Manuel de <application>AisleRiot</application></title>
+
+    <abstract role="description">
+      <para>AisleRiot est une collection de plus de 80 jeux de cartes, programmés dans le langage de script de GNOME : Scheme.</para>
+    </abstract>
+
+    <copyright><year>2001</year> <holder>Rosanna Yuen</holder></copyright>
+<!-- translators: uncomment this:
+
+  <copyright>
+   <year>2002</year>
+   <holder>ME-THE-TRANSLATOR (Latin translation)</holder>
+  </copyright>
+
+   -->
+<!-- An address can be added to the publisher information.  If a role is
+     not specified, the publisher/author is the same for all versions of the
+     document.  -->
+    <publisher>
+      <publishername>Projet de documentation GNOME</publishername>
+    </publisher>
+
+    <xi:include href="legal.xml"/>
+
+   <!-- This file  contains link to license for the documentation (GNU FDL), and
+        other legal stuff such as "NO WARRANTY" statement. Please do not change
+	any of this. -->
+
+    <authorgroup>
+      <author role="maintainer"><firstname>Rosanna</firstname> <surname>Yuen</surname> <affiliation> <orgname>Projet de documentation de GNOME</orgname> <address> <email>zana@webwynk.net</email> </address> </affiliation></author>
+      <othercredit role="additional material"><firstname>Telsa</firstname> <surname>Gwynne</surname> <affiliation> <address><email>hobbit@aloss.ukuu.org.uk</email></address> </affiliation></othercredit>
+
+<!-- This is appropriate place for other contributors: translators,
+      maintainers,  etc. Commented out by default.
+       <othercredit role="translator">
+	<firstname>Latin</firstname>
+	<surname>Translator 1</surname>
+	<affiliation>
+	  <orgname>Latin Translation Team</orgname>
+	  <address> <email>translator@gnome.org</email> </address>
+	</affiliation>
+	<contrib>Latin translation</contrib>
+      </othercredit>
+-->
+    </authorgroup>
+	
+	<releaseinfo revision="2.26" role="review"/>
+
+    <revhistory>
+      <revision><revnumber>Manuel de AisleRiot v3.2</revnumber> <date>Septembre 2011</date> <revdescription>
+	  <para role="author">Rosanna Yuen <email>zana@webwynk.net</email></para>
+	  <para role="publisher">Projet de documentation GNOME</para>
+	</revdescription></revision>
+    </revhistory>
+
+    <releaseinfo>Ce manuel documente la version 3.2 d'AisleRiot.</releaseinfo>
+    <!-- The following feedback information only applies to appliactions
+    listed in bugzilla.gnome.org and bugzilla.ximian.com. For other
+    applications, please provide your own feedback info or remove thsi
+    section altogether -->
+    <legalnotice>
+      <title>Votre avis</title>
+      <para>Pour rapporter une anomalie ou émettre une suggestion concernant <application>AisleRiot</application> ou ce manuel, procédez comme indiqué sur la <ulink url="ghelp:user-guide?feedback-bugs" type="help">page de réactions sur GNOME</ulink>.</para>
+<!-- Translators may also add here feedback address for translations -->
+    </legalnotice>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Damien Laniel</firstname>
+      </personname>
+      <email>heretik@tuxfamily.org</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2004</year>
+      
+      <holder>Damien Laniel</holder>
+    </copyright>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Claude Paroz</firstname>
+      </personname>
+      <email>claude@2xlibre.net</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2007-2011</year>
+      
+      <holder>Claude Paroz</holder>
+    </copyright>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Bruno Brouard</firstname>
+      </personname>
+      <email>annoa.b@gmail.com</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2009</year>
+      
+        <year>2012</year>
+      
+      <holder>Bruno Brouard</holder>
+    </copyright>
+  </bookinfo>
+
+<!-- ============= Document Body ============================= -->
+<!-- ============= Introduction ============================== -->
+<chapter id="intro">
+    <title>Introduction</title>
+
+    <indexterm zone="index"><primary>AisleRiot</primary></indexterm>
+
+    <para><application>AisleRiot</application> (aussi connu sous le nom de Solitaire ou sol) est une collection de jeux de cartes qui sont faciles à jouer à l'aide d'une souris. Les règles des jeux ont été programmées pour votre plaisir dans le langage de script de GNOME (Scheme).</para>
+</chapter>
+
+<chapter id="general-information">
+<!--  <sect1info>
+    <copyright>
+      <year>2002</year>
+      <holder>Telsa Gwynne</holder>
+    </copyright>
+    <author>
+      <firstname>Telsa</firstname>
+      <surname>Gwynne</surname>
+    </author>
+    <address>
+      <email>hobbit@aloss.ukuu.org.uk</email>
+    </address>
+  </sect1info> -->
+
+
+
+ <title>Jouer à <application>AisleRiot</application></title>
+
+ <para>Utilisez la souris pour déplacer les cartes. Cliquez sur une carte et faites-la glisser quelque part. Relâchez le bouton de la souris pour déposer la carte.</para>
+ <para>Il est aussi possible de déplacer une carte en cliquant une fois dessus pour la sélectionner, puis en cliquant une seconde fois pour la placer. Pour activer cette façon de déplacer les cartes, choisissez <menuchoice><guimenu>Mouvement</guimenu><guimenuitem>Cliquer pour déplacer</guimenuitem></menuchoice>. Cela peut être plus rapide que de la faire glisser et sera plus facile pour votre main car vous n'avez pas à garder le doigt appuyé sur le bouton de la souris. Cependant, cela peut prendre un certain temps pour s'y habituer.</para>
+ <para>Si une carte peut être déplacée vers une fondation, vous n'avez pas besoin de la faire glisser. Vous pouvez double-cliquer dessus et elle se déplacera dans la fondation appropriée. Si une suite de cartes peut être déplacée vers une fondation, vous pouvez généralement déplacer la suite entière d'un coup.</para>
+ <para>Double-cliquer sur une carte l'envoie vers une fondation, si cela est possible. C'est utile pour nettoyer un grand nombre de cartes à la fin d'une partie gagnante.</para>
+ <para>Dans les jeux qui ont une pioche, vous pouvez la redistribuer en cliquant sur l'espace vide où elle était. Sachez que certains jeux ne vous laissent faire cela qu'un nombre limité de fois. Regardez le message <guilabel>Redistributions restantes</guilabel> en bas de la fenêtre.</para>
+ <para>Une astuce utile à connaître est de cliquer avec le bouton droit de la souris sur une carte face visible partiellement cachée par une carte posée au-dessus d'elle, pour la mettre au premier plan et voir quelle carte c'est.</para>
+ <para>Certains jeux disposent d'options pour modifier la façon de jouer. Par exemple, Klondike peut être joué avec des distributions d'une carte ou de trois cartes. Dans ces jeux, il existe un menu distinct nommé d'après le nom du jeu. Vous ne pouvez modifier les règles qu'au début du jeu ; pendant le jeu, le menu est inactif.</para>
+ <para>Les statistiques sur vos performances sur un jeu particulier sont disponibles en sélectionnant <guimenuitem>Statistiques</guimenuitem> dans le menu <guimenu>Jeu</guimenu>. Seules les parties pour lesquelles vous commencez vraiment à déplacer des cartes sont comptabilisées. Les statistiques sont là pour votre propre plaisir, il y a de nombreux moyens de tricher et c'est inutile de faire des comparaisons.</para>
+</chapter>
+
+<chapter id="games">
+  <title>Les jeux</title>
+
+  <xi:include href="accordion.xml"/>
+  <xi:include href="agnes.xml"/>
+  <xi:include href="athena.xml"/>
+  <xi:include href="auld_lang_syne.xml"/>
+  <xi:include href="aunt_mary.xml"/>
+  <xi:include href="backbone.xml"/>
+  <xi:include href="bakers_dozen.xml"/>
+  <xi:include href="bakers_game.xml"/>
+  <xi:include href="bear_river.xml"/>
+  <xi:include href="beleaguered_castle.xml"/>
+  <xi:include href="block_ten.xml"/>
+  <xi:include href="bristol.xml"/>
+  <xi:include href="camelot.xml"/>
+  <xi:include href="canfield.xml"/>
+  <xi:include href="carpet.xml"/>
+  <xi:include href="chessboard.xml"/>
+  <xi:include href="clock.xml"/>
+  <xi:include href="cover.xml"/>
+  <xi:include href="cruel.xml"/>
+  <xi:include href="diamond_mine.xml"/>
+  <xi:include href="doublets.xml"/>
+  <xi:include href="eagle-wing.xml"/>
+  <xi:include href="easthaven.xml"/>
+  <xi:include href="eight_off.xml"/>
+  <xi:include href="elevator.xml"/>
+  <xi:include href="eliminator.xml"/>
+  <xi:include href="escalator.xml"/>
+  <xi:include href="first_law.xml"/>
+  <xi:include href="fortress.xml"/>
+  <xi:include href="fortunes.xml"/>
+  <xi:include href="forty_thieves.xml"/>
+  <xi:include href="fourteen.xml"/>
+  <xi:include href="freecell.xml"/>
+  <xi:include href="gaps.xml"/>
+  <xi:include href="gay_gordons.xml"/>
+  <xi:include href="giant.xml"/>
+  <xi:include href="glenwood.xml"/>
+  <xi:include href="gold_mine.xml"/>
+  <xi:include href="golf.xml"/>
+  <xi:include href="gypsy.xml"/>
+  <xi:include href="hamilton.xml"/>
+  <xi:include href="helsinki.xml"/>
+  <xi:include href="hopscotch.xml"/>
+  <xi:include href="isabel.xml"/>
+  <xi:include href="jamestown.xml"/>
+  <xi:include href="jumbo.xml"/>
+  <xi:include href="kansas.xml"/>
+  <xi:include href="king_albert.xml"/>
+  <xi:include href="kings_audience.xml"/>
+  <xi:include href="klondike.xml"/>
+  <xi:include href="labyrinth.xml"/>
+  <xi:include href="lady_jane.xml"/>
+  <xi:include href="maze.xml"/>
+  <xi:include href="monte_carlo.xml"/>
+  <xi:include href="napoleons_tomb.xml"/>
+  <xi:include href="neighbor.xml"/>
+  <xi:include href="odessa.xml"/>
+  <xi:include href="osmosis.xml"/>
+  <xi:include href="peek.xml"/>
+  <xi:include href="pileon.xml"/>
+  <xi:include href="plait.xml"/>
+  <xi:include href="poker.xml"/>
+  <xi:include href="quatorze.xml"/>
+  <xi:include href="royal_east.xml"/>
+  <xi:include href="saratoga.xml"/>
+  <xi:include href="scorpion.xml"/>
+  <xi:include href="scuffle.xml"/>
+  <xi:include href="seahaven.xml"/>
+  <xi:include href="sir_tommy.xml"/>
+  <xi:include href="spiderette.xml"/>
+  <xi:include href="spider_three_decks.xml"/>
+  <xi:include href="spider.xml"/>
+  <xi:include href="straight_up.xml"/>
+  <xi:include href="streets_and_alleys.xml"/>
+  <xi:include href="ten_across.xml"/>
+  <xi:include href="terrace.xml"/>
+  <xi:include href="thieves.xml"/>
+  <xi:include href="thirteen.xml"/>
+  <xi:include href="thumb_and_pouch.xml"/>
+  <xi:include href="treize.xml"/>
+  <xi:include href="triple_peaks.xml"/>
+  <xi:include href="union_square.xml"/>
+  <xi:include href="valentine.xml"/>
+  <xi:include href="wall.xml"/>
+  <xi:include href="westhaven.xml"/>
+  <xi:include href="whitehead.xml"/>
+  <xi:include href="will_o_the_wisp.xml"/>
+  <xi:include href="yield.xml"/>
+  <xi:include href="yukon.xml"/>
+  <xi:include href="zebra.xml"/>
+</chapter>
+
+<xi:include href="definitions.xml"/>
+
+</book>

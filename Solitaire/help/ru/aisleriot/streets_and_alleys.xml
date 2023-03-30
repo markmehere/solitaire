@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Улицы и аллеи</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки в среднем столбце, карты в которых собираются от туза до короля. Верхнюю карту с каждого основания можно переложить обратно на игровое поле.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Восемь ячеек (четыре слева и четыре справа от оснований). Все карты сдаются лицом вверх со сдвигом на эти восемь ячеек так, чтобы в стопках слева лежало по семь карт, в стопках справа — по шесть, и все карты были видны.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переложить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты игрового поля можно собирать в порядке убывания без учёта масти. За раз можно переместить только одну карту. На пустую ячейку можно поместить любую одну карту.</para>
+  <para>Карты в основаниях собираются по масти по возрастанию.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>Каждая карта в стопках оснований даёт одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>По возможности заполняйте основания равномерно. Старайтесь выгадать пустую ячейку в игровом поле.</para>
+  </sect2>
+</sect1>

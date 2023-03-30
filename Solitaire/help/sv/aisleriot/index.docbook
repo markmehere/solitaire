@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY % local.common.attrib "xmlns:xi  CDATA  #FIXED 'http://www.w3.org/2003/XInclude'">
+<!ENTITY appversion "3.2">
+<!ENTITY manrevision "3.2">
+<!ENTITY date "September 2011">
+<!ENTITY app "<application>AisleRiot</application>">
+<!ENTITY appname "AisleRiot">
+]>
+<!--
+      (Do not remove this comment block.)
+  Maintained by the GNOME Documentation Project
+  http://developer.gnome.org/projects/gdp
+  Template version: 2.0 beta
+  Template last modified Feb 12, 2002
+-->
+<!-- =============Document Header ============================= -->
+<book xmlns:xi="http://www.w3.org/2003/XInclude" id="index" lang="sv">
+<!-- please do not change the id; for translations, change lang to -->
+<!-- appropriate code -->
+  <bookinfo>
+    <title>Handbok för <application>AisleRiot</application></title>
+
+    <abstract role="description">
+      <para>AisleRiot är en samling med över 80 kortspel programmerade i GNOMEs skriptspråk Scheme.</para>
+    </abstract>
+
+    <copyright><year>2001</year> <holder>Rosanna Yuen</holder></copyright>
+<!-- translators: uncomment this:
+
+  <copyright>
+   <year>2002</year>
+   <holder>ME-THE-TRANSLATOR (Latin translation)</holder>
+  </copyright>
+
+   -->
+<!-- An address can be added to the publisher information.  If a role is
+     not specified, the publisher/author is the same for all versions of the
+     document.  -->
+    <publisher>
+      <publishername>Dokumentationsprojekt för GNOME</publishername>
+    </publisher>
+
+    <xi:include href="legal.xml"/>
+
+   <!-- This file  contains link to license for the documentation (GNU FDL), and
+        other legal stuff such as "NO WARRANTY" statement. Please do not change
+	any of this. -->
+
+    <authorgroup>
+      <author role="maintainer"><firstname>Rosanna</firstname> <surname>Yuen</surname> <affiliation> <orgname>Dokumentationsprojekt för GNOME</orgname> <address> <email>zana@webwynk.net</email> </address> </affiliation></author>
+      <othercredit role="additional material"><firstname>Telsa</firstname> <surname>Gwynne</surname> <affiliation> <address><email>hobbit@aloss.ukuu.org.uk</email></address> </affiliation></othercredit>
+
+<!-- This is appropriate place for other contributors: translators,
+      maintainers,  etc. Commented out by default.
+       <othercredit role="translator">
+	<firstname>Latin</firstname>
+	<surname>Translator 1</surname>
+	<affiliation>
+	  <orgname>Latin Translation Team</orgname>
+	  <address> <email>translator@gnome.org</email> </address>
+	</affiliation>
+	<contrib>Latin translation</contrib>
+      </othercredit>
+-->
+    </authorgroup>
+	
+	<releaseinfo revision="2.26" role="review"/>
+
+    <revhistory>
+      <revision><revnumber>Handbok för AisleRiot V3.2</revnumber> <date>September 2011</date> <revdescription>
+	  <para role="author">Rosanna Yuen <email>zana@webwynk.net</email></para>
+	  <para role="publisher">Dokumentationsprojekt för GNOME</para>
+	</revdescription></revision>
+    </revhistory>
+
+    <releaseinfo>Den här handboken beskriver version 3.2 av AisleRiot.</releaseinfo>
+    <!-- The following feedback information only applies to appliactions
+    listed in bugzilla.gnome.org and bugzilla.ximian.com. For other
+    applications, please provide your own feedback info or remove thsi
+    section altogether -->
+    <legalnotice>
+      <title>Återkoppling</title>
+      <para>För att rapportera fel eller ge förslag angående spelet <application>AisleRiot</application> eller dess handbok, följ anvisningarna på <ulink url="ghelp:user-guide?feedback-bugs" type="help">GNOMEs återkopplingssida</ulink>.</para>
+<!-- Translators may also add here feedback address for translations -->
+    </legalnotice>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Daniel Nylander</firstname>
+      </personname>
+      <email>po@danielnylander.se</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2007</year>
+      
+      <holder>Daniel Nylander</holder>
+    </copyright>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Erik Sköldås</firstname>
+      </personname>
+      <email>erik.skoldas@tele2.se</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2016</year>
+      
+      <holder>Erik Sköldås</holder>
+    </copyright>
+  </bookinfo>
+
+<!-- ============= Document Body ============================= -->
+<!-- ============= Introduction ============================== -->
+<chapter id="intro">
+    <title>Introduktion</title>
+
+    <indexterm zone="index"><primary>AisleRiot</primary></indexterm>
+
+    <para><application>AisleRiot</application> (även känt som sol eller patiens) är en samling kortspel som är enkla att spela med hjälp av en mus. Reglerna för spelen har kodats för ditt nöje i GNOMEs skriptspråk (Schema).</para>
+</chapter>
+
+<chapter id="general-information">
+<!--  <sect1info>
+    <copyright>
+      <year>2002</year>
+      <holder>Telsa Gwynne</holder>
+    </copyright>
+    <author>
+      <firstname>Telsa</firstname>
+      <surname>Gwynne</surname>
+    </author>
+    <address>
+      <email>hobbit@aloss.ukuu.org.uk</email>
+    </address>
+  </sect1info> -->
+
+
+
+ <title>Spela <application>AisleRiot</application></title>
+
+ <para>Använd musen för att flytta korten. Klicka på ett kort och dra det någonstans. Släpp musknappen för att placera kortet.</para>
+ <para>Alternativt kan du flytta ett kort genom att klicka en gång för att plocka upp det och klicka igen för att placera det. För att möjliggöra detta sätt att flytta kort, välj <menuchoice><guimenu>Styrning</guimenu><guimenuitem>Klicka för att flytta</guimenuitem></menuchoice>. Detta kan vara snabbare än att dra och släppa, och kommer att vara lättare för din hand eftersom du inte behöver hålla ned musknappen. Det kan däremot ta ett tag att vänja sig vid.</para>
+ <para>Om ett kort kan flyttas till grundhögen (eller grundhögarna) behöver du inte dra det. Du kan dubbelklicka på det och det kommer att flyttas. Om en sekvens av kort kan flyttas till grundhögarna kan du i allmänhet flytta dessa som ett drag.</para>
+ <para>Att dubbelklicka på ett kort kommer att flytta det till en grundhög om det är möjligt. Detta är användbart för att städa upp ett stort antal kort i slutet av ett framgångsrikt spel.</para>
+ <para>I spel som har en hög kan du göra en omgiv genom att klicka på den tomma platsen där den var. Var uppmärksam på att vissa spel bara låter dig göra detta ett begränsat antal gånger. Håll utkik efter meddelandet <guilabel>Antal omgivar</guilabel> längst ner i fönstret.</para>
+ <para>Ett användbart tips är att om man högerklickar på ett kort med framsidan upp som skyms av ett ovanpåliggande kort friläggs det så att du kan se vad det är.</para>
+ <para>Vissa spel har alternativ för att ändra hur spelet spelas. Till exempel kan Klondyke spelas med antingen givar med ett kort eller givar med tre kort. I dessa spel finns en separat meny med spelets namn. Du kan bara ändra dess inställningar i början av spelet - menyn kommer att vara inaktiv under spelets gång.</para>
+ <para>Statistik över hur väl du har klarat ett visst spel är tillgängligt genom att välja <guimenuitem>Statistik</guimenuitem> från menyn <guimenu>Spel</guimenu>. Bara spel där du faktiskt börjat flytta kort räknas. Statistiken är bara för din egen skull, det finns många sätt att fuska och det är oklokt att göra jämförelser.</para>
+</chapter>
+
+<chapter id="games">
+  <title>Spelen</title>
+
+  <xi:include href="accordion.xml"/>
+  <xi:include href="agnes.xml"/>
+  <xi:include href="athena.xml"/>
+  <xi:include href="auld_lang_syne.xml"/>
+  <xi:include href="aunt_mary.xml"/>
+  <xi:include href="backbone.xml"/>
+  <xi:include href="bakers_dozen.xml"/>
+  <xi:include href="bakers_game.xml"/>
+  <xi:include href="bear_river.xml"/>
+  <xi:include href="beleaguered_castle.xml"/>
+  <xi:include href="block_ten.xml"/>
+  <xi:include href="bristol.xml"/>
+  <xi:include href="camelot.xml"/>
+  <xi:include href="canfield.xml"/>
+  <xi:include href="carpet.xml"/>
+  <xi:include href="chessboard.xml"/>
+  <xi:include href="clock.xml"/>
+  <xi:include href="cover.xml"/>
+  <xi:include href="cruel.xml"/>
+  <xi:include href="diamond_mine.xml"/>
+  <xi:include href="doublets.xml"/>
+  <xi:include href="eagle-wing.xml"/>
+  <xi:include href="easthaven.xml"/>
+  <xi:include href="eight_off.xml"/>
+  <xi:include href="elevator.xml"/>
+  <xi:include href="eliminator.xml"/>
+  <xi:include href="escalator.xml"/>
+  <xi:include href="first_law.xml"/>
+  <xi:include href="fortress.xml"/>
+  <xi:include href="fortunes.xml"/>
+  <xi:include href="forty_thieves.xml"/>
+  <xi:include href="fourteen.xml"/>
+  <xi:include href="freecell.xml"/>
+  <xi:include href="gaps.xml"/>
+  <xi:include href="gay_gordons.xml"/>
+  <xi:include href="giant.xml"/>
+  <xi:include href="glenwood.xml"/>
+  <xi:include href="gold_mine.xml"/>
+  <xi:include href="golf.xml"/>
+  <xi:include href="gypsy.xml"/>
+  <xi:include href="hamilton.xml"/>
+  <xi:include href="helsinki.xml"/>
+  <xi:include href="hopscotch.xml"/>
+  <xi:include href="isabel.xml"/>
+  <xi:include href="jamestown.xml"/>
+  <xi:include href="jumbo.xml"/>
+  <xi:include href="kansas.xml"/>
+  <xi:include href="king_albert.xml"/>
+  <xi:include href="kings_audience.xml"/>
+  <xi:include href="klondike.xml"/>
+  <xi:include href="labyrinth.xml"/>
+  <xi:include href="lady_jane.xml"/>
+  <xi:include href="maze.xml"/>
+  <xi:include href="monte_carlo.xml"/>
+  <xi:include href="napoleons_tomb.xml"/>
+  <xi:include href="neighbor.xml"/>
+  <xi:include href="odessa.xml"/>
+  <xi:include href="osmosis.xml"/>
+  <xi:include href="peek.xml"/>
+  <xi:include href="pileon.xml"/>
+  <xi:include href="plait.xml"/>
+  <xi:include href="poker.xml"/>
+  <xi:include href="quatorze.xml"/>
+  <xi:include href="royal_east.xml"/>
+  <xi:include href="saratoga.xml"/>
+  <xi:include href="scorpion.xml"/>
+  <xi:include href="scuffle.xml"/>
+  <xi:include href="seahaven.xml"/>
+  <xi:include href="sir_tommy.xml"/>
+  <xi:include href="spiderette.xml"/>
+  <xi:include href="spider_three_decks.xml"/>
+  <xi:include href="spider.xml"/>
+  <xi:include href="straight_up.xml"/>
+  <xi:include href="streets_and_alleys.xml"/>
+  <xi:include href="ten_across.xml"/>
+  <xi:include href="terrace.xml"/>
+  <xi:include href="thieves.xml"/>
+  <xi:include href="thirteen.xml"/>
+  <xi:include href="thumb_and_pouch.xml"/>
+  <xi:include href="treize.xml"/>
+  <xi:include href="triple_peaks.xml"/>
+  <xi:include href="union_square.xml"/>
+  <xi:include href="valentine.xml"/>
+  <xi:include href="wall.xml"/>
+  <xi:include href="westhaven.xml"/>
+  <xi:include href="whitehead.xml"/>
+  <xi:include href="will_o_the_wisp.xml"/>
+  <xi:include href="yield.xml"/>
+  <xi:include href="yukon.xml"/>
+  <xi:include href="zebra.xml"/>
+</chapter>
+
+<xi:include href="definitions.xml"/>
+
+</book>

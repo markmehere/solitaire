@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Pavouk</title>
+
+	<para>Napsal Jonathan Blandford</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Dvě sady</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Kliknutím se lízne po jedné kartě lícem nahoru na každou hromádku v rozdaných.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Osm horních hromádek. Slouží jen k uložení hotových sestupných postupek od krále po eso.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Deset hromádek. Čtyři hromádky (hromádka 1, 4, 7 a 10) mají rozdaných 5 karet lícem dolů a jednu lícem nahoru, zatímco ostatní hromádky 4 karty lícem dolů a jednu lícem nahoru. Karty můžete skládat do sestupných postupek bez ohledu na barvu. Postupky v barvě můžete přesouvat jako celek. Na prázdnou hromádku lze přenést libovolnou kartu nebo přesunutelný celek.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Mít v seřazených osm postupek karet od krále dolů po eso.</para>
+	<para>Pokud chcete extrémně náročnou výzvu, nepřesouvejte hotové postupky do seřazených. Můžete vyhrát i se všemi osmi postupkami ponechanými v rozdaných. To je náročnější, protože je pak k dispozici méně volných hromádek. Popravdě je to téměř nemožné.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Skládejte sestupné postupky bez ohledu na barvu. Postupky v barvě lze přesouvat jako jeden celek. Prázdné hromádky můžete zaplnit libovolnou kartou nebo platnou postupkou.</para>
+	<para>Kliknutím na hromádku volných v kterémkoliv okamžiku se lízne po jedné kartě na každou hromádku v rozdaných. Akorát žádná hromádka nesmí být prázdná.</para>
+	<para>Úplnou postupku karet od krále dolů po eso je možné přesunout na hromádku v seřazených. Jakmile tam je, dostává se mimo hru.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+  <para>Existují tři možné typy sad karet. Každá má 104 karet.</para>
+  <variablelist>
+    <varlistentry><term>Jedna barva</term>
+      <listitem>
+        <para>Sadu tvoří osminásobná sada pikových karet. Jedná se o nejjednodušší sadu pro hru Pavouk a jde o dobrý způsob, jak se naučit základy.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Dvě barvy</term>
+      <listitem>
+        <para>Sadu tvoří čtyřnásobná sada srdcových a pikových karet. V každé barvě tak jsou čtyři úplné postupky. To není až tak ďábelské, jako standardní čtyřbarevné sady pro hru Pavouk.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Čtyři barvy</term>
+      <listitem>
+        <para>Sadu tvoří dvě standardní sady, takže máte dvě úplné postupky pro každou barvu. Jedná se o standardní sadu pro hru Pavouk. Je také nejnáročnější.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Řada tradičních implementací hry Pavouk nepoužívá hromádky pro seřazené, ale hotové postupky se prostě odeberou. Na vlastní hru to ale nemá žádný vliv.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Body dostáváte za každou postupku v barvě (délka postupky méně jedna).</para>
+	<para>Maximální možný počet bodů: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Když se vám nezadaří napoprvé, nestaňte se závisláky. Skládejte postupky v barvě, kdykoliv je to možné, ale odhalte při tom co nejvíce karet můžete.</para>
+        </sect2>
+</sect1>

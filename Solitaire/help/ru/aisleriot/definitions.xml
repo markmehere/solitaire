@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="ru">
+	<title>Словарь терминов</title>
+
+	<para>Примечание автора: эти термины представляют собой лишь общие определения. Смотрите правила определённого пасьянса, поскольку они могут отличаться от приведённых ниже, чтобы сделать игру интересней.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Основная карта</term>
+			<listitem><para>Первая карта, переложенная на основание. Обычно набор карт в других основаниях должен начинаться с карт такого же достоинства, как у основной. Смотрите Основание.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Собирать с чередованием цвета</term>
+			<listitem><para>Собирать карты, кладя очередную карту на другую противоположного цвета. Например, положить бубновую карту на пиковую можно, а бубновую на червовую — нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Собирать без повторения масти</term>
+			<listitem><para>Собирать карты, кладя очередную карту на другую только если их масти не совпадают. Например, разрешается класть бубновую карту на червовую, но не бубновую на бубновую.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Собирать по цвету</term>
+			<listitem><para>Собирать карты, кладя очередную карту на другую такого же цвета. Например, можно положить бубновую карту на червовую, но не бубновую на пиковую.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Собирать без учёта масти</term>
+			<listitem><para>Карты собираются как угодно.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Собирать по масти</term>
+			<listitem><para>Собирать карты, кладя очередную карту на другую такой же масти. Например, разрешается класть пиковую карту на пиковую, но не пиковую на трефовую.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Собирать по убыванию</term>
+			<listitem><para>Собирать карты, кладя очередную карту достоинством ниже на карту достоинством выше. Обычно разница в достоинстве должна быть в единицу. Например, можно класть десятку на валета, но десятку на девятку положить нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Собирать по убыванию через *</term>
+			<listitem><para>Собирать карты, кладя карты поверх других достоинством выше на *. Например, при сборе по убыванию через 2, можно положить десятку на даму, но десятку на валет поместить нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Собирать по возрастанию</term>
+			<listitem><para>Собирать карты, кладя очередную карту достоинством выше на карту достоинством ниже. Обычно разница в достоинстве должна быть в единицу. Например, можно класть даму на валета, но даму на короля положить нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Собирать по возрастанию через *</term>
+			<listitem><para>Собирать карты, кладя их поверх других достоинством ниже на *. Например, при сборе по возрастанию через 2, можно положить десятку на восьмёрку, но десятку на девятку поместить нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Собирать по возрастанию и убыванию</term>
+			<listitem><para>Сбор карт в любом порядке, при котором разрешается перемещение карт на другие карты достоинством на единицу больше или меньше. Например, можно положить валет на даму или на десятку, но нельзя положить десятку на даму.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Собирать</term>
+			<listitem><para>Перекладывать карты (или группы карт) поверх других карт. С точки зрения достоинства, карты можно собирать по возрастанию, по убыванию, в том числе через *. С точки зрения масти или цвета, карты можно собирать по масти, по цвету, с чередованием цветов, без повторения масти или без учёта масти вовсе. Заметьте, что во всех пасьянсах карты собираются одновременно с учётом обеих возможностей, например, по возрастанию по масти или по убыванию с чередованием цвета.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Используемая колода</term>
+			<listitem><para>Весь набор карт, используемых в игре. Большинство пасьянсов используют стандартную колоду, но встречаются и те, в которых применяется двойная, уменьшенная или колода с джокерами.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Двойная колода</term>
+			<listitem><para>Колода, состоящая их карт двух обычных колод, всего содержит 104 карты.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Основание</term>
+			<listitem><para>Если в пасьянсе есть основание, то обычно целью игры является переклалывание всех карт на стопку (или стопки) основания.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Колода с джокерами</term>
+			<listitem><para>Колода, состоящая из стандартной и двух джокеров, всего 54 карты.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Стопка</term>
+			<listitem><para>Выделенная зона, в которой могут лежать карты.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Достоинство</term>
+			<listitem><para>
+				The value of the card. Numbered cards usually have the rank of the
+				associated number.  Aces can either be high or low.  If high, aces are
+				ranked 14.  If low, aces are ranked as 1.  J, Q, and K are usually
+				ranked 11, 12, and 13 respectively.  However, some games may rank these
+				cards as 10.  In such a case, a high ace might be ranked as 11.
+			</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Резерв</term>
+			<listitem><para>Карты из резерва обычно можно перемещать куда угодна. Чаще всего, собирать карты в резерве нельзя.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Ячейка</term>
+			<listitem><para>Смотрите Стопка.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Стандартная колода</term>
+			<listitem><para>Покерная колода из 52 карт. Существует четыре масти по тринадцать карт каждая. В каждой масти есть туз, от двойки до десятки, валет, дама и король. Масти обычно называются трефами, пиками, червами и бубнами. Масти также группируются по двум цветам, обычно чёрному и красному. Трефы и пики — чёрные, в то время как червы и бубны — красные. В Айслериот можно использовать разные колоды, в случае чего новые цвета и масти подстраиваются под данный подход.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Колода</term>
+			<listitem><para>Карты, оставшиеся после первоначальной раздачи, оставляемые, как правило, лицом вниз.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Масть</term>
+			<listitem><para>Четыре разновидности карт в обычной колоде. Обычно трефы, пики, червы и бубны.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Игровое поле</term>
+			<listitem><para>Зона, в которой происходят основные действия. Обычно позволяется собирать карты игрового поля в группы.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Сброс</term>
+			<listitem><para>Стопка карт рубашками вниз, обычно рядом с колодой. В большинстве пасьянсов верхнюю карту сброса можно перемещать.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

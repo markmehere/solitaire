@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Björnfloden</title>
+
+  	<para>Skrivet av Bruce och Joel Levin</para>
+
+
+          <sect2><title>Inställningar</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar överst. Ett kort läggs med framsidan upp i den första grundhögen.</entry>
+	</row>
+
+	<row>
+	  <entry>Bordshög</entry>
+    	  <entry>Det finns 18 bordshögar arrangerade i tre rader med sex högar vardera. Alla kort läggs med framsidan uppåt så att alla kort är synliga. De första fem högarna på varje rad börjar med tre kort vardera. Den sjätte högen i varje rad börjar med två kort vardera.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Regler</title>
+
+  <para>Ett slumpmässigt kort har redan placerats på en grundhög. Valören av det kortet blir grundkortet. Övriga tre kort med samma valör kan flyttas till en tom grundhög. Grundhögarna byggs upp i färg samt stigande ordning. Kort kan ”börja om” från drottning till kung till ess till två. Kort på grundhögarna får inte flyttas tillbaka till bordshögarna.</para>
+  <para>Ingen av bordshögarna kan ha fler än tre kort. Det översta kortet i varje bordshög kan flyttas till en annan bordshög om det matchar i färg och har en valör som är en högre eller en lägre än det översta kortet i högen som det flyttas till. Kort kan ”börja om” från kung till ess.</para>
+  <para>Det finns två typer av bordshögsplatser: ”Standard” och ”Hål”. De första fem platserna i varje rad (de med tre kort) är standardplatser. En tom standardplats KAN INTE få ett nytt kort placeras på sig. Den sista högen i varje rad (de med två kort) är hålplatserna. En tom hålplats KAN få ett nytt kort placerat på sig.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögen ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Strategi</title>
+
+  <para>Försök att frigöra en eller flera hålplatser tidigt.</para>
+  <para>Det är aldrig en nackdel att flytta kort till grundhögarna. Flytta så många som möjligt, så snart som möjligt.</para>
+  <para>Kort som har valören ett steg lägre än grundkortet kan vara mycket svåra att flytta. Var försiktig när du placerar dem.</para>
+  <para>Björnfloden kan vinnas ungefär var tredje gång.</para>
+  
+        </sect2>
+        
+        
+</sect1>

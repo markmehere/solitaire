@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Royal East</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>De fyra hörnplatserna i det tre gånger tre stora rutnätet av kort. Lägg ett kort på den första grundhögen. Detta kort är nu grundkortet. Bygg upp i färg, lägg ess på kungar vid behov.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Lägg en kort med framsidan upp på var och en av de fem bordshögarna. Dessa högar är de som bildar ett kors i det tre gånger tre stora rutnätet av kort.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ner oavsett färg. Kungar kan placeras på ess. Kort kan bara flyttas ett och ett. Alla tillgängliga kort kan spelas till en tom bordshög.</para>
+  <para>Samtliga grundhögar måste startas med ett kort av samma valör som grundkortet. Grundhögarna byggs upp i färg från grundkortet, spela ess ovanpå kungar vid behov. Kort i grundhögarna är inte längre i spel.</para>
+  <para>Korten vänds ett åt gången från högen till kasthögen. Översta kortet i kasthögen är alltid tillgängligt för spel. Inga omgivar.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Gömda skatter är underbara saker, men bara om du vet att de är där. Håll koll på vilka kort som är i vilka högar då denna information troligen kommer kunna vara användbar.</para>
+        </sect2>
+</sect1>

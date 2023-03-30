@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Seahaven"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>L'asile maritime</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles : deux en haut à gauche, deux en haut à droite. À construire en montant par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Quatre piles en haut au centre. Chaque réserve ne peut contenir qu'une seule carte. On distribue une carte dans deux des réserves pour commencer.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Dix piles sous les fondations et les réserves. On distribue les cinquante autres cartes face visible avec cinq cartes sur chaque emplacement.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur. Seules les cartes ou les suites du dessus peuvent être déplacées. Une suite de cartes ne peut être déplacée que si le nombre de cartes dans la suite est inférieur ou égal au nombre plus un de réserves libres. Les piles vides du tableau peuvent être remplies uniquement par un Roi ou une suite commençant par un Roi.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Bien que les cartes des fondations soient techniquement toujours en jeu, il n'y a vraiment aucun intérêt à les rejouer.</para>
+  <para>Toutes les cartes du dessus dans le tableau peuvent être placées dans une réserve libre. Ces cartes sont disponibles pour être rejouées sur le tableau ou sur une fondation.</para>
+  <para>Pour vous faciliter la vie, les suites de la même couleur peuvent être déplacées sur une fondation appropriée plutôt que de bouger les cartes une à une. C'est particulièrement utile en fin de partie.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Déplacez toutes les cartes que vous pouvez vers les fondations dès que possible. Les laisser traîner ne peut que vous gêner.</para>
+        </sect2>
+</sect1>

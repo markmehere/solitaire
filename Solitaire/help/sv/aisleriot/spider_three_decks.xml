@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Treleksspindeln</title>
+
+	<para>skrivet av Jonathan Blandford, Daniel Werner</para>
+
+	<sect2><title>Inställningar</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Tredubbel kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Kortleken placeras här efter att ha fördelat korten till bordshögarna. När du klickar här delas ett kort med framsidan upp på varje hög.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>De översta tolv högarna. De ingår inte i de ”officiella reglerna”.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Tolv högar. I de första sex högarna delas 4 nedåtvända kort och ett kort med framsidan upp medan övriga högar delas 3 nedåtvända kort och ett kort med framsidan upp. Kort kan byggas ned oavsett färg. Sviter av kort i samma färg kan flyttas som en enhet. Tomma platser kan fyllas med valfritt kort eller flyttbar svit.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Mål</title>
+	<para>Att ha tolv sviter i nedgående ordning med kort (tre för varje färg) från kung till ess i grundhögarna.</para>
+	<para>Om du vill ha en extremt svår utmaning, kan du också vinna genom att bilda samma tolv sviter i bordshögarna. Detta är svårare eftersom det blir färre tomma platser tillgängliga. I själva verket är det nästan omöjligt.</para>
+	</sect2>
+
+	<sect2><title>Regler</title>
+	<para>Bygg ned oberoende av färg. Sviter av kort i samma färg kan flyttas som en enhet. Tomma platser kan fyllas med valfritt kort eller flyttbar svit.</para>
+	<para>Genom att klicka på högen vid något tillfälle delas ett uppåtvänt kort på varje hög. Till skillnad från andra spindelvarianter är tomma platser tillåtna vid omgivar.</para>
+	<para>En svit med tretton kort kan flyttas till en grundhög. Väl där är dessa kort inte längre i spel.</para>
+	</sect2>
+
+	<sect2><title>Poängsättning</title>
+	<para>För varje färgsvit är poängen (svitens längd - 1).</para>
+	<para>Högsta möjliga poäng: 144</para>
+	</sect2>
+
+	<sect2><title>Strategi</title>
+	<para>Om du först inte lyckas, bli inte beroende. Bygg i färg där så är möjligt, men frilägg så många kort du kan.</para>
+	</sect2>
+</sect1>

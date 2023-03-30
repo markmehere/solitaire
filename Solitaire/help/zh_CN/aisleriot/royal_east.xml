@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>皇家东</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>桌面三行三列牌的四个角，开始第一个位置已经放了一张牌，这是基准牌，按花色递增收牌，如果需要把 A 放到 K 的上面。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>桌面排列区上翻开的五个牌垛，排成三张牌的十字交叉形。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌都移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按递减顺序排列，不考虑花色，K 放在 A 的上面，每次只能移一张，出现的空位可以放任何牌。</para>
+  <para>收牌区都从基准牌开始收牌，按花色递增收牌，如果需要可以把 A 放到 K 的上面。收牌区的牌不能再参与游戏。</para>
+  <para>发牌区每次往废牌区发一张牌，废牌区最上面的牌可以用于游戏中，不能重复。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>寻宝是一件奇妙的事情，但是您要知道它们在哪儿，记住每垛牌的点数可以帮助您找到它们。</para>
+        </sect2>
+</sect1>

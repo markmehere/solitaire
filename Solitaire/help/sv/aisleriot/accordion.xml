@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Dragspelet</title>
+
+  <para>Skrivet av Ed Sirett</para>
+
+          <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Femtiofyra platser, fem rader med nio och en sista rad med sju. Dela ett kort med framsidan upp per plats. Platserna är att betrakta som en kontinuerlig linje, raderna ordnar helt enkelt bordshögarna så allt kan ses på en gång. Platsen längst till höger av en rad är därför att betraktas till vänster om det vänstra platsen i raden under.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort utom ett.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Korten flyttas var för sig. Kort kan flyttas över ett annat kort i samma färg eller valör och som befinner sig omedelbart till vänster om eller tre platser till vänster om det. Kortet som blir täckt tas bort från spelet. Alla kort (om några) till höger om det borttagna kortet flyttas åt vänster för att stänga gapet. Att dubbelklicka flyttar om möjligt kortet tre platser eller i annat fall ett steg åt vänster.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje borttaget kort motsvarar 1 poäng.</para>
+  <para>Högsta möjliga poäng: 51</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Detta är ett svårt spel. Försök att hitta två eller tre kort av samma valör på eller i närheten av den sista raden. Försök att inte ta bort något kort av denna valör. I slutet kan du flytta dessa kort till varandra för att vinna.</para>
+        </sect2>
+</sect1>

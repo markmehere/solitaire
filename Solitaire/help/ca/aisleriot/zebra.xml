@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla doble</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Es gira una carta cada vegada a la pila de descartades. Es torna a donar un cop.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Vuit piles a la part superior dreta. Es col·loquen vuit asos en aquestes piles per a començar les bases. Les bases es construeixen pujant i alternant el color fins als reis. Les cartes a les bases no es poden jugar.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Vuit piles sota les bases. Es reparteix una carta a cada pila del tauler per a començar. Les piles del tauler es construeixen baixant i alternant el color. Només la carta superior de cada pila està disponible per a jugar. Els espais buits s'omplen immediatament des de la pila de descartades o, si la pila de descartades està buida, des de la pila principal.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moveu totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant i alternant el color. Només la carta superior de cada pila està en joc. Tot i això, per a facilitar el joc, es pot moure una pila sencera a la base apropiada amb una arrossegada. En fer doble clic a una pila es mourà la carta superior a la pila base apropiada si això és possible.</para>
+	<para>Els espais al tauler s'omplen automàticament des de la pila de descartades o, si la pila de descartades està buida, des de la pila principal.</para>
+	<para>La pila principal es reparteix a la pila de descartades individualment. La carta superior de la pila de descartades està disponible per a jugar. Es torna a donar un cop.</para>
+	<para>Les bases es construeixen pujant alternant el color des de l'as al rei. Les cartes a les bases no es poden jugar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta a les piles base puntua un punt.</para>
+	<para>Puntuació màxima possible: 96</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Hi ha molt poques segones oportunitats a la vida real, així que utilitzeu-les quan les trobeu. Les oportunitats són que necessitareu utilitzar la segona repartició per a guanyar aquest joc. Recordeu on estan les cartes clau i estareu orgullós de com ho heu fet.</para>
+        </sect2>
+</sect1>

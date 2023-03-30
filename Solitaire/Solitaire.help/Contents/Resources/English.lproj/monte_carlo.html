@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Monte Carlo</title>
+    <link rel="stylesheet" href="index.css" type="text/css"></link>
+  </head>
+  <body>
+    <a name="monte_carlo"></a>
+    <h1>Monte Carlo</h1>
+    <p class="author">Written by Rosanna Yuen</p>
+    <div>
+      <h2>Setup</h2>
+      <table><tbody><tr><td>Type of Deck</td><td>Standard Deck</td></tr><tr><td>Stock</td><td>Top left pile. The rest of the deck is placed here after dealing the Tableau. Cards are dealt after concatenating the Tableau onto the empty slots.</td></tr><tr><td>Tableau</td><td>Five by five grid, each capable of holding one card. One card dealt to each space at the beginning of game. Empty spaces can be filled by moving cards from the right to the left, from the leftmost card of the row below to the rightmost space, and from the Stock to all otherwise empty spaces by clicking on the Stock.</td></tr></tbody></table>
+    </div>
+    <div>
+      <h2>Goal</h2>
+      <p>Remove all cards.</p>
+    </div>
+    <div>
+      <h2>Rules</h2>
+      <p>
+        Cards can be removed in pairs that have the same value as long as
+        the two cards are touching horizontally, vertically, or diagonally.
+      </p>
+      <p>
+        At any point that there are empty piles in the Tableau, dealing from
+        the Stock moves all the cards already in the Tableau from the right
+        to left and moving them up a row to the far right if necessary
+        making all the empty slots at the end. The Stock is then dealt on
+        to these empty slots.
+      </p>
+    </div>
+    <div>
+      <h2>Scoring</h2>
+      <p>Each pair of cards removed scores two points.</p>
+      <p>Maximum possible score: 52</p>
+    </div>
+    <div>
+      <h2>Strategy</h2>
+      <p>
+        Keep an eye out as to how the Tableau will shrink when you deal.
+        Sometimes leaving pairs in will allow more pairs to become available
+        after a deal.
+      </p>
+    </div>
+  </body>
+</html>

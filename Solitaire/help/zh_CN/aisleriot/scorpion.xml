@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>黑心人</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛，发牌后剩下的三张放在这里。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>发牌区右边的七垛牌。前面四垛各发一张扣着的牌，后面三垛各放一张翻开的牌，再重复两次，也就是这样发三次，然后从第四行开始都发翻开的牌。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>创建四垛牌，每垛包含相同花色按顺序排列的13张牌，</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按花色递减排列，可以移一垛牌不考虑顺序，空位可以放 K 或 K 开头的一组牌。</para>
+	<para>另外一点，点击发牌区会发出最后三张牌，放在开头的三垛牌里。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>按花色排好的牌，得分为：排序的牌张数 - 1。每排好一种花色的13张牌，可以得到额外4分奖励，翻开一张扣着的牌得3分。</para>
+	<para>可能得到的最高分是：100</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>解开一个结通常都比较困难，避免把自己弄成一团乱麻。</para>
+        </sect2>
+</sect1>

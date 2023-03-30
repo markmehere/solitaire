@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Poker</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Neben dem Talon. Der Ablagestapel kann höchstens eine Karte aufnehmen.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>5x5-Raster. Jeder Platz kann nur eine Karte enthalten.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>
+    Score as many points as possible using poker hands.  There are
+    twelve hands in the board -- 5 rows, 5 columns, and 2 diagonals.
+    Scoring 75 points or higher is considered a win.
+  </para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    Click on the Stock to flip over cards one at a time.  The card must
+    be placed somewhere on to the Tableau before the next card can be
+    flipped.  Once placed, a card cannot be moved.
+  </para>
+
+          </sect2>
+        <sect2><title>Optionen</title>
+
+  <para>
+    Shuffle mode: If selected, you can move the cards after they have
+    been placed.  You need at least 120 points to win this way.
+  </para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>
+    Poker hands are scored using the British point system, which is as follows
+  </para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Hand</entry>
+          <entry>Beschreibung</entry>
+          <entry>Wertung</entry>
+        </row>
+        <row>
+          <entry>Straight flush</entry>
+          <entry>Alle Karten sind in Reihenfolge und von gleicher Farbe</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Viererpasch</entry>
+          <entry>Enthält vier Karten gleichen Ranges</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Straße</entry>
+          <entry>Alle Karten sind in Reihenfolge</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full House</entry>
+          <entry>Drei des gleichen Ranges und zwei eines anderen Ranges</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Dreierpasch</entry>
+          <entry>Enthält drei Karten des gleichen Ranges</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Flush</entry>
+          <entry>Alle fünf Karten sind von gleicher Farbe</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Zwei Paare</entry>
+          <entry>Enthält zwei mal zwei Karten des gleichen Ranges</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Ein Paar</entry>
+          <entry>Enthält zwei Karten des gleichen Ranges</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Maximal erzielbare Punkte: 276</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Bedenken Sie, dass Sie fast die Hälfte des Decks sehen werden und planen Sie dementsprechend. Es ist nicht empfehlenswert zu versuchen, den Computer zu täuschen.</para>
+        </sect2>
+</sect1>

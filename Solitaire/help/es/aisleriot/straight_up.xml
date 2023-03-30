@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Straight_Up"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Secuencia completa</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón de la parte superior izquierda. El resto de la baraja se coloca aquí después de repartir el tablero. Las cartas se sacan de una en una a la basura. Hay dos repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la parte superior derecha. Se reparte un dos a cada montón objetivo para ordenarlos por palo hasta el as.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>El montón debajo del almacén. Se reparten trece cartas aquí para empezar. La carta en la cima del montón está disponible para jugar en el tablero o en el objetivo.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Cuatro montones en la parte inferior derecha. Se reparte una carta a cada montón al empezar. Los montones pueden ser construidos por palo. Los espacios se rellenarán automáticamente de la reserva. Una vez que la reserva este vacía, los espacios del tablero podrán ser rellenados de la basura según te convenga.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueve todas las cartas a los montones de la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas en el tablero se colocan por palo. Los grupos de cartas se pueden mover. Un hueco en el tablero se rellena automáticamente desde la reserva. Si la reserva esta vacía, un hueco se puede rellenar con la carta de la cima de la basura según te convenga.</para>
+	<para>Las cartas se pueden dar la vuelta individualmente desde el almacén hasta la basura. La carta de la cima de la basura está disponible para jugar. Hay dos repartos.</para>
+	<para>El objetivo se construye con cartas del mismo palo, desde el dos hasta el as. Las cartas en el objetivo ya no se consideran parte del juego. Pulsar dos veces en una carta hará que se mueva hasta el objetivo correspondiente si tal movimiento es posible.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>¡No se demore! Mueva las cartas a los montones de la fundación siempre que le sea posible.</para>
+        </sect2>
+</sect1>

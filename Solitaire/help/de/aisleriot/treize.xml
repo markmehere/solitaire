@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Treize</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Karten werden vom Talon genommen. Die oberste und unterste Karte sind im Spiel.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Deal cards face up in seven overlapping rows starting with one card on the
+			first row, increasing by one per row and staggering the piles as to
+			achieve a pyramid.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Entfernen Sie alle Karten.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Alle offen liegenden Karten in der Pyramide sind spielbar. Könige können einzeln entfernt werden. Alle anderen Karten können paarweise entfernt werden, wenn sich ihr Wert zu 13 oder weniger addiert, wobei Asse eins, Buben elf und Damen zwölf zählen.</para>
+	<para>
+		Cards can be flipped singly from the Stock to the Waste.  Top and bottom
+		cards are available for play either by themselves or with the available
+		cards in the pyramid.  The top card of the Waste can also be played with
+		the second card on the Waste.  There is no redeal.
+	</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede entfernte Karte erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		This game is easier to win than Thirteen.  This is because you can plan
+		ahead and avoid blocks by strategic play.
+	</para>
+        </sect2>
+</sect1>

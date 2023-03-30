@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Štěstí</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Kliknutím se z ní líznou karty na všechny hromádky v rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Čtyři hromádky napravo. Seskupené karty je možné přesunou na prázdné pozice.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odstraňte všechny karty vyjma čtyř es.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Esa jsou nejvyšší karty. Když jsou přístupné dvě karty stejné barvy, můžete tu s nižší hodnotou odebrat. Když se objeví prázdná pozice, můžete ji obsadit skupinou karet.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Není žádný důvod, abyste měli prázdnou pozici, než si líznete další várku karet. Když už ale máte prázdnou pozici, zkuste ji udržet prázdnou, co nejdéle to jde, protože je skvělým způsobem, jak se zbavit zahrabaných karet.</para>
+        </sect2>
+</sect1>

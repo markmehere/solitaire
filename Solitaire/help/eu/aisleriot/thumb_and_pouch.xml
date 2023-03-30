@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thumb_And_Pouch"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Poltsikora</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Hor kokatzen da karta sortaren gainerako zatia, eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian eskuinean. Irudiaren arabera osatu behar dira, batekotik erregera. Oinarri bakoitzaren gaineko lehenengo karta mahaiko pilara eraman daiteke berriz.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zazpi pila. Lehenengo pilan, jarri karta bat gora begira. Gainerako piletan, jarri karta bana behera begira. Hurrengo pilan, jarri karta bat gora begira, horren hurrengo pilatan kartak behera begira daudela. Horrela jarraitu azken pilan zazpi karta jarri arte. Mahaia beherantz osa daiteke, irudi bereko bi karta segidan jarri gabe. Karta-segidak mugi daitezke. Pila hutsetan bidezko edozein karta-segida jar daiteke.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko kartak beherantz osatu behar dira, irudi bereko bi karta segidan jarri gabe. Karta-segidak mugi daitezke. Mahaiko pila hutsetan bidezko edozein karta-segida jar daiteke.</para>
+  <para>Kartak banan-banan iraultzen dira sortatik hondarrera. Hondarraren goiko karta erabiltzeko prest dago. Sorta hustutakoan, eraman atzera hondarreko karta guztiak sortara, ordena errespetatuz. Hiru aldiz pasa daitezke kartak sortatik hondarrera.</para>
+  <para>Oinarriak irudiaren arabera gorantz osatu behar dira, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez gero, dagokion oinarri-pilara mugituko da, mugimendu hori egin baldin badaiteke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Indarrak ez du beti balio, baina kasu honetan lagundu egingo dizu.</para>
+        </sect2>
+</sect1>

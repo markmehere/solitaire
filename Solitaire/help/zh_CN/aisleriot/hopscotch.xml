@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>跳房子</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角牌垛，开始时除了四个 A 以外，其他的牌都在这儿，每次往废牌区发一张牌。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>在发牌区的右边，每次只能放一张牌，牌必须立刻移动收牌区或放到保留区牌垛上。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>最上面的四垛牌，在发牌区的右边，提前已经放了一张 A 在里面，第二垛放的是2，第三垛放的是3，第四垛放的是4。第一垛从 A 开始收牌，第二垛从2开始收牌，第三垛从3开始收牌，第四垛从4开始收牌，当点数超过13后，再从 A 循环，收牌区里的牌不再参与游戏，不区分花色。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>收牌区下面的四垛牌，保留区的牌只能移到收牌区。从废牌区发过来的牌可以放在任何一垛上。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌都移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>收牌区收牌按1、2、3、4为基准，下一张再加上各自的基准点数依次递增，发牌区每次往废牌区发一张牌，但是，废牌区只能放一张牌，这张牌要立即移到收牌区，或者放入保留区，保留区的牌不能再相互移动。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每移动一张牌到收牌区得一分。</para>
+	<para>可能得到的最高分是：48</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>游戏中充分运用您的技巧，这儿运气靠得不多，不要压着一会要用的牌，可以考虑留上一列放 K(因为它们是每垛牌的最后一张)。</para>
+        </sect2>
+</sect1>

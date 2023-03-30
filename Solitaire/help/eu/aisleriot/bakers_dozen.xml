@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Apaizaren dozena</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian. Irudiaren arabera osatu behar dira, batekotik erregera. Oinarri bakoitzaren gaineko lehenengo karta mahaira eraman daiteke berriz.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+    <entry>Hamahiru pila. Pila bakoitzean lau karta banatzen dira gora begira. Erregeak dagozkien pilen azpiko aldera mugitzen dira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko pila bakoitzeko lehen karta beste pila batera mugi daiteke, baldin eta bigarren pilako lehen karta baino balio bat gutxiago badu. Irudia ez da kontuan hartzen. Mahaiko pila hutsak ezin dira bete.</para>
+  <para>Irudien arabera gorantz osatu behar dira oinarriak, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Mahaiko karta baten gainean klik bikoitza eginez oinarri egokira mugitzen da karta hori, mugimendu hori egin badaiteke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarrira mugitutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Kontuz, ez kartaperatu balio txikiko kartak. Saiatu mahaiko pilak ez husten.</para>
+        </sect2>
+</sect1>

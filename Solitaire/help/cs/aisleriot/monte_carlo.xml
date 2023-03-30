@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Carlo</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se lížou na prázdné pozice po spárování karet v rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Mřížka pět na pět, přičemž na každé pozici může být jen jedna karta. Na začátku hry se rozdá po jedné kartě na každé místo. Prázdná místa se po kliknutí na volné zaplní tak, že se karty postupně srazí směrem zprava doleva, počínaje kartou nejvíce vlevo nahoře a pak se na prázdná místa líznou karty z hromádky volných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty se odebírají v párech, které mají stejnou hodnotu a zároveň se dotýkají vodorovně nebo svisle nebo úhlopříčně.</para>
+  <para>Kdykoliv jsou v rozdaných prázdné pozice, je možné líznout karty z volných. Nejdříve se posunou všechny stávající karty v rozdaných zprava doleva a směrem nahoru, takže všechny prázdné pozice zůstanou na konci. Karty z volných se pak poskládajíc na tyto prázdné pozice.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý odebraný pár karet dostanete 2 body.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Sledujte, jak se karty v rozdaných před dalším líznutím srazí k sobě. Někdy může ponechání odebratelného páru zajistit více odebratelných párů po líznutí.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Obr</title>
+
+  <para>Napsal Ed Sirett</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí všechny zbývající karty. Karty se lížou pro celou řadu hromádek v rozdaných. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek vpravo nahoře. Musíte je poskládat do postupek v barvě od esa po krále. Vrchní kartu v každé z hromádek je možné vrátit zpět do hry na rozdané.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm hromádek. Rozdává se po jedné kartě lícem nahoru na všech osm hromádek.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Napravo od rozdaných. Na začátku je prázdná. Smí obsahovat jedinou kartu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Karty lze přesouvat po jedné nebo ve skupinách. Prázdné pozice v rozdaných můžete obsadit libovolnou kartou. Existuje volba, kterou se omezí tahy jen na karty stejné barvy. Viz níže.</para>
+  <para>Karty se lížou z volných do rozdaných po celých řadách. Hromádky v záložních mohou být prázdné nebo je můžete obsadit dle svého přání.</para>
+  <para>Hromádky v seřazených musíte poskládat do vzestupných postupek v barvě, od esa po krále. Vrchní karty v seřazených jsou stále ve hře. Dvojitým kliknutím na kartu se daná karta přesune na příslušné místo v seřazených, pokud je takový tah možný. Dvojitým kliknutím do seřazených se do seřazených automaticky přesunou všechny karty, u kterých je to možné.</para>
+          </sect2>
+        <sect2><title>Volby</title>
+
+  <para>Existují dvě varianty, jak hrát. Liší se v tom, jak se smí skládat karty v rozdaných.</para>
+  <variablelist>
+    <varlistentry><term>Stejná barva</term>
+      <listitem>
+      <para>Karty musí mít stejnou barvu, aby je bylo možné přesunout do skupiny a musí být položeny na kartu se stejnou barvou.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Střídající se barevnost</term>
+      <listitem>
+         <para>Aby šly karty přesunout jako skupiny musí být v postupce v barevnosti na střídačku. Vrchní karta musí být položena na kartu s opačnou barevností.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Nenechávejte nízké karty pohřbené v rozdaných. Rozumně využívejte hromádky záložních.</para>
+        </sect2>
+</sect1>

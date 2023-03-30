@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Port Est</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La baralla es col·loca aquí després de repartir al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Set piles a la part inferior. Es reparteixen a cada pila dues cartes cara avall i una carta de cara amunt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>El tauler es construeix baixant i alternant el color. Les construccions de cartes en seqüència i alternant el color es poden moure com una unitat. Les piles buides del tauler es poden omplir amb reis o construccions que comencin amb un rei.</para>
+  <para>Qualsevol lloc buit del tauler s'ha d'omplir si és possible abans de repartir més cartes. En fer clic a la pila principal es reparteix una carta cara amunt a cada pila del tauler. L'última repartició col·loca una carta cara amunt a les tres primeres piles. No es torna a donar.</para>
+  <para>La base es construeix pujant per pal des de l'as al rei. Les cartes a la base no es poden jugar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a la base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Moveu les cartes a la base quan podeu perquè la següent repartició les podria bloquejar. Tot i això, ja que les cartes a la base no es poden jugar més, us podríeu encallar més tard si necessitéssiu aquesta carta.</para>
+        </sect2>
+</sect1>

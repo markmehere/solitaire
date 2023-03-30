@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>迷宫</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，桌面上发剩下的牌放在这儿。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>上边的四垛牌，A 已放在对应的收牌区位置上。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>在游戏开始时，桌面上每个空位已经放了一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色和顺序移到收牌区，出现的空位自动从发牌区填充。</para>
+  <para>一旦桌面上的八张牌不能移动，点击发牌区向桌面各个牌垛发一张牌。空位不再自动填充。</para>
+  <para>桌面上每垛牌的最上面和最下面的牌可以移动到收牌区，桌面上的牌互相不能移动，不能重复。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>玩之前先好好睡一觉，这样您就能聪明并且警醒，尽量把牌移到收牌区，玩得开心！</para>
+        </sect2>
+</sect1>

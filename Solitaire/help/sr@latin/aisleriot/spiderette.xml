@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spiderette"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Paukovnjača</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Kada kliknete, deli se po jedna karta na svaku gomilu u talonu.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri mesta na vrhu.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Sedam gomila na dnu. Deli se jedna spuštena karta na svih sedam gomila, onda jedna na preostalih šest, pa onda jedna na ostalih pet. Nastavlja se tako dok na poslednjoj gomili ne bude sedam karata. Na kraju se okrenu poslednje karte sa svih gomila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Napravite četiri niza od trinaest karata složenih po znaku i vrednosti.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se mogu slagati nevezano za znak. Nizovi karata istog znaka se mogu pomerati zajedno. Na prazna mesta u talonu se može staviti bilo koja karta ili niz karata.</para>
+  <para>Svaka prazna gomila na talonu se mora popuniti pre deljenja. Klikom na gomilu ćete podeliti po jednu kartu na svako mesto u talonu, osim kod poslednjeg deljenja kada se po jedna karta postavlja samo na prva tri mesta.</para>
+  <para>Niz od trinaest karata istog znaka se može pomeriti na „temelj“. Karte stavljene na „temelj“ više nisu u igri.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki par karata istog znaka u nizu donosi jedan bod.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Uvek se trudite da imate bar neko mesto na talonu praznu da napravite mesto na kome možete da menjate karte.</para>
+        </sect2>
+</sect1>

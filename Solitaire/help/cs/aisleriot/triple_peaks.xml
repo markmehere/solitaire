@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Tři vrcholy</title>
+
+	<para>Napsal Richard Hoelscher</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Celá hra se odehrává na hromádce otočených. Karty otočené lícem dolů nejsou součástí bodového hodnocení.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Rozdá se 18 karet lícem dolů ve formě tří trojúhelníků se třemi řadami v každém trojúhelníku, odstupňovaném od jedné karty v první řadě po tři karty v poslední. Trojúhelníky se spojí rozdáním dalších 10 karet lícem nahoru pod spodní řadu. Poslední karty v každé řadě by měly překrývat poslední karty o řádek výš a vnitřní karty by měly překrývat dvě sousední karty tohoto řádku.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Odebrat všechny karty z rozdaných.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Uvolněné karty v rozdaných jsou k dispozici do hry. Skládají na hromádku otočených, přičemž jejich hodnota musí být přesně nad nebo pod hodnotou na vrchu hromádky, bez ohledu na barvu. Eso má hodnotu nad králem i pod dvojkou.</para>
+	<para>Karty v rozdaných jsou k dispozici, když nejsou překryté jinou kartou.</para>
+	<para>Karty se smí lízat po jedné z volných do otočených.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+	<para>Vícenásobné bodování: Body jsou zdvojnásobeny za každou kartu zahranou v řadě. Řada pěti karet dostane 1, 2, 4, 16 a 32 bodů, což je celkem 55 bodů. Bonus je v hodnotě 25 bodů. Za zahrání karty z volných do otočených se neodečítají žádné body.</para>
+	<para>Odstupňovaná kola: Po to, co jsou všechny karty vyčištěny z rozdaných, začíná nové kolo. Body z posledního kola se přenáší to nového.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Body za každou zahranou kartu jsou rovny počtu karet, které jste zahráli od posledního líznutí karty z volných do otočených. Čím víc jich zahrajete, tím více bodů dostáváte.</para>
+	<para>5 bodů se odečte, když si líznete kartu z volných do otočených. Za vyčištění každého vrcholu trojúhelníku dostanete 15 bodů bonus a dalších 15 bodů, až vyčistíte všechny karty z rozdaných.</para>
+	<para>Maximální možný počet bodů v jednom kole: 466</para>
+        </sect2>
+</sect1>

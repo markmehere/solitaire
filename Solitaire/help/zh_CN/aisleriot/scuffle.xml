@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>混战</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，除了 A 以外，其他所有牌都放在这儿，点击发牌区每次往废牌区发一张牌。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角有四个空位，每个空位在开始时都放有一个 A，收牌区只考虑点数不管花色。</entry>
+	</row>
+	<row>
+	  <entry>保留区</entry>
+	  <entry>收牌区下面的四个空位，每次点一下发牌区，每个空位上放一张牌，最上面的牌可以移到收牌区，废牌区的牌只能移到收牌区。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>点击发牌区往保留区发四张翻开的牌，如果可能，可以把牌再移到收牌区，重复这个过程直到发牌区没有牌，并且也不再能往收牌区移动。</para>
+  <para>把所有牌发到保留区并且重新排列，再把牌收回发牌区重新发牌，可以重复两次。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>试着留心保留区压在下面的牌，当出现机会时，您可以由此决定移动哪一张牌。</para>
+        </sect2>
+</sect1>

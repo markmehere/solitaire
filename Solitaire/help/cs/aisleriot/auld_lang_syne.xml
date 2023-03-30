@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Syne</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Všechny karty, vyjma es, jsou na začátku hry umístěné zde. Kliknutím na volné rozdáte po jedné kartě na každou hromádku záložních.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky nahoře po pravé straně od volných. Na místo každé hromádky se na začátku hry položí eso. Hromádky v seřazených se musí skládat do vzestupných postupek bez ohledu na barvu.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Čtyři hromádky pod seřazenými. Po každé, když kliknete na hromádku volných, lízne se po jedné kartě na každou hromádku záložních. Horní karty jsou k dispozici do hry. Ze záložních je možné karty přesouvat pouze do seřazených.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Hra začíná rozdáním čtyř karet do záložních. Pokud je to možné, zahrajte karty ze záložních do seřazených. Takto pokračujte, dokud v hromádce volných karet nezůstane žádná karta a nejde udělat žádný přesun do seřazených. Jednoduchá hra, dokonce o trochu jednodušší než Rvačka.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Jste dítě štěsteny? Třebaže tato hra vyžaduje více zkušeností než hraní Hodin, hlavní je všímavost. Je to výborná hra na odreagování bez přemýšlení.</para>
+        </sect2>
+</sect1>

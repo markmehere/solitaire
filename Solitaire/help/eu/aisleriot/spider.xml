@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Armiarma</title>
+
+	<para>Jonathan Blandford-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Sorta bikoitza</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdia banatutakoan, hemen kokatzen da sorta. Klik egin eta karta bat jartzen da pila bakoitzean, gora begira.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Zortzi pila goian. Erregetik batekora beherantz osatutako segidak jartzeko, osatu ondoren.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Hamar pila. Lau pilatan (1, 4, 7, eta 10 pilak) bosna karta banatzen dira behera begira eta bana gora begira, gainerako pilek launa karta izango dituzte behera begira eta bana gora begira. Kartak beherantz osa daitezke, irudia kontuan hartu gabe. Irudi bereko beheranzko karta-segidak batera mugi daitezke. Pila hutsetan edozein karta edo karta multzo jar daiteke.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Oinarrietan beheranzko zortzi karta-segida, erregetik batekora, izatea.</para>
+	<para>Erronka gogorra nahi baduzu, ez mugitu oinarrira osatutako karta-segidak. Zortzi segidak mahaian utzita ere irabazten da. Hori zailagoa da, pila huts gutxiago baitago erabilgarri. Egia esan, ia-ia ezinezkoa da.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Beherantz osatu behar da, irudia kontuan hartu gabe. Irudi bereko karta-segidak batera mugi daitezke. Pila hutsetan edozein karta edo bidezko segida jar daiteke.</para>
+	<para>Sortan klik eginez, karta bana gora begira banatzen du pila bakoitzean. Ezin da pilarik hutsik eduki. Pila huts bat badago, errore-mezua agertzen da.</para>
+	<para>Erregetik baterako karta-segidak oinarri-piletara eraman daitezke. Oinarriko kartak ezin dira berriz erabili.</para>
+
+	        </sect2>
+        <sect2><title>Aukerak</title>
+
+  <para>Hiru sorta mota daude. Sorta bakoitzak 104 karta ditu.</para>
+  <variablelist>
+    <varlistentry><term>Irudi bat</term>
+      <listitem>
+        <para>Soilik pikaz osatutako sorta zortzikoitza da. Hori da Armiarma jokoko sortarik soilena. Jokoaren oinarriak ikasteko era egokia da.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Bi irudi</term>
+      <listitem>
+        <para>Soilik bihotzez eta pikaz osatutako sorta laukoitza da. Irudi bakoitzeko lau segida oso daude. Jokatzeko era hau ez da armiarmaren lau irudiko ohiko sorta bezain bihurria.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Lau irudi</term>
+      <listitem>
+        <para>Sorta bikoitz estandarra da. Irudi bakoitzeko bi segida oso daude. Hori da Armiarmaren sorta estandarra. Eta jokatzeko era zailena ere bai.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Armiarma joko askotan ez dira oinarriak erabiltzen, eta osatutako karta-segidak kendu egiten dira. Horrek ez du eraginik jokoan.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Irudiaren arabera osatutako segida bakoitzeko, puntuak = segidaren luzera - 1.</para>
+	<para>Puntuaziorik altuena: 96</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Lehenengoan asmatzen ez baduzu, ez zaitez mendeko bihurtu. Ahal duzunean, irudiaren arabera osatu, baina ahalik eta karta gehien jarri bistan.</para>
+        </sect2>
+</sect1>

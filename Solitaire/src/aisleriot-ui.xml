@@ -1,0 +1,38 @@
+<ui>
+  <menubar name="MainMenu">
+    <menu action="GameMenu">
+      <menu action="RecentMenu"/>
+    </menu>
+    <menu action="ViewMenu">
+      <menu action="ThemeMenu">
+        <placeholder name="ThemesPH"/>
+      </menu>
+    </menu>
+    <menu action="ControlMenu">
+      <menuitem action="Deal"/>
+      <menuitem action="Hint"/>
+      <separator/>
+      <menuitem action="ClickToMove"/>
+      <menuitem action="Sound"/>
+    </menu>
+    <menu action="OptionsMenu"/>
+    <menu action="HelpMenu">
+      <menuitem action="Contents"/>
+      <menuitem action="HelpGame"/>
+      <menuitem action="KeyboardShortcuts"/>
+      <menuitem action="About"/>
+    </menu>
+  </menubar>
+  <toolbar name="Toolbar">
+    <toolitem action="NewGame"/>
+    <toolitem action="RestartGame"/>
+    <toolitem action="Select"/>
+    <separator/>
+    <toolitem action="UndoMove"/>
+    <toolitem action="RedoMove"/>
+    <toolitem action="Deal"/>
+    <toolitem action="Hint"/>
+    <separator name="LeaveFullscreenSep" expand="true"/>
+    <toolitem action="LeaveFullscreen"/>
+  </toolbar>
+</ui>

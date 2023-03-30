@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentin</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve preostale karte se posle deljenja stavljaju ovde.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Desna gornja gomila. Može da drži samo jednu kartu.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Četiri gomile. Jedna karta se deli na svako mesto po početku igre. Ponovnim deljenjem se sve karte koje su trenutno na talonu premeštaju na dno gomile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Postaviti sve karte na talon, tako da svako mesto na talonu sadrži niz od asa do kralja po znaku. Izbegavajte da poludite kako bi postigli ovo.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Ako su bilo koje dve karte na talonu istog znaka i jedna ispod druge po vrednosti, postavite nižu kartu na višu. Asovi su ispod kraljeva i ne mogu da se stavljaju na njih. Klikom na gomilu popunjavate prazne gomile.</para>
+  <para>Kada na talonu ne može ništa da se odigra, klinite na gomilu da podelite kartu na otpad. Ako se ta karta može igrati na bilo koji od talona, odigrajte je. Ponavljajte ovo dok nema više poteza ni na talonu ni sa otpada.</para>
+  <para>
+    At this point, clicking on the Stock again moves all the cards
+    in the Tableau back to the bottom of the Stock.  The card in the
+    Waste is put in the first Tableau pile and the rest of the Tableau
+    is filled with one card to each pile from the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Ne postoji bodovanje u ovoj igri.</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Sjajna igra za ubijanje vremena. Valentin nema strategija, osim ako je strategija igrati je, umesto raditi važnije stvari, kao na primer otići na spavanje.</para>
+        </sect2>
+</sect1>

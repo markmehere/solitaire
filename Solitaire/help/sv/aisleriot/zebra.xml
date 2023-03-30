@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Två kortlekar</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. En omgiv.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Åtta högar överst till höger. Placera de åtta essen på dessa platser för att starta grundhögarna. Grundhögarna byggs upp till kung i omväxlande kulör. Kort i grundhögarna är inte längre i spel.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Åtta platser nedanför grundhögarna. Dela ett kort till varje bordshög för att börja. Bordshögarna byggs ned i alternerande kulör. Endast det översta kortet i varje hög är spelbar. Tomma platser fylls direkt från kasthögen eller om kasthögen är tom, från högen.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ner i alternerande kulör. Endast det översta kortet i varje hög är i spel. Men för att underlätta spelet, kan en hel hög flyttas till en lämplig grundhög i ett drag. Att dubbelklicka på en hög kommer om möjligt att flytta det översta kortet till en lämplig grundhög.</para>
+	<para>Tomma platser i bordshögarna fylls automatiskt från kasthögen, eller om kasthögen är tom, från högen.</para>
+	<para>Högen delas till kasthögen ett kort i taget. Översta kortet i kasthögen är tillgängligt för spel. En omgiv.</para>
+	<para>Grundhögarna byggs upp i alternerande kulör från ess till kung. Kort i grundhögarna är inte längre i spel.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Det är sällan man får andra chanser i den verkliga världen så använd dem när du får tillfälle. Möjligen kommer du att behöva använda den andra given för att vinna detta spel. Kom ihåg var nyckelkorten är och du kommer att bli glad att du lade det på minnet.</para>
+        </sect2>
+</sect1>

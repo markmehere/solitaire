@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Čtrnáct</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Rozdají se všechny karty lícem nahoru do dvanácti hromádek. První čtyři hromádky mají po pěti kartách, zatímco ostatní hromádky mají po čtyřech kartách. Volná karta v každé hromádce je ve hře. Prázdné hromádky není možné znovu obsadit.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty se odebírají v párech, kdy je jejich součet čtrnáct. Eso má hodnotu 1, kluk, dáma a král mají hodnotu 1, 12 respektive 13.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Promýšlejte si své kroky! Zkuste přesunout karty, které zakrývají karty, které můžete spárovat, jinak můžete uvíznout na mrtvém bodě.</para>
+        </sect2>
+</sect1>

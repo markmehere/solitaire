@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Le château assiégé</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles dans la colonne du milieu. Quatre As y sont placés, un sur chaque pile, avant de mélanger le paquet. À construire de l'As au Roi. La carte du dessus de chaque fondation peut être rejouée sur le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Huit piles, quatre à gauche des fondations et quatre à droite. Toutes les cartes sont distribuées face visible sur ces huit piles, de telle sorte qu'il y ait six cartes sur chaque pile, toutes visibles.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant quelle que soit la couleur. Une seule carte peut être déplacée à la fois. Les piles vides peuvent être remplies avec n'importe quelle carte.</para>
+  <para>Les fondations sont à construire par couleur.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point, à l'exception des As de départ.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Si possible, construisez de façon égale sur les fondations. Essayez de libérer une pile du tableau.</para>
+        </sect2>
+</sect1>

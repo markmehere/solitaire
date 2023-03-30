@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Vierzig Räuber</title>
+
+  <para>Geschrieben von Ed Sirett</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Restestapel ausgegeben. Die oberste Karte des Restestapels ist im Spiel.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Acht Ablagen oben rechts. Aufbau aufsteigend nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    <entry>Zehn Stapel. Am Anfang werden vier Reihen offen ausgeteilt. Stapel auf dem Spieltisch können nach Farbe absteigend aufgebaut werden. Leere Stapel können mit einer beliebigen Karte belegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten auf dem Spieltisch werden nach Farbe absteigend aufgebaut. Karten können nur einzeln bewegt werden. Leere Stapel auf dem Spieltisch können mit einer beliebigen Karte belegt werden. Als Abkürzung können Sie mehr als eine Karte bewegen, falls genügend leere Plätze vorhanden sind. Karten können in Gruppen auf die Fundamentstapel gelegt werden.</para>
+  <para>Karten werden einzeln vom Talon auf den Reservestapel gespielt. Die oberste Karte des Reservestapels ist im Spiel. Es gibt keine Neuverteilungen.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Ein Doppelklick auf einen Fundamentstapel spielt die Karten automatisch. Ein Doppelklick auf eine Karte auf dem Spieltisch oder auf dem Ablagestapel legt die Karte auf den passenden Fundamentstapel, wenn ein solcher Zug möglich ist, oder falls möglich auf den Spieltisch.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln zählt einen Punkt. Wenn ein Fundamentstapel vollständig ist (von Ass bis König), kommen weitere 60 Punkte hinzu.</para>
+  <para>Maximal erzielbare Punkte: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Sehen Sie davon ab, Karten auf dem Spieltisch in Reihefolge zu bringen, und erhalten Sie stattdessen einen leeren Stapel zu früh wie möglich. Wägen Sie dann ab, leere Stapel zu behalten oder niedrige Karten davor zu schützen, im Restestapel begraben zu werden.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Koberec</title>
+
+  <para>Napsal Vincent Povirk</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádku lze projít jen jednou.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte je poskládat vzestupně v barvě, od esa po krále. Esa jsou před rozdáváním vybrána a položena do seřazených.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>„Koberec“ složený ze čtyř řádků po pěti kartách rozdaných lícem nahoru. Karty v rozdaných jsou k dispozici do hry. Nemůžete je nijak skládat. Prázdná místa se automaticky zaplní z otočených, pokud je to možné, nebo z volných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Hraje se kartami v rozdaných.</para>
+  <para>Karty se po jedné lížou z volných do otočených. Vrchní karta v otočených je ve hře. Hromádku volných je možné projít jen jednou.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu položenou do seřazených je přidělen 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Prostě, co můžete, to položte do seřazených.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Spindeln</title>
+
+	<para>Skrivet av Jonathan Blandford</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Två kortlekar</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Kortleken placeras här efter att ha fördelat korten till bordshögarna. När du klickar här delas ett kort med framsidan upp på varje hög.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>De åtta översta högarna. Används enbart för att förvara kompletta sviter med kort byggda nedgående ordning från kung till ess.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Tio högar. Fyra högar (1, 4, 7 och 10) delas 5 kort med framsidan nedåt och ett uppåtvänt kort medan resterande högarna delas 4 kort med framsidan nedåt och ett uppåtvänt kort. Kort kan byggas ned oavsett färg. Sviter av kort i samma färg kan flyttas som en enhet. Tomma platser kan fyllas med valfritt kort eller flyttbar svit.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Att ha åtta sviter med kort i nedgående ordning från kung till ess i grundhögarna.</para>
+	<para>Om du vill ha en extremt svår utmaning, flytta inte kompletta sviter av kort till en grundhög. Du kan även vinna genom att lämna dessa åtta sviter i bordshögarna. Detta är svårare eftersom det blir färre tomma platser tillgängliga. Faktum är att det nästan är omöjligt.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Bygg ned oberoende av färg. Sviter av kort i samma färg kan flyttas som en enhet. Tomma platser kan fyllas med valfritt kort eller flyttbar svit.</para>
+	<para>Genom att klicka på högen vid något tillfälle delas ett uppåtvänt kort på varje hög. Däremot får det inte finnas några tomma platser. Om en tom plats finns, kommer ett felmeddelande att visas.</para>
+	<para>En svit av kort i nedgående ordning från kung till ess kan flyttas till en grundhög. Väl där är dessa kort inte längre i spel.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Det finns tre möjliga kortlekstyper. Varje kortlek har 104 kort.</para>
+  <variablelist>
+    <varlistentry><term>Enfärgsspindeln</term>
+      <listitem>
+        <para>Kortleken är en åttafaldig kortlek med bara spader. Detta är den enklaste av spindelkortlekarna och ett bra sätt att lära sig grunderna.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Tvåfärgsspindeln</term>
+      <listitem>
+        <para>Kortleken är en fyrdubbel kortlek med bara hjärter och spader. Det är fyra kompletta sviter med kort för varje färg. Den här är inte riktigt lika djävulsk som fyrfärgsstandarden för spindelkortlek.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Fyrfärgsspindeln</term>
+      <listitem>
+        <para>Leken består av två vanliga kortlekar. Det är två kompletta sviter av kort för varje färg. Detta är en standardkortlek för spindel. Det är också den svåraste.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Många traditionella varianter av spindel använder inte grundhögarna utan tar helt enkelt bort kompletta sviter av kort. Det här har ingen inverkan på spelet.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>För varje färgsvit är poängen (svitens längd - 1).</para>
+	<para>Högsta möjliga poäng: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Om du först inte lyckas, bli inte beroende. Bygg i färg där så är möjligt, men frilägg så många kort du kan.</para>
+        </sect2>
+</sect1>

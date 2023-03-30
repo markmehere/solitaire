@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+  <sect2><title>Inställningar</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten delas ut i omgångar av sju, en på varje bordshög.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger. Ska byggas i färg- och nummerordning, hoppar från kung till ess vid behov. Ett kort placeras på första grundhögen . De övriga grundhögarna måste startas med kort av samma valör.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    <entry>Sju högar. Lägg ett kort med framsidan upp i första högen. Lägg ett kort med framsidan nedåt på de övriga högarna. Placera ett kort med framsidan uppåt på den andra högen, följt av ett kort med baksidan upp på de övertäckta högarna. Upprepa tills det finns sju kort i den sista högen. Bordshögarna kan byggas ned i samma kulör. Grupper av kort kan flyttas. En tom bordshög kan bara fyllas av nästa giv från högen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Mål</title>
+  <para>Flytta alla korten till grundhögarna.</para>
+  </sect2>
+  <sect2><title>Regler</title>
+  <para>Kort i bordshögarna byggs ned i samma kulör. Grupper av kort i nummerföljd och i samma färg kan flyttas som en enhet.</para>
+  <para>Varje giv lägger ett kort från högen till varje bordshög. Inga omgivar.</para>
+  <para>Grundhögarna byggs upp i färgföljd, hoppar från kung till ess vid behov. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort i bordshögarna kommer att flytta det till lämplig grundhög om det är möjligt.</para>
+</sect2>
+  <sect2><title>Poängsättning</title>
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+</sect2>
+
+  <sect2><title>Strategi</title>
+  <para>Försök att bygga korten i fallande ordning och färg när det är möjligt. Försök att få så många poäng som du kan, då det här spelet är väldigt svårt att vinna.</para>
+</sect2>
+</sect1>

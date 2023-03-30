@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Bloc deu</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Totes les cartes es col·loquen aquí al començament de la partida.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Nou piles en formació 3 per 3. Es reparteix una carta de cara amunt a cada pila del tauler.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Suprimiu les cartes per parelles que sumin deu. Les jotes, reines i reis són suprimits per parelles. Els deus no es poden suprimir. Tots els llocs buits s'omplen automàticament des de la pila principal.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>En suprimir una parella de cartes puntuareu dos punts.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Aquest és un joc d'atzar pur. Tot i això, qualsevol estratègia utilitzada hauria d'incrementar la vostra sort.</para>
+        </sect2>
+</sect1>

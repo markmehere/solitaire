@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eight_Off"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Osm pryč</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vlevo. Musíte je poskládat v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Osm hromádek nahoře. Na každé může být jen jedna karta. Na první čtyři je na začátku hry rozdáno po jedné kartě.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm hromádek pod záložními. Karty se rozdávají lícem nahoru, po šesti kartách na každou pozici.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>V rozdaných můžete skládat sestupné postupky v barvě. Přesouvat je možné buď jednu kartu nebo celou postupku. Postupku je možné přesunout jen, když je počet karet v ní roven nebo menší než počet volných pozic v záložních. Na prázdná místa v rozdaných je možné položit krále nebo postupku začínající králem.</para>
+  <para>Na hromádky v seřazených se skládají vzestupné postupky v barvě, od esa po krále. Ačkoliv čistě technicky jsou karty v seřazených stále ve hře, není ve skutečnosti potřeba těmito kartami hrát, protože to nepřináší žádný užitek.</para>
+  <para>Kterákoliv vrchní karta v rozdaných může být položena na prázdnou pozici v záložních. Tyto karty jsou k dispozici pro vrácení zpět do rozdaných nebo pro přesun do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta umístěná do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Karty přesouvejte do seřazených hned, jak je to možné. Pokud je ponecháte na místě, mohou vám později bránit v tazích.</para>
+        </sect2>
+</sect1>

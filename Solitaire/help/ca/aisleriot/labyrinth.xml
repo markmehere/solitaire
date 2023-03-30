@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Laberint</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Els asos es col·loquen a les seves respectives piles base abans de barrejar la baralla.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Es reparteix una carta de cara amunt a cada pila del tauler al començament de la partida.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Construïu qualsevol carta des del tauler a la base per pal i en seqüència. Els espais s'omplen automàticament des de la pila principal.</para>
+  <para>Quan les vuit cartes a les piles del tauler no es puguin jugar, feu clic a la pila principal per a repartir una carta a cada pila. Els llocs buits al tauler no s'ompliran automàticament.</para>
+  <para>Les cartes a la part superior i inferior de cada pila del tauler estan disponibles per a jugar a les piles base. No es pot construir al tauler. No es torna a donar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Dormiu molt la nit abans de manera que estigueu despert i atent quan jugueu. Moveu qualsevol carta que podeu a les piles base. Divertiu-vos!</para>
+        </sect2>
+</sect1>

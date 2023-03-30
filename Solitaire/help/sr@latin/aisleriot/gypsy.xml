@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Ciga</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Dupli špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon. Karte se dele u turama od po osam, jedna na svaki talon.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Osam gomila gore desno. Slažu se po znaku od asa do kralja. Karta na vrhu svakog „temelja“ se može vraćati na talon.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    <entry>Osam gomila. Za početak igre, dele se dva reda sa zatvorenim kartama i jedan sa otvorenim kartama. Talon se može slagati na dole po naizmeničnim bojama karata. Prazna mesta se mogu popunjavati bilo kojom kartom ili nizom karata.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu na dole po naizmeničnim bojama karata. Nizovi karata se mogu pomerati. Prazna gomila na talonu se može popuniti bilo kojom kartom ili nizom karata.</para>
+  <para>Svako deljenje okreće po jednu kartu sa gomile i stavlja je na svako mesto na talonu. Nema ponovnih deljenja.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Karte sa „temelja“ su još u igri. Dupli klik na kartu na talonu će je premestiti na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi 5 poena. Kada je ceo „temelj“ popunjen (od asa do kralja), dobija se još 60 poena. Svaki par karata naizmeničnih boja na talonu donosi 2 poena.</para>
+  <para>Najveći mogući broj poena: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pokušajte da otkrivate nove karte na talon kad god je to moguće. Zapamtite i da uvek možete vraćati karte sa „temelja“ nazad u igru.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spiderette"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Lillspindel</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Ett kort delas till varje bordshög när man klickar.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar längst ned. Dela ett kort med framsidan nedåt på alla sju högar, sedan ett på de sista sex högarna, följt av ett på de sista fem högarna. Fortsätt på samma sätt tills du har sju kort i den sista högen. Vänd upp det översta kortet på varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Skapa fyra högar med tretton kort, vardera hög byggs ned i färg och ordning.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ner oavsett färg. Sviter av kort i en följd och i samma färg kan flyttas som en enhet. Tomma bordshögar kan fyllas med vilket kort eller svit av kort som helst.</para>
+  <para>Samtliga bordshögar måste fyllas innan ny giv. Genom att klicka på högen delas ett kort till varje bordshög ut med undantag för den sista given som placerar ett kort på var och en av de tre första högarna.</para>
+  <para>En svit av alla tretton kort i en färg kan flyttas till en grundhög. Kort i grundhögarna är inte längre i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i färg och nummerordning ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att hålla en bordshög tom när det är möjligt för att skapa en växlingsplats för att kunna flytta runt kort.</para>
+        </sect2>
+</sect1>

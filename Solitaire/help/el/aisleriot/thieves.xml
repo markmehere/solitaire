@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Κλέφτες</title>
+
+  <para>Συγγραφέας: Robert Brady</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Τράπουλα με μπαλαντέρ</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Εφτά στήλες με πέντε ανοιχτά φύλλα σε κάθε στήλη.</entry>
+	</row>
+	<row>
+	  <entry>Μάνα</entry>
+	  <entry>Εδώ τοποθετούνται όλα τα χαρτιά που απομένουν μετά το μοίρασμα. Τα φύλλα της μάνας ανοίγουν ένα ένα και τοποθετούνται στο σωρό. Αν τελειώσουν τα φύλλα της μάνας, δεν μπορεί να γίνει νέα μοιρασιά.</entry>
+	</row>
+	<row>
+	  <entry>Σωρός</entry>
+	  <entry>Προέρχονται από τη μάνα. Μπορείτε να παίξετε το πάνω φύλλο.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Μετακίνηση όλων των φύλλων στο σωρό.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Μπορείτε να τοποθετείτε στο σωρό τα φύλλα του ταμπλό, ανεξαρτήτως φυλής και σε φθίνουσα ή αύξουσα σειρά. Οι μπαλαντέρ μπορούν να ακολουθούν ή να ακολουθούνται από οποιοδήποτε φύλλο.</para>
+  <para>Ανά πάσα στιγμή, μπορείτε να ανοίγετε ένα φύλλο της μάνας και να το τοποθετείτε στο σωρό.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Στον πίνακα που ακολουθεί βλέπετε τους βαθμούς που αντιστοιχούν σε κάθε φύλλο. Οι μπαλαντέρ δεν παίρνουν βαθμούς.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Φύλλο</entry>
+          <entry>Βαθμοί</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Άσσος</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Βαλές, ντάμα</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Ρήγας</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Εφόσον μπορείτε να βλέπετε τα φύλλα του ταμπλό, προσπαθήστε να δημιουργείτε ακολουθίες φύλλων και να ξεφορτώνεστε όσα περισσότερα φύλλα του ταμπλό μπορείτε. Θυμηθείτε ότι τα φύλλα της μάνας είναι περιορισμένα σε αριθμό.</para>
+        </sect2>
+</sect1>

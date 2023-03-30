@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Elevator"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Лифт</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Остатак шпила се ставља овде после дељења на талон. Карте се окрећу једна по једна на отпад. Нема поновних дељења.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Узима се са гомиле.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Подели се седам редова који се преклапају, почевши од једне карте на првом реду и повећавајући број карата у сваком реду, како би се направила пирамида. Последњи ред се окреће.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Померити све карте на отпад.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>У игри су све непрекривене карте са пирамиде. Од ових доступних карата треба слагати отпад, кад год је могуће, тако што се помера карта чија је вредност за један мања или за један већа од карте на врху отпада. Асови могу да иду и на краљеве и на двојке.</para>
+	<para>Карте се могу окретати са гомиле на отпад, једна по једна. Нема поновних дељења.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Свака карта уклоњена са пирамиде доноси један поен.</para>
+	<para>Највећи могући број поена: 28</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Свакој пирамиди треба добар темељ. Прво уклањајте мање карте, али увек држите све очи отворене, како би отворили што је више могуће карата.</para>
+        </sect2>
+</sect1>

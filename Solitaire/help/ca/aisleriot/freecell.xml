@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Freecell</title>
+
+	<para>Escrit per en Changwoo Ryu</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Reserves</entry>
+		<entry>Quatre piles a l'esquerra a la fila superior. Cada pila de la reserva només pot tenir una carta.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei. Les cartes a les bases no es poden jugar.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Vuit piles. Es reparteixen totes les cartes de cara amunt en aquestes vuit piles, acabant amb set cartes a cada una de les primeres quatre piles i sis cartes a les últimes quatre piles. El tauler es construeix baixant i alternant el color. Les cartes només es poden moure individualment, però com a drecera, si hi ha suficients piles de la reserva lliures per a permetre-ho, es poden moure juntes cartes en seqüència.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure si hi ha suficients piles de la reserva lliures que permetin el moviment si les cartes es moguessin individualment. Una pila buida al tauler es pot omplir amb qualsevol carta o grup de cartes.</para>
+	<para>Les bases es construeixen pujant per pal des de l'as al rei. Les cartes a les bases no es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+	<para>Les cartes a les piles de la reserva es poden jugar de nou al tauler o a la base.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta a les piles base puntua un punt.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>L'espai és una comoditat valuosa. Mantingueu tantes piles de la reserva lliures com sigui possible.</para>
+        </sect2>
+</sect1>

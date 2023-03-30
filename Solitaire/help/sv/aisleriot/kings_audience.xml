@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Kungens audiens</title>
+
+  <para>Skrivet av Zach Keene</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+        <row>
+          <entry>Reservhög (Förgård)</entry>
+          <entry>Den yttre rektangeln av sexton kort. Korten i reservhögarna är tillgängliga för spel, och fylls på från kasthögen (eller högen om kasthögen för tillfället är tom på kort.)</entry>
+        </row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Vänstra platsen i mittraden . Korten vänds ett i taget till kasthögen. Inget omgiv.</entry>
+	</row>
+        <row>
+          <entry>Kasthög</entry>
+          <entry>Platsen till höger om högen. Det översta kortet i kasthögen är tillgängligt för spel.</entry>
+        </row>
+        <row>
+          <entry>”Troner”</entry>
+          <entry>De fyra översta platserna i ”borggården” (området innanför de omkringliggande sexton korten.) När en kung och dam i samma färg är tillgängliga kan de flyttas till en av dessa platser.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>De fyra nedersta platserna i borggården. När en knekt och ett ess i samma färg är tillgängliga kan de flyttas till en tom grundhög med knekten överst. Grundhögen kan sedan byggas ned i färg.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna eller tronerna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Vänd korten ett i taget från högen till kasthögen. När en kung och dam i samma färg är tillgängliga, kan de flyttas till en tron antingen genom att dra kungen ovanpå damen (eller vice versa) eller dubbelklicka på något av korten. När en knekt och ett ess i samma färg är tillgängliga, kan de flyttas till en grundhög på samma sätt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som har placerats i borggården ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ingen; Kungens audiens är i det stora hela baserat på tur.</para>
+        </sect2>
+</sect1>

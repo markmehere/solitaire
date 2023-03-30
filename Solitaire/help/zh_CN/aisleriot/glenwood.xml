@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>格伦伍德</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，可以重复一次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的四垛牌，第一个空位在游戏开始时，由玩家从保留区选择一张牌，这个是基准牌，其他空位也必须从按这张牌的点数开始收牌，按相同花色递增收牌，如果需要从 K 到 A 循环。</entry>
+	</row>
+	<row>
+	  <entry>保留区</entry>
+	  <entry>在左边的四垛牌，每垛有三张翻开的牌，最上面的牌可以用在游戏中，空位不能再放牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>收牌区下面的四垛牌，每垛放一张翻开的牌，按递减顺序交替花色排列。最上面的牌可以移到收牌区，各个牌垛之间可以相互移动。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>游戏第一步是选一张牌放到收牌区，一旦选定，其他空位也必须从这个点数开始收牌。</para>
+  <para>收牌区按花色递增收牌，如果需要可以从 K 到 A 循环，收牌区里的牌不能再参与到游戏中。</para>
+  <para>桌面上的牌按不同花色交替递减排列，各个牌垛之间可以相互移动，空位可以填充任何可用的牌或是保留区的牌，如果保留区为空，则从废牌区填充。</para>
+  <para>发牌区每次往废牌区发一张牌，只能重复一次。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>选择第一张基准牌时要仔细，尽可能早地把保留区的牌发完，有时把牌留在桌面上比移到收牌区更重要。</para>
+        </sect2>
+</sect1>

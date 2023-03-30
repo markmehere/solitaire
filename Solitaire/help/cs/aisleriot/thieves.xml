@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Zloději</title>
+
+  <para>Napsal Robert Brady</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Žolíková sada</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek po pěti kartách, lícem nahoru.</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Zde se položí všechny zbývající karty. Po jedné se lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do otočených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Otočené můžete skládat do vzestupných nebo sestupných postupek z karet v rozdaných. Žolík je divoká karta a může být zahrán jako karta libovolné hodnoty a karta libovolné hodnoty může být zahrána na něj.</para>
+  <para>V kterýkoliv okamžik je možné líznout kartu z volných do otočených.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Následující tabulka zobrazuje přehled bodů, které obdržíte za jednotlivé typy karet. Za žolíka žádné body nejsou.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Karta</entry>
+          <entry>Body</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Eso</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Kluk, Dáma</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Král</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Protože můžete vidět všechny karty v rozdaných, zkuste „budovatelskou akci“ a pokuste se zbavit tolika karek, kolika jen jde, protože ve volných máte jen omezenou nabídku.</para>
+        </sect2>
+</sect1>

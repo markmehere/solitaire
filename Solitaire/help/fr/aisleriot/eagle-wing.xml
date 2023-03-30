@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>L'aile de l'aigle</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une par une vers la défausse. Deux redistributions.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Pile à droite de la pioche. Les cartes sont retournées ici depuis la pioche. La carte supérieure est disponible pour être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondations</entry>
+	  <entry>Quatre piles en haut à droite. Une carte est distribuée sur la première fondation, c'est la carte de base. Les autres fondations doivent être commencées avec des cartes de même rang que la carte de base. À construire en montant par couleur, à partir de la carte de base.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Emplacement du milieu (et le plus bas). On distribue ici treize cartes face cachée. On retourne la carte du dessus pour remplir les piles vides du tableau. Quand il ne reste plus qu'une carte dans la réserve, elle est retournée et peut être jouée vers les fondations ou le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Huit piles (quatre à gauche de la réserve et quatre à droite). On distribue une carte face visible par pile. Les piles du tableau peuvent être construites en descendant par couleur. Les cartes peuvent être déplacées individuellement vers les autres piles du tableau, ou en suite vers les fondations. Chaque pile du tableau peut contenir trois cartes au maximum.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur. Les cartes ne peuvent être déplacées qu'individuellement vers les autres piles du tableau. Cependant, pour rompre la monotonie, les suites peuvent être déplacées vers les fondations. Une pile vide du tableau est automatiquement remplie depuis la réserve. Si la réserve est vide, une pile vide peut être remplie par une carte de la défausse ou d'une autre pile du tableau.</para>
+  <para>La réserve existe principalement pour distribuer les cartes vers les piles vides du tableau. Cependant, quand il ne reste plus qu'une carte dans la réserve, elle devient visible et peut être jouée.</para>
+  <para>Les cartes sont retournées depuis la pioche vers la défausse une par une. Quand la pioche est vide, déplacez toutes les cartes de la défausse vers la pioche, en préservant l'ordre des cartes. Il y a deux redistributions.</para>
+  <para>Les fondations sont à construire en montant par couleur à partir de la carte de base (la première carte distribuée dans la première fondation). Les nouvelles fondations commencent quand une carte de même rang que la carte de base est placée sur une fondation vide. Les As sont placés sur les Rois, et les Deux sur les As. Les cartes des fondations ne sont plus en jeu.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Un peu de planification amène loin. Prenez garde avant d'empiler les cartes dans le tableau. Souvenez-vous de la règle des trois cartes par pile.</para>
+        </sect2>
+</sect1>

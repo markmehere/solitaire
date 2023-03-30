@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zèbre</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet double</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Une redistribution.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Huit piles en haut à droite. On place les huit As sur ces piles pour commencer les fondations. Les fondations sont à construire en montant de l'As au Roi par couleur (rouge et noir) alternée. Les cartes des fondations ne sont plus en jeu.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Huit piles sous les fondations. On distribue une carte sur chaque pile du tableau au début du jeu. Les piles peuvent être construites en descendant par couleur (rouge et noir) alternée. Seule la carte supérieure de chaque pile est disponible pour être jouée. Les piles vides sont automatiquement remplies depuis la défausse ou, si la défausse est vide, depuis la pioche.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les cartes du tableau sont construites en descendant par couleur (rouge et noir) alternée. Seule la carte supérieure de chaque pile est en jeu. Cependant, pour faciliter le jeu, une pile entière peut être déplacée vers la fondation appropriée en un seul glisser-déposer. Double-cliquer sur une pile déplace la première carte vers la fondation appropriée si cela est possible.</para>
+	<para>Les piles vides sont automatiquement remplies depuis la défausse ou, si la défausse est vide, depuis la pioche.</para>
+	<para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte supérieure de la défausse est disponible pour être jouée. Une redistribution.</para>
+	<para>Les fondations sont à construire en montant par couleur (rouge et noir) alternée de l'As au Roi. Les cartes des fondations ne sont plus en jeu.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 96</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Il y a très peu de secondes chances dans le monde réel, alors utilisez-les quand vous les trouvez. Il y a des chances que vous ayez besoin d'une deuxième distribution pour gagner. Rappelez-vous où sont les cartes clés et vous serez heureux de l'avoir fait.</para>
+        </sect2>
+</sect1>

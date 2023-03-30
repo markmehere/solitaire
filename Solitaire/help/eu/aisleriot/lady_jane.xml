@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Lady_Jane"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Lady Jane</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Eskualdi bakoitzean karta bat iraultzen da biltegi-pila bakoitzera. Sortan bi karta daudenean, bi kartak jokorako prest gelditzeko moduan banatzen dira.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila goian, eskuinean. Kartak mahaian eta biltegian banatu ondoren, karta bat jartzen da lehen oinarri-pilan. Karta hori da oinarrizko karta. Osatu gorantz irudiaren arabera.</entry>
+	</row>
+	<row>
+		<entry>Biltegia</entry>
+		<entry>Zazpi pila eskuinean. Pila bakoitzaren goiko karta mahaian edo oinarrian erabiltzeko prest dago. Sortatik banatzean soilik betetzen dira toki hutsak.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Zazpi pila, sortaren eta oinarriaren azpian. Jarri karta bat lehenengo pilan gora begira. Jarri karta bana gainerako piletan behera begira. Hurrengo pilan, jarri karta bat gora begira, eta horren hurrengo piletan karta bana behera begira. Horrela jarraitu azken pilan zazpi karta izan arte. Mahaiko pilak beherantz osa daitezke, koloreak txandakatuz (gorria eta beltza). Karta multzoak mugi daitezke. Pila hutsak betetzeko, oinarrizko kartaren maila baino bat gutxiago duen edozein karta edo horrelako karta bat buru duen karta multzoa erabili behar da.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Karta multzoak mugi daitezke. Mahaiko pila hutsak betetzeko, oinarrizko kartaren maila baino bat gutxiago duen edozein karta edo horrelako karta bat buru duen karta multzoa erabili behar da.</para>
+	<para>Sortatik biltegira banatzen dira kartak. Eskualdi bakoitzean karta bat jartzen da biltegiko pila bakoitzean.</para>
+	<para>Biltegi-pila bakoitzaren goiko karta mahaian edo oinarrian erabiltzeko prest dago beti. Biltegi-piletan ezin dira karta multzoak osatu.</para>
+	<para>Irudien arabera gorantz osatu behar dira oinarriak, oinarrizko kartatik hasita. Oinarrizko kartaren maila bereko beste karta bat oinarri-pila huts batean jarrita abiarazten dira oinarri berriak. Batekoak erregeen gainean jartzen dira, eta bikoak batekoen gainean. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez oinarri egokira mugitzen da karta hori, mugimendu hori egin badaiteke.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Zenbat eta sakonago egon karta bat, orduan eta zailagoa da hura eskuratzea. Saiatu kartak biltegitik ateratzen, ahal den guztietan.</para>
+        </sect2>
+</sect1>

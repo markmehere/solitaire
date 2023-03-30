@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Πολιορκημένο κάστρο</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Βάσεις</entry>
+	  <entry>Τέσσερις στοίβες στη μεσαία στήλη. Εδώ τοποθετούνται οι τέσσερις Άσσοι πριν το ανακάτεμα των φύλλων. Στις βάσεις τοποθετούνται φύλλα ανά φυλή και σε αύξουσα σειρά, από τον Άσσο στο Ρήγα. Σε κάθε βάση, το πάνω φύλλο μπορεί να επιστρέψει στο ταμπλό.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Οχτώ ομάδες (τέσσερις αριστερά και τέσσερις δεξιά από τις βάσεις). Τα φύλλα μοιράζονται ανοιχτά και κατά τέτοιο τρόπο ώστε όλα τα φύλλα να είναι ορατά και κάθε μία από τις οχτώ ομάδες να περιέχει έξι φύλλα.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Μετακίνηση όλων των φύλλων στις βάσεις</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Στο ταμπλό μπορείτε να τοποθετείτε φύλλα σε φθίνουσα σειρά ανεξαρτήτως φυλής. Μπορείτε να μετακινείτε μόνο ένα φύλλο κάθε φορά. Αν μία θέση είναι κενή, μπορείτε να την καλύψετε με όποιο φύλλο θέλετε.</para>
+  <para>Τα φύλλα στις βάσεις τοποθετούνται ανά φυλή και με αύξουσα σειρά.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που τοποθετείται στις βάσεις (εκτός από τους Άσσους) αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 48</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Φροντίστε να προχωρείτε εξίσου όλες τις βάσεις. Προσπαθήστε να αδειάσετε μία από τις ομάδες του ταμπλό.</para>
+        </sect2>
+</sect1>

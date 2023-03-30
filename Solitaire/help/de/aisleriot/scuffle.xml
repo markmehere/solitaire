@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Scuffle</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten mit Ausnahme der Asse werden hier am Beginn des Spiels abgelegt. Durch Anklicken des Talons wird jeweils eine Karte auf jeden Reservestapel gelegt. Zwei Neuverteilungen sind möglich.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben, rechts vom Talon. Legen Sie ein Ass auf jeden Fundamentstapel am Beginn des Spiels. Die Fundamentstapel werden aufsteigend ungeachtet der Farbe aufgebaut.</entry>
+	</row>
+	<row>
+	  <entry>Reservestapel</entry>
+	  <entry>Vier Ablagen unterhalb der Fundamentstapel. Bei jedem Anklicken des Talons wird eine Karte auf jeden der Reservestapel gelegt. Mit der obersten Karte wird gespielt. Reservekarten können nur auf den Fundamentstapeln abgelegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    Play begins by dealing four cards face up on to the Reserve.  If
+    possible, play cards on to the Foundation from the Reserve.  Continue
+    this process until no cards are left in stock and no more moves on
+    to the Foundation can be made.
+  </para>
+  <para>Nehmen Sie alle übrigen Karten des Reservestapels und mischen Sie diese. Legen Sie die Karten zurück auf den Talon zur Neuverteilung. Es gibt zwei Neuverteilungen.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte auf dem Fundamentstapel zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Try to keep in mind what is underneath the Reserve piles.  When
+    given a choice, it is this knowledge which should help you decide
+    which card to play.
+  </para>
+        </sect2>
+</sect1>

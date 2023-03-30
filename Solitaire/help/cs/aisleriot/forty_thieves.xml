@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Čtyřicet loupežníků</title>
+
+  <para>Napsal Ed Sirett</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených, vrchní karta v otočených je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek vpravo nahoře. Musíte poskládat postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    <entry>Deset hromádek. Na začátku se rozdá po čtyřech kartách lícem nahoru. Můžete je skládat do sestupných postupek v barvě. Karty se přesouvají po jedné. Prázdné hromádky je možné zaplnit libovolnou kartou.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barvě. Karty lze přesouvat jen po jedné. Prázdnou pozici v rozdaných můžete obsadit libovolnou kartou. Kvůli zrychlení můžete přesunout i více než jednu kartu, pokud je k takovému postupu dostatek volných míst. Do seřazených lze karty přesouvat i po skupinách.</para>
+  <para>Karty se po jedné lížou z volných do otočených, kde je vrchní karta k dispozici do hry. Hromádka se zpět do volných nevrací.</para>
+  <para>V seřazených se skládají postupky v barvě, od esa po krále. Dvojitým kliknutím do seřazených se karty zahrají automaticky. Dvojité kliknutí na kartu v rozdaných nebo otočených přesune kartu na příslušnou hromádku v seřazených, pokud je takový tah možný, nebo do rozdaných, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je ohodnocena 5 body. Když je hromádka v seřazených úplná (od esa po krále), dostanete 60 bodů navíc.</para>
+  <para>Maximální možný počet bodů: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Zdržte se pokládání karet do rozdaných, abyste získali co nejdříve volné místo. Po té udržujte rovnováhu mezi požadavky na udržení volných míst a potřebou uchovávat nízké karty před pohřbením v otočených.</para>
+        </sect2>
+</sect1>

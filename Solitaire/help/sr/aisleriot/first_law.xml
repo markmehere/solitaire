@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Први закон</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. На почетку се све карте стављају овде. Када се испразни, карте са талона се враћају на гомилу.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Четири гомиле десно. Свако дељење са гомиле поставља по једну карту на сваку гомилу у талону.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Кликом на гомилу ће бити подељена по једна карта на сваку гомилу у талону. Ако било које карате на талону имају исту вредности, можете померити остале на карту која је највише лево од таквих карата. Празна места се могу попунити само дељењима са гомиле.</para>
+  <para>Ако се у неком тренутку нађу четири карте са истим вредностима, оне се уклањају.</para>
+  <para>Када је гомила празна, гомиле са талона се скупљају, десна гомила на леву, и стављају назад на главну гомилу. Прва подељена карта ће увек бити прва подељена карта у и наредним дељењима, док год се не уклони. Има неограничено дељења.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки уклоњени скуп од четири карте доноси један поен.</para>
+  <para>Највећи могући број поена: 13</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Не заборавите да кочите! Ова игра може да се не заврши никада ако пажљиво не одаберете да ли, или не, да направите потез.</para>
+        </sect2>
+</sect1>

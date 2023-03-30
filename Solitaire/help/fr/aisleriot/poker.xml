@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Poker</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>À droite de la pioche. La défausse ne peut contenir qu'une seule carte.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Grille de cinq par cinq emplacements, chacun ne pouvant contenir qu'une seule carte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Marquer autant de points que possible en utilisant les mains du poker. Il y a douze mains sur le tableau : cinq rangées, cinq colonnes et deux diagonales. Marquer 75 points ou plus est considéré comme une victoire.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Cliquez sur la pioche pour retourner les cartes une à une. La carte doit être déplacée quelque part sur le tableau avant que la prochaine carte puisse être retournée. Une fois placée, une carte ne peut plus être bougée.</para>
+
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>Mode brassé : lorsqu'il est choisi, il est possible de déplacer des cartes après les avoir placées. Vous devez obtenir au moins 120 points pour gagner avec ce mode.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Les mains du poker sont comptabilisées selon le système anglais, ce qui donne :</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Main</entry>
+          <entry>Description</entry>
+          <entry>Score</entry>
+        </row>
+        <row>
+          <entry>Quinte flush</entry>
+          <entry>Les cartes sont de la même couleur et se suivent</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Carré</entry>
+          <entry>Contient quatre cartes de même rang</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Quinte</entry>
+          <entry>Toutes les cartes se suivent</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full House</entry>
+          <entry>Trois cartes de même rang et deux d'un autre</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Brelan</entry>
+          <entry>Contient trois cartes de même rang</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Couleur</entry>
+          <entry>Les cinq cartes sont de la même couleur</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Deux paires</entry>
+          <entry>Contient deux paires de cartes de même rang</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Une paire</entry>
+          <entry>Contient deux cartes de même rang</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Score maximum possible : 276</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Rappelez-vous que vous ne verrez qu'à peu près la moitié du paquet et prévoyez en fonction de cela. Il n'est pas recommandé d'essayer de bluffer l'ordinateur.</para>
+        </sect2>
+</sect1>

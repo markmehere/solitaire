@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hamilton">  <!--<sect1info>
+    <copyright>
+      <year>2014</year>
+      <holder>Timothy Goodwin</holder>
+    </copyright>
+    <author>
+      <firstname>Timothy</firstname>
+      <surname>Goodwin</surname></author>
+    <address><email>toby@flare.email</email></address>
+  </sect1info>-->
+
+  <title>Hamilton</title>
+
+  <para>Skrivet av Timothy Goodwin</para>
+
+  <sect2><title>Inställningar</title>
+
+    <informaltable>
+      <tgroup cols="2">
+        <tbody>
+          <row>
+            <entry>Typ av kortlek</entry>
+            <entry>Vanlig kortlek</entry>
+          </row>
+          <row>
+            <entry>Hög</entry>
+            <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. De tre första korten vänds ett i taget till valhögen. Att klicka på högen efter att ett startkort har valts delar ut ett kort med framsidan upp på varje bordshög.</entry>
+          </row>
+          <row>
+            <entry>Valhög</entry>
+            <entry>Överst till vänster bredvid högen. Att klicka på högen medan startkortet väljs gör att det översta kortet delas med framsidan upp på valhögen. Kortet i valhögen kan antingen flyttas till en grundhög eller vändas tillbaka med framsidan ner underst i högen om högen åter klickas på, och nästa kort vänds upp till valhögen.</entry>
+          </row>
+          <row>
+            <entry>Grundhög</entry>
+            <entry>Fyra högar överst till höger. Att byggas i färg från startkortet till kung, sedan ess till valören under startkortet.</entry>
+          </row>
+          <row>
+            <entry>Bordshög</entry>
+            <entry>Sju högar. Dela ett kort med framsidan upp på varje hög. Starta den andra raden på den andra högen av bordshögarna, lägg ett kort med framsidan upp på varje hög utom den första. Upprepa tills det sedan finns sju kort i den sista högen. Bordshögarna kan byggas ned i matchande kulör. Sviter av kort i fallande ordning och i färg kan flyttas. Tomma platser kan fyllas med valfritt kort eller en svit av kort i fallande ordning i färg.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+
+  </sect2>
+
+  <sect2><title>Mål</title>
+    <para>Flytta alla korten till grundhögarna.</para>
+  </sect2>
+
+  <sect2><title>Regler</title>
+    <para>För att starta spelet vänds ett kort från högen till valhögen. Detta kort kan flyttas till en grundhög och är då startkortet för detta spel. I annat fall läggs kortet tillbaka i valhögen med framsidan ner i botten av högen, och nästa kort vänds upp från högen till valhögen. Om inget av de tre första korten väljs, är det spelet slut. Att dubbelklicka på valhögen kommer att flytta kortet till en grundhög.</para>
+    <para>Kort i bordshögarna byggs neråt i kulör. En kung kan placeras på ett ess (om startkortet inte är ett ess). Sviter av kort som är i färg kan flyttas. En tom plats i bordshögarna kan fyllas med valfritt kort, eller med en svit av kort som är i ordning och i samma färg.</para>
+    <para>Grundhögarna byggs upp i färg från startkortet till kung, sedan ess, två, och så vidare till valören under startkortet. Till exempel, om startkortet är sju, byggs grundhögarna upp från sju till kung, ess till sex. Kort i grundhögarna är fortfarande i spel.</para>
+    <para>En svit av kort som är i nummerföljd och alla i samma färg kan flyttas till en grundhög i ett enda drag. Att dubbelklicka på en bordshög kommer att flytta de flyttbara korten från den högen till grundhögarna.</para>
+  </sect2>
+
+  <sect2><title>Poängsättning</title>
+    <para>Varje borttaget kort ger 1 poäng.</para>
+    <para>Högsta möjliga poäng: 52</para>
+  </sect2>
+
+  <sect2><title>Strategi</title>
+    <para>Välj vist. Om du inte kan flytta samtliga öppna kort med utgång från startkortet till grundhögarna, kommer du troligtvis inte vinna. En tom plats i bordshögarna är ovärderlig.</para>
+  </sect2>
+
+  <sect2><title>Tillägnan</title>
+    <para>Detta spel är tillägnat till, och uppkallat efter min far: Geoffrey Hamilton Goodwin (född 1937). Han har lärt mig många patienser; båda anser vi att Hamilton är det mest intressanta spelet för bara en kortlek.</para>
+  </sect2>
+
+  <sect2><title>Referenser</title>
+    <para>Detta spel finns under namnet <emphasis>Agnes</emphasis> i boken <emphasis>Games of Patience</emphasis> av <emphasis>Basil Dalton</emphasis>, London 1924.</para>
+  </sect2>
+</sect1>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Bludiště</title>
+
+  <para>Napsal Matthew Wilcox</para>
+
+          <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>48 karet: standardní sada bez králů</entry>
+	</row>
+
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Padesátčtyři míst v šesti řádcích, po devíti v každém. Karty se rozdají na místa od jedné do osmi. Deváté místo se ponechá prázdné. Rozdá se na místa deset až sedmnáct. Osmnácté se ponechá prázdné. Rozdá se zbytek karet na ostatní místa. Pak se odeberou všichni králové (se kterými se v této hře dále nehraje), takže celkem bude šest volných míst. Libovolnou kartu lze přesunout na místo vlevo od karty, která má stejnou barvu a hodnotu o jedno vyšší. Obdobně lze přesunout kartu na místo vpravo od karty, která má stejnou barvu a hodnotu o jedna nižší. Eso lze přesunou napravo od dámy nebo na levé horní místo. Dámu lze přesunout nalevo od esa nebo na místo vpravo dole.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Poskládat každou barvu karet do postupky, přičemž v levém horním rohu bude eso, takže sled karet bude: eso až dáma v jedné barvě, eso až dáma v další barvě, eso až dáma ve třetí barvě a eso až dáma ve čtvrté barvě.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty se přesouvají po jedné. Kteroukoliv kartu můžete přesunout na místo vlevo od karty s hodnotou o jedno vyšší a ve stejné barvě. Kteroukoliv kartu můžete přesunout na místo vpravo od karty s hodnotou o jedno nižší a ve stejné barvě. Eso můžete přesunout napravo od libovolné dámy nebo do levého horního místa. Dámu můžete přesunout nalevo od libovolného esa nebo do pravého dolního rohu.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu umístěnou vedle jiné karty se stejnou barvou ve správném pořadí dostáváte 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Více sousedících míst umožňuje vytvořit dlouhou řadu karet. Dejte si pozor na uvíznutí v situaci, kdy můžete přesouvat jednu kartu donekonečna mezi dvěma body.</para>
+        </sect2>
+</sect1>

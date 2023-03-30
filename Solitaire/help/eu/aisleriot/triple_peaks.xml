@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Triple Peaks</title>
+
+	<para>Richard Hoelscher-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Jokoa hondar-pilan egiten da. Behera begira dauden kartak ez dute uneko puntuazioan parte hartzen.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Banatu hemezortzi karta behera begira, hiru errenkadako hiru hiruki osatuz (lehen errenkadan karta bat, eta hirugarrenean hiru jarrita). Lotu hirukiak beheko errenkadan hamar karta gora begira jarriz. Errenkada bakoitzeko azken kartek gaineko errenkadako azken karten gainean egon behar dute, eta errenkadako beste kartek gaineko errenkadako bi kartaren gainean.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Mahaiko karta guztiak kentzea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaian agerian dauden kartak jokoan erabil daitezke. Osatu hondarreko goiko karta maila bat gehiago edo gutxiago duten mahaiko kartekin, irudia kontuan hartu gabe. Batekoak erregeen gainean eta bikoen azpian jar daitezke.</para>
+	<para>Mahaiko kartak erabilgarri daude gainean beste kartarik ez dutenean.</para>
+	<para>Kartak banaka iraul daitezke pilatik hondarrera.</para>
+
+	        </sect2>
+        <sect2><title>Aukerak</title>
+
+	<para>Puntuazio-biderkatzailea: segidan jokatutako karta bakoitzaren puntuak aurrekoaren bikoitza dira. Segidan jarritako bost kartek 1, 2, 4, 16 eta 32 puntu ematen dituzte, alegia, 55 puntu. Gainordainek 25 puntu balio dituzte. Ez da punturik kentzen sortatik hondarrera kartak eramateagatik.</para>
+	<para>Eskualdi progresiboak: Karta guztiak mahaitik kendu ondoren, eskualdi berri bati ekiten zaio. Aurreko eskualdiaren puntuazioari gehitzen zaio eskualdi berrikoa.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Sortatik hondarrera iraulitako azken kartaz geroztik jokatutako karten kopuruaren berdina da jokatutako karta bakoitzaren puntuazioa. Jokaldia zenbat eta luzeagoa, orduan eta puntu gehiago lortuko dituzu.</para>
+	<para>Bost puntu kentzen dira sortatik hondarrera karta bat iraultzen den bakoitzean. Hirukien tontor bat kentzen den bakoitzean hamabost puntu irabazten dira, eta beste hamabost mahaiko karta guztiak kentzean.</para>
+	<para>Eskualdi bakoitzaren gehienezko puntu kopurua: 466</para>
+        </sect2>
+</sect1>

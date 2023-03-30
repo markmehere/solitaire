@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Virrvarr</title>
+
+  <para>Skrivet av Matthew Wilcox</para>
+
+          <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>48 kort: Standardkortlek utan kungarna</entry>
+	</row>
+
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Femtiofyra platser i sex rader med nio platser vardera. Lägg kort på platserna ett till åtta. Lämna plats nio tom. Lägg ut kort på platserna tio till sjutton. Lämna plats arton tom. Dela ut de återstående korten på samma sätt. Ta sedan bort alla kungar (som inte har någon ytterligare funktion i spelet), så att det är sex tomma platser totalt. Ett kort kan flyttas till en plats till vänster om ett annat kort i samma färg om valören är en högre. Ett kort kan flyttas till en plats till höger om ett annat kort i samma färg om valören är en lägre. Ett ess kan flyttas till höger om en dam eller till den övre vänstra platsen. En dam kan flyttas till vänster om ett ess eller till den nedre högra platsen.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Placera korten i färg i stigande ordning, med ett ess i det övre vänstra hörnet, för att skapa en sekvens av kort: ess till dam av den första färgen, ess till dam av den andra, ess till dam av den tredje, ess till dam av den fjärde.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort flyttas var för sig. Ett kort kan flyttas till en plats till vänster om ett annat kort om valören är en högre och i samma färg. Ett kort kan flyttas till en plats till höger om ett annat kort om valören är en lägre och i samma färg. Ett ess kan flyttas till höger om en dam eller till den övre vänstra platsen. En dam kan flyttas till vänster om ett ess eller till den nedre högra platsen.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som placeras bredvid ett annat kort i samma färg i rätt ordning ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Flera angränsande platser gör att du kan skapa långa sviter av kort. Akta dig för att fastna i en situation där du flyttar ett kort ändlöst mellan två punkter.</para>
+        </sect2>
+</sect1>

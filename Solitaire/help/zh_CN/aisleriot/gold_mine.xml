@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gold_Mine"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>金矿</title>
+
+  <sect2><title>牌局</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌，每次往废牌区发三张牌，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角有四个空位，按照从 A 到 K 的递增顺序收牌，最上面的牌还可以拿回到桌面上参与游戏。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>
+	    Seven piles, all empty to start.  
+        Gold Mine is a variation of <ulink type="help" url="ghelp:aisleriot#Klondike">Klondike</ulink>.  
+	    Tableau can be built down in alternating colors.  Groups of
+	    cards can be moved.  Empty piles can be filled with any card. 
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  </sect2>
+
+  <sect2><title>目标</title>
+  <para>把所有的牌移到收牌区。</para>
+  </sect2>
+
+  <sect2><title>规则</title>
+  <para>桌面上的牌按不同花色交替递减排列，可以移动排列好的一组牌，空位可以放任何牌。</para>
+  <para>每次发牌区往废牌区发三张牌，废牌区最上面的牌可以用在游戏中，当发牌区为空时，游戏结束，只有一次正确的机会构筑金矿。</para>
+  <para>收牌区按从 A 到 K 的顺序收牌，在收牌区里的牌仍然可以参与游戏。双击桌面上的一张牌可以把它移到收牌区，如果这张牌可以收取的话。</para>
+  </sect2>
+
+  <sect2><title>得分</title>
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+  </sect2>
+
+  <sect2><title>策略</title>
+  <para>填充收牌区空位要特别小心，用技巧比花时间更容易羸，如果您开始没弄好，可以重新开始再试一次。</para>
+  </sect2>
+</sect1>

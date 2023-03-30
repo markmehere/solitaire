@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Cubrir</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón de la parte superior izquierda. Aquí se colocan todas las cartas restantes después de dar.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+    <entry>Cuatro montones. Se da una carta en cada hueco al comienzo del juego. Los huecos vacíos se rellenan automáticamente desde el montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Vacíe el Montón.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Cualquier pareja de cartas en el tablero se puede eliminar si pertenecen al mismo palo. Los huecos se rellenan inmediatamente con cartas del montón. El juego se termina cuando queda una carta de cada palo en el tablero.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada par de cartas que se elimina del juego puntúa dos tantos.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Un juego corto en el que no hay que reflexionar mucho, el mejor modo de jugar a Cubrir es con reflejos rápidos y pensamientos mínimos.</para>
+        </sect2>
+</sect1>

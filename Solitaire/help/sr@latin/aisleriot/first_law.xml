@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Prvi zakon</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Na početku se sve karte stavljaju ovde. Kada se isprazni, karte sa talona se vraćaju na gomilu.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Četiri gomile desno. Svako deljenje sa gomile postavlja po jednu kartu na svaku gomilu u talonu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Klikom na gomilu će biti podeljena po jedna karta na svaku gomilu u talonu. Ako bilo koje karate na talonu imaju istu vrednosti, možete pomeriti ostale na kartu koja je najviše levo od takvih karata. Prazna mesta se mogu popuniti samo deljenjima sa gomile.</para>
+  <para>Ako se u nekom trenutku nađu četiri karte sa istim vrednostima, one se uklanjaju.</para>
+  <para>Kada je gomila prazna, gomile sa talona se skupljaju, desna gomila na levu, i stavljaju nazad na glavnu gomilu. Prva podeljena karta će uvek biti prva podeljena karta u i narednim deljenjima, dok god se ne ukloni. Ima neograničeno deljenja.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki uklonjeni skup od četiri karte donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 13</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Ne zaboravite da kočite! Ova igra može da se ne završi nikada ako pažljivo ne odaberete da li, ili ne, da napravite potez.</para>
+        </sect2>
+</sect1>

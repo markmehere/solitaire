@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>白日梦</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，点击时，向桌面上其他每一垛牌发一张牌，最后一次发牌只发前三垛。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的四垛牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>下边的七垛牌，每垛牌两张扣着的一张翻开。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>创建四个每垛13张按花色递减顺序排列的牌垛。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按递减顺序排列，不考虑花色，排列好的牌可以一起移动，空垛可以放任何牌或一组牌。</para>
+  <para>发牌时桌面上每一垛都要有牌，除了最后一次发牌之外，点击发牌区后给每一垛放一张牌。</para>
+  <para>按花色排列好的十三张牌可以移到收牌区，放进去后不能再参与到游戏中。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>按顺序排好一张得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>尽可能在桌面上保留一个空位，用于移动牌时的交换空间。</para>
+        </sect2>
+</sect1>

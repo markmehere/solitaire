@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thirteen"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Тринадцать</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. Сюда помещаются карты, оставшиеся после раздачи на игровое поле. На сброс карты сдаются по одной за раз. Пересдач нет.</entry>
+	</row>
+	<row>
+	  <entry>Сброс</entry>
+	  <entry>Берётся из колоды. Верхнюю карту можно перемещать.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Карты раскладываются рубашками вверх по семи рядам с перехлёстом в виде пирамиды. В первый ряд кладётся одна карта, во второй две и так далее до семи. Карты нижнего ряда переворачиваются лицом вверх.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Все доступные карты пирамиды можно перемещать. Короли убираются по одному, остальные карты убираются парами, дающими в сумме тринадцать, при этом тузы оцениваются в 1, валеты в 11, дамы в 12.</para>
+  <para>Карты сдаются из колоды на сброс по одной. Верхнюю карту сброса можно убрать в паре с картой под ней или любой картой пирамиды. Пересдач нет.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную карту даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Каждой пирамиде нужен хороший фундамент. Избавляйтесь от нижних карт первыми, после чего внимательно старайтесь достать как можно больше карт.</para>
+        </sect2>
+</sect1>

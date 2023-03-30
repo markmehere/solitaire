@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Isabel</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Tretze piles. Es reparteixen tres cartes cara avall i una carta de cara amunt a cada pila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Suprimiu les parelles de cartes del mateix rang. Cada cop que una carta és suprimida, la carta de sota es gira cara amunt i es pot jugar. Els llocs buits no s'omplen.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parella de cartes suprimida puntua dos punts.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Cada pila comença amb quatre cartes. El truc és recordar quantes cartes queden a cada lloc en un moment determinat de manera que intenteu suprimir les cartes de forma equitativa.</para>
+        </sect2>
+</sect1>

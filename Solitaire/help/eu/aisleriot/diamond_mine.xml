@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Diamanteen meategia</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Pila bat goian. Diamanteen arabera segidan osatu, nahi den diamante-kartatik abiatuta.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Hamahiru pila. Pila bakoitzean jarri bi karta behera begira eta beste bat gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Diamante guztiak oinarrira eramatea eta gainerako karta guztiak mahaian, irudiaren arabera eta segidan jartzea, batekotik hasita.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Kartak (diamanteak ez beste guztiak) beherantz osa daitezke segidan, irudia kontuan hartu gabe. Karta multzoak mugi daitezke. Edozein karta edo karta multzo jar daiteke toki hutsetan (diamanteak izan ezik).</para>
+  <para>Diamanteak oinarrian kokatzeko soilik mugi daitezke. Diamanteen oinarria gorantz osatu behar da, segidan, baina nahi den zenbakitik hasita.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarrian ipinitako diamante bakoitzaren zenbakiak adierazten du zenbat puntu irabazi diren; batekoak bat balio du, txankak hamaika, erreginak hamabi eta erregeak hamahiru.</para>
+  <para>Mahai gainean batekotik erregera irudiaren arabera osatutako segida bakoitzak hiru puntu balio ditu.</para>
+  <para>Puntuaziorik altuena: 100</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Meategiko lana gogorra da. Kontuan izan diamante guztiek ez dutela berdin balio. Ez ahaztu dena garbi uztea eta beste irudiak ordenan jartzea.</para>
+        </sect2>
+</sect1>

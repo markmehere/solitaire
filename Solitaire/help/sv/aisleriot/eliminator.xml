@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Utslagning</title>
+
+	<para>Skrivet av Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Inställningar</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Typ av kortlek</entry>
+						<entry>Vanlig kortlek</entry>
+					</row>
+					<row>
+						<entry>Bordshög</entry>
+						<entry>Fyra högar. Dela 13 kort till varje. (Detta är alla kort.)</entry>
+					</row>
+					<row>
+						<entry>Grundhög</entry>
+						<entry>Fyra till sex tomma platser som du bygger i endera riktningen.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Mål</title>
+		<para>Flytta alla korten till grundhögarna.</para>
+	</sect2>
+
+	<sect2>
+		<title>Regler</title>
+		<para>Samtliga kort kan placeras som det första kortet i grundhögen. Grundhögarna kan byggas upp eller ner från det översta kortets valör utan hänsyn till färg. Kungar kan placeras på ess och tvärtom.</para>
+	</sect2>
+
+	<sect2>
+		<title>Poängsättning</title>
+		<para>Varje kort som flyttas från bordshögarna till grundhögarna ger en poäng.</para>
+		<para>Högsta möjliga poäng: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Strategi</title>
+		<para>Var noga med att se alla nästkommande kort och säkerställ att du inte kommer att låsa något kort som behövs för att kunna flytta det som är högst upp.</para>
+	</sect2>
+</sect1>

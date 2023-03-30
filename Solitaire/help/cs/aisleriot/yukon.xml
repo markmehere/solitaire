@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Yukon</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky vlevo. Musíte je seřadit do postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Sedm hromádek. Na první hromádku se rozdá karta lícem nahoru. Na všechny ostatní hromádky po jedné kartě lícem dolů. Na další hromádku se rozdá jedna karta lícem nahoru a na všechny ostatní jedna lícem dolů. Tento krok se opakuje, dokud na poslední hromádce není sedm karet. Zbytek karet se postupně rozdá lícem nahoru na druhou až sedmou hromádku. Karty můžete skládat do sestupných postupek v opačné barevnosti.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v opačné barevnosti. Skupiny karet lze přesouvat bez ohledu na postupku. Karty otočené lícem dolů se obrátí, až se k nim dohrabete. Prázdné pozice v rozdaných můžete zaplnit králem nebo skupinou karet s králem vespod.</para>
+	<para>Hromádky v seřazených musíte poskládat do postupek v barvě, od esa po krále. Karty v seřazených jsou již mimo hru.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Snažte se odkrýt co nejvíce karet, co nejdříve to půjde. Značně vám to pomůže ve snaze dobýt Yukon.</para>
+        </sect2>
+</sect1>

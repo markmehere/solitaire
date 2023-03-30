@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Олд Лэнг Сайн</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. В начале игры сюда помещаются все карты, кроме тузов. Щелчок по колоде сдаёт по одной карте на каждую из резервных стопок.</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки наверху, справа от колоды. В начале игры на каждое основание кладётся по тузу. В стопках основания карты собираются в восходящем порядке без учёта масти.</entry>
+	</row>
+	<row>
+	  <entry>Резерв</entry>
+	  <entry>Четыре стопки под основаниями. На каждую резервную стопку при щелчке по колоде помещается по одной карте. Верхние карты можно перекладывать. Карты из резерва могут быть перемещены только на основания.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переместить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Игра начинается со сдачи четырёх карт на резервные стопки. Карты по возможности перемещаются из резерва на основания. Этот процесс продолжается до тех пор, пока в колоде не останется карт и на основание нельзя будет переместить ни одной карты.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную карту даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Вы верите в удачу? Хотя в этом пасьянсе умение важнее, чем в Часах, нужно только лишь быть внимательным. Отличный пасьянс для бездумной игры.</para>
+        </sect2>
+</sect1>

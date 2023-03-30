@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kamelot</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Na začátku hry se všechny karty nachází na hromádce volných. Po jedné se lížou na hromádku otočených, až je hromádka volných prázdná.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Líže se z volných. Může obsahovat jen jednu kartu, kterou je třeba ihned zahrát do rozdaných.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Mřížka čtyři krát čtyř, na každé pozici může být jen jedna karta. Krále lze umístit jen do rohů. Dámy lze umístit jen do dvou mezer v prvním a posledním řádku. Kluky lze umístit jen do dvou mezer v prvním a posledním sloupci.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Odstraňte všechny karty vyjma obrázkových (kluci, dámy, králové). Když vyhrajete, bude stůl s kartami vypadat nějak takto</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Výherní rozložení karet.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>a hromádky s volnými a otočenými budou prázdné. Na barvách nezáleží.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Tato hra má dvě fáze. Ty se střídají, dokud není hra prohraná nebo vyhraná. Začíná se fází jedna, dokud nejsou zaplněné hromádky rozdaných. V ten okamžik se přechází do fáze dvě. Všimněte si prosím, že fázi dvě nemůžete začít, dokud nejsou hromádky rozdaných všechny plné. Do fáze jedna se můžete vrátit kdykoliv, ale pamatujte, že se nemůžete vrátit zpět do fáze dvě, dokud rozdané opět nezaplníte. Jedinou výjimkou z tohoto pravidla je situace, kdy jsou hromádky volných i otočených prázdné.</para>
+	<para>První fáze – Klikněte na volné, aby se přesunula karta na otočené. Podle druhu karty:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Král: Umístěte jej do jednoho volného ze čtyř rohů.</para>
+		</listitem>
+		<listitem>
+			<para>Dáma: Umístěte ji do jednoho volného místa ze dvou prostředních mezer nahoře nebo dole.</para>
+		</listitem>
+		<listitem>
+			<para>Kluk: Umístěte ji do jednoho volného místa ze dvou prostředních mezer v levém nebo v pravém sloupci.</para>
+		</listitem>
+		<listitem>
+			<para>Libovolná jiná karta: Umístěte ji na prázdné místo.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Druhá fáze – Odstraňte desítky, stačí na ně kliknout. Odstraňte páry, které v součtu dají 10, přesunutím jedné karty na druhou.</para>
+	<para>Hra je prohraná, když není možné položit obrázkovou kartu na správné místo nebo když jsou všechny pozice obsazené a není možné žádnou kartu odstranit.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá odebraná karta je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 40</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Nejbezpečněji je vždy uprostřed. V první fázi hry rozdávejte karty nejprve do středu, než se pustíte do okrajů. Když uvidíte možný pár, umístěte kartu na okraj, abyste během fáze dvě mohli vyčistit co nejvíce míst na okraji.</para>
+        </sect2>
+</sect1>

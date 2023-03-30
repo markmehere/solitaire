@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pekařova dvanáctka</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky nahoře. Je potřeba sestavit postupky v barvě, od esa po krále. Vrchní karta na každé hromádce se může vrátit do hry na hromádku v rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    <entry>Třináct hromádek. Na každou hromádku se rozdají čtyři karty lícem nahoru. Pokud je v hromádce král, přesune se vždy dospodu své hromádky.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Vrchní kartu z kterékoliv hromádky v rozdaných je možné přesunout na jinou hromádku v rozdaných, pokud má hodnotu o jedna nižší, než vrchní karta na druhé hromádce. Barva není podstatná. Hromádky, které se vyprázdní, nelze znovu založit.</para>
+  <para>Hromádky v seřazených se skládají do vzestupné postupky v barvě, od esa po krále. Dvojitým kliknutím na kartu v rozdaných se dotyčná karta přesune na správnou hromádku v seřazených, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta přesunutá do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Dávejte pozor, abyste si nezaskládali nízké karty. Hromádky v rozdaných se snažte co nejdéle nevyprázdnit.</para>
+        </sect2>
+</sect1>

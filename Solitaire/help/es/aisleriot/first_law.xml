@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Primera ley</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Todas las cartas se colocan aquí al principio. Cuando se vacía, las cartas se traen de vuelta desde el tablero y se reconstruye el montón.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Cuatro montones en la parte derecha. Cada reparto del montón dará una carta a cada montón del tablero.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Al pulsar sobre el montón se dará una carta a cada montón del tablero. Si alguna de las cartas mostradas en el tablero es del mismo rango, muévalas a las cartas similares de más a la izquierda. Los montones vacíos solo se pueden rellenar con el consiguiente reparto del montón.</para>
+  <para>Si en algún momento todas las cuatro cartas del mismo rango se muestran, entonces serán eliminadas.</para>
+  <para>Cuando el montón se vacíe, los montones del tablero se recogen, cada montón derecho a la izquierda y colocado de vuelta en el montón. La primera carta dada siempre será la primera carta dada hasta que ésta sea eliminada. Hay repartos ilimitados.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada conjunto de cuatro cartas puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 13</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>¡No olvide usar los frenos! Este juego puede que no termine nunca a menos que decida si hacer o no un movimiento con cuidado.</para>
+        </sect2>
+</sect1>

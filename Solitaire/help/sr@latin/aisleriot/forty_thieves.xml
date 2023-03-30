@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Četrdeset lopova</title>
+
+  <para>Napisao Ed Sirett</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Dupli špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon. Karte se dele, jedna po jedna na otpad, a karta na vrhu otpada je u igri.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Osam gomila gore desno. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    <entry>Deset gomila. Da biste započeli igru, deli se četiri reda otvorenih karata. Talon se slaže po znaku i naniže po vrednosti. Karte se pomeraju jedna po jedna. Prazna mesta se mogu popunjavati bilo kojom kartom.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu po znaku i naniže po vrednosti. Karte se mogu pomerati samo jedna po jedna. Prazno mesto na talonu se može popuniti bilo kojom kartom. Kao prečicu, možete pomerati i više od jedne karte, ako ima dovoljno slobodnog mesta. Karte se mogu pomerati u grupama na gomile u „temelju“.</para>
+  <para>Karte se okreću jedna po jedna sa gomile na otpad, pri čemu je karta na vrhu otpada u igri. Nema ponovnih deljenja.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Duplim klikom na „temelj“ automatski ćete odigrati kartu. Dupli klik na kartu u talonu ili otpadu je pomera na odgovarajući „temelj“ ako je takav potez moguć, ili na talon ako je to moguće.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta stavljena na „temelj“ donosi 5 poena. Kada se ceo „temelj“ složi (od asa do kralja), dobija se još 60 poena.</para>
+  <para>Najveći mogući broj poena: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Uzdržavajte se od stavljanja karata na talon da biste što pre dobili prazno mesto. Onda balansirajte između potreba da održite prazna mesta i da spasavate male karte od zakopavanja na otpadu.</para>
+        </sect2>
+</sect1>

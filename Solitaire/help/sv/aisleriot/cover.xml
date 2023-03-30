@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Täck</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla återstående kort placeras här efter given.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    <entry>Fyra högar. Ett kort delas ut i varje hög i spelets början. Tomma kortplatser fylls omedelbart från högen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Tömma högen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Två kort i bordshögarna som har samma färg kan tas bort. Tomma högar fylls omedelbart med kort från Högen. Spelet är över när varje färg är representerad med ett kort i grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje par som tas bort från spelet ger två poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ett kort snabbt spel med inte mycket tankeverksamhet inblandat, Täck spelas bäst med minimal tanke och snabba reflexer.</para>
+        </sect2>
+</sect1>

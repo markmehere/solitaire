@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenwood</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero y la reserva. Las cartas se sacan de una en una a la basura. Sólo hay un reparto.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. El primer montón de la fundación comienza con una carta que elija el jugador de la reserva. Se construyen ascendentemente, saltando del rey al as cuando sea necesario.</entry>
+	</row>
+	<row>
+	  <entry>Reservas</entry>
+	  <entry>Cuatro montones de tres cartas en la parte izquierda repartidas boca arriba. La carta de la cima de cada reserva está disponible para el juego. No se pueden poner las cartas en los huecos vacíos de la reserva.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Cuatro montones bajo la fundación. Se da una carta boca arriba en cada montón. En el tablero se construye descendentemente alternando el color. La carta de la cima se puede jugar con la fundación. Se pueden jugar los montones enteros con otro montón del tablero.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>El primero paso del juego es seleccionar una carta disponible para el primer montón de la fundación. Una vez seleccionada, todas los montones de la fundación deben comenzar con cartas de ese valor.</para>
+  <para>Los montones de la fundación se construyen ascendentemente por palo, saltando del rey al as si es necesario. Una vez que una carta se coloque en un montón de la fundación, queda fuera del juego.</para>
+  <para>Las cartas en el tablero se construyen descendentemente alternando el color. Se pueden mover montones enteros de cartas a otros montones del tablero. Los huecos vacíos de tablero se pueden rellenar con cualquier carta disponible en las reservas o, si todas las reservas están vacías, de la basura.</para>
+  <para>Las cartas se sacan de una en una del montón a la basura, Hay un reparto.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Tenga cuidado cuando seleccione la carta del primer montón de la fundación. Intente sacar las cartas fuera de la reserva lo antes posible. Algunas veces guardar cartas en juego es más importante que moverlas a la fundación.</para>
+        </sect2>
+</sect1>

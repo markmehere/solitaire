@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Tía María</title>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de haber repartido las cartas en el tablero. Las cartas se sacan de una a una a la basura. Sólo hay dos repartos tras el inicial.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Objetivos</entry>
+	  <entry>Cuatro montones en la parte superior derecha. Para ser construido en orden ascendente con el mismo palo desde el as hasta el rey. La carta de la cima en cada montón objetivo se considera dentro del juego.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Seis montones, se coloca una carta boca arriba en el primer montón. Se coloca una carta boca abajo en el resto de los montones. Se coloca una carta boca arriba en las primeras dos montones y una carta boca abajo en el resto de los montones. Se colocan tres cartas boca arriba y el resto boca abajo. Se repite el proceso hasta que haya seis montones con seis cartas cada uno. El tablero se puede construir hacia abajo alternando los colores. Es posible mover grupos de cartas. Los montones vacíos solo se pueden rellenar con reyes o grupos de cartas que comiencen por un rey.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se construyen hacia abajo alternando el color. Se pueden mover grupos de cartas. Un montón vacío en el tablero se puede rellenar con un rey o un grupo de cartas con un rey en el fondo.</para>
+  <para>Las cartas se llevan del montón a la basura de una en una. La carta de la cima de la basura se considera en juego. Cuando el montón se vacía, se mueven todas las cartas desde la basura hasta el éste, manteniendo el orden. Hay tres repartos disponibles.</para>
+  <para>Los montones objetivos se construyen ascendentemente desde el as hasta el rey. Las cartas colocadas en el objetivo se mantienen en juego. Pulsar dos veces en una carta la moverá al montón objetivo correspondiente, si tal movimiento es posible.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Tía María es un juego extremadamente difícil y rara vez solucionable. El reto real no es terminar sino ver cómo de lejos se puede llegar.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

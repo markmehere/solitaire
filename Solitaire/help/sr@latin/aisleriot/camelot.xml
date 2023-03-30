@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kamelot</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Sve karte se stavljaju na gomilu pre početka igre. Karte se okreću jedna po jedna na otpad. Nema ponovnih deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Možete držati samo jednu kartu koju odmah morate odigrati na talon.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Mreža veličine četiri sa četiri, svako od mesta može da drži jednu kartu. Kraljevi se mogu stavljati samo u uglove. Dame se mogu stavljati samo u središnja dva mesta prvog i poslednjeg reda. Žandari se mogu stavljati samo u središnja dva mesta prvog i poslednjeg stupca.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Ukloniti sve karte osim karata u boji (žandari, dame i kraljevi). Pobedili ste ako talon izgleda ovako —</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Pobednički talon.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>— a na gomili i na otpadu nema nijedne karte. Znakovi se ne gledaju.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Igra ima dve faze. Menjajte ove dve faze dok ne pobedite ili ne izgubite. Počnite sa fazom jedan dok se talon skroz ne popuni. Onda ide faza dva. Primetite da ne možete početi fazu dva ukoliko talon nije skroz popunjen. U svakom trenutku se možete vratiti na fazu jedan, ali zapamtite da ne možete preći na fazu dva dok talon ponovo nije popunjen. Izuzetak od ovog pravila je da su gomila i otpad prazni.</para>
+	<para>Faza jedan — Kliknite na gomilu da pomerite kartu na prazno mesto na otpadu. Ako je karta:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Kralj: postavite ga u jedan od uglova.</para>
+		</listitem>
+		<listitem>
+			<para>Dama: postavite je u jedno od dva prazna središnja mesta prvog ili poslednjeg reda.</para>
+		</listitem>
+		<listitem>
+			<para>Žandar: postavite ga u jedno od dva prazna središnja mesta prvog ili poslednjeg stupca.</para>
+		</listitem>
+		<listitem>
+			<para>Ostale karte: postavite ih na prazno mesto.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Faza dva — Uklonite desetke klikajući na njih. Uklonite parove koji u zbiru daju 10 prevlačeći jednu kartu preko njenog para.</para>
+	<para>Igra je izgubljena ako se karte u boji ne mogu postaviti na odgovarajuća mesta ili ako su sva mesta popunjena, a nijedna karta se ne može ukloniti.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka uklonjena karta donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 40</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Uvek je najsigurnije u sredini. Za vreme prve faze, delite u sredinu pre nego što krenete na krajeve. Ako vidite par, stavite tu kartu na kraj da biste oslobodili više mesta sa krajeva za vreme druge faze.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Soused</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Líže se do rozdaných podle pravidel popsaných níže.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Mřížka pět krát pět, přičemž na každé pozici může být jen jedna karta. Na začátku hry se rozdá na jednotlivá místa po jedné kartě. Prázdná místa se automaticky zaplňují tak, že se posunou zbývající karty zprava doleva, počínaje kartou nejvíce vlevo nahoře, a následně se na prázdná místa lízne z volných.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Odebrat všechny karty.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Kliknutím se odebírají králové. Ostatní karty se odebírají v párech, kdy součet páru musí být třináct a obě karty se musí navzájem dotýkat vodorovně nebo svisle nebo úhlopříčně.</para>
+
+	        </sect2>
+        <sect2><title>Volby</title>
+
+	<para>Žádná</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá odebraná karta je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Nejdříve odebírejte karty umístěné v rozdaných výše, protože to způsobí více přesunů v mřížce.</para>
+        </sect2>
+</sect1>

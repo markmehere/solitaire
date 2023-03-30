@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bristol</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. No es torna a donar.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Tres piles a la dreta de la pila principal. Es reparteix una carta a cada pila de la reserva cada cop que es fa clic a la pila principal.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Les bases es construeixen pujant en seqüència independentment del pal.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Reparteix cara amunt vuit piles de tres cartes cada una.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant independentment del pal. Les cartes només es poden moure d'una en una. Una pila buida del tauler no es pot omplir.</para>
+  <para>Les cartes es giren des de la pila principal a les tres piles de la reserva, una carta per repartició. La carta superior de cada pila de la reserva està en joc. Les piles buides de la reserva no es poden omplir excepte amb la següent repartició des de la pila principal.</para>
+  <para>Les piles base es construeixen pujant independentment del pal des de l'as al rei. Les cartes a les bases no es poden jugar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Mai mireu enrere. Les cartes que es bloquegen en ordre invers són per a jugar-les quan sigui possible. Moveu tantes cartes com pugueu des de la reserva al tauler, els reis són difícils de moure.</para>
+        </sect2>
+</sect1>

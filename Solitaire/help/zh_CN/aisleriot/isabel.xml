@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>依莎贝尔</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>十三垛牌，每垛牌中三张朝下、一张翻开。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>消去所有相同点数的牌，移除后下面的牌翻过来，就可以移动了，空位不能填充。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每消去一对牌得两分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>开始每垛有四张牌，技巧在于记住每个位置还剩下多少张牌，这样您就可以均衡地移除它们。</para>
+        </sect2>
+</sect1>

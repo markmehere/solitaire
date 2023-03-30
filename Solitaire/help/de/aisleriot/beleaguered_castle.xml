@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Belagerte Burg</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Stapel in der mittleren Spalte. Vier Asse werden dort vor dem Mischen platziert, eins in jeden Stapel. Aufbau erfolgt von Ass nach König. Die oberste Karte jedes Fundamentstapels darf zurück auf den Spieltisch gespielt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Acht Ablagen (vier links und vier rechts des Fundamentstapels). Alle Karten werden sichtbar ausgegeben und auf diese acht Stapel verteilt, so dass auf jedem Stapel sechs sichtbare Karten liegen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten auf dem Spieltisch werden absteigend ungeachtet der Farbe aufgebaut. Karten können nur einzeln verschoben werden. Leere Plätze können mit jeder beliebigen Einzelkarte belegt werden.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe aufgebaut.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte im Fundamentstapel mit Ausnahme der originalen Asse zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Bauen Sie die Fundamentstapel nach Möglichkeit gleichmäßig auf. Versuchen Sie, eine leere Ablage zu bekommen.</para>
+        </sect2>
+</sect1>

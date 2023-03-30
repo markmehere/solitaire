@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Eskalátor</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádku se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Rozdá se lícem nahoru sedm navzájem se překrývajících řádků. V prvním řádku je jedna karta, v každém dalším je o jednu víc a jsou odstupňované, aby vytvořili pyramidu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do otočených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Všechny uvolněné karty v pyramidě jsou k dispozici do hry. Z těchto dostupných karet se skládá v otočených kdykoliv je to možné a to tak, že hraná karta musí mít hodnotu právě o jedno vyšší nebo nižší než karta navrchu otočených. Esa jsou zároveň nad králi a pod dvojkami.</para>
+  <para>Karty se lížou z volných do otočených po jedné. Můžete je projít jen jednou.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu odebranou z rozdaných dostáváte 1 bod.</para>
+  <para>Maximální možný počet bodů: 28</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Zkuste plánovat dopředu, abyste mohli pokračovat v budoucnu.</para>
+        </sect2>
+</sect1>

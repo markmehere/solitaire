@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Lady_Jane"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Lady Jane</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kortleken placeras här efter given. Ett kort på varje reservhög vänds upp vid varje giv. När det bara är två kort kvar i högen görs båda korten tillgängliga för spel.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar överst till höger. Lägg ett kort på första grundhögen efter utdelning till bordshögarna och reservhögarna. Detta kort är nu grundkortet. Byggs upp i färg.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Sju högar till höger. Översta kortet i varje hög är tillgängligt för spel antingen till bordshögarna eller grundhögarna. Tomma platser fylls inte med undantag av en giv från högen.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Sju högar under högen och grundhögarna. Lägg ett kort med framsidan upp i första högen. Lägg ett kort med framsidan nedåt på de övriga högarna. Lägg ett kort med framsidan upp på andra högen följt av ett kort med framsidan nedåt på resterande högar. Upprepa tills det finns sju kort i den sista högen. Bordshögarna kan byggas ned i omväxlande kulörer. Sviter av kort kan flyttas. Tomma platser kan bara fyllas av ett kort där valören är ett lägre än grundkortet eller en svit av kort som börjar med ett kort av denna valör.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned genom att växla kulören. Sviter av kort kan flyttas. En tom plats i bordshögarna kan fyllas med ett kort vars valör är en lägre än grundkortet eller med en svit av kort som börjar med ett kort med denna valör.</para>
+	<para>Korten delas ut från högen till reservhögarna. Varje giv lägger ett kort på varje reservhög.</para>
+	<para>Det översta kortet i varje reservhög är alltid tillgängligt för spel till antingen bordshögarna eller grundhögarna. Reservhögarna kan inte byggas på.</para>
+	<para>Grundhögarna byggs upp i färg från grundkortet. Nya grundhögar startas när ett kort av samma valör som grundkortet placeras på en tom grundhög. Ess placeras på kungar och tvåor på ess. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Ju djupare något är desto svårare är det att komma dit. Försök att flytta kort från reservhögarna när det är möjligt.</para>
+        </sect2>
+</sect1>

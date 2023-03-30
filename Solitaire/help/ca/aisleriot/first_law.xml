@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Primera llei</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Les cartes es col·loquen aquí al començament. Quan està buit, les cartes es retornen des del tauler i es tornen a posar a la pila principal.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Quatre piles a la dreta. Cada repartició des de la pila principal repartirà una carta a cada pila del tauler.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>En fer clic a la pila principal es repartirà una carta a cada pila del tauler. Si qualsevol de les cartes mostrades al tauler és del mateix rang, moveu les altres a les cartes similars de l'esquerra. Les piles buides només es poden omplir amb una repartició des de la pila principal.</para>
+  <para>Si en qualsevol moment les quatre cartes mostrades tenen el mateix rang, són suprimides.</para>
+  <para>Quan la pila principal està buida, les piles del tauler es recullen, de la pila de la dreta a l'esquerra, i es tornen a col·locar a la pila principal. La primera carta repartida sempre serà la primera carta repartida fins que se suprimeixi. No hi ha límit de tornar a donar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada joc de quatre cartes suprimit puntua un punt.</para>
+  <para>Puntuació màxima possible: 13</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>No oblideu utilitzar els frens. Aquest joc pot ser que no s'acabi mai a no ser que decidiu fer moviments cautelosos.</para>
+        </sect2>
+</sect1>

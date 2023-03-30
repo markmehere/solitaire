@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Eliminador</title>
+
+	<para>Escrito por Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Ajustes</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Tipo de baraja</entry>
+						<entry>Baraja estándar</entry>
+					</row>
+					<row>
+						<entry>Tablero</entry>
+						<entry>Cuatro montones. Se dan 13 cartas de cada uno. (Todas las cartas.)</entry>
+					</row>
+					<row>
+						<entry>Objetivo</entry>
+						<entry>Del cuatro al seis eliminan los huevos que construye en cada dirección.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Meta</title>
+		<para>Mueva todas las cartas a la fundación.</para>
+	</sect2>
+
+	<sect2>
+		<title>Reglas</title>
+		<para>Cualquier carta se puede poner como la primera carta de la fundación. Los montones de la fundación se pueden construir hacia arriba o hacia abajo del valor de la carta superior, independientemente del palo. Los reyes se pueden poner sobre los ases y viceversa.</para>
+	</sect2>
+
+	<sect2>
+		<title>Puntuación</title>
+		<para>Cada carta movida desde el tablero sobre una carta en la fundación puntúa un tanto.</para>
+		<para>Máxima puntuación posible: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Estrategia</title>
+		<para>Asegúrese de mirar todas las próximas cartas, y también de que no va a bloquear ninguna carta necesaria para mover encima de otra.</para>
+	</sect2>
+</sect1>

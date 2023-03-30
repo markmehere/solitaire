@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Ελσίνκι</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Μάνα</entry>
+	  <entry>Η στοίβα πάνω αριστερά. Αφού μοιραστούν φύλλα στο ταμπλό, τα υπόλοιπα φύλλα τοποθετούνται στη μάνα. Αν μια στήλη του ταμπλό αδειάσει, στην άδεια θέση τοποθετείται αυτόματα ένα φύλλο από τη μάνα.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Δέκα στοίβες. Σε κάθε στοίβα μοιράζεται από ένα ανοιχτό φύλλο.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε ζευγάρια φύλλων με άθροισμα δεκατρία. Οι Άσσοι έχουν τιμή 1, οι Βαλέδες 11, οι Ντάμες 12, ενώ οι Ρήγες απομακρύνονται μόνοι τους.</para>
+  <para>Οι στήλες του ταμπλό που αδειάζουν συμπληρώνονται αυτόματα από τη μάνα.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που απομακρύνεται αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Τρέξτε όσο μπορείτε.</para>
+        </sect2>
+</sect1>

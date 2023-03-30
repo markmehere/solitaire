@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jamestown"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jamestown</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla kort placeras här vid spelets början.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Nio högar i en 3x3-formation. På varje bordshög delas ett kort med framsidan upp.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Ta bort kort i par med samma valör. Tomma platser fylls automatiskt från högen.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje par som tas bort ger två poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Den enda utmaningen är att ta bort korten i par så snabbt som möjligt.</para>
+        </sect2>
+</sect1>

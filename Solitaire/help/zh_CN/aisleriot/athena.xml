@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Athena">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>雅典娜</title>
+
+  <para>在 Jonathan Blandford 工作的基础上，由 Alan Horkan 编写。</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+  <sect2><title>牌局</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，放置桌面上发剩下的牌。发牌每次翻一张到废牌区，可以重新发两次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角有四个空位，按照从 A 到 K 的递增顺序收牌，最上面的牌还可以拿回到桌面上参与游戏。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry> 七垛牌、四行，第一行扣着第二行翻开的，第三行扣着第四行是翻开的。本质上雅典娜跟空档接龙相同，只是翻开的层数不同。桌面上的牌可以按花色交替摆放，摆放的牌可以移动。空位只能由 K 或 K 开始的一组来填充。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+  <sect2><title>目标</title>
+  <para>把所有的牌移到收牌区。</para>
+  </sect2>
+  <sect2><title>规则</title>
+  <para>桌面上的牌可以按不同花色交替排列，排列好的一组牌可以一起移动。空位置仅能由 K 或 K 开始的一组来填充。</para>
+  <para>牌从发牌区逐个翻到废牌区中，最上面的一张可以放到桌面上，当发牌区空了，可以把废牌区的牌按原来顺序收回来重新发。您有三次重复机会。</para>
+  <para>收牌区按从 A 到 K 的顺序收牌，在收牌区里的牌仍然可以参与游戏。双击桌面上的一张牌可以把它移到收牌区，如果这张牌可以收取的话。</para>
+
+<!-- TODO 
+  <sect2><title>Options</title>
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+  </sect2>
+  <sect2><title>得分</title>
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+  </sect2>
+  <sect2><title>策略</title>
+  <para>当游戏看似要结束时，别轻易放弃! 可以尝试各种方法。有时把收牌区的牌重新放回桌面，可以解开卡住的牌。</para>
+  </sect2>
+</sect1>

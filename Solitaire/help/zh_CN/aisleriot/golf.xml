@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Golf"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>zana@webwynk.net</email>
+    </address>
+  </sect1info>-->
+
+  <title>高尔夫</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>所有剩余的牌放在这儿，每次翻一张到废牌区，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>七垛牌，每垛有五张翻开的牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有牌移到废牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>废牌区里的牌，可以按递增或递减顺序，放置桌面上的牌，只有2可以放在 A 的上面，K 上面不能放任何牌。</para>
+  <para>发牌区每次往废牌区发一张牌，不能重复。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每次从桌面往废牌区移去一张牌得一分。</para>
+  <para>可能得到的最高分是：35</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>记住 K 上面不能放任何牌，当许多牌可以移动而发牌区没有一张新牌时，试着构建一个牌序。</para>
+        </sect2>
+</sect1>

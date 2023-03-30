@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yield"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Урожай</title>
+
+	<para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+	        <sect2><title>Описание</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Верхняя левая стопка. Сюда помещаются карты, оставшиеся после раздачи на игровое поле. На сброс карты сдаются по одной за раз. Пересдач нет.</entry>
+	</row>
+	<row>
+		<entry>Сброс</entry>
+		<entry>Берётся из колоды. Верхнюю и нижнюю карту можно перемещать.</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Карты сдаются в семь рядов внахлёст, начиная с первого ряда из семи карт и заканчивая последним из одной карты так, чтобы получилась пирамида.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Задача</title>
+
+	<para>Убрать все карты.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Все доступные карты пирамиды можно перемещать. Короли убираются по одному, остальные карты можно убирать парами, дающими в сумме тринадцать. Тузы оцениваются в 1, валеты в 11, дамы в 12.</para>
+	<para>Карты по одной сдаются из колоды на сброс. Верхнюю и нижнюю карту можно убрать друг с другом или с любой доступной картой в пирамиде. Верхнюю карту сброса также можно убрать в паре со второй. Пересдач нет.</para>
+
+	        </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+	<para>За каждую убранную карту даётся одно очко.</para>
+	<para>Максимальное количество очков: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегия</title>
+
+	<para>Сложнее всего убрать карты с низа перевёрнутой пирамиды. После этого лучше убирать карты в сбросе, нежели в пирамиде, так как в ней больше доступных карт.</para>
+        </sect2>
+</sect1>

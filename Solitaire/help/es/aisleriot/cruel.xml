@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Cruel</title>
+
+  <para>Escrito por Zach Keene</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Hueco de la parte superior izquierda. Como todas las cartas restantes se dan al tablero, éste siempre estará vacío. Los repartos son ilimitados.</entry>
+	</row>
+	<row>
+	  <entry>Objetivos</entry>
+	  <entry>Los montones de la derecha en la fila superior; los ases se colocan aquí desde el comienzo del juego. Se construyen ascendentemente por palo, del as al rey.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Hasta trece montones, se dan las cartas de cuatro en cuatro hasta que se acaba el montón. Los montones del tablero se construyen descendentemente por palo.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a los montones de la fundación.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Construyen las fundaciones ascendentemente por palo y los montones del tablero descendentemente por palo. Si no hay movimientos disponibles (o así lo cree), pulse sobre el hueco de arriba a la izquierda para un reparto.</para>
+  <para>Los repartos se realizan colocando cada montón del tablero encima de otro en orden, comenzando desde el último montón. Luego la baraja voltea y se reparte, cuatro cartas cada vez, de vuelta al tablero. Si no hay más movimientos, los repartos no alterarán el orden de las cartas. Por tanto, el juego se pierde si no hay más movimientos posibles inmediatamente después de un reparto.</para>
+  <para>Nota: un caso degenerado ocurre siempre que, después de un reparto, el último montón del tablero contiene una sola carta y el único movimiento posible es entre el montón final y uno anterior a él. Haciendo este movimiento y repartiendo sólo se consigue la carta originalmente conseguida. Cuando se de esta situación, AisleRiot finalizará el juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en los montones de la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Si se puede construir más de un montón del tablero, escoja construirlo sobre el de mayor rango primero.</para>
+        </sect2>
+</sect1>

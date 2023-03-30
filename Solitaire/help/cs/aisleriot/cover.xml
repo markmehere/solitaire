@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Kryt</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí všechny zbývající karty.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    <entry>Čtyři hromádky. Na každou pozici se na začátku hry rozdá jedna karta. Prázdné pozice se ihned zaplňují z volných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Vyprázdnit hromádku volných.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Libovolné dvě karty lze odstranit z rozdaných, když mají stejnou barvu. Prázdná místa se ihned doplní z volných. Hra končí ve chvíli, kdy je na každé hromádce rozdaných jiná barva.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každý pár odebraný ze hry je hodnocený 2 body.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Rychlá krátká hra, u které nemusíte moc zapojovat mozek. Kryt se nejlépe hraje s minimálním přemýšlením a rychlými reflexy.</para>
+        </sect2>
+</sect1>

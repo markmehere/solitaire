@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Union square</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Sorta bikoitza</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Banatu kartak gora begira lau bider lau itxurako sareta osatuz, guztira hamasei pila eraikiz. Pila bakoitzaren goiko karta jokoan erabiltzeko prest dago.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila eskuinean. Oinarri-pilak irudiaren arabera osatu behar dira, batekotik erregera eta, ondoren, erregetik batekora.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarrietara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko kartak gorantz edo beherantz osa daitezke, irudien arabera. Dena den, pila bakoitza gorantz ala beherantz osatu behar da. Adibidez, pila batean hiruko hirusta biko hirustaren gainean badago, pila horretan lauko hirusta bakarrik jar daiteke. Erabil daitekeen karta oro mahaiko pila huts batean jar daiteke.</para>
+	<para>Oinarri-pilak irudiaren arabera osatu behar dira, batekotik erregera; gainean, erregea ipini eta beherantz jarraitu behar da batekora iritsi arte. Jokoa irabazteko, pila bakoitzak 26 karta izan behar ditu. Oinarri-pilako kartak ezin dira berriz erabili.</para>
+	<para>Kartak banaka iraul daitezke pilatik hondarrera. Hondarreko goiko karta jokoan erabiltzeko prest dago. Ezin da berriz banatu.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarrietara mugitutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 104</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Lepokoaren aleak bi muturretatik sar daitezke, eta zure piletan ere horixe egin behar da. Toki hutsak ongi erabili kartak gehitu ahal izateko. Eroapen pixka batekin, joko hau ikaragarri ona izan daiteke!</para>
+        </sect2>
+</sect1>

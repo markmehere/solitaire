@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terrasse</title>
+
+  <para>Écrit par David Rogers</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet double</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution de la réserve et sur le tableau. Les cartes sont retournées une à une vers la défausse. La pioche ne peut pas être retournée.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Doit être pris dans la pioche. La carte supérieure est disponible pour être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Onze cartes distribuées face visible dans une pile. Toutes les cartes sont visibles mais seule la carte du dessus est en jeu.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Huit piles au milieu. À construire en séquence alternant les couleurs (rouge et noir) à partir de la carte de base.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+    	  <entry>Neuf cartes distribuées face visible à partir du paquet une fois que la carte de base est choisie.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. Les suites ne peuvent pas être déplacées. Une pile vide du tableau doit être remplie par la carte du dessus de la défausse ou la prochaine carte de la pioche. Les cartes du dessus peuvent être déplacées vers la fondation ou d'autres piles du tableau.</para>
+  <para>Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Les fondations vides doivent être remplies avec la carte de base qui a été choisie par l'utilisateur parmi les quatre cartes tirées au sort au premier tour. Les cartes dans les fondations ne sont plus en jeu.</para>
+  <para>La carte du dessus de la réserve est en jeu mais ne peut être déplacée que vers les fondations.</para>
+  <para>Les cartes sont retournées une par une de la pioche vers la défausse aussi longtemps que vous le voulez à moins qu'il y ait une pile vide dans le tableau. Dans ce cas, seule une carte peut être retournée de la pioche vers la défausse jusqu'à ce que le tableau soit rempli ou que la carte du dessus de la défausse soit déplacée vers la fondation ou le tableau. Lorsque la pioche est bloquée, vous pouvez toujours déplacer des cartes sur le tableau, de la réserve vers la fondation. Si la défausse est vide, une carte de la pioche est automatiquement distribuée. La carte supérieure de la défausse est en jeu. La pioche ne peut être retournée.</para>
+  <para>Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel déplacement est possible.</para>
+
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>Il existe sept manières de jouer. La différence se situe dans le nombre de cartes de réserve, de piles dans le tableau ou dans le choix de la carte de base.</para>
+  <para>Terrasse</para>
+  <para>Réserve de 11 cartes, 9 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Sélection par l'utilisateur de la carte de base à partir d'un choix de quatre cartes au début du jeu et une carte est distribuée dans chaque pile du tableau. La pioche ne peut pas être retournée.</para>
+  <para>La patience du général</para>
+  <para>Réserve de 13 cartes, 9 piles sur le tableau. Les fondations sont construites en montant en séquence par couleurs à partir de la carte de base. Sélection par l'utilisateur de la carte de base à partir d'un choix de quatre cartes au début du jeu et une carte est distribuée dans chaque pile du tableau. La pioche peut être retournée une fois mais le jeu est perdu si vous ne pouvez pas jouer chaque nouvelle carte après le retournement.</para>
+  <para>Étoiles filantes</para>
+  <para>Réserve de 11 cartes, 9 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Au début du jeu, une carte de base est choisie automatiquement et une carte est distribuée dans chaque pile du tableau. La pioche ne peut pas être retournée.</para>
+  <para>Signora</para>
+  <para>Réserve de 11 cartes, 9 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Au début du jeu, une carte de base est choisie automatiquement et une carte est distribuée dans chaque pile du tableau. Les piles vides du tableau sont automatiquement remplies à partir de la défausse ou de la pioche si la défausse est vide. La pioche ne peut pas être retournée.</para>
+  <para>Rouquines</para>
+  <para>Réserve de 21 cartes, 8 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Au début du jeu, une carte de base est choisie automatiquement et une carte est distribuée dans chaque pile du tableau. Les piles vides du tableau sont automatiquement remplies à partir de la réserve ou de n'importe quelle carte si la réserve est vide. La pioche ne peut pas être retournée.</para>
+  <para>Blondes et brunes</para>
+  <para>Réserve de 10 cartes, 8 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Au début du jeu, une carte de base est choisie automatiquement et une carte est distribuée dans chaque pile du tableau. La pioche ne peut pas être retournée.</para>
+  <para>Bois</para>
+  <para>Réserve de 10 cartes, 9 piles sur le tableau. Les fondations sont construites en montant en séquence alternant les couleurs (rouge et noir) à partir de la carte de base. Au début du jeu, une carte de base est choisie automatiquement et une carte est distribuée dans chaque pile du tableau. La pioche ne peut pas être retournée.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Lorsque le jeu démarre, observez attentivement la réserve avant de choisir votre carte de base, évitez les cartes de base qui sont beaucoup enterrées dans la réserve.</para>
+  <para>Observez les séquences par ordre inverse dans la pioche, réservez une fondation pour éliminer chaque séquence inversée.</para>
+  <para>Essayez de commencer les piles du tableau à partir de la dernière carte nécessaire pour terminer une fondation.</para>
+  <para>Souvenez-vous que vous pouvez continuer à retourner les cartes de la pioche lorsqu'elle est bloquée sans remplir le tableau en utilisant la carte du dessus de la défausse.</para>
+        </sect2>
+</sect1>

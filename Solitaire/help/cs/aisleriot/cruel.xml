@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Kruťárna</title>
+
+  <para>Napsal Zach Keene</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní pozice. Protože všechny zbývající karty jsou vždy rozdané, je tato pozice vždy prázdná. Slouží k zamíchání, které není početně omezeno.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Hromádky v horním řádku úplně vpravo. Na začátku hry jsou zde položená esa. Skládá se vzestupná postupka, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Až dvanáct hromádek. Rozdává se po čtyřech kartách, dokud se nespotřebují všechny volné karty. V rozdaných můžete skládat sestupné postupky v barvě.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>V seřazených se skládají vzestupné postupky v barvě, v rozdaných sestupné postupky v barvě. Když není možný žádný tah (nebo máte pocit, že tomu tak je), klikněte na na prázdnou pozici vlevo nahoře a karty se znovu rozdají.</para>
+  <para>Rozdávání se provádí tak, že hromádky v rozdaných položí jedna na druhou, počínaje poslední hromádkou. Pak se balíček otočí vzhůru nohama a rozdává se po čtyřech kartách zpět na rozdané. Pokud nebyl proveden žádný tah, bude po rozdání rozložení karet stejné jako před tím. Z toho důvodu je hra prohraná, když po rozdání není možný žádný tah.</para>
+  <para>Poznámka: Patový případ nastane ve chvíli, kdy po rozdání poslední hromádka v rozdaných obsahuje jen jednu kartu a jediný možný tah je z poslední hromádky o jednu před ní. Provedením tohoto tahu a novým rozdáním se dostanete zase do původní situace. Když AisleRiot zjistí tento stav, hru ukončí.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu položenou do seřazených získáte 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Když v rozdaných můžete poskládat více než jednu hromádku, zvolte jako první tu, která má vyšší hodnotu.</para>
+        </sect2>
+</sect1>

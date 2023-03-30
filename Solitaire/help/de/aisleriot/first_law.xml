@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Erstes Gesetz</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten werden zu Spielbeginn hier abgelegt. Sobald leer, werden Karten vom Spieltisch zurück in den Talon gelegt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Vier Ablagen rechts. Bei jeder Ausgabe vom Talon wird eine Karte auf jede Ablage des Spieltisches ausgegeben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Durch Anklicken des Talons wird jeweils eine Karte auf jeden Stapel des Spieltischs gelegt. Falls Karten auf dem Spieltisch den gleichen Wert haben, ziehen Sie sie auf die von den gleichwertigen Karten am weitesten links liegende Karte. Leere Ablagen können nur gefüllt werden, wenn vom Talon ausgegeben wird.</para>
+  <para>Falls zu einem beliebigen Zeitpunkt alle vier sichtbaren Karten den gleichen Wert haben, so werden sie entfernt.</para>
+  <para>Ist der Talon leer, werden die Karten auf dem Spieltisch gesammelt, vom rechten Stapel zum linken, und zurück auf die Talon-Ablage gelegt. Die zuerst ausgelegte Karte wird immer die zuerst ausgelegte Karte bleiben, bis sie entfernt wird. Es gibt unbegrenzt Neuverteilungen.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jeder aus vier Karten bestehende Satz, der entfernt wird, zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 13</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Vergessen Sie nicht Pausen einzulegen! Dieses Spiel kann unendlich weitergehen, bis Sie sich sorgfältig entscheiden, ob Sie einen Zug durchführen wollen oder nicht.</para>
+        </sect2>
+</sect1>

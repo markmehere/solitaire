@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Osmosis"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Osmosia</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Biltegiak</entry>
+		<entry>Lau pila zabal ezkerrean. Biltegi-pila bakoitzean, banatu hiru karta behera begira eta beste bat gora begira. Ezin da karta multzorik osatu.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila eskuinean. Jarri karta bat lehen oinarri-pilan.</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Jarri hemen gainerako karta guztiak. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz bana daiteke.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Lehen oinarriko lehen kartaren irudi bereko edozein karta nahi denean jar daiteke oinarri-pila horretan. Beste oinarriak hasteko, lehenengo karta horren maila bereko karta bat erabili behar da. Oinarriak, hasi eta gero, gorantz osa daitezke, irudia kontuan hartuz, baldin eta gaineko oinarrian maila bereko karta bat badago. Biltegietako kartak erabil daitezke, arau hauei jarraituz.</para>
+	<para>Kartak banan-banan iraultzen dira sortatik hondarrera. Hondarraren goiko karta erabiltzeko prest dago. Sorta hustutakoan, hondarreko karta guztiak sortara eramaten ditu, ordena errespetatuz. Hiru aldiz pasa daiteke karta sorta hondarrera.</para>
+
+	        </sect2>
+        <sect2><title>Aukerak</title>
+
+	<para>Banatu kartak hirunaka: Kartak hirunaka banatzen ditu sortatik hondarrera, eta nahi adina aldiz bana daiteke berriro.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarrietara mugitutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Bakar-jokoei 'pazientziazko joko' esan izan zaie, ez alferrik! Ez ipini automatikoki erabilgarri duzun lehenengo karta bigarren (edo hirugarren) oinarrian. Batzuetan, hobe da beste irudi bat erabiltzea biltegietan karta gehiago aske uzteko.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Syne</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Totes les cartes excepte els asos es col·loquen aquí en iniciar una partida. En fer clic a la pila principal es repartirà una carta a cada una de les quatre piles de la reserva.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior, a la dreta de la pila principal. Es col·loca un as a cada base en iniciar la partida. Les piles base es construeixen pujant independentment del pal.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Quatre piles col·locades sota les bases. Cada cop que es fa un clic a la pila principal, es col·locarà una carta a cada pila de la reserva. La carta superior està disponible per a jugar. Les cartes de la reserva només es poden moure a les bases.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les bases.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>La partida comença repartint quatre cartes a la reserva. Si és possible, col·loqueu les cartes des de la reserva a les bases. Continueu amb aquest procés fins que no quedin cartes a la pila principal i no es puguin fer més moviment a les bases. Un joc similar a aquest, i una mica més fàcil, és la Baralla.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta suprimida puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Creieu en la sort? Tot i que aquest joc requereix més habilitat per a jugar que el Rellotge, l'habilitat involucrada suposa posar-hi més atenció. Un gran joc per a jugar sense pensar.</para>
+        </sect2>
+</sect1>

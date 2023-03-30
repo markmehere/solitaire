@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Τύχες</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Μάνα</entry>
+	  <entry>Η στοίβα πάνω αριστερά. Με κλικ πάνω της, η μάνα μοιράζει από ένα φύλλο σε κάθε στοίβα του ταμπλό.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Οι τέσσερις στοίβες στα δεξιά. Μπορείτε να μετακινείτε ομάδες φύλλων σε άδειες στοίβες.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Αφαίρεση όλων των φύλλων εκτός από τους τέσσερις Άσσους.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Οι Άσσοι είναι τα φύλλα με τη μεγαλύτερη αξία. Όποτε έχετε στη διάθεσή σας δύο φύλλα της ίδιας φυλής, μπορείτε να αφαιρέσετε το φύλλο με τη μικρότερη αξία. Όποτε προκύπτουν άδειες θέσεις, μπορείτε να τις γεμίσετε με μία ομάδα φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που απομακρύνεται αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 48</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Δεν υπάρχει λόγος να αφήνετε κενές θέσεις όταν πρόκειται να μοιραστούν νέα φύλλα. Από την άλλη πλευρά, όταν έχετε μια άδεια θέση, προσπαθήστε να την κρατήσετε άδεια όσο το δυνατόν περισσότερο, καθώς μπορεί να σας βοηθήσει να ξεσκεπάσετε κρυμμένα φύλλα.</para>
+        </sect2>
+</sect1>

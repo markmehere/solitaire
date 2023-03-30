@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Покретне Степенице</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Остатак шпила се ставља овде после дељења на талон. Карте се, једна по једна окрећу на отпад. Нема поновних дељења</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Дели се отворених седам редова који се преклапају, тако да је у првом реду једна карта, а у сваком следећем по једна карта више док се на крају не добије пирамида.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте на отпад.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>У игри су све непрекривене карте са пирамиде. Од ових доступних карата треба слагати отпад, кад год је могуће, тако што се помера карта чија је вредност за један мања или за један већа од карте на врху отпада. Асови могу да иду и на краљеве и на двојке.</para>
+  <para>Карте се, једна по једна окрећу са гомиле на отпад. Нема поновних дељења.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта која се уклони са талона доноси један поен.</para>
+  <para>Највећи могући број поена: 28</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Планирајте унапред тако да касније имате добре карта на располагању.</para>
+        </sect2>
+</sect1>

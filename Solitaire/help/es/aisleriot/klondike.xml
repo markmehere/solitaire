@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Klondike"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Klondike</title>
+
+  <para>Escrito por Jonathan Blandford</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de haber repartido las cartas en el tablero. Las cartas se sacan de una a una a la basura. Sólo hay dos repartos tras el inicial.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. Para ser construido en orden ascendente con el mismo palo desde el as hasta el rey. La carta de la cima en cada montón objetivo se considera dentro del juego.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Siete montones. Se da una carta boca arriba en el primer montón. Se coloca una carta boca abajo en el resto de montones. Se coloca una carta boca arriba en el siguiente montón seguida por una carta boca abajo en todas las pilas cubiertas. Se repite el proceso hasta que quedan siete cartas en el último montón. El tablero se puede construir boca abajo alternando el color. Se pueden mover grupos de cartas. Los montones vacíos sólo se pueden rellenar con reyes o grupos de cartas que comienzan por rey.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se ordenan hacia abajo alternando el color. Se pueden mover grupos de cartas. Un montón vacío en el tablero se puede rellenar con un rey o un grupo de cartas con un rey en el fondo.</para>
+  <para>Las cartas se llevan del montón a la basura de una en una. La carta de la cima de la basura se considera en juego. Cuando el montón se vacía, se mueven todas las cartas desde la basura hasta el éste, manteniendo el orden. Hay tres repartos disponibles.</para>
+  <para>Los montones objetivos se construyen ascendentemente desde el as hasta el rey. Las cartas colocadas en el objetivo se mantienen en juego. Pulsar dos veces en una carta la moverá al montón objetivo correspondiente, si tal movimiento es posible.</para>
+  <para>Pulsar dos veces en una carta de la fundación moverá todas las cartas que se pueden mover a la fundación. Esto es muy útil para limpiar rápidamente el tablero al final del juego.</para>
+
+          </sect2>
+        <sect2><title>Opciones</title>
+
+  <para>Hay tres posibles modos de juego. La diferencia entre ellos es como se dan las cartas desde el montón.</para>
+  <variablelist>
+    <varlistentry><term>Repartos de 3 cartas</term>
+      <listitem>
+        <para>Las cartas se sacan desde el montón de tres en tres. No hay limite en el número de repartos.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Repartos de una carta</term>
+      <listitem>
+        <para>Las cartas se sacan desde el montón de una en una. Sin embargo sólo se puede repartir dos veces.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Sin repartos</term>
+      <listitem>
+        <para>Las cartas se sacan de una en una desde la baraja. No se reparten de nuevo. Juega así si quieres un reto (y algo de frustración).</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Repartos ilimitados</term>
+      <listitem>
+        <para>Las cartas se sacan desde el montón de una en una. No hay limite en el número de repartos.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Muy probablemente considerarás uno de los dos primeros métodos tradicionales - dependiendo de donde vivas y quien te enseñó. La opción "sin volver a repartir" es la encontrada normalmente en las reglas más antiguas, pero rara vez se juega así.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>¡No desistas! Intenta métodos de fuerza bruta cuando el juego parezca estar acabando. Algunas veces una combinación en el uso de las cartas colocadas ya en el objetivo y una reorganización de las secuencias te librará de algunas cartas.</para>
+        </sect2>
+</sect1>

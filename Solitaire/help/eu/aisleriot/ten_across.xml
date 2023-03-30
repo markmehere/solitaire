@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hamarrekoa</title>
+
+	<para>James LewisMoss-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Behin-behineko guneak</entry>
+		<entry>Jokoan erabili ezin den karta bat kokatzeko lekuak. Joko hasieran gune horiek beteak daude. Jokoaren bertsio batek ez du uzten gune horiek hustutakoan bertan kartarik jartzen.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Hamar pila behealdean. 10 karta banatu ezkerretik eskuinera, lehen eta azken karta gora begira daudela. Beste hamar karta banatu eskuinetik ezkerrera (alderantziz), lehen biak eta azken biak gora begira daudela. Jarraitu horrela (alderantzikatuz, eta pasaldi bakoitzean karta pare bat gehiago jarriz gora begira), 50 karta jarri arte. Jarri azken bi kartak behin-behineko guneetan, goian.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Mahaian lau pila osatzea irudiaren arabera eta erregetik batekora.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Erregea bakarrik eraman daiteke mahaiko toki huts batera.</para>
+	<para>Karta bat beste baten gainean jar daiteke, irudi berekoak badira eta gaineko kartak azpikoak baino maila bat gutxiago badu. Horrek esan nahi du, irudi desberdinetako karten multzo bat ere mugi daitekeela multzo horren goiko kartak eta mugitu nahi duzun lekuko kartak baldintza hori betetzen badute.</para>
+
+	        </sect2>
+        <sect2><title>Aukerak</title>
+
+	<para>Ez erabili behin-behineko guneak: hautatua badago, behin-behineko guneak ezin dira erabili.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Irabazi ala galdu egiten da. Ez da punturik banatzen.</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Joko hau irabaztea oso zaila da (eragin handia du joko-hasierako karten kokapenak). Ez ahaztu behin-behineko guneak. Saiatu ahalik eta azkarren garbitzen, blokeatzean oso erabilgarriak baitira.</para>
+        </sect2>
+</sect1>

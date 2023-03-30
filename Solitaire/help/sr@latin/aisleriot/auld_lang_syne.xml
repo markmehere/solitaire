@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Sajn</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte osim aseva se stavljaju ovde na početku igre. Kada kliknete na gomilu, deli se po jedna karta na svako od četiri mesta u rezervi.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri mesta na vrhu, desno od gomile. Da bi igra počela, postavi se as na svaki „temelj“. „Temelji“ se slažu nezavisno od znaka.</entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Četiri gomile ispod „temelja“. Svaki put kada kliknete na gomilu, jedna karta odlazi na svako mesto u rezervi. Karta na vrhu je u igri. Karte sa rezerve se mogu pomerati samo na „temelj“.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte na „temelj“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Igra počinje pošto se podele četiri karte na rezervu. Ako je moguće, prebacite karte sa rezerve na „temelj“. Nastavite ovako dok se gomila ne isprazni i nema više mogućih poteza. Slična igra koja je malo lakša je Skafl.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka uklonjena karta donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Verujete li u sreću? Iako ova igra zahteva više umeća od igre Sat, važnija je dobra pažnja i pregled karata. Izvrsna igra za igranje bez razmišljanja.</para>
+        </sect2>
+</sect1>

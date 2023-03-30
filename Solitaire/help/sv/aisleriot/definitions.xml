@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="sv">
+	<title>Ordlista</title>
+
+	<para>Författarens anmärkning: Dessa definitioner är endast avsedda som en vägledning. Se reglerna för varje individuellt spel om spelet är möjligt att omdefinieras eller anpassas för att göra det underhållande.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Grundkort</term>
+			<listitem><para>Den första kortet som läggs på en grundhög . Övriga grundhögar brukar oftast börja med ett kort av denna valör. Se: Grundhög</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Bygga med skiftande kulör</term>
+			<listitem><para>Att bygga genom att placera ett kort på ett annat kort av motsatt kulör är tillåtet. Exempel: Att placera en ruter på en spader går bra, men att placera en ruter på en hjärter går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Bygga av valfri färg förutom den egna</term>
+			<listitem><para>Bygga genom att placera ett kort på ett annat kort oavsett färg förutom färgen på det ursprungliga kortet är tillåtet. Exempel: Att placera en ruter på en hjärter går bra, men att placera en hjärter på en hjärter är inte tillåtet.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Bygga efter kulör</term>
+			<listitem><para>Att bygga genom att placera ett kort på ett annat kort av samma kulör är tillåtet. Exempel: Att placera en ruter på en hjärter går bra, men att placera en ruter på en klöver går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Bygga oavsett färg</term>
+			<listitem><para>Allt fungerar.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Bygga efter färg</term>
+			<listitem><para>Att bygga genom att placera ett kort på ett annat kort av samma färg är tillåtet. Exempel: Att placera en spader på en spader går bra, men att placera en spader på en klöver går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Bygga ned</term>
+			<listitem><para>Att bygga genom att placera ett kort av lägre valör på ett annat kort av en högre valör är tillåtet. Vanligtvis innebär det en skillnad på valören med bara en mellan de två korten. Exempel: Att placera en 10:a på en knekt går bra, men att placera en 10:a på en 9:a går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Bygga ned med *</term>
+			<listitem><para>Att bygga genom att placera ett kort med en lägre valör på ett kort av högre valör med * är tillåtet. Exempel: Om * är 2, placera en 10:a på en dam går bra, men att placera en 10:a på en knekt går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Bygga upp</term>
+			<listitem><para>Det är tillåtet att bygga genom att placera ett kort med en högre valör på ett kort av lägre valör. Innebär vanligtvis en skillnad med endast en valör mellan de två korten. Exempel: Placera en dam på en knekt går bra, men att placera en dam på en kung går inte.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Bygga upp med *</term>
+			<listitem><para>Det är tillåtet att bygga genom att placera ett kort med en högre valör på ett kort med * lägre valör. Exempel: Om * är 2 går det bra att placera en 10:a på en 8:a, men det går inte att placera en 10:a på en 9:a.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Bygga upp eller ned</term>
+			<listitem><para>Det är tillåtet att bygga genom att placera ett kort på ett kort med en högre eller lägre valör. Exempel: Det går bra att placera en knekt på en dam eller en 10:a, men det går inte att placera en 10 på en dam.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Bygga</term>
+			<listitem><para>Möjligheten att placera ett kort (eller en grupp av kort) på ett annat kort. När det gäller valör, kan du bygga upp, bygga ned, eller bygga upp / ned med *. När det gäller färg/kulör, kan du bygga efter färg, bygga efter kulör, bygga med skiftande kulör, bygga med vilken färg som helst förutom den egna eller bygga oavsett färg. Observera att alla spel där man bygger följer två av dessa regler, en från varje lista.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Kortlek</term>
+			<listitem><para>Den uppsättning kort som används. De flesta spel använder en vanlig kortlek, men spel som använder två kortlekar, en kortlek med jokrar eller en urplockad kortlek är inte ovanligt.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Två kortlekar</term>
+			<listitem><para>En kortlek bestående av två standardkortlekar vilket blir 104 kort.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Grundhög</term>
+			<listitem><para>Om ett spel har en grundhög, vinns oftast spelet genom att placera alla korten i grundhög(en/arna).</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Kortlek med jokrar</term>
+			<listitem><para>En kortlek som består av en vanlig kortlek och två jokrar vilket ger totalt 54 kort.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Hög</term>
+			<listitem><para>En utsett område där kort kan läggas.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Valör</term>
+			<listitem><para>Värdet av kortet. Numrerade kort har oftast valören tillhörande numret. Ess kan antingen vara hög eller låg. Om hög, är ess rangordnad som 14. Om låg, är ess rangordnad som 1. Knekt, dam och kung brukar värderas som 11, 12, respektive 13. Dock kan vissa spel värdera dessa kort som 10. I ett sådant fall värderas ett högt ess som 11.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Reservhög</term>
+			<listitem><para>Kort i reservhögen är vanligtvis tillgängliga att spela var som helst. Vanligtvis kan de inte byggas på.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Kortplats</term>
+			<listitem><para>Se hög.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Standardkortlek</term>
+			<listitem><para>En pokerkortlek med 52 kort. Det finns fyra färger med tretton kort i vardera. Varje färg innehåller ett ess, 2 till 10, knekt, dam och kung. Dessa färger är oftast klöver, spader, hjärter och ruter. Dessa färger kan delas in i två kulörer, vanligen svart och rött. Klöver och spader är svarta medan hjärter och ruter är röda. AisleRiot gör det möjligt att använda olika kortlekar. I detta fall är de nya kulörerna och/eller färgerna ersatta i denna paradigm.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Hög</term>
+			<listitem><para>Den återstående delen av kortleken efter att de ursprungliga korten har delats ut och ligger oftast med framsidan ner.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Färg</term>
+			<listitem><para>Fyra olika slag i en vanlig kortlek. Vanligtvis klöver, spader, hjärter och ruter.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Bordshög</term>
+			<listitem><para>Spelplanen, det område där det mesta händer. Tillåter oftast att bygga.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Kasthög</term>
+			<listitem><para>En hög med uppåtvända kort, oftast bredvid högen. Översta kortet är oftast i spel.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

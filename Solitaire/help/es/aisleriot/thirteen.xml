@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thirteen"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Trece</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de la cima está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Se dan cartas boca abajo en siete filas solapadas comenzando con una carta en la primera fila, incrementando una por fila y escalonando los montones para conseguir una pirámide. Se dan la vuelta las cartas de la fila inferior.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Todas las cartas expuestas en la pirámide están disponibles para jugar. Los reyes pueden ser eliminados uno a uno. El resto de las cartas se pueden eliminar en parejas que sumen trece. Los ases valen uno, las jotas once y las reinas doce.</para>
+  <para>Las cartas se pueden dar sacar del montón a la basura. La carta de la cima de la basura está disponible para jugar bien con las cartas de la pirámide, bien con las cartas de abajo. No hay más repartos.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta eliminada puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Cada pirámide necesita una fundación fuerte. Monte las cartas inferiores primero, con vista a intentar maximizar el número de cartas expuestas tanto como sea posible.</para>
+        </sect2>
+</sect1>

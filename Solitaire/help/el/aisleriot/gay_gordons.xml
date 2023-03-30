@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gay Gordons</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Ρεζέρβα</entry>
+	  <entry>Η στοίβα πάνω αριστερά. Περιέχει δύο ανοιχτά φύλλα. Μπορείτε να παίζετε το πάνω φύλλο. Δεν επιτρέπεται η προσθήκη νέων φύλλων, ούτε και η συμπλήρωσή της αν αδειάσει.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Δέκα στήλες. Κάθε στήλη περιέχει πέντε ανοιχτά φύλλα. Μπορείτε να μετακινείτε το πάνω φύλλο κάθε στήλης. Αν μια στήλη αδειάσει, δεν επιτρέπεται να συμπληρωθεί.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε ζευγάρια φύλλων με άθροισμα έντεκα. Οι Ρήγες ζευγαρώνουν με τις Ντάμες και οι Βαλέδες μεταξύ τους.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε ζευγάρι που απομακρύνεται αντιστοιχεί σε δύο βαθμούς.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Προσπαθήστε να ελευθερώσετε τα φύλλα που είναι κρυμμένα κάτω από το ζευγάρι τους.</para>
+        </sect2>
+</sect1>

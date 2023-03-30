@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Quatorze</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Karta-sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Mahaiko toki hutsak berehala betetzen dira sortako kartekin.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Bost bider bost itxurako mahaia da, eta toki bakoitzean karta bat egon daiteke. Jokoaren hasieran karta bat jartzen da toki bakoitzean. Toki hutsak sortatik betetzen dira. Sorta hustutakoan, kartak mugi daitezke toki hutsak betetzeko, eskuinetik ezkerrera eta beheko errenkadako ezker-ezkerretik eskuin-eskuinera. Toki huts guztiak amaieran uzten dira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak kentzea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Kartak bikoteka ken daitezke, bien artean hamalau batzen badute eta errenkada edo zutabe berean badaude (txankak 11 balio du, erreginak 12 eta erregeak 13).</para>
+  <para>Toki hutsak automatikoki betetzen dira sortatik. Sorta hustutakoan, pila hutsen eskuinaldean dauden kartak automatikoki mugitzen dira hutsunea betetzeko. Eskuineko zutabeko pila hutsak horien azpiko errenkadako ezker-ezkerreko kartekin betetzen dira.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Kendutako karta-bikote bakoitzeko, bi puntu.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Sarritan, mugimendu-aukera bakarra dago jokoan. Egin ezazu. Sorta agortutakoan, mahaian askoz ere mugimendu gehiago egiteko aukera izango duzu.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Quatorze</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Prázdné pozice v rozdaných jsou ihned zaplněny kartami z volných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Mřížka pět krát pět, na každé pozici smí být jedna karta. Na začátku hry se rozdá po jedné kartě na každou pozici. Prázdná místa jsou doplňována z volných. Když je hromádka volných prázdná, zaplňují se mezery posunutím karet zprava doleva a z úplně levého sloupce o řádek níž do mezery úplně vpravo, takže všechny volné pozice zůstanou na konci.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty je možné odebírat v párech, když je jejich součet čtrnáct (kluk je 11, dáma 12 a král 13) a jsou ve stejném řádku nebo sloupci.</para>
+  <para>Prázdné pozice se automaticky doplňují z hromádky volných. Když je hromádka volných vyčerpána, posouvají se karty napravo od prázdného místa postupně na prázdná místa a do prázdných míst v pravém sloupci z úplně levého sloupce o rádek níž.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý odebraný pár karet dostanete 2 body.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Uprostřed hry často vzniká možnost jej jediného tahu. Udělejte jej. Až se vyčerpá hromádka s volnými, bude v rozdaných k dispozici více tahů.</para>
+        </sect2>
+</sect1>

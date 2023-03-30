@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Dubletten</title>
+  <para>Geschrieben von Rosanna Yuen</para>
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Zwei Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Unmittelbar rechts des Talon. Karten werden vom Talon genommen. Mit der obersten Karte wird gespielt.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Sieben Ablagen, die zur Rechten einen Bogen formen (ein umgedrehtes »U«). Eine Karte wird sichtbar auf jeden Stapel ausgegeben. Ein König wird nicht ausgegeben, sondern unter den Kartensatz gelegt. Auf diesen Stapel wird eine weitere Karte gegeben. Jeder Reservestapel kann höchstens von einer Karte belegt werden. Wenn ein Reservestapel leer ist, so wird er automatisch vom Ablagestapel gefüllt oder, falls dieser leer ist, vom Talon. Sobald die Ausgabe beendet ist und ein König auf einen Reservestapel gelegt wird, so ist dieser blockiert, weil Könige nicht bewegt werden können.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Ein Stapel, es ist der mittlere Stapel in der unteren Reihe der Reserveablagen. Aufbau erfolgt von der ursprünglichen Karte durch verdoppeln, unabhängig von der Farbe.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Bingen Sie alle Karten auf den Fundamentstapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten können auf den Fundamentstapel gelegt werden, wenn sie den doppelten Wert der dort obersten Stapelkarte haben. Buben und Damen zählen elf bzw. zwölf Punkte. Wenn der doppelte Wert dreizehn überschreitet, so wird vom Wert dreizehn subtrahiert, um den erforderlichen Kartenwert zu ermitteln. Die Serie entspricht:</para>
+  <para>A, 2, 4, 8, 3, 6, D, B, 9, 5, 10, 7, Wiederholen …</para>
+  <para>Karten werden vom Talon einzeln auf den Restestapel aufgedeckt. Legen Sie alle Karten in gleicher Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. Sie können drei Mal das Kartendeck durcharbeiten.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte im Fundamentstapel zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Ohne einen König gibt es keinen Herrschermord. Vermeiden Sie sie.</para>
+        </sect2>
+</sect1>

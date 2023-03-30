@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Royal East</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>
+	    Four corner piles of three by three grid.  Deal one card on
+	    to first Foundation pile.  This card is now the base card.
+	    Build up in suit, playing Aces on Kings as necessary.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>
+	    Deal one card face up on each of the five Tableau piles.
+	    These piles are the ones forming a cross in the three by
+	    three grid.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    Cards in Tableau are built down regardless of suit.  Kings can be
+    placed on Aces.  Cards can only be moved singly.  Any available card
+    can be played on an empty Tableau pile.
+  </para>
+  <para>Jeder Fundamentstapel muss mit einer Karte gleichen Ranges wie die Basiskarte begonnen werden. Fundamentstapel werden mit der Basiskarte beginnend nach Farbe aufgebaut, wobei Asse auf Könige gelegt werden können, falls nötig. Karten in Fundamentstapeln sind nicht mehr im Spiel.</para>
+  <para>Karten werden einzeln vom Talon auf den Reservestapel gelegt. Die oberste Karte des Reservestapels steht immer für das Spiel zur Verfügung. Es gibt keine Neuverteilungen.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Hidden treasures are wonderful things, but only if you know they are
+    there.  Keep track of what cards are in which piles as this
+    information will probably come in handy.
+  </para>
+        </sect2>
+</sect1>

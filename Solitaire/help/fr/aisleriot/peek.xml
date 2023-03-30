@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Peek"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Coup d'œil</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>Quatre piles étalées à gauche. On distribue quatre cartes face visible dans chaque réserve. Pas de construction possible.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles à droite. On distribue une carte sur la première fondation.</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>On place toutes les cartes restantes ici. Les cartes sont retournées une à une vers la défausse. Deux redistributions.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>N'importe quelle carte de la couleur de la première fondation peut être jouée n'importe quand sur cette fondation. Chaque autre fondation doit être commencée par une carte de même rang que cette première carte qui est la carte de base. Les fondations sont à construire par couleur à partir de la carte de base. Une carte peut être placée sur une fondation à condition qu'une carte de même rang existe déjà sur la fondation du dessus. Jouez les cartes des réserves à chaque fois que cela est possible en suivant ces règles.</para>
+	<para>Les cartes sont retournées depuis la pioche vers la défausse une par une. La carte du sommet de la défausse peut être jouée. Quand la pioche est vide, toutes les cartes de la défausse sont remises sur la pioche, en gardant l'ordre des cartes. Il y a deux redistributions.</para>
+
+	        </sect2>
+        <sect2><title>Options</title>
+
+ 	<para>Donnes de 3 cartes : la distribution se fait trois cartes à la fois de la pioche vers la défausse, les redistributions sont illimitées.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Les réserves sont ouvertes pour que vous les voyiez. Choisissez avec soin l'ordre de vos couleurs.</para>
+        </sect2>
+</sect1>

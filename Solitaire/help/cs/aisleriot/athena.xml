@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Athena">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Atény</title>
+
+  <para>Napsal Alan Horkan, založeno na práci Jonathana Blandforda</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+  <sect2><title>Podmínky</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vlevo nahoře. Zbytek sady je po rozdání položen zde. Karty se po jedné lížou do otočených. Hromádka se dvakrát vrací.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte na nich poskládat vzestupnou postupku v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek. Čtyři řady, první řada je lícem dolů, druhá lícem nahoru, třetí lícem dolů a čtvrtá, tj. poslední, řada lícem nahoru. Podstata hry Atény je stejná jako u hry Klondike, akorát úvodní rozložení je jiné. Musíte rozdané karty poskládat sestupně v barevnosti na střídačku. Už poskládané karty je možné přesouvat. Prázdné hromádky je možné obsadit jen králem nebo skupinou karet začínající králem.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+  <sect2><title>Cíl</title>
+  <para>Přesunout všechny karty do seřazených.</para>
+  </sect2>
+  <sect2><title>Pravidla</title>
+  <para>Rozdané karty můžete skládat sestupně v barevnosti na střídačku. Poskládané bloky karet je možné přesouvat. Prázdné hromádky lze zaplnit králem nebo skupinou karet s králem vespod.</para>
+  <para>Karty z hromádky s volnými do otočených se lížou po jedné. Vrchní otočená karta je k dispozici do hry. Až je hromádka volných prázdná, vrátí se do ní všechny otočené karty v pořadí jak jsou. Celou hromádku můžete ve výsledku projít třikrát.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+
+<!-- TODO 
+  <sect2><title>Options</title>
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+  </sect2>
+  <sect2><title>Bodování</title>
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+  </sect2>
+  <sect2><title>Strategie</title>
+  <para>Nevzdávejte to! Když už to vypadá, že je hra u konce, zkuste na to jít hrubou silou. Někdy kombinace z již seřazených karet a přeuspořádání řad uvolní některé potřebné karty.</para>
+  </sect2>
+</sect1>

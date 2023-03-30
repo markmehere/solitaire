@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>情人节</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛，发牌后剩余的放在这里。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>右上角的牌垛，只能放一张牌。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>四垛牌，游戏开始时每垛各放一张牌，重新发牌时，桌面上的牌全部收回，放到发牌区的最底下。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>让所有的牌都放在桌面上，每垛按花色从 A 到 K 排列，别为此发狂。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>如果桌面上两张牌花色相同并且是连续的，把小的放在大的上面，A 是最小的，K 是最大的，不能循环排列，点击发牌区会填充出现的空位。</para>
+  <para>当桌面上没有可移动的牌时，点击发牌区发牌到废牌区，如果这个牌可以放到桌面上，就移动过去，重复这个操作，直到桌面或废牌区没有可移动的牌。</para>
+  <para>
+    At this point, clicking on the Stock again moves all the cards
+    in the Tableau back to the bottom of the Stock.  The card in the
+    Waste is put in the first Tableau pile and the rest of the Tableau
+    is filled with one card to each pile from the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>这个游戏没有得分。</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>强大的时间杀手游戏，情人节实在没有什么策略，要有策略的话，就是去做别的、更重要的事情，比如说去睡觉吧。</para>
+        </sect2>
+</sect1>

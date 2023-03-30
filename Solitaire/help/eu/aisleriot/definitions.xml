@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="eu">
+	<title>Glosarioa</title>
+
+	<para>Egilearen oharra: definizio horiek jarraibideak besterik ez dira. Joko bakoitzaren arauak ikusi behar dira, joko bakoitzak arauok aldatu edo berriro definitu baititzake, jokoa dibertigarriago egiteko.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Oinarrizko karta</term>
+			<listitem><para>Oinarri-pila batean jartzen den lehen karta. Gainerako oinarriak maila bereko karta batekin hasita osatu behar izaten dira. Ikus: OINARRIA</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Eraiki koloreak txandakatuz</term>
+			<listitem><para>Kartak beste kolore bateko karten gainean jar daitezke. Adibidez, diamantea pikaren gainean jar daiteke, baina bihotzaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Eraiki irudi berekoa ez denarekin</term>
+			<listitem><para>Jatorrizko kartaren gainean haren irudi berekoa ez den karta bat jar daiteke. Adibidez, diamantea bihotzaren gainean jar daiteke, baina bihotza bihotzaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Eraiki kolorearen arabera</term>
+			<listitem><para>Kolore bateko karta baten gainean kolore bereko beste bat jar daiteke. Adibidez, diamantea bihotzaren gainean jar daiteke, baina hirustaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Eraiki irudiari kasurik egin gabe</term>
+			<listitem><para>Dena egin daiteke.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Eraiki irudiaren arabera</term>
+			<listitem><para>Irudi bateko karta baten gainean irudi bereko beste bat jar daiteke. Adibidez, pika pikaren gainean jar daiteke, baina hirustaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Eraiki beherantz</term>
+			<listitem><para>Maila bateko karta baten gainean maila txikiagoko beste bat jar daiteke. Karta bien artean maila bakarreko aldea egon behar izaten du gehienetan. Adibidez, hamarrekoa txankaren gainean jar daiteke, baina bederatzikoaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Eraiki beherantz * arabera</term>
+			<listitem><para>Maila bateko karta baten gainean maila txikiagoko beste bat jar daiteke, * mailako tartea utzita. Adibidea, * 2 bada, hamarrekoa erreginaren gainean jar daiteke, baina txankaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Eraiki gorantz</term>
+			<listitem><para>Maila bateko karta baten gainean maila handiagoko beste bat jar daiteke. Karta bien artean maila bakarreko aldea egon behar izaten du gehienetan. Adibidez, erregina txankaren gainean jar daiteke, baina erregearen gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Eraiki gorantz * arabera</term>
+			<listitem><para>Maila bateko karta baten gainean maila handiagoko beste bat jar daiteke * mailako tartea utzita. Adibidez, * 2 bada, hamarrekoa zortzikoaren gainean jar daiteke, baina bederatzikoaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Eraiki gorantz edo beherantz</term>
+			<listitem><para>Maila bateko karta baten gainean maila bat handiagoko edo maila bat txikiagoko beste bat jar daiteke. Adibidez, txanka erreginaren edo hamarrekoaren gainean jar daiteke, baina hamarrekoa erreginaren gainean ez.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Eraikitzea</term>
+			<listitem><para>Karta bat (edo karta multzo bat) beste karta baten gainean jartzea. Mailari dagokionez, gorantz, beherantz edo gorantz/beherantz osa daiteke, * mailako tartea utziz. Irudiari/koloreari dagokionez, irudiaren arabera, kolorearen arabera, koloreak txandakatuz, irudi bereko bi karta segidan jarri gabe edo irudia kontuan hartu gabe aukerak ditugu. Kontuan izan multzoak osatzen dituzten joko guztiek arau horietako bi, zerrenda bakoitzeko bat, beteko dituztela.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Karta sorta</term>
+			<listitem><para>Erabiltzen diren kartak. Joko gehienek karta sorta estandarra erabiltzen dute, baina batzuek sorta bikoitza, komodindun sorta edo marradun sorta erabiltzen dute.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Sorta bikoitza</term>
+			<listitem><para>Bi karta sorta estandarrez osatua dago, eta guztira 104 karta ditu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Oinarria</term>
+			<listitem><para>Jokoak oinarria duenean, karta guztiak oinarri piletan jarri behar izaten dira jokoa irabazteko.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Komodindun sorta</term>
+			<listitem><para>Karta sorta estandarraz eta bi komodinez osatua dago, eta guztira 54 karta ditu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Pila</term>
+			<listitem><para>Kartak egon daitezkeen gunea.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Maila</term>
+			<listitem><para>
+				The value of the card. Numbered cards usually have the rank of the
+				associated number.  Aces can either be high or low.  If high, aces are
+				ranked 14.  If low, aces are ranked as 1.  J, Q, and K are usually
+				ranked 11, 12, and 13 respectively.  However, some games may rank these
+				cards as 10.  In such a case, a high ace might be ranked as 11.
+			</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Biltegia</term>
+			<listitem><para>Biltegiko kartak edonon jokatzeko moduan egoten dira. Normalean, ezin dira osatu.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Tokia</term>
+			<listitem><para>Ikus PILA.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Karta sorta estandarra</term>
+			<listitem><para>52 karta dituen pokerreko karta sorta. Lau irudi daude eta bakoitzak hamahiru karta ditu. Irudi bakoitzak batetik hamarrera zenbakitutako kartak, txanka, erregina eta erregea ditu. Irudi horiek hirustak, pikak, bihotzak eta diamanteak izaten dira. Irudiak bi koloretan bana daitezke, normalean: beltza eta gorria. Hirustak eta pikak beltzak dira, eta bihotzak eta diamanteak gorriak. AisleRiot-ek zenbait karta sorta erabiltzeko aukera ematen du. Horrelakoetan, kolore eta /edo irudi berriak paradigma honen bidez ordezten dira.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Sorta</term>
+			<listitem><para>Jatorrizko kartak banatutakoan gelditzen den karta sorta. Normalean, behera begira egoten da.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Irudi bat</term>
+			<listitem><para>Karta sorta estandarreko lau irudiak. Hirustak, pikak, bihotzak eta diamanteak izan ohi dira.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Mahaia</term>
+			<listitem><para>Jokatzeko eremua, ekintza nagusiak gertatzen diren lekua. Normalean osatzeko aukera ematen du.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Hondarra</term>
+			<listitem><para>Gora begira dagoen karta multzoa; sortaren ondoan egoten da gehienetan. Goiko karta jokoan erabiltzeko prest egon ohi da.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

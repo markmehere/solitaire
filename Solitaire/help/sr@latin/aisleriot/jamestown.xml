@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jamestown"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Džejmstaun</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde na početku igre.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Devet gomila u 3x3 kvadratu. Na svaku gomilu na talonu se deli jedna otvorena karta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Uklanjajte parove karata sa istom vrednošću. Prazna mesta se automatski popunjavaju sa gomile.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Uklanjanje para karata donosi dva poena.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Uklanjajte parove karata što brže možete. To je ovde jedini izazov.</para>
+        </sect2>
+</sect1>

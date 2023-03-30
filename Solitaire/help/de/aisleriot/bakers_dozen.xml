@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Des Bäckers Dutzend</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben, die nach Farbe von Ass bis König aufgebaut werden. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    <entry>Dreizehn Stapel. Vier Karten werden mit der Bildseite nach oben auf jeden Stapel gelegt. Könige werden unter die jeweiligen Stapel geschoben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Die oberste Karte jedes Spieltisches kann in einen anderen Spieltisch verschoben werden, wenn deren Wert um 1 niedriger ist als die oberste Karte der zweiten Ablage. Die Farbe ist nicht von Bedeutung. Leere Ablagen des Spieltisches dürfen nicht wieder gefüllt werden.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte des Spieltisches wird diese auf den entsprechenden Fundamentstapel gelegt, falls ein solcher Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede auf den Fundamentstapel gelegte Karte zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Passen Sie auf, dass Sie keine niedrigen Karten unter Stapeln begraben. Versuchen Sie, Stapel auf dem Spieltisch möglichst nicht zu leeren.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Straight_Up"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Pravo gore</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon. Karte se okreću na otpad jedna po jedna. Dozvoljena su dva ponovna deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri gomile gore desno. Za početak igre dele se asovi i dvojke na sve „temelje“. Slaže se na gore po znaku do asa.</entry>
+	</row>
+	<row>
+		<entry>Rezerva</entry>
+		<entry>Mesto ispod gomile. Da bi igra počela, ovde se deli trinaest gomila. Karta na vrhu može da se pomera na talon ili „temelje“.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Četiri gomile dole desno. Za početak igre deli se po jedna karta na svaku od gomila. Karte se mogu se slagati po znaku. Prazna mesta se automatski popunjavaju iz rezerve. Kada je i rezerva prazna, mesta na talonu se mogu popunjavati sa otpada, po vašem nahođenju.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte na gomile na „temelju“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte na talonu se slažu na dole po znaku. Grupe karata mogu da se pomeraju. Prazna mesta na talonu se automatski popunjavaju iz rezerve. Kada je i rezerva prazna, mesta se mogu popunjavati sa otpada, po vašem nahođenju.</para>
+	<para>Karte se okreću jedna po jedna sa gomile na otpad. Karta na vrhu je u igri. Moguća su dva ponovna deljenja.</para>
+	<para>„Temelji“ se slažu na gore po znaku od dvojki do asova. Karte na „temelju“ nisu više u igri. Duplim klikom na kartu će se ona pomeriti na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta pomerena na „temelj“ donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Nemojte da zastajkujete sa poenima! Pomerajte karte na „temelje“ kad god možete</para>
+        </sect2>
+</sect1>

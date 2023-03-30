@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Carrers i carrerons</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la columna del mig. Per a construir des de l'as al rei. La carta superior de cada base es pot tornar a jugar al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Vuit llocs (quatre a l'esquerra i quatre a la dreta de les bases). Es reparteixen totes les cartes de cara amunt i escampades en aquestes vuit piles de manera que hi ha set cartes a cada pila del flanc esquerre i sis cartes a cada pila del flanc dret i es mostren totes les cartes.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant independentment del pal. Només es pot moure una carta a la vegada. Les piles buides es poden omplir amb qualsevol carta.</para>
+  <para>Les bases es construeixen pujant per pal.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Construïu fins i tot a les bases si és possible. Intenteu aconseguir un lloc buit al tauler.</para>
+  </sect2>
+</sect1>

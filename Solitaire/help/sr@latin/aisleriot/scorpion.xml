@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Škorpija</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Poslednje tri karte se stavljaju ovde nakon deljenja.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Sedam mesta desno od gomile. * Deli se po jedna zatvorena karta u prva četiri reda. Deli se jedna otvorena karta na poslednja tri reda. Ovo se ponavlja od * još dva puta, tako da su ukupno podeljena tri reda. Podeli se još četiri reda otvorenih karata na sva gomile.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Napravite četiri gomile sa po trinaest karata, gde je svaka gomila sastavljena samo od karata u pravilnom redosledu, istog znaka.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte na talonu se slažu na dole po znaku. Grupe karata se mogu pomerati bez obzira na redosled. Prazno mesto na talonu se može popuniti kraljem ili grupom karata koje počinju od kralja.</para>
+	<para>Klikom na gomilu u svakom trenutku će biti podeljene tri karte na prva tri mesta.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Za svaki niz karata po znaku, broj dobijenih poena je dužina niza manje 1. Svaki put kada se napravi niz od trinaest karata i nalazi se na svom mestu, dobija se još četiri dodatna poena. Otvaranje karte koja je bila zatvorena donosi tri poena.</para>
+	<para>Najveći mogući broj poena: 100</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Odmršavanje čvorova nije lagan posao. Pazite da se ne zapetljate još više.</para>
+        </sect2>
+</sect1>

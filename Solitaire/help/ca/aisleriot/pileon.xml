@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Escrit per en Nick Lamb</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Quinze piles, ordenades en files de quatre. Es reparteixen quatre cartes a la vegada, cara amunt a les primeres tretze piles. Es deixen els dos últims espais buits. Una pila pot tenir com a màxim quatre cartes, com a mínim cap.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Ordeneu les cartes de manera que cada pila contingui quatre cartes d'un mateix valor. Això hauria de deixar dues piles buides, però no importa si són les mateixes piles que estaven buides al començament de la partida.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes es poden moure a la part superior d'una altra carta o cartes del mateix valor sempre que cap pila tingui més de quatre cartes. Els grups de cartes es poden moure si tenen el mateix valor, però no us aporta res. Un lloc buit es pot omplir amb qualsevol carta o grup de cartes del mateix valor.</para>
+	<para>Quan una pila conté les quatre cartes del mateix valor, aquesta es congela i la carta superior es gira per a indicar que no heu de fer res més amb aquestes cartes. No es poden jugar més, encara que de tota manera seria inútil moure-les.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Quan una pila de quatre cartes està congelada puntueu 4 punts, un per cada carta. No hi ha cap altra manera de puntuar punts.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Mantingueu una de les piles neta tant de temps com sigui possible. No deixeu una pila de tres cartes construïdes sobre una carta, especialment si la carta del final no és la part inferior d'una altra pila.</para>
+        </sect2>
+</sect1>

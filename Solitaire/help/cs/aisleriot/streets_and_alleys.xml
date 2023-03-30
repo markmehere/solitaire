@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Streets_And_Alleys"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Ulice a aleje</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky v prostředním sloupci. Musíte v nich skládat postupky od esa po krále. Vrchní karta v kterékoliv hromádce může být zahrána zpět do rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm hromádek (čtyři nalevo a čtyři napravo od seřazených). Všechny karty se rozdají lícem nahoru a rozprostřou na tyto hromádky tak, že na každé hromádce na levém křídle bude sedm karet a na každé hromádce na pravém křídle bude šest karet a všechny budou vidět.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek bez ohledu na barvu. V každém tahu můžete přesunout jen jednu kartu. Na prázdné pozice je možné položit jednu libovolnou kartu.</para>
+  <para>Seřazené se skládají vzestupně v jedné barvě.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Snažte se hromádky v seřazených zaplňovat rovnoměrně. Pokuste se udržet si prázdnou pozici v rozdaných.</para>
+  </sect2>
+</sect1>

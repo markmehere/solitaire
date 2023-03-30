@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Teta Mary</title>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vlevo nahoře. Zbytek sady je po rozdání položen zde. Karty se po jedné lížou do otočených. Hromádka se dvakrát vrací.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte na nich poskládat vzestupnou postupku v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Šest hromádek, v první hromádce se začne rozdávat lícem nahoru. Ve všech ostatních pak lícem dolů. V druhé řadě se v prvních dvou hromádkách rozdají karty lícem nahoru, ve všech ostatních se skryjí lícem dolů. Následně pak tři karty lícem nahoru, ostatní lícem dolů. A tak postupně, až je rozdáno šest řádků po šesti kartách. Rozdané karty můžete skládat do sestupné postupky v barevnosti na střídačku. Poskládané karty je možné přesunout. Na prázdné hromádky je možné položit jen krále nebo skupinu karet začínající králem.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Rozdané karty můžete skládat sestupně v barevnosti na střídačku. Poskládané bloky karet je možné přesouvat. Prázdné hromádky lze zaplnit králem nebo skupinou karet s králem vespod.</para>
+  <para>Karty z hromádky s volnými do otočených se lížou po jedné. Vrchní otočená karta je k dispozici do hry. Až je hromádka volných prázdná, vrátí se do ní všechny otočené karty v pořadí jak jsou. Celou hromádku můžete ve výsledku projít třikrát.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Teta Mary je extrémně náročná a málokdy řešitelná. Výzvou není ve skutečnosti ani tak hru celou dokončit, jako dostat se co nejdál.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

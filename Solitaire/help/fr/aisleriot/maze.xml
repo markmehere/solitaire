@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Le labyrinthe</title>
+
+  <para>Écrit par Matthew Wilcox</para>
+
+          <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>48 cartes : paquet standard sans les Rois</entry>
+	</row>
+
+	<row>
+		<entry>Tableau</entry>
+		<entry>54 emplacements en 6 rangées de 9 colonnes. On distribue les cartes dans les emplacements un à huit. On laisse le neuvième emplacement vide. On distribue les cartes dans les emplacement dix à dix-sept. On laisse le dix-huitième emplacement vide. On distribue les autres cartes de la même façon. Ensuite, on enlève tous les Rois (qui ne jouent plus aucun rôle dans la suite de la partie), pour que six emplacements vides restent au total. Toute carte peut être déplacée dans l'emplacement à gauche d'une autre carte de la même couleur et de rang inférieur. Toute carte peut être déplacée dans l'emplacement à droite d'une autre carte de la même couleur et de rang inférieur. Un As peut être déplacé à droite d'une Dame ou dans l'emplacement tout en haut à gauche. Une Dame peut être déplacée à gauche d'un As ou dans l'emplacement tout en bas à droite.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Construire les couleurs en montant, avec un As dans le coin en haut à gauche, pour créer une suite de cartes de l'As à la Dame de chaque couleur.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les cartes ne peuvent être déplacées qu'individuellement. Toute carte peut être déplacée dans l'emplacement libre à gauche d'une autre carte de la même couleur et de rang supérieur. Toute carte peut être déplacée dans l'emplacement libre à droite d'une autre carte de la même couleur et de rang inférieur. Un As peut être déplacé à droite d'une Dame ou dans l'emplacement tout en haut à gauche. Une Dame peut être déplacée à gauche d'un As ou dans l'emplacement tout en bas à droite.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte placée près d'une autre carte de la même couleur dans l'ordre correct vaut un point.</para>
+  <para>Score maximum possible : 48</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Plusieurs emplacements adjacents libres vous permettent de créer de longues suites. Attention à ne pas vous faire piéger dans une situation où vous déplacez une carte sans fin entre deux endroits.</para>
+        </sect2>
+</sect1>

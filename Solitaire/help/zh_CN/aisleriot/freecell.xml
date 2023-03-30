@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>空当接龙</title>
+
+	<para>Changwoo Ryu 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>保留区</entry>
+		<entry>最上面一行左边的四个垛，每个空位只能放一张牌。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右上角的四垛，按花色从 A 到 K 递增收牌，收牌区的牌不能再用于游戏中。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>八垛牌，牌面都是翻开的，前面四垛是七张牌，后面四垛是六张牌。桌面上的牌按花色交替排列，每次只能移动一张，但是如果保留区有足够空位，一次可以移动多张。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按不同花色交替递减排列，如果保留区有足够空位，一次可以移动一组牌，桌面上的空位可以填充任何一张牌或一组牌。</para>
+	<para>收牌区按花色从 A 到 K 递增收牌，里面的牌不能再用于游戏，双击一张牌可以把它移到对应的位置，如果它是可以收取的话。</para>
+	<para>保留区的牌可以用在游戏中，也可以移动到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>空位很有用处，如果可能多留几个空位。</para>
+        </sect2>
+</sect1>

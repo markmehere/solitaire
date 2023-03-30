@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>拦截十</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，开始时所有牌都放在这里。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>九张牌按3×3排列，桌面上的牌只能看到最上面一张。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>两张牌加起来等于十，就可以点击消除。J、Q、K 按成对移出，十不能移走，所有的空位自动由发牌区发牌填充。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每移出一对牌得两分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>这个是单纯的运气游戏，当然，一些复杂的策略可能会增加您的好运。</para>
+        </sect2>
+</sect1>

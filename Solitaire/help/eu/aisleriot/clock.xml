@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Erlojua</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Banatu kartak erlojuaren itxuran, lau kartako hamabi pila osatuz.</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Jarri azken lau kartak sortan (mahaiaren erdian). Irauli goiko karta.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>
+		To reveal all the cards.
+	</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Jarri dagokion pilan erdiko goiko karta. Mahaiak erlojuaren itxura hartu du eta erloju analogiko bateko lekua dagokie zenbakidun kartei. Batekoari bata dagoen lekua dagokio, eta txankari eta erreginari, berriz, hamaikaren eta hamabiaren lekua, hurrenez hurren. Erloju analogikorik izan ez dutenentzat, hona hemen eredua:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Ordulariaren diseinua.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Erregeak erdiko pilan geratuko dira. Karta bat pila berri batera mugitzen denean (edo pila berean gelditzen denean, erregea bezala), pila berriko karta hartu eta erdiko pilaren gainean jartzen da gora begira. Karta berria jokoan erabiltzeko prest dago. Karta bat dagokion pilara eramateko, arrastatu karta edo egin klik dagokion pila hartzailearen gainean.</para>
+	<para>Lau erregeak erdian daudenean amaitzen da jokoa. Une horretan, xedea lortu baldin baduzu, irabazi egin duzu. Kontuan izan pila bateko karta bat dagokion lekuan baldin badago, ondo dagoela behera begira egonda ere.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Erlojuan dagokion pilan dagoen karta bakoitzeko (erregea izan ezik, benetako erlojuetan ez baitago erregerik) puntu bat.</para>
+	<para>Puntuaziorik altuena: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Jokoa automatizatzeko moduren bat aurkitu. Ez da inolako erabakirik hartu behar. Galtzen baduzu, ez da zure errua. (aldiz, irabazten baduzu, zortea besterik ez da!)</para>
+        </sect2>
+</sect1>

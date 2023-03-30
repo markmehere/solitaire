@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Zigenare</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten delas ut i grupper av åtta, ett kort på varje bordshög.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar uppe till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas upp på bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    <entry>Åtta högar. Dela två rader med framsidan nedåt och en rad med framsidan uppåt för att börja. Bordshögarna byggs ned genom att växla kulör. Sviter av kort kan flyttas. Tomma platser kan fyllas med valfritt kort eller svit.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned genom att växla kulör. Sviter av kort kan flyttas. En tom plats i bordshögarna kan fyllas med valfritt kort eller svit av kort.</para>
+  <para>Varje giv lägger ett kort från högen till varje bordshög. Inga omgivar.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Korten i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort i bordshögarna kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger 5 poäng. När en grundhög är komplett (från ess till kung) ger det ytterligare 60 poäng. Varje kort på bordshögen i skiftande ordning ger 2 poäng.</para>
+  <para>Högsta möjliga poäng: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att exponera nya kort i bordshögen när så är möjligt. Kom ihåg att du alltid kan flytta tillbaka kort från grundhögen till spelet.</para>
+        </sect2>
+</sect1>

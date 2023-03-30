@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hoppa hage</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Alla kort förutom klöver ess till och med fyra placeras här i början av spelet. Korten vänds ett och ett till kasthögen.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Direkt till höger om högen. Kan endast ha ett kort i taget. Du måste direkt välja att placera kortet antingen på en grund- eller reservhög.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar överst, på den högra sidan. Placera ett ess på första högen, en tvåa på den andra högen, en trea på tredje högen, och en fyra på den fjärde högen. Den första grundhögen byggs upp genom att öka med ett, den andra genom att öka med två, den tredje med tre, och den fjärde med fyra, som alla börjar om med ess när de passerar tretton. Kort i grundhögarna är inte längre i spel. Färg spelar ingen roll.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Fyra högar placerade under grundhögarna. Kort i reservhögarna kan bara spelas till grundhögarna. Kort som flyttas från kasthögen kan placeras på valfri reservhög.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Öka grundhögarnas kortvalör med ett, två, tre och fyra för den första, andra, tredje och fjärde högen. Korten vänds ett och ett från högen till kasthögen. Eftersom kasthögen bara kan ha ett kort, måste kortet direkt spelas till en grundhög eller till någon av de fyra reservhögarna. Kort i reservhögarna kan inte arrangeras om.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Finslipa dina färdigheter för detta spel. Tur kommer inte att räcka så långt här. Försök att inte täcka kort du kan behöva i ett tidigt skede. Överväg att spara en kolumn bara för kungar (eftersom det är det sista kortet som spelas på varje grundhög).</para>
+        </sect2>
+</sect1>

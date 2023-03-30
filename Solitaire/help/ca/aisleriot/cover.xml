@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Coberta</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Les cartes restants es col·loquen aquí després de repartir.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+    <entry>Quatre piles. Es reparteix una carta a cada lloc al començament de la partida. Els llocs buits s'omplen immediatament des de la pila principal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Buida la pila principal.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Qualsevol parella de cartes al tauler es pot suprimir si pertanyen al mateix pal. Els espais s'omplen immediatament amb cartes de la pila principal. La partida s'acaba quan queda una carta de cada pal al tauler.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parella suprimida de la partida puntua dos punts.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Un joc ràpid i curt al qual no s'ha de pensar molt, la coberta és jugar millor pensant poc i amb reflexos ràpids.</para>
+        </sect2>
+</sect1>

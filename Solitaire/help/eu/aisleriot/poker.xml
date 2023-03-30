@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pokerra</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortaren ondoan. Hondarrean karta bakarra egon daiteke.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Bost bider bost itxurako mahaia. Toki bakoitzean karta bakarra egon daiteke.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Poker-eskualdien bidez, ahalik eta puntu gehien lortzea. Hamabi eskualdi egon daitezke mahaian -- 5 errenkada, 5 zutabe eta 2 diagonal. 75 puntu edo gehiago lortuta irabazten da.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Egin klik sortan, kartak banan-banan iraultzeko. Hurrengo karta atera aurretik, daukazuna mahaian ipini behar duzu, nahi duzun lekuan. Jarri ondoren, ezin da mugitu.</para>
+
+          </sect2>
+        <sect2><title>Aukerak</title>
+
+  <para>Nahaste modua: hautatua badago, kartak mugi daitezke kokatu ondoren. Irabazteko 120 puntu egin behar dira modu honetan.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Puntu-sistema britainiarraren arabera batzen dira puntuak; hain zuzen ere, honela:</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Eskua</entry>
+          <entry>Azalpena</entry>
+          <entry>Puntuazioa</entry>
+        </row>
+        <row>
+          <entry>Irudi-eskailera</entry>
+          <entry>Irudi bereko kartek segida bat osatzen dute</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Pokerra</entry>
+          <entry>Maila bereko lau karta ditu</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Eskailera</entry>
+          <entry>Karten segida</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full</entry>
+          <entry>Maila bateko hiru eta beste maila bateko bi</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Hirukotea</entry>
+          <entry>Maila bereko hiru karta ditu</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Irudiak</entry>
+          <entry>Bost kartak irudi berekoak dira</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Bi bikote</entry>
+          <entry>Maila bereko bi kartaz osatutako bi sorta</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Bikotea</entry>
+          <entry>Maila bereko bi karta ditu</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Puntuaziorik altuena: 276</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Kontuan izan ia karta sorta erdia ikusiko duzula eta horren arabera joka dezakezula. Ez da komeni ordenagailuari iruzur egiten saiatzea.</para>
+        </sect2>
+</sect1>

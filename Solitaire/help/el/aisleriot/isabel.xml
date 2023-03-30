@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Ίζαμπελ</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Δεκατρείς στήλες. Σε κάθε στήλη μοιράζονται τρία φύλλα κλειστά και ένα ανοιχτό.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε ζευγάρια φύλλων με την ίδια αξία. Κάθε φορά που απομακρύνεται ένα φύλλο, ανοίγει το φύλλο που βρισκόταν από κάτω του. Αν μία στήλη αδειάσει, δεν μπορεί να συμπληρωθεί.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε ζευγάρι που απομακρύνεται αντιστοιχεί σε δύο βαθμούς.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Αρχικά, κάθε στοίβα περιέχει τέσσερα φύλλα. Το κόλπο είναι να θυμάστε πόσα φύλλα απομένουν σε κάθε στοίβα, και να προσπαθείτε να τα απομακρύνετε ομοιόμορφα.</para>
+        </sect2>
+</sect1>

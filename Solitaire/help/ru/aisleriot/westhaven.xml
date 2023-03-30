@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Западное убежище</title>
+
+	<para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+	        <sect2><title>Описание</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Верхняя левая стопка. Сюда помещаются карты, оставшиеся после раздачи на игровое поле. На сброс карты сдаются по одной за раз. Пересдач нет.</entry>
+	</row>
+	<row>
+		<entry>Сброс</entry>
+		<entry>Набирается из колоды. Верхнюю карту можно перемещать.</entry>
+	</row>
+	<row>
+		<entry>Основание</entry>
+		<entry>Четыре стопки в верхнем ряду. Карты оснований собираются по масти по возрастанию от туза до короля.</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Десять стопок по три карты каждая, верхние карты в стопках кладутся лицом вверх.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Задача</title>
+
+	<para>Переместить все карты на основания.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карты игрового поля собираются по убыванию с чередованием цвета. Можно перемещать верхнюю карту стопок или целую группу лежащих лицом вверх карт. В свободную ячейку можно поместить любую доступную карту или группу карт.</para>
+	<para>Карты в основаниях собираются по масти от туза до короля. Карты из оснований перемещать нельзя.</para>
+	<para>Карты сдаются из колоды на сброс по одной. Верхнюю карту можно перемещать. Пересдач нет.</para>
+
+	        </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+	<para>За каждую перемещённую в основание карту даётся одно очко.</para>
+	<para>Максимальное количество очков: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегия</title>
+
+	<para>Не рискуют те, кому есть что терять. Действуйте решительно. Делайте как можно больше ходов, удача на вашей стороне.</para>
+        </sect2>
+</sect1>

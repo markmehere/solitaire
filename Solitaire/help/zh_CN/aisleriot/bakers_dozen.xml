@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>贝克萝筐</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>顶上的四个空位，按花色从 A 到 K 收牌。收牌区每一垛中最上面的可以放回到桌面上参与游戏。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    <entry>十三垛牌，每垛四张翻开的，每个 K 都放在了最底下。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>最上面的牌可以移动到其他位置，只要它的点数比另一个小一，花色没有特别要求，空位置不能填充。</para>
+  <para>收牌区按花色从 A 到 K 递增收牌，里面的牌仍然可以参与到游戏中，双击桌面里的一张牌可以把它移到收牌区，如果它可以移动的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>小心不要把小牌压底下了，试着不要让桌面上出现空位。</para>
+        </sect2>
+</sect1>

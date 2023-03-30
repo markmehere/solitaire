@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Sarea</title>
+
+  <para>Matthew Wilcox-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>48 karta: sorta estandarra, erregerik gabe</entry>
+	</row>
+
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Berrogeita hamalau toki, bederatzi kartako sei errenkadatan. Banatu kartak lehenengo lekutik zortzigarrenera. Bederatzigarren tokia hutsik laga. Banatu kartak hamargarren lekutik hamazazpigarrenera, eta hamazortzigarren tokia hutsik laga. Gainerako kartak horrela banatu. Ondoren, kendu errege guztiak (joko honetarako ez dute balio eta), eta guztira sei toki huts izango dituzu. Irudi bereko eta maila bat gehiagoko karten ezkerreko toki hutsera eraman daitezke kartak. Irudi bereko eta maila bat gutxiagoko karten eskuineko toki hutsera eraman daitezke kartak. Erreginaren eskuinera edo goiko, ezkerreko tokira eraman daiteke batekoa. Batekoaren ezkerrera edo beheko, eskuineko tokira eraman daiteke erregina.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Irudi bereko karta guztiak goranzko segidan ipintzea, goiko, ezkerreko izkinan batekoa dagoela, eta karta-segida bat osatzea: irudi bateko batekotik erreginara, beste irudi bateko batekotik erreginara, hirugarren irudiko batekotik erreginara eta laugarren irudiko batekotik erreginara.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Kartak banan-banan mugitu behar dira. Irudi bereko eta maila bat gehiagoko karta baten ezkerreko toki hutsera eraman daitezke kartak. Irudi bereko eta maila bat gutxiagoko karta baten eskuineko toki hutsera eraman daitezke kartak. Erreginaren eskuinera edo goiko, ezkerreko tokira eraman daiteke batekoa. Batekoaren ezkerrera edo beheko, eskuineko tokira eraman daiteke erregina.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Irudi bereko karta baten aldamenean eta dagokion segidan jarritako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Elkarren ondoan leku huts asko egoteak karta-segida luzeak sortzen laguntzen dizu. Saihestu karta bat bi punturen artean etengabe mugitzera eraman zaitzakeen egoeran harrapatuta geratzea.</para>
+        </sect2>
+</sect1>

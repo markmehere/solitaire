@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>快乐戈登</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>左上角的牌垛，两张翻开的牌，最上面的牌可以用于游戏，不能重新填充或者增加牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>十垛牌，每垛有五张翻开的牌，最上面的牌可以用在游戏中，空位不能填充。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>所有加起来等于十一的两张牌可以消除，K 和 Q 算一对，J 和另外的 J 成一对。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每消去一对牌得两分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>如果对牌在底下压着，那么就试着先把上面这张移走。</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Peek"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Vistazo</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Reservas</entry>
+		<entry>Cuatro montones extendidos a la izquierda. Se dan cuatro cartas boca arriba en cada montón de la reserva. No se permite construir.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones a la derecha. Se da una carta al primer montón de la fundación.</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Se colocan las cartas restantes aquí. Las cartas se dan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mover todas las cartas a los montones objetivo.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Cualquier carta del palo del primer montón de la fundación se puede jugar con este montón en cualquier momento. Cada montón subsiguiente de la fundación sólo puede empezar por una carta del mismo rango que esta primera carta (carta base). Una vez comenzado, estos últimos montones se pueden construir por palo siempre que una carta del mismo rango esté contenida en el montón inmediatamente superior a él. Juegue las cartas desde la reserva siempre que le sea posible cumplir estas reglas.</para>
+	<para>Las cartas se llevan del montón a la basura de una en una. La carta de la cima de la basura se considera en juego. Cuando el montón se vacía, se mueven todas las cartas desde la basura hasta el éste, manteniendo el orden. Hay tres repartos disponibles.</para>
+
+	        </sect2>
+        <sect2><title>Opciones</title>
+
+ 	<para>Repartos de tres cartas: Se da de tres en tres cartas desde el montón a la basura y se permiten repartos ilimitados.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Un punto por cada carta colocada en la fundación.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Las montones de la reserva están visibles. Elija su orden por palo sabiamente.</para>
+        </sect2>
+</sect1>

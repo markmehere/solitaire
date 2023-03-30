@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Río Oso</title>
+
+  	<para>Escrito por Bruce y Joel Levin</para>
+
+
+          <sect2><title>Ajustes</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior. Se da una carta boca arriba al primer montón de la fundación </entry>
+	</row>
+
+	<row>
+	  <entry>Tablero</entry>
+    	  <entry>Existen 18 montones en el tablero, ordenados en tres filas de seis montones cada una. Todas las cartas se reparten cara arriba y en abanico, para que todas las cartas sean visibles. Los primeros cinco montones de cada fila comienzan con tres cartas cada uno. El sexto montón de cada fila comienza con dos cartas cada uno.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Reglas</title>
+
+  <para>Una carta aleatoria ya se ha repartido a un montón de la fundación. El rango de la carta se convierte en la carta base. Las otras tres cartas con el mismo rango se pueden mover a una fundación vacía. Las fundaciones se construyen en orden ascendente, coincidiendo con el palo. Las cartas pueden «pasar» de la reina al rey, del rey al as, del as al dos. Las cartas en las fundaciones quizá no se puedan mover de nuevo a los montones del tablero.</para>
+  <para>Ninguno de los montones del tablero puede tener más de tres cartas. La carta superior de cada montón del tablero se puede mover a cualquier otro montón del tablero si el palo es el mismo y su valor es inmediatamente superior o inferior que la carta del montón al cuál se quiere mover. Las cartas «pasan» del rey al as y viceversa.</para>
+  <para>Existen dos tipos de montones en el tablero: montones «estándar» y montones «hueco». Los primeros cinco montones de cada fila (los que tienen tres cartas) son los montones estándar. Sobre un montón estándar vacío NO se puede mover una carta. El último montón de cada fila (los que tienen dos cartas) son los montones hueco. Sobre un montón hueco SÍ se puede mover una carta.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta movida al objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Estrategia</title>
+
+  <para>Intente liberar uno o más montones hueco lo antes posible.</para>
+  <para>Nunca existe desventaja al mover cartas a los montones de las fundaciones. Mueva todas las que le sea posibles y tan pronto como le sea posible.</para>
+  <para>Las cartas que tienen un rango inmediatamente inferior a la carta base pueden ser muy difíciles de mover. Tenga cuidado dónde las pone.</para>
+  <para>Río oso se puede ganar una de cada tres veces.</para>
+  
+        </sect2>
+        
+        
+</sect1>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gold_Mine"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Златни рудник</title>
+
+  <sect2><title>Поставка</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Остатак шпила се ставља овде после дељења на талон. Карте се три пута окрећу на отпад. Нема поновних дељења.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Узима се са гомиле. Можете играти картом са врха.</entry>
+	</row>
+	<row>
+	  <entry>„Темељи“</entry>
+	  <entry>Четири гомиле на врху. Слажу се по знаку од аса до краља. Карта са врха сваког „темеља“ се може вратити на талон.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>
+	    Seven piles, all empty to start.  
+        Gold Mine is a variation of <ulink type="help" url="ghelp:aisleriot#Klondike">Klondike</ulink>.  
+	    Tableau can be built down in alternating colors.  Groups of
+	    cards can be moved.  Empty piles can be filled with any card. 
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  </sect2>
+
+  <sect2><title>Циљ</title>
+  <para>Померити све карте у гомиле на „темељу“.</para>
+  </sect2>
+
+  <sect2><title>Правила</title>
+  <para>Карте на талону се слажу на доле по наизменичним бојама. Групе карата се могу померати заједно. Празно место на талону се може попунити било којом картом.</para>
+  <para>Карте се, по три, окрећу са гомиле на отпад. Карта на врху отпада је у игри. Када се гомила испразни, игра је готова. Само је једна шанса да убодете праву комбинацију и направите ваш златни рудник.</para>
+  <para>„Темељи“ се слажу од аса до краља. Карте на „темељу“ су у игри. Дуплим кликом карта се премешта на одговарајући „темељ“ ако је такав потез могућ.</para>
+  </sect2>
+
+  <sect2><title>Бодовање</title>
+  <para>Свака карта на „темељу“ доноси по један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+  </sect2>
+
+  <sect2><title>Стратегија</title>
+  <para>Пазите како попуњавате празна места. Добрим знањем је могуће освојити златни рудник већину времена. Ако не успете из прве, поново покрените игру и пробајте опет.</para>
+  </sect2>
+</sect1>

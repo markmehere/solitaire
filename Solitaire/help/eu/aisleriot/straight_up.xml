@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Straight_Up"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Eskaileran</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Karta sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila goian, eskuinean. Hasteko, bi karta banatu oinarri-pila bakoitzean. Irudiaren arabera, beherantz osatu behar dira, batekoraino.</entry>
+	</row>
+	<row>
+		<entry>Biltegia</entry>
+		<entry>Sortaren azpiko pila. Hasteko, jarri hor hamahiru karta. Goiko karta oinarri-piletan edo mahaian erabiltzeko prest dago.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Lau pila behean, eskuinean. Hasteko, karta bat banatu pila bakoitzean. Pilak irudiaren arabera osa daitezke. Hutsuneak automatikoki betetzen dira biltegitik. Biltegia hustutakoan, mahaiko leku hutsak hondarretik bete daitezke.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko kartak beherantz osatu behar dira, irudiaren arabera. Karta multzoak mugi daitezke. Mahaiko gune hutsak automatikoki betetzen dira biltegitik. Biltegia hutsik badago, toki hutsak hondarreko goiko kartaren bidez bete daitezke nahi duzunean.</para>
+	<para>Kartak banan-banan iraul daitezke sortatik hondarrera. Goiko karta jokoan erabiltzeko prest dago. Bi aldiz bana daiteke berriro</para>
+	<para>Oinarriak irudiaren arabera osatu behar dira, bikoetatik batekoetara. Oinarrietako kartak ezin dira gehiago erabili. Karta baten gainean bi aldiz klik eginez gero, dagokion oinarri-pilara joaten da, mugimendu hori egin baldin badaiteke.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarri-piletara mugitutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Ez zaitez atzean gelditu! Mugitu kartak oinarri-piletara ahal duzun guztietan.</para>
+        </sect2>
+</sect1>

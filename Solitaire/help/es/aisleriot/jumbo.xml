@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jumbo</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Doble baraja</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Todas las cartas se colocan aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Sólo hay un reparto.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Justo a la derecha del montón. Durante el juego las cartas se dan de una en una desde el montón. La carta de la cima está disponible para el juego.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Ocho montones en la parte superior derecha. Se construye ascendentemente por palo desde el as al rey. La carta de la cima de cada montón de la fundación se puede jugar de nuevo en el tablero.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Nueve montones. Se da una carta boca abajo a los nueve montones, luego una carta a los primeros ocho montones, seguidas de una carta a los primeros siete montones, etc, hasta que haya nueve cartas en el primer montón. Se da la vuelta a la última carta de cada montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se ordenan hacia abajo alternando el color. Se pueden mover grupos de cartas. Un montón vacío en el tablero se puede rellenar con un rey o un grupo de cartas con un rey en el fondo.</para>
+  <para>Las cartas se sacan del montón a la basura de una en una. La carta de la cima de la basura está en juego. Cuando se vacía el montón, se mueven todas las cartas de vuelta al montón, manteniendo el orden.</para>
+  <para>Los montones de la fundación se construyen ascendentemente por palo desde el as hasta el rey. Las cartas de la fundación se consideran todavía en juego. Pulsando dos veces en una carta hará que se mueva al montón adecuado de la fundación, si tal movimiento es posible.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 104</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

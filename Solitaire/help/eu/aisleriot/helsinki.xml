@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Helsinki</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak automatikoki joango dira mahaira toki bat husten denean.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Hamar pila. Jarri karta bat pila bakoitzean, gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak kentzea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Hamahiru batzen duten karta-bikoteak kendu behar dira. Batekoak bat balio du, txankak hamaika eta erreginak hamabi. Erregeak banan-banan kentzen dira.</para>
+  <para>Mahaiko pila hutsak automatikoki betetzen dira sortatik.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Kendutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ahal bezain azkarren jokatu.</para>
+        </sect2>
+</sect1>

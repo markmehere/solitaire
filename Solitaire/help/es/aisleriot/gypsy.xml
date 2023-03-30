@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gitano</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Doble baraja</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se dan en tandas de ocho, una en cada montón del tablero.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Ocho montones en la parte superior derecha. Se construye por palo desde el as hasta el rey. La carta de la cima de cada montón de la fundación se puede jugar de nuevo en el tablero.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+    <entry>Ocho montones. Se dan dos filas de cartas boca abajo y una fila boca arriba al comienzo. El tablero se puede construir alternando el color. Se pueden mover grupos de cartas. Los montones vacíos se pueden rellenar con cualquier carta o grupo.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas del tablero se construyen descendentemente alternando el color. Los grupos de cartas se pueden mover. Los montones vacíos se pueden llenar con cualquier carta o grupos de cartas.</para>
+  <para>En cada reparto se mueve una carta del montón a cada uno de los montones del tablero. Sólo hay un reparto inicial.</para>
+  <para>Los objetivos se construyen ascendentemente desde el as hasta el rey. Las cartas en los objetivos están todavía en juego. Pulsando dos veces en una carta del tablero hará que ésta se mueva al montón objetivo correspondiente, si tal movimiento es posible.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa 5 tantos. Cuando un montón de la fundación se completa (desde el as hasta el rey), puntúa 60 tantos más. Cada pareja en el tablero con orden alternativo puntúa dos tantos.</para>
+  <para>Máxima puntuación posible: 1000</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Intente y consiga descubrir cartas nuevas en el tablero siempre que sea posible. Recuerde que siempre puede traer de vuelta las cartas de la fundación al juego.</para>
+        </sect2>
+</sect1>

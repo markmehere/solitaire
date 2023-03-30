@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Tio i kors</title>
+
+	<para>Skrivet av James LewisMoss</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Temporär plats</entry>
+		<entry>Platser för att placera ett kort på utanför spelet. I spelets början är dessa platser fyllda. En av spelversionerna tillåter inte att man lägger nya kort på dessa platser när de är tomma.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Tio högar nedtill. Dela 10 kort från vänster till höger med det första och sista kortet med framsidan upp. Därefter lägger du tio kort från höger till vänster (omvänd) med de två första och de två sista korten med framsidan uppåt. Fortsätt med detta mönster (omvänd och med ytterligare ett öppet kort för varje rad) tills 50 kort har lagts ut. Placera de två sista korten på de tillfälliga platserna överst.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Skapa fyra högar bland bordshögarna alla i samma färg byggda från kung till ess.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Endast en kung kan flyttas till en tom bordshögplats.</para>
+	<para>Kort kan endast flyttas ovanpå ett annat kort om färgen matchar och det flyttade kortets valör är ett mindre än den som det flyttas till. Detta innefattar även att flytta en hög med kort i olika färg, så länge det översta kortet i den flyttade högen matchar bottenkortet i platsen det flyttas till.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+	<para>Tillåt användning av tillfälliga platser: Om den är markerad kan de tillfälliga platserna återanvändas.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Ingen poängräkning. Du vinner eller förlorar.</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Detta spel är svårt att vinna (som i högsta grad påverkas av hur korten är placerade till att börja med). Glöm inte att du har de tillfälliga platserna. Försök att tömma dem tidigt eftersom de är mycket användbara när du fastnar.</para>
+        </sect2>
+</sect1>

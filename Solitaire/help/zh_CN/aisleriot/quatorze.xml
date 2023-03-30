@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>夸托尔泽</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，桌面上发剩下的牌放在这儿，桌面上出现空位后，立即从发牌区移动一张过去。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>五行五列，每个位置放一张牌，游戏开始时每个空位已经放了一张牌。空位由发牌区填充，一旦发牌区为空，空位会被右边的牌依次移动过来填充，这样空位就被移到最后头了。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>如果一行或一列中，两张牌加起来是十四(J 是11，Q 是12，K 是13)，就可以被消去。</para>
+  <para>空位自动由发牌区填充，一旦发牌区为空，空位会被右边的牌依次移动过来填充，这样空位就被移到最后头了。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每消去一对牌得两分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>游戏中经常会出现只能移动一次，请完成它。一旦发牌区为空，桌面上就会有更多地移动。</para>
+        </sect2>
+</sect1>

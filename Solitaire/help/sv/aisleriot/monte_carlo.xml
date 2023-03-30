@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Carlo</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten delas ut efter att bordshögarnas kort har flyttat ihop.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Ett fem gånger fem rutnät, var och en kan innehålla ett kort. Ett kort delas ut till varje plats i spelets början. Tomma platser kan fyllas genom att flytta korten från höger till vänster, från kortet längst till vänster i raden under till platsen längst till höger och från högen till övriga tomma platser genom att klicka på högen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort kan tas bort i par som har samma valör så länge som de två korten ligger an horisontellt, vertikalt eller diagonalt.</para>
+  <para>Närhelst när det finns tomma platser i bordshögarna kommer en giv från högen att flytta alla korten i bordshögarna från höger till vänster och flytta upp dem en rad längst till höger om det behövs för att skapa tomma platser i slutet. Högen delar sedan ut till dessa tomma platser.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje par som tas bort ger två poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Håll ett öga på hur bordshögarna krymper vid en giv. Att lämna par kommer ibland att möjliggöra flera par att bli tillgängliga efter en giv.</para>
+        </sect2>
+</sect1>

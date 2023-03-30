@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gypsy</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Jeweils acht Karten werden zusammen gegeben, eine auf jeden Spieltisch.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Acht Ablagen oben rechts. Der Aufbau erfolgt aufsteigend nach Farbe von Ass bis König. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    <entry>Acht Stapel. Zum Start werden zwei Reihen verdeckt und eine Reihe offen ausgegeben. Der Spieltisch kann in wechselnden Farben aufgebaut werden. Kartengruppen können gleichzeitig verschoben werden. Leere Stapel können mit einer beliebigen Karte oder Gruppe gefüllt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Mehrere Karten können gleichzeitig verschoben werden. Leere Ablagen auf dem Spieltisch können mit jeder Karte oder mit Gruppen von Karten belegt werden.</para>
+  <para>Bei jeder Verteilung wird eine Karte vom Talon auf jeden Stapel des Spieltisches umgedreht. Es gibt keine Neuverteilungen.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte des Spieltisches wird diese auf den entsprechenden Fundamentstapel gelegt, falls ein solcher Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>
+    Each card in the Foundation scores 5 points.  When a Foundation pile
+    is complete (from Ace to King), 60 more points are scored.  Each
+    card pair on the Tableau in alternating order scores 2 points.
+  </para>
+  <para>Maximal erzielbare Punkte: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Try and expose new cards in the Tableau whenever possible.  Remember
+    you can always bring cards from the Foundation back into play.
+  </para>
+        </sect2>
+</sect1>

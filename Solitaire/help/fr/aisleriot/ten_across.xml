@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>À travers Dix</title>
+
+	<para>Écrit par James LewisMoss</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Emplacements temporaires</entry>
+		<entry>Emplacements où vous pouvez placer une carte hors du jeu. Ces emplacements sont remplis au début de la partie. Une version du jeu ne vous permet pas de mettre de nouvelles cartes dans ces emplacements une fois qu'ils sont vides.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Dix piles du bas. On distribue dix cartes de gauche à droite avec seulement la première et la dernière carte face visible. Puis de nouveau dix cartes de droite à gauche (ordre inversé) avec les deux premières et les deux dernières cartes face visible. Ainsi de suite (en inversant et en ajoutant une carte à chaque passage) jusqu'à ce que cinquante cartes soient distribuées. On place les deux dernières cartes dans les emplacements temporaires en haut.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Construire quatre piles dans le tableau, par couleur du Roi à l'As.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Seul un Roi peut être déplacé vers un emplacement vide du tableau.</para>
+	<para>Les cartes peuvent être déplacées sur d'autres cartes seulement si c'est la même couleur et que la carte déplacée a un rang juste inférieur à celle sur laquelle on veut la déplacer. Les suites peuvent être déplacées, du moment que les cartes qui seront l'une sur l'autre après le déplacement suivent la règle précédente.</para>
+
+	        </sect2>
+        <sect2><title>Options</title>
+
+	<para>Autoriser l'utilisation d'emplacements temporaires : si cette option est cochée, les emplacements temporaires peuvent être réutilisés.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Vous gagnez ou vous perdez. Il n'y a pas de score.</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Ce jeu est difficile à gagner. Cela est très dépendant de la façon dont les cartes sont placées au début du jeu. N'oubliez pas que vous avez les emplacements temporaires. Essayez de les libérer rapidement car ils vous seront très utiles quand vous serez bloqués.</para>
+        </sect2>
+</sect1>

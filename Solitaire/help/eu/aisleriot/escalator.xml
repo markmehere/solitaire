@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Eskailera mekanikoa</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Hemen kokatzen da karta sortaren gainerako zatia, eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriz banatu</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zazpi errenkada osatu behar dira, gainjarriak, kartak gora begira jarriz. Lehenengoan karta bat, bigarrenean bi karta, hirugarrenean hiru, eta, horrela, piramidea osatu arte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak hondarrera eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Piramidean agerian dauden karta guztiak erabiltzeko prest daude. Karta horiek hondarrera eraman behar dira ahal denean. Hondarraren gaineko kartak baino maila bat gehiago edo gutxiago duten kartak mugi daitezke hondarrera. Batekoak erregeen gainean edo bikoen azpian egon daitezke.</para>
+  <para>Kartak banan-banan iraultzen dira sortatik hondarrera. Ezin da berriro banatu.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Mahaitik kendutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 28</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Saiatu aurrera begira planifikatzen, etorkizunean eskailerak osatu ahal izateko.</para>
+        </sect2>
+</sect1>

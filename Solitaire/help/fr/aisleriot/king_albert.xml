@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Le Roi Albert</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut. À construire en montant par couleur et suite de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Sept piles sur la droite. Une carte est distribuée face visible sur chaque réserve au début. On ne peut pas construire sur les réserves. Les réserves vides ne peuvent pas être remplies.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Neuf piles, avec neuf cartes sur la première pile, huit sur la deuxième, et ainsi de suite jusqu'à une carte sur la dernière pile. Ces cartes sont distribuées face cachée. La carte supérieure de chaque pile est ensuite retournée.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les emplacements vides du tableau peuvent être remplis par n'importe quelle carte ou suite de cartes.</para>
+  <para>Les cartes des réserves peuvent être jouées sur le tableau ou les fondations. Les réserves vides ne peuvent pas être remplies.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes des fondations sont toujours en jeu.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Rappelez-vous que n'importe quelle carte peut être placée sur une case vide du tableau. Rendre accessibles de nouvelles cartes est la première priorité dans ce jeu.</para>
+        </sect2>
+</sect1>

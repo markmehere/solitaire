@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eight_Off"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Zortzikoa</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila ezkerrean. Osatu irudiaren arabera, batekotik erregera.</entry>
+	</row>
+	<row>
+	  <entry>Biltegiak</entry>
+	  <entry>Zortzi pila goian. Biltegiko pila bakoitzean karta bat egon daiteke. Lehen lau biltegi-piletan karta bana jartzen da joko-hasieran.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zortzi pila biltegi-pilen azpian. Mahaiko gune bakoitzean sei karta jartzen dira, gora begira.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko pilak beherantz osatzen dira, irudiaren arabera. Goiko karta edo karta multzoa soilik mugi daiteke. Karta multzoa mugitu ahal izango da, baldin eta zerrendako karta kopurua biltegian libre dagoen leku kopuruaren berdina edo txikiagoa bada. Erregeak edo erregearekin hasten diren karta multzoak soilik jar daitezke mahaiko toki hutsetan.</para>
+  <para>Oinarriak gorantz osatu behar dira irudiaren arabera, batekotik erregera. Oinarrietako kartak teknikoki oraindik jokoan erabil daitezkeen arren, ez dago horren beharrik, karta horiek erabiltzeak ez baitu laguntzen.</para>
+  <para>Mahaiko piletako goiko karta oro biltegiko leku huts batean koka daiteke. Karta horiek mahaira edo oinarri-pila batera eraman daitezke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletan kokatutako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Mugi daitezkeen karta guztiak eraman oinarrietara ahal bezain laster. Dauden tokian uzten badituzu, mugimenduak oztopatu besterik ez dute egingo.</para>
+        </sect2>
+</sect1>

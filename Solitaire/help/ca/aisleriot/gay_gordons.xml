@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gay Gordons</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Pila a la part superior esquerra. Aquí es reparteixen dues cartes cara amunt. La carta superior es pot jugar. No es pot tornar a omplir o construir.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Deu piles. Es reparteixen cinc cartes de cara amunt a cada pila. La carta superior de cada pila es pot jugar. Les piles buides no es poden omplir.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimeix totes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Suprimiu les cartes per parelles que sumin onze. Els reis s'emparellen amb les reines. Les jotes s'emparellen amb altres jotes.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada parella de cartes suprimida puntua dos punts.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu descobrir les cartes que estan enterrades sota la seva parella.</para>
+        </sect2>
+</sect1>

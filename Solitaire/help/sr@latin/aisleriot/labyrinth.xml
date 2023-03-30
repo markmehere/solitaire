@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Lavirint</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile gore desno. Asovi se stavljaju na njihove odgovarajuće „temelje“ pre mešanja špila.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Na početku igre se deli jedna otvorena karta na svaku od gomila na talonu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Složiti bilo koju kartu sa talona po znaku i vrednosti na „temelj“. Prazna mesta se automatski popunjavaju sa gomile.</para>
+  <para>Kada ništa od osam karata sa talona ne može da se odigra, kliknite na gomilu da podelite novu turu karata na svaku gomilu talona. Prazna mesta na talonu se više ne pune automatski.</para>
+  <para>Karte na vrhu i na dnu gomila na talonu se mogu pomerati na „temelje“. Na talonu se karte ne mogu slagati. Nema ponovnih deljenja.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta postavljena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Naspavajte se noć pre igranja da biste bili vedri i oprezni dok igrate ovu igru. Pomerajte svaku kartu koju možete na „temelje“. Uživajte!</para>
+        </sect2>
+</sect1>

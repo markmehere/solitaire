@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hopscotch</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. Totes les cartes es col·loquen aquí al començament de la partida, excepte des de l'as al quatre de trèvols. Les cartes es reparteixen individualment a la pila de descartades.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Directament a la dreta de la pila principal. Només pot tenir una carta a la vegada. La carta s'ha de col·locar immediatament a una pila base o a la pila de la reserva de la vostra elecció.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la part superior, a la dreta de la pila principal. Es col·loca un as a la primera pila, un dos a la segona pila, un tres a la tercera pila i un quatre a la quarta pila. La primera pila base es construeix pujant d'un en un, la segona es construeix pujant de dos en dos, la tercera de tres en tres i la quarta de quatre en quatre, tots saltant a l'as quan se supera el tretze. Les cartes a les bases no es poden jugar. Els pals no importen.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>Quatre piles col·locades sota les bases. Les cartes a la reserva només es poden jugar a les piles base. Les cartes es poden moure des de la pila de descartades a qualsevol de les piles de la reserva.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les bases.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Construïu les bases d'un en un, de dos en dos, de tres en tres i de quatre en quatre per les piles un, dos, tres i quatre respectivament. Les cartes es reparteixen individualment a la pila de descartades des de la pila principal. Tot i això, com que la pila de descartades només pot tenir una carta, aquesta carta s'ha de jugar immediatament a una pila base o a una de les quatre piles de la reserva. Les cartes de les piles de la reserva no es poden reordenar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta moguda a la base puntua un punt.</para>
+	<para>Puntuació màxima possible: 48</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Milloreu les vostres habilitats per a aquest joc. Aquí la sort no us portarà molt lluny. Intenteu no cobrir les cartes que necessitareu aviat. Penseu en reservar una columna només per a reis (ja que són l'última carta a jugar a cada base).</para>
+        </sect2>
+</sect1>

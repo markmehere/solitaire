@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Orlovo krilo</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon. Karte se okreću na otpad jedna po jedna. Dozvoljena su dva ponovna deljenja.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Odmah desno od gomile. Skida se sa gomile. Karta sa vrha je u igri.</entry>
+	</row>
+	<row>
+	  <entry>„Temelji“</entry>
+	  <entry>
+	    Four piles top right.
+	    One card is dealt in the first Foundation at the start of the game,
+	    this is the base card.
+	    Other Foundations must be started with a card of the same rank as the
+	    base card.
+	    To be built up in suit from the base card.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Srednje (i najniže) mesto. Podeliti trinaest zatvorenih karata ovde. Okrećite karte da popune bilo koje mesto na talonu. Kada na rezervi ostane samo jedna karta, ona će se okrenuti i može se pomeriti na „temelj“ ili na talon.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Osam mesta (četiri levo i četiri desno od rezerve). Deli se po jedna okrenuta karta na svako mesto. Talon može da se slaže na dole po znaku. Karte se mogu pomerati na druga mesta na talonu po jedna, ili u nizovima na „temelj“. Svako mesto na talonu može da drži najviše tri karte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu na dole po znaku. Karte se mogu pomerati na druge gomile na talonu jedna po jedna, ali, da bi se izbegla monotonost, nizovi karata se mogu pomerati na „temelj“. Prazno mesto na talonu se automatski popunjava iz rezerve. Ako je i rezerva prazna, prazno mesto se može popuniti bilo kartom sa otpada ili iz druge gomile sa talona.</para>
+  <para>Rezerva uglavnom služi samo za deljenje karata na prazna mesta u talonu, ali kada na rezervi ostane samo jedna karta ona se okreće i u igri je.</para>
+  <para>Karte se sa gomile na otpad okreću jedna po jedna. Kada je gomila prazna, sve karte sa otpada mogu se vratiti nazad na gomilu u istom redosledu. Kroz špil ovako možete proći tri puta.</para>
+  <para>„Temelji“ se slažu po znaku od osnovne karte (prve karte podeljene na prvi „temelj“). Novi „temelji“ se započinju kada se na prazan „temelj“ stavi karta sa istom vrednošću kao i karta sa prvog „temelja“. Asovi se stavljaju na kraljeve, dvojke na asove... Karte sa „temelja“ nisu u igri.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Malo planiranja nije na odmet. Proverite sve pre nego što nagomilate karte na talon. Ne zaboravite pravilo od maksimalno tri karte po jednom mestu sa talona.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sir Tommy</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Na začátku hry se zde položí všechny karty. Karty se po jedné lížou do otočených.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Napravo od volných. Smí obsahovat jen jednu kartu. Kartu je potřeba ihned zahrát buď do seřazených nebo do záložních, záleží na vás.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky napravo od otočených. Musíte skládat postupky od esa po krále bez ohledu na barvu.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Čtyři hromádky napravo vedle otočených. Karty ze záložních lze zahrát jen do seřazených.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>V seřazených musíte skládat postupky od esa po krále bez ohledu na barvu. Karty v seřazených již nejsou ve hře. Karty se lížou po jedné z volných do otočených. Protože však hromádky v otočených smí obsahovat jen jednu kartu, musí být tato ihned zahrána do seřazených nebo záložních. Karty v záložních nelze nijak přehazovat.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta přesunutá do seřazených je hodnocena 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Snažte se v záložních nepokládat karty s vyšší hodnotou na karty s nižší hodnotou.</para>
+        </sect2>
+</sect1>

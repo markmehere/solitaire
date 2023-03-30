@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Peek"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>皮克</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>保留区</entry>
+		<entry>左边四垛展开的牌，每垛有四张翻开的牌，不能相互移动。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右边的四垛牌，第一个空位里放了一张牌。</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>所有剩余的牌放在这儿，每次往废牌区发一张牌，可以重复两次。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>所有与收牌区第一个牌花色相同的牌可以放在这里，不需要按顺序，其他空位也必须按第一个基准牌的点数开始收牌。开始后，后面的收牌区位置只能按照第一个位置的牌来收取，从保留区移动牌也遵守这个规则。</para>
+	<para>牌从发牌区逐个翻到废牌区中，最上面的一张可以放到桌面上，当发牌区空了，可以把废牌区的牌按原来顺序收回来重新发。您有三次重复机会。</para>
+
+	        </sect2>
+        <sect2><title>选项</title>
+
+ 	<para>发三张牌：每次从收牌区往废牌区发三张牌，不限制发牌次数。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得一分。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>保留区的牌可以看到，所以请选择一个恰当的排列顺序。</para>
+        </sect2>
+</sect1>

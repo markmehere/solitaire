@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Rvačka</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Na začátku hry se zde položí všechny karty vyjma es. Kliknutím na hromádku volných se lízne po jedné kartě na každou hromádku záložních. Hromádku lze projít třikrát.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky nahoře po pravé straně od volných. Na místo každé hromádky se na začátku hry položí eso. Hromádky v seřazených se musí skládat do vzestupných postupek bez ohledu na barvu.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Čtyři hromádky pod seřazenými. Po každé, když kliknete na hromádku volných, lízne se po jedné kartě na každou hromádku záložních. Horní karty jsou k dispozici do hry. Ze záložních je možné karty přesouvat pouze do seřazených.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Hra začíná líznutím čtyř karet lícem nahoru do záložních. Pokud je to možné, hrajte karty ze záložních do seřazených. Pokračujte v tomto postupu, dokud ve volných nezbude žádná karta a nelze provést žádný tah do seřazených.</para>
+  <para>Vezměte všechny karty, které zůstaly v záložních a zamíchejte je. Položte je zpět do volných, od kud je můžete znovu lízat. Tento krok je možné zopakovat dvakrát.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta umístěná do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Pokuste se pamatovat, co je v hromádkách v záložních. Když pak máte na výběr, z které hromádky táhnout, pomůže vám tato vědomost vybrat tu správnou kartu.</para>
+        </sect2>
+</sect1>

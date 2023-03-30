@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenvud</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde posle deljenja na talon i rezerve. Karte se okreću jedna po jedna na otpad. Dozvoljeno je jedno ponovno deljenje.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile gore desno. Prvi „temelj„ započinje igrač birajući kartu sa rezerve. Slaže se na gore po boji, sa prelamanjem od kralja do asa ako je potrebno.</entry>
+	</row>
+	<row>
+	  <entry>Rezerve</entry>
+	  <entry>Četiri gomile sa po tri otvorene karte na levoj strani. Karta na vrhu svake rezerve je u igri. Karte se ne mogu stavljati na prazna mesta u rezervi.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Četiri gomile ispod „temelja“. Deli se po jedna otvorena kartu na svaku gomilu. Talon se može slagati na dole po naizmeničnim bojama. Karta sa vrha se može staviti na „temelj“, a cele gomile premestiti na druge gomile talona.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Osnovna stvar koju morate uraditi je izbor neke od dostupnih karata za prvi „temelj“. Kada se ona izabere, svi ostali „temelji“ moraju da kreću od karte sa istom vrednošću.</para>
+  <para>„Temelji“ se slažu po znaku, sa prelamanjem sa kralja na asa, ako je potrebno. Kada se karta jednom stavi na „temelj“, više nije u igri.</para>
+  <para>Karte na talonu se slažu na dole po naizmeničnim bojama. Cele gomile karata se mogu pomerati na druge gomile na talonu. Prazna mesta na talonu se mogu popuniti bilo kojom kartom sa rezerve, ili, ako je rezerva prazna, sa otpada.</para>
+  <para>Karte se okreću jedna po jedna sa gomile na otpad. Imate jedno ponovno deljenje.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta postavljena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pažljivo birajte kartu za prvi „temelj“. Pokušajte da sklonite karte sa rezerve što pre možete. Nekad je bitnije ostaviti karte u igri nego ih staviti na „temelj“.</para>
+        </sect2>
+</sect1>

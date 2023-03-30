@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Triple Peaks</title>
+
+	<para>Escrito por Richard Holescher</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Todo el juego está en el montón de la basura. Las cartas boca abajo no son parte de la puntuación en curso.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Se dan 18 cartas boca abajo formando tres triángulos, con tres filas por cada triángulo, incrementando en una carta cada fila. Se conectan los tres triángulos dando otras 10 cartas boca arriba en la fila de abajo. Las cartas del final de cada fila deberían solaparse con las de la fila de arriba, y las cartas del interior se deberían solapar con las cartas adyacentes de cada fila.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Elimine todas las cartas del tablero.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas expuestas en el tablero están disponibles para el juego. Se construye en la carta de la cima de la basura con cartas inmediatamente superiores o inferiores a ella desde el tablero y sin importar el palo. Los ases tienen un rango superior a los reyes e inferior a los doses.</para>
+	<para>Las cartas del tablero están disponibles cuando no están cubiertas por otras cartas.</para>
+	<para>Las cartas se sacan de una en una desde el montón a la cima de la basura.</para>
+
+	        </sect2>
+        <sect2><title>Opciones</title>
+
+	<para>Multiplicador de puntuación: los puntos se duplican con cada carta jugada en un tanda. Una tanda de cinco cartas puntuará 1, 2, 4, 16 y 32 puntos, con un total de 55 puntos. Las bonificaciones valen 25 puntos. No se descuentan puntos por jugar una carta del montón a la basura.</para>
+	<para>Rondas progresivas: después de que todas las cartas se hayan eliminado del tablero, comienza una nueva ronda. La puntuación de la última ronda se acumula en la nueva.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>La puntuación de cada carta jugada es igual al número de cartas que haya jugado desde que se sacó la última carta del montón a la basura. Cuanto más larga es la jugada, más alta será la puntuación.</para>
+	<para>Se descuentan 5 puntos al sacar una carta del montón a la basura. Cada triángulo limpio da una bonificación de 15 puntos y se recompensa con 15 puntos adicionales cuando se eliminan todas las cartas del tablero.</para>
+	<para>Máxima puntuación posible de una ronda simple: 466</para>
+        </sect2>
+</sect1>

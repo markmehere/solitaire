@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Seahaven"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>海港</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>四垛牌——两个在左上角，两个在右上角，按花色从 A 到 K 收牌。</entry>
+	</row>
+	<row>
+	  <entry>保留区</entry>
+	  <entry>上边中间的四垛牌，每个空位只能放一张牌，开始时两个位置已经各放一张牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>在发牌区和收牌区下边的十垛牌，放置其他五十张牌，每垛五张。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色递减排序，最上面的牌可以移动。要移动一组牌，那么这组牌的数目必须是小于或等于保留区空位的数目。桌面上的空位置可以放 K 或者是 K 开头的一组牌。</para>
+  <para>收牌区按花色从 A 到 K 递增收牌，虽然这儿的牌从技术上讲，还可以用在游戏中，但实际上这些牌已经毫无用处，游戏不再需要了。</para>
+  <para>桌面上的任何牌都可以放入保留区的空位中，这些牌还可以用在游戏中，也可以直接移动到收牌区。</para>
+  <para>为了方便，按顺序排列的牌可以一起移到对应的收牌区，不用一个一个地移动。这在游戏结束时非常方便。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>尽可能地把牌移到收牌区，留下来反而会碍手碍脚。</para>
+        </sect2>
+</sect1>

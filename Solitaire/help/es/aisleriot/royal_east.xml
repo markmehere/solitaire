@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Este real</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en las esquinas de la malla de tres por tres. Se da una carta al primer montón de la fundación. Esta carta es ahora la carta base. Se construye ascendentemente por palo, colocando los ases sobre los reyes si es necesario.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Se da una carta boca arriba en cada uno de los cinco montones del tablero. Estos montones son los que forman una cruz en la rejilla de tres por tres.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a la fundación.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se construyen boca abajo sin importar el palo. Los reyes se colocan sobre los ases. Las cartas sólo se mueven de una en una. Cualquier carta disponible se puede colocar en un montón vacío.</para>
+  <para>Cada montón de la fundación debe comenzar con una carta del mismo rango que la carta base. Los montones de la fundación se construyen ascendentemente por palo desde la carta base, colocando los ases sobre los reyes si es necesario. Las cartas de los montones de la fundación no están disponibles para el juego.</para>
+  <para>Las cartas se sacan de una en una del montón a la basura. La carta de la cima de la basura siempre está disponible para el juego. No hay repartos.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta en los montones de la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Los tesoros escondidos son cosas maravillosas, pero sólo si se sabe que están allí. Mantenga un seguimiento de en qué montones están las cartas ya que ésta información le vendrá muy bien.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Obležený hrad</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky v prostředním sloupci. Před zamícháním jsou zde položena čtyři esa, na každou hromádku jedno. Skládejte zde postupky od esa po krále. Vrchní kartu na každé z hromádek je možné vrátit do hry na rozdané.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm hromádek (čtyři vlevo a čtyři vpravo od seřazených). Všechny karty se rozdají lícem nahoru a rozloží tak, že ve všech osmi hromádkách je po šesti kartách a na všechny karty je vidět.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek bez ohledu na barvu. V každém tahu můžete přesunout jen jednu kartu. Na prázdné pozice je možné položit jednu libovolnou kartu.</para>
+  <para>Seřazené se skládají vzestupně v jedné barvě.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta, jiná než původní eso, v seřadišti je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Pokud je to možné, skládejte karty do seřazených rovnoměrně. Zkuste získat volnou pozici.</para>
+        </sect2>
+</sect1>

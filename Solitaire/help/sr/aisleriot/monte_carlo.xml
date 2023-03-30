@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Монте Карло</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. Карте се деле тако што се талон споји на празна места.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Мрежа пет са пет, где свако место може да држи по једну карту. На почетку се дели једна карта на свако од места. Празна места се могу попуњавати померајући карте са десна на лево, а од места скроз лево на скроз десно место у реду изнад и са гомиле на сва преостала празна места кликом на њу.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карте се могу уклонити у паровима ако имају исту вредност и ако се додирују водоравно, усправно или дијагонално.</para>
+  <para>У сваком тренутку ако има празних места, дељење са гомиле ће померити све карте са десна на лево и померајући их скроз десно у реду изнад ако су скроз лево у реду испод, правећи тако места за дељење нових карата. Са гомиле се онда дели на ова празна места.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки уклоњени пар карата доноси два поена.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Држите на оку како се талон сажима када делите карте. Некад је боље оставити пар да би после дељења било више парова.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Toutes les cartes sont placées dans la pioche au début du jeu. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. Ne peut contenir qu'une seule carte qui doit être jouée immédiatement sur le tableau.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Grille de quatre cases sur quatre, chacune pouvant contenir une carte. Les Rois ne peuvent être placés que dans un coin. Les Dames ne peuvent être placées que dans les deux emplacements du milieu de la première et de la dernière rangée. Les Valets ne peuvent être placés que dans les deux emplacements du milieu de la première et de la dernière colonne.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Enlever toutes les cartes sauf les têtes (Valets, Dames et Rois). Vous avez gagné quand le tableau ressemble à ceci...</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Le tableau gagnant.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>...et que la pioche et la défausse sont vides. Les couleurs sont sans importance.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Il y a deux phases dans ce jeu. Alternez entre les deux phases jusqu'à ce que la partie soit gagnée ou perdue. Commencez avec la phase 1 jusqu'à ce que le tableau soit complètement rempli. À ce moment-là, commencez la phase 2. Notez que vous ne pouvez pas commencer la phase 2 si le tableau n'est pas complètement rempli. À tout moment, vous pouvez retourner à la phase 1, mais rappelez-vous que vous ne pouvez revenir à la phase 2 que lorsque le tableau et de nouveau plein. Une exception à cette règle se produit si la pioche et la défausse sont vides.</para>
+	<para>Phase 1 : cliquez sur la pioche pour déplacer une carte vers la défausse vide. Si la carte est :</para>
+	<itemizedlist>
+		<listitem>
+			<para>Roi : placez-le dans un des coins vide.</para>
+		</listitem>
+		<listitem>
+			<para>Dame : placez-la dans un emplacement vide, parmi les deux emplacements du milieu de la rangée du haut ou de la rangée du bas.</para>
+		</listitem>
+		<listitem>
+			<para>Valet : placez-le dans un emplacement vide, parmi les deux emplacements du milieu de la colonne de gauche ou de la colonne de droite.</para>
+		</listitem>
+		<listitem>
+			<para>Toute autre carte : placez la carte dans un emplacement vide.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Phase 2 : enlevez les 10 en cliquant sur eux. Enlevez les paires de cartes dont la somme fait 10 en faisant glisser une des deux cartes sur l'autre.</para>
+	<para>La partie est perdue si une figure ne peut pas être mise dans un emplacement approprié ou si tous les emplacements sont pleins et qu'aucune carte ne peut être enlevée.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 40</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>C'est toujours plus sûr dans le milieu. Pendant la première phase du jeu, mettez des cartes au milieu avant d'aller sur les bords. Si vous voyez une paire possible, placez cette carte sur un bord afin de libérer plus d'emplacements sur les bords pendant la deuxième phase du jeu.</para>
+        </sect2>
+</sect1>

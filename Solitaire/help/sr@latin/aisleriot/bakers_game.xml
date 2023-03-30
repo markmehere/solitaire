@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Game"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pekarova igra</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile gore desno. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Rezerve</entry>
+	  <entry>Četiri gomile gore levo. Svaka rezerva može da drži po jednu kartu.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Osam gomila ispod „temelja“ i rezervi. Dele se otvorene karte na talon, sa po sedam karata u prva četiri mesta i šest karata u preostala četiri mesta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Talon se slaže po znaku. Samo karta sa vrha ili niz karata se može pomerati. Niz složenih karata se može pomerati samo ako broj karata u nizu jednak ili manji od broja praznih mesta u rezervi plus 1. Prazna mesta na talonu se mogu popunjavati samo kraljevima ili nizom karata koji počinje kraljem.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Iako su karte sa „temelja“ tehnički u igri, nema potrebe vraćati ih nazad jer nikako ne pomažu.</para>
+  <para>Svaka karta sa vrha talona se može staviti na prazno mesto na rezervi. Ove karte se mogu posle pomerati na gomile na talonu ili „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta postavljena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Što pre pomerajte karte na „temelj“. Kada ih ostavljate naokolo, samo smetaju kretanju ostalih karata.</para>
+        </sect2>
+</sect1>

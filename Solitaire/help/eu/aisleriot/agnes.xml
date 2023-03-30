@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+  <sect2><title>Konfigurazioa</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Zazpiko multzotan banatzen dira kartak, mahaiko pila bakoitzeko bana.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian, eskuinean. Irudiaren arabera eta elkarren segidan bete behar dira, erregetik batekora pasatuta behar izanez gero. Lehen oinarri-pilan karta bat jarriko da. Gainerako oinarri-pilak maila bereko kartekin hasi behar dira.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+    <entry>Zazpi pila. Banatu karta bat lehenengo pilan gora begira. Jarri karta bana gainerako piletan behera begira. Hurrengo pilan, jarri karta bat gora begira, eta horren hurrengo piletan karta bana behera begira. Horrela jarraitu azken pilan zazpi karta izan arte. Mahaiko pilak beherantz osa daitezke, koloreka (gorria eta beltza). Karta multzoak mugi daitezke. Sorta berriz banatzean soilik bete daitezke pila hutsak.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Xedea</title>
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+  </sect2>
+  <sect2><title>Arauak</title>
+  <para>Mahaiko piletako kartak kolorearen arabera osatu behar dira. Elkarren segidan dauden kolore bereko karta multzoak batera mugi daitezke.</para>
+  <para>Eskualdi bakoitzean, sortako karta bat mahaiko pila bakoitzera mugitzen da. Ezin da berriz banatu.</para>
+  <para>Irudiaren arabera osatzen dira oinarriak, eta segidan bete behar dira; erregetik batekora pasa daiteke, hala behar izanez gero. Oinarrietako kartak oraindik erabil daitezke. Mahaiko pila bateko karta baten gainean bi aldiz klik eginez gero, dagokion oinarri-pilara mugitzen da karta hori, mugimendu hori egin baldin badaiteke.</para>
+</sect2>
+  <sect2><title>Puntuak</title>
+  <para>Oinarriko karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+</sect2>
+
+  <sect2><title>Estrategia</title>
+  <para>Saiatu ahal denean irudiaren arabera beherantz osatzen. Saiatu ahal bezainbeste puntu lortzen, jokoa irabaztea oso zaila baita.</para>
+</sect2>
+</sect1>

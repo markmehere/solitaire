@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Faster Mary</title>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>Fyra högar längst upp till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sex högar, lägg ett kort med framsidan upp i första högen. Lägg ett kort med framsidan nedåt på de övriga högarna. Lägg ett kort med framsidan upp på de två första högarna sedan ett kort med framsidan nedåt på de övriga högarna. Lägg tre kort med framsidan uppåt och de övriga högarna med framsidan nedåt och så vidare. Detta upprepas tills det finns sex högar med sex kort vardera. Bordshögarna byggs ned i fallande ordning i växlande kulörer. Sviter av kort kan flyttas. Tomma högar kan bara fyllas av kungar eller en svit som börjar med en kung.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned genom att växla kulör. Sviter av kort kan flyttas. En tom bordshög kan fyllas med en kung eller en grupp av kort med en kung i botten.</para>
+  <para>Korten vänds från högen till kasthögen ett åt gången. Översta kortet i kasthögen är spelbart. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till Högen. Du kan gå igenom kortleken tre gånger.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Faster Mary är extremt svårt och sällan lösbart. Den verkliga utmaningen är inte att avsluta utan att se hur långt man kan komma.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

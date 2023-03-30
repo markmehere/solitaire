@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Аулд Ланг Сајн</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте осим асева се стављају овде на почетку игре. Када кликнете на гомилу, дели се по једна карта на свако од четири места у резерви.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири места на врху, десно од гомиле. Да би игра почела, постави се ас на сваки „темељ“. „Темељи“ се слажу независно од знака.</entry>
+	</row>
+	<row>
+	  <entry>Резерва</entry>
+	  <entry>Четири гомиле испод „темеља“. Сваки пут када кликнете на гомилу, једна карта одлази на свако место у резерви. Карта на врху је у игри. Карте са резерве се могу померати само на „темељ“.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте на „темељ“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Игра почиње пошто се поделе четири карте на резерву. Ако је могуће, пребаците карте са резерве на „темељ“. Наставите овако док се гомила не испразни и нема више могућих потеза. Слична игра која је мало лакша је Скафл.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака уклоњена карта доноси један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Верујете ли у срећу? Иако ова игра захтева више умећа од игре Сат, важнија је добра пажња и преглед карата. Изврсна игра за играње без размишљања.</para>
+        </sect2>
+</sect1>

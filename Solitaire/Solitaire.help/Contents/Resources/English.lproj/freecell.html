@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Freecell</title>
+    <link rel="stylesheet" href="index.css" type="text/css"></link>
+  </head>
+  <body>
+    <a name="freecell"></a>
+    <h1>Freecell</h1>
+    <p class="author">Written by Changwoo Ryu</p>
+    <div>
+      <h2>Setup</h2>
+      <table><tbody><tr><td>Type of Deck</td><td>Standard Deck</td></tr><tr><td>Reserves</td><td>Four left piles on top row. Each Reserve pile can only hold one card.</td></tr><tr><td>Foundation</td><td>Four piles top right. To be built up in suit from Ace to King. Cards in Foundations are no longer in play.</td></tr><tr><td>Tableau</td><td>Eight piles. Deal all cards face up on to these eight piles, ending up with seven cards in each of the first four piles and six cards in the last four piles. Tableau can be built down in alternating colors. Cards can only be moved singly, but as a shortcut, if there are enough Reserve piles free to allow it, cards in sequence can be moved together.</td></tr></tbody></table>
+    </div>
+    <div>
+      <h2>Goal</h2>
+      <p>Move all cards to the Foundation piles.</p>
+    </div>
+    <div>
+      <h2>Rules</h2>
+      <p>
+        Cards in the Tableau are built down by alternating color. Groups of
+		cards can be moved if there are enough Reserve piles free to allow the
+		move if the cards were moved singly. An empty pile in the Tableau can
+		be filled with any card or group of cards.
+      </p>
+      <p>
+        Foundations are built up in suit from Ace to King. Cards in Foundations
+		are not in play. Double clicking on a card will move it to the
+		appropriate Foundation pile if such a move is possible.
+      </p>
+      <p>Cards in Reserve piles can be played back on to Tableau or on to the Foundation.</p>
+    </div>
+    <div>
+      <h2>Scoring</h2>
+      <p>Each card in the Foundation piles scores one point.</p>
+      <p>Maximum possible score: 52</p>
+    </div>
+    <div>
+      <h2>Strategy</h2>
+      <p>Space is a valuable commodity. Keep as many of the Reserve piles free as possible.</p>
+    </div>
+  </body>
+</html>

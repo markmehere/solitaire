@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Scorpion</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Les trois dernières cartes sont placées ici après la distribution.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Sept piles à droite de la pioche. On distribue une carte face cachée sur les quatre premières colonnes. On distribue une carte face visible sur les trois dernières colonnes. On répète ces deux opérations encore deux fois. On distribue une carte face visible sur toutes les piles encore quatre fois.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Construire quatre piles de treize cartes chacune, en descendant par couleur du Roi à l'As.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau sont à construire en descendant par couleur. Les groupes de cartes peuvent être déplacés quel que soit l'ordre. Une pile vide dans le tableau peut être remplie par un Roi ou un groupe de cartes commençant par un Roi.</para>
+	<para>À tout moment, un clic sur la pioche distribue les trois dernières cartes, une sur chacune des trois premières piles.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Pour chaque suite en couleur, les points obtenus sont : (longueur de la suite) - 1. Chaque fois qu'une suite de treize cartes est construite et se trouve sur son propre emplacement, vous gagnez quatre points supplémentaires. Atteindre une carte qui était face cachée donne trois points.</para>
+	<para>Score maximum possible : 100</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Démêler des nœuds est rarement facile. Évitez de vous empêtrer vous-même dans une situation sans issue.</para>
+        </sect2>
+</sect1>

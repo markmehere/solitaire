@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Kralj Albert</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile na vrhu. „Temelji“ se slažu po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Sedam gomila desno. Na početku se deli po jedna karta na svako mesto u rezervi. Na rezervama se karte ne mogu slagati. Prazna mesta na rezervi se ne mogu popunjavati.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Devet gomila karata, sa po devet karata na prvoj gomili, osam na drugoj i tako dalje, do jedne karte na poslednjoj gomili. Sve karte se prvo dele zatvorene, a onda se karta sa vrha svake gomile okreće.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu na dole po naizmeničnim bojama. Prazna mesta na talonu se mogu popuniti bilo kojom kartom ili nizom karata,</para>
+  <para>Karte sa rezerve se mogu pomerati na talon ili na „temelje“. Prazna mesta na rezervi se ne mogu popunjavati.</para>
+  <para>„Temelji“ se slažu po znaku od asa do kralja. Karte na „temelju“ nisu više u igri.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Zapamtite da se bilo koja karta može staviti na prazno mesto u talonu. Otkrivanje novih karata je najvećeg prioriteta u ovoj igri.</para>
+        </sect2>
+</sect1>

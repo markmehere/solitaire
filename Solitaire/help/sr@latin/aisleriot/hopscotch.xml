@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hopskoč</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve karte, osim asa, dvojke, trojke i četvorke tref se stavljaju ovde na početku igre. Karte se, jedna po jedna, okreću na otpad.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Odmah desno od gomile. Može da drži samo jednu kartu. Karta mora odmah biti stavljena ili na gomilu „temelja“ ili na neko od mesta u rezervi po vašem izboru.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri mesta na vrhu, desno od gomile. As se postavlja na prvu gomilu, dvojka na drugu, trojka na treću, a četvorka na četvrtu gomilu. Prvi „temelj“ se slaže za po jednu vrednost karte više, drugi za po dve, treći za po tri, a četvrti za po četiri vrednosti karte više. Svi „temelji“ se prelamaju na asa kada se pređe trinaest. Karte na „temelju“ nisu u igri. Znaci nisu bitni.</entry>
+	</row>
+	<row>
+		<entry>Rezerva</entry>
+		<entry>Četiri gomile ispod „temelja“. Karte sa rezerve mogu da se igraju samo na „temelje„. Karte pomerene sa otpada se mogu staviti na bilo koju rezervu.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte na „temelj“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Izgraditi za po jednu, dve, tri i četiri karte prvi, drugi, treći i četvrti temelj respektivno. Karte se okreću jedna po jedna sa gomile na otpad. Pošto otpad može da drži samo jednu kartu, ova karta se odmah mora odigrati na „temelj“ ili na neku od rezervi. Karte sa rezerve se ne mogu preslagati.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta pomerena na „temelj“ donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Izoštrite dobro vaše umeće. Sreća vam ovde neće mnogo pomoći. Gledajte da ne pokrivate karte koje će vam uskoro trebati. Razmišljajte da čuvate jednu rezervu samo za kraljeve (pošto su oni poslednje karte koje idu na svaki „temelj“).</para>
+        </sect2>
+</sect1>

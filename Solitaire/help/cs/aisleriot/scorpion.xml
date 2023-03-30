@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Škorpión</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí poslední tři karty.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Sedm hromádek napravo od volných. Na první čtyři řady se rozdá po jedné kartě lícem dolů. Na zbývající tři po kartě lícem nahoru. To stejné se zopakuje ještě dvakrát, takže budou rozdány tři řádky. Na další čtyři řádky se rozdají všechny karty lícem nahoru.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Vytvořit čtyři hromádky po třinácti kartách na každé, přičemž hromádka musí obsahovat jednu barvu v pořadí podle hodnoty.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barvě. Skupiny karet lze přesouvat bez ohledu na postupky. Prázdné hromádky v rozdaných se dají obsadit králem nebo skupinou karet s králem vespod.</para>
+	<para>V kterýkoliv okamžik můžete kliknout na hromádku volných a líznou se tři karty, po jedné do prvních třech hromádek.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Body dostanete za každou postupku v barvě (délka postupky méně jedna). Pokaždé, když je vytvořena plná postupka třinácti karet na své vlastní hromádce, dostáváte navíc 4 body. Za dosažení karet otočených lícem dolů jsou další 3 body.</para>
+	<para>Maximální možný počet bodů: 100</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Rozmotání uzlů není vždy snadné. Snažte se nezamotat tak, že byste nenašli cestu ven.</para>
+        </sect2>
+</sect1>

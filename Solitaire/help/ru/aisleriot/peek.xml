@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Peek"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Подглядки</title>
+
+	<para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+	        <sect2><title>Описание</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Резервы</entry>
+		<entry>Четыре сдвинутых стопки слева. На каждую стопку сдаётся по четыре карты лицом вверх. Собирать карты в резервах нельзя.</entry>
+	</row>
+	<row>
+		<entry>Основание</entry>
+		<entry>Четыре стопки справа. На первое основание сдаётся одна карта.</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Сюда кладутся все оставшиеся карты. На сброс карты сдаются по одной за раз. Две пересдачи.</entry>
+	</row>
+	<row>
+		<entry>Сброс</entry>
+		<entry>Набирается из колоды. Верхнюю карту можно перемещать.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Задача</title>
+
+	<para>Переложить все карты на основания.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Любую карту масти первого основания всегда можно переложить на это основание. Сбор карт в каждом очередном основании должен начинаться с карт такого же достоинства, как основная, после чего в основание можно поместить любую карту его масти при условии, что карта такого достоинства есть в основании выше.</para>
+	<para>Карты перекладываются из колоды на сброс по одной. Верхнюю карту сброса можно перемещать. Когда в колоде не остаётся карт, можно переместить все карты сброса назад в колоду, сохраняя порядок. Две пересдачи.</para>
+
+	        </sect2>
+        <sect2><title>Параметры</title>
+
+ 	<para>Сдавать по три карты: карты сдаются из колоды на сброс по три за раз, количество пересдач не ограничено.</para>
+
+	        </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+	<para>По одному очку за каждую переложенную в основание карту.</para>
+	<para>Максимальное количество очков: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегия</title>
+
+	<para>Смотрите на открытые карты в резервах. С умом выбирайте масть.</para>
+        </sect2>
+</sect1>

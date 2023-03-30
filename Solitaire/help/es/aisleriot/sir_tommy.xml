@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sir Tommy</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Aquí se colocan todas las cartas al comienzo del juego. Las cartas se dan de una en una a la basura.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>A la derecha del montón. Sólo puede contener una carta. La carta se debe colocar inmediatamente en un montón de la fundación o en el montón de la reserva a su elección.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior, a la derecha de la basura. Se construyen en secuencia desde el as hasta el rey sin importar el palo.</entry>
+	</row>
+	<row>
+	  <entry>Reservas</entry>
+	  <entry>Cuatro montones colocados bajo la fundación. Las cartas de la reserva solo se puede jugar en los montones de la fundación.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a la fundación.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>En la fundación se construye en secuencia desde al as hasta el rey sin importar el palo. Las cartas en la fundación no están más en juego. Las cartas se dan de una en una desde el montón a la basura. Sin embargo, como el montón de la basura sólo puede contener una carta, ésta se debe colocar inmediatamente en un montón de la fundación o en cualquiera de los montones de las reservas. Las cartas en los montones de la reserva no se pueden recolocar.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta movida a la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Intente no colocar las cartas de rango más alto encima de cartas de rango más bajo en la reserva.</para>
+        </sect2>
+</sect1>

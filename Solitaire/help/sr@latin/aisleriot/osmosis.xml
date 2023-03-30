@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Osmosis"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Osmoza</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Rezerve</entry>
+		<entry>Četiri raširene gomile levo. Dele se tri zatvorene karte i jedna otvorena na svaku od rezervi. Slaganje nije dozvoljeno.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri gomile desno. Deli se jedna karta na prvi „temelj“.</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Postaviti sve ostale karte ovde. Karte se okreću jedna po jedna na otpad. Dozvoljena su dva ponovna deljenja.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Bilo koja karta istog znaka kao karta na prvom „temelju“ može da se stavi na ovaj „temelj“. Svi ostali „temelji“ moraju da počnu sa kartom koja ima istu vrednost kao prva karta. Jednom kada se „temelj“ započne, može se slagati bilo kojom kartom istog znaka. Igrajte kartama sa rezerve kad god možete poštujući ova pravila.</para>
+	<para>Karte se okreću iz gomile na „otpad“ jedna po jedna. Karta na vrhu „otpada“ je u igri. Kada je gomila prazna, sve karte se premeštaju sa „otpada“ na gomilu, u istom poretku. Kroz špil se ovako može proći tri puta.</para>
+
+	        </sect2>
+        <sect2><title>Opcije</title>
+
+	<para>Deljenje po tri karte: Tri karte se dele odjednom sa gomile na otpad i omogućeno je beskonačno ponovnih deljenja.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Jedan poen za svaku kartu stavljenu na „temelj“.</para>
+	<para>Najveći mogući broj poena: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Nije čudno da su pasijansi poznati i kao igre strpljenja. Ne stavljajte odmah prvu dostupnu kartu na drugi (i treći) „temelj“. Nekad se isplati koristiti različite znakove da bi se oslobodilo više karata sa rezerve.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>钟表</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>牌放成钟表的形状，十二垛牌每垛四张。</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>最后四张放在发牌区(表的中央)，最上面一张是翻开的。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>
+		To reveal all the cards.
+	</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>把表中央的牌移到适当的位置，牌垛是钟表形的排列，因此牌按点数放在钟表上，A 放在一点，J 和 Q 放在十一点和十二点的位置。如果您从没见到过钟/表，可以参看下面的示意图：</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>表盘</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>K 放在中央，当一张牌移到新位置(或者停在原位，K 会停在原位)，这个位置最下面的一张牌会放到中间去翻开，然后继续玩。要移动一张牌，可以拖拽过去，也可以在目的地位置上双击。</para>
+	<para>当中间四个 K 都翻出来，游戏就会结束，如果所有的牌都在正确位置上，就会羸。注意，即使这张牌没有翻开，只要在正确位置上就可以羸。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每张在正确位置上的牌得一分(K 不算分，因为钟表上没有 K 的位置)。</para>
+	<para>可能得到的最高分是：48</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>找一个自动完成游戏的方法，不过还没有决定是否要做，如果您输了，这不是您的错(相反，如果羸了，那么您真是好运气！)。</para>
+        </sect2>
+</sect1>

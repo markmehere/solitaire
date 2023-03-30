@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Saratoga">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Saratoga</title>
+
+  <para>Geschrieben von Alan Horkan, basierend auf einem Werk von Jonathan Blandford</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Zwei Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau erfolgt aufsteigend von Ass bis König. Die oberste Karte jedes Fundamentstapels kann auf den Spieltisch zurückgelegt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>
+	    Seven piles.  Place one card face up on all piles.  Next row 
+	    skip the first pile and place cards on all the other piles.  
+	    Continue this process skipping one place to the right each row 
+	    until there are seven rows with seven cards in the last pile.  
+	    Essentially Saratoga is the same as Klondike only the all 
+	    cards are face up to begin with.  Being able to see all cards 
+	    reduces the element of risk and makes Saratoga slightly easier 
+	    than Klondike.  
+	    <!-- TODO FIXME link to Klondike Help page -->
+	    Tableau can be built down in alternating colors.  Builds of
+	    cards can be moved.  Empty piles can only be filled by Kings
+	    or group of cards starting with a King.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Mehrere Karten können gleichzeitig verschoben werden. Leere Ablagen können nur mit Königen belegt werden, oder mit Gruppen, die mit einem König beginnen.</para>
+  <para>Karten werden vom Talon auf den Restestapel einzeln aufgedeckt. Die oberste Karte auf dem Restestapel ist im Spiel. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. Sie können drei Mal das Kartendeck durcharbeiten.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+<!-- TODO 
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Geben Sie das Schiff nicht auf! Gehen Sie zum Angriff über, wenn das Spiel verloren scheint. Manchmal hilft es, bereits im Fundamentstapel befindliche Karten zu nutzen und Abfolgen neu zusammenzustellen, um an einige benötigte Karten zu gelangen.</para>
+        </sect2>
+</sect1>

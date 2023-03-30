@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Валентин</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Све преостале карте се после дељења стављају овде.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Десна горња гомила. Може да држи само једну карту.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Четири гомиле. Једна карта се дели на свако место по почетку игре. Поновним дељењем се све карте које су тренутно на талону премештају на дно гомиле.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Поставити све карте на талон, тако да свако место на талону садржи низ од аса до краља по знаку. Избегавајте да полудите како би постигли ово.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Ако су било које две карте на талону истог знака и једна испод друге по вредности, поставите нижу карту на вишу. Асови су испод краљева и не могу да се стављају на њих. Кликом на гомилу попуњавате празне гомиле.</para>
+  <para>Када на талону не може ништа да се одигра, клините на гомилу да поделите карту на отпад. Ако се та карта може играти на било који од талона, одиграјте је. Понављајте ово док нема више потеза ни на талону ни са отпада.</para>
+  <para>
+    At this point, clicking on the Stock again moves all the cards
+    in the Tableau back to the bottom of the Stock.  The card in the
+    Waste is put in the first Tableau pile and the rest of the Tableau
+    is filled with one card to each pile from the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Не постоји бодовање у овој игри.</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Сјајна игра за убијање времена. Валентин нема стратегија, осим ако је стратегија играти је, уместо радити важније ствари, као на пример отићи на спавање.</para>
+        </sect2>
+</sect1>

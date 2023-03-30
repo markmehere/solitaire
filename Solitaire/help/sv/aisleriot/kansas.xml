@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kansas"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kansas</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar överst till höger. Lägg ett kort på första grundhögen för att starta. De övriga grundhögarna ska startas med de tre övriga korten av samma valör som detta grundkort. Alla fyra högar ska byggas upp, i fortlöpande ordningsföljd.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Platsen under högen. Lägg tolv kort här för att börja. Översta kortet är tillgängligt för spel till bordshögarna eller grundhögarna.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Tre högar längst ner till höger. Lägg ett kort på varje hög för att börja. Högar kan byggas ner oavsett färg. Tomma platser fylls automatiskt från reservhögen. När reservhögen är tom, kan tomma bordshögar fyllas från kasthögen i din egen takt.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ner oavsett färg. Grupper av kort kan flyttas. En tom plats i bordshögarna fylls automatiskt från reservhögen. Om reservhögen är tom, kan en tom plats fyllas med det översta kortet i kasthögen om så önskas.</para>
+	<para>Kort kan vändas var för sig från högen till kasthögen. Översta kortet är tillgängligt för spel. Ingen omgiv.</para>
+	<para>Grundhögarna byggs upp i färg från grundkortet (det första utdelade kortet till den första grundhögen). Nya grundhögar startas när ett kort av samma valör som detta grundkort placeras på en tom grundhög. Ess läggs på kungar, och tvåor på ess. Kort i grundhögarna är inte längre i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Du kan inte gräva dig igenom skräp. När ett kort är begravt i kasthögen är det svårt att ta tillbaka. Försök att flytta så många kort från kasthögen till bordshögarna som möjligt.</para>
+        </sect2>
+</sect1>

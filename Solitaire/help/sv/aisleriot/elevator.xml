@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Elevator"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hissen</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds ett i taget till kasthögen. Ingen omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Dela sju överlappande rader med framsidan ned, börja med ett kort på den första raden öka med ett kort per rad och sprid högarna för att uppnå en pyramid. Vänd upp den nedersta raden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till kasthögen.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Alla öppna kort i pyramiden är tillgängliga för spel. Bygg vidare på Kasthögen från de tillgängliga korten när det är möjligt genom att spela ett kort med en valör omedelbart ovanför eller omedelbart under det översta kortet i Kasthögen. Ess är både högre än kungar och lägre än tvåor.</para>
+	<para>Korten vänds ett och ett från högen till kasthögen. Ingen omgiv.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje borttaget kort från pyramiden ger en poäng.</para>
+	<para>Högsta möjliga poäng: 28</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Varje pyramid behöver en stark grund. Bli av med lägre kort först men håll samtidigt ett öga öppet för att försöka frilägga så många kort som möjligt.</para>
+        </sect2>
+</sect1>

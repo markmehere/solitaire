@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Syne</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. Todas las cartas excepto los ases se sitúan aquí al principio de la partida. Pulsando en el montón hará que se saque una carta en cada uno de los cuatro montones reserva.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro pilas en la parte superior, a la derecha del montón. Se coloca un as en cada montón objetivo para comenzar el juego. Los montones objetivo son construidas hacia arriba sin importar el palo.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Cuatro pilas se colocan debajo del objetivo. Cada vez que se pulsa el montón, una carta será colocada en cada montón de reserva. La carta de la cima está disponible para jugar. Las cartas de la reserva solo se pueden mover a los montones objetivo.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas al objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>El juego comienza repartiendo cuatro cartas a la reserva. Si es posible, coloca las cuatro en el objetivo desde la reserva. Continúa este proceso hasta que no haya cartas en el montón y no se puedan hacer más movimientos hacia el objetivo. Un juego similar y un poco más fácil es Scuffle.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta eliminada puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>¿Crees en la suerte? Aunque este juego requiere más habilidad que el Reloj, la habilidad involucrada supone prestar más atención. Un juego estupendo para jugar sin pensar.</para>
+        </sect2>
+</sect1>

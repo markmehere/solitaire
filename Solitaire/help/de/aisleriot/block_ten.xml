@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Zehner blockiert</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle Karten werden zu Spielbeginn hier abgelegt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Neun Stapel in einer 3x3-Anordnung. Auf jedem Stapel des Spieltisches liegt eine Karte mit der Bildseite nach oben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Entfernen Sie Karten paarweise so, dass die Werte der Paare zusammen 10 ergeben. Buben, Damen und Könige werden paarweise entfernt. Zehnen können nicht entfernt werden. Alle freiwerdenden Plätze werden automatisch aus dem Talon aufgefüllt.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Das Entfernen jedes Kartenpaars bringt zwei Punkte.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Dies ist ein reines Glücksspiel. Daher wird jede angewendete Strategie nur auf der Erhöhung des Glücks basieren.</para>
+        </sect2>
+</sect1>

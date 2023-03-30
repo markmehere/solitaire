@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kansas"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Kansas</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la parte superior derecha. Para comenzar se da una carta al primer montón de la fundación. Los otros montones de la fundación deben comenzar con las otras tres cartas del mismo rango que la carta base. Los cuatro montones se construyen ascendentemente con rango continuo.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>Montón bajo el montón. Se dan doce cartas aquí para comenzar. La carta de la cima se puede jugar en el tablero o en los montones de la fundación.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Tres montones en la parte inferior derecha. Se da una carta en cada montón al comenzar. Los montones se pueden construir descendentemente sin importar el palo. Los espacios en blanco se llenan automáticamente desde la reserva. Una vez que esté vacío, los espacios del tablero se pueden rellenar desde la basura a su conveniencia.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueve todas las cartas a los montones de la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas del tablero se construyen descendentemente por palo. Se pueden mover grupos de cartas. Un hueco vacío en el tablero se llena automáticamente desde la reserva. Si la reserva está vacía, se puede llenar con la carta de la cima de la basura a su conveniencia.</para>
+	<para>Las cartas se sacan de una en una del montón a la basura. La carta de la cima está disponible para el juego. No hay repartos.</para>
+	<para>Los montones de la fundación se construyen ascendentemente por palo desde la carta base (la primera carta repartida al primer montón de la fundación). Los nuevos montones de la fundación comienzan con una carta del mismo rango que la carta base. Los ases se colocan sobre los reyes y los doses sobre los ases. Las cartas en los montones de la fundación se consideran fuera del juego. Pulsando dos veces sobre una carta hará que ésta se mueva al montón apropiado de la fundación, si tal movimiento es posible.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>No se puede escavar en la chatarra. Una vez que una carta queda enterrada en la basura, es difícil traerla de vuelta. Intente mover tantas cartas desde la basura al tablero como pueda.</para>
+        </sect2>
+</sect1>

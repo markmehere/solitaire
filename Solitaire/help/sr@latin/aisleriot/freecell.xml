@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Oslobodilac polja</title>
+
+	<para>Napisao Changwoo Ryu</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Rezerve</entry>
+		<entry>Četiri gomile u gornjem redu. Svaka rezerva može da drži po jednu kartu.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri gomile gore desno. Slažu se na gore po znaku od asa do kralja. Karte na „temelju“ nisu više u igri.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Osam gomila. Dele se sve karte otvorene na ove gomile, tako da na kraju deljenja imate po sedam karata na prve četiri gomile i po šest karata na poslednje četiri gomile. Talon se slaže na dole po naizmeničnim bojama karata. Samo po jedna karta može da se pomera, ali kao prečica, možete pomerati i više karata ako na rezervi ima dovoljno slobodnog mesta za takvo pomeranje.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte na talonu se slažu na dole po naizmeničnim bojama karata. Nizovi karata se mogu pomerati ako ima dovoljno mesta na rezervi za takav potez. Prazno mesto na talonu se može popuniti bilo kojom kartom ili nizom karata.</para>
+	<para>„Temelji“ se slažu na gore, od asa do kralja. Karte na „temelju“ nisu u igri. Duplim klikom na kartu pomerate je u odgovarajuću gomilu na „temelju“ ako je takav potez moguć.</para>
+	<para>Karte sa rezerve se mogu vraćati na talon ili na „temelj“.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+	<para>Najveći mogući broj poena: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Prostor je vredna roba. Držite što više možete mesta na rezervi slobodno.</para>
+        </sect2>
+</sect1>

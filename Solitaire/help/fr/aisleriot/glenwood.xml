@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>La forêt de Glen</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution vers le tableau et les réserves. Les cartes sont retournées une à une vers la défausse. Une seule redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut à droite. La première pile de la fondation est commencée par le joueur en choisissant une carte dans les réserves. À construire par couleur, l'As suit le Roi et précède le 2 si nécessaire.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Quatre piles de trois cartes chacune sur le côté gauche, face visible. La carte supérieure de chaque réserve est disponible pour être jouée. Les réserves vides ne peuvent pas être remplies.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Quatre piles sous les fondations. On distribue une carte face visible sur chaque pile. Les piles du tableau peuvent être construites en descendant par couleur (rouge et noir) alternée. La carte supérieure de chaque pile peut être jouée vers les fondations. Les suites peuvent être déplacées vers une autre pile du tableau.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>La première chose à faire est de choisir une carte disponible à mettre sur la première fondation. Une fois choisie, toutes les autres fondations doivent commencer par une carte de même rang.</para>
+  <para>Les fondations sont à construire en montant par couleur, passant du Roi à l'As si nécessaire. Les cartes dans les fondations ne sont plus en jeu.</para>
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les suites peuvent être déplacées vers une autre pile du tableau. Les piles vides du tableau peuvent être remplies par n'importe quelle carte disponible depuis les réserves ou, si toutes les réserves sont vides, depuis la défausse.</para>
+  <para>Les cartes sont retournées une à une de la pioche vers la défausse. Une redistribution.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Faites attention en choisissant la carte de base de la première fondation. Essayez de sortir les cartes des réserves le plus tôt possible. Parfois, garder certaines cartes en jeu est plus important que de les déplacer vers les fondations.</para>
+        </sect2>
+</sect1>

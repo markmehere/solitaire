@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Golf"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>zana@webwynk.net</email>
+    </address>
+  </sect1info>-->
+
+  <title>Golf</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Legen Sie alle verbleibenden Karten hier ab. Die Karten werden einzeln auf den Reststapel aufgedeckt. Ohne Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Sieben Stapel. Fünf Karten werden sichtbar auf jeden Stapel ausgegeben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Verschieben Sie alle Karten auf den Reststapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+    The Waste can be built up or down from the available cards on the
+    Tableau.  Only Deuces can be placed on Aces and nothing can be
+    played on to a King.
+  </para>
+  <para>Karten werden einzeln vom Talon auf den Restestapel ausgegeben. Es gibt keine Neuverteilungen.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte, die vom Spieltisch auf den Restestapel gelegt wird, erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 35</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Remember that nothing can be played on to a King.  Try to generate
+    sequences where many cards can be removed without a new card from
+    Stock.
+  </para>
+        </sect2>
+</sect1>

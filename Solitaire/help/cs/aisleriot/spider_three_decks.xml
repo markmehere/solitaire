@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Tříbalíčkový pavouk</title>
+
+	<para>Napsali Jonathan Blandford a Daniel Werner</para>
+
+	<sect2><title>Podmínky</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Tři sady</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Kliknutím se lízne po jedné kartě lícem nahoru na každou hromádku v rozdaných.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Dvanáct horních hromádek. Není součástí „oficiálních pravidel“.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Dvanáct hromádek. Na prvních šest hromádek se rozdají čtyři karty lícem dolů a jedna karta lícem nahoru, zatímco na zbývající hromádky tři karty lícem dolů a jedna lícem nahoru. Karty můžete skládat do sestupných postupek bez ohledu na barvu. Postupky karet v barvě lze přesouvat jako celek. Na volnou hromádku se dá položit libovolná karta nebo přesouvatelná postupka.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Cíl</title>
+	<para>Mít v seřazených dvanáct postupek karet (tři pro každou barvu) od krále dolů k esu.</para>
+	<para>Pokud chcete extrémně náročnou výzvu, můžete také vyhrát i se všemi dvanácti postupkami ponechanými v rozdaných. To je náročnější, protože je pak k dispozici méně volných hromádek. Popravdě je to téměř nemožné.</para>
+	</sect2>
+
+	<sect2><title>Pravidla</title>
+	<para>Skládejte sestupné postupky bez ohledu na barvu. Postupky v barvě lze přesouvat jako jeden celek. Prázdné hromádky můžete zaplnit libovolnou kartou nebo platnou postupkou.</para>
+	<para>Kliknutím na hromádku volných v kterýkoliv okamžik se na každou hromádku v rozdaných lízne jedna karta lícem nahoru. Na rozdíl od varianty hry Pavouk, je možné mít při lízání prázdné hromádky.</para>
+	<para>Úplnou postupku třinácti karet je možné přesunout na hromádku v seřazených. Jakmile tam je, dostává se mimo hru.</para>
+	</sect2>
+
+	<sect2><title>Bodování</title>
+	<para>Body dostáváte za každou postupku v barvě (délka postupky méně jedna).</para>
+	<para>Maximální možný počet bodů: 144</para>
+	</sect2>
+
+	<sect2><title>Strategie</title>
+	<para>Když se vám nezadaří napoprvé, nestaňte se závisláky. Skládejte postupky v barvě, kdykoliv je to možné, ale odhalte při tom co nejvíce karet můžete.</para>
+	</sect2>
+</sect1>

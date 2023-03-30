@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Glenwood"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Glenwood</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler i a les reserves. Es gira una carta cada vegada a la pila de descartades. Es torna a donar un cop.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. La primera pila de la base es comença amb una carta de les reserves que seleccioni el jugador. Es construeix pujant per pal, saltant des del rei a l'as quan sigui necessari.</entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>Quatre piles de tres cartes cada una a la banda esquerra repartides cara amunt. La carta superior de cada pila de la reserva està disponible per a jugar. No es poden col·locar cartes a les piles de la reserva buides.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Quatre piles sota les bases. Es reparteix una carta de cara amunt a cada pila. El tauler es construeix baixant i alternant el color. La carta superior es pot jugar a la base. Es poden jugar totes les piles a una altra pila del tauler.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>El primer pas de la partida és seleccionar una carta disponible per a la primera base. Un cop seleccionada, la resta de bases han de començar amb aquest valor.</para>
+  <para>Les bases es construeixen pujant per pal, saltant des del rei a l'as quan sigui necessari. Un cop una carta es col·loca a una pila base, aquesta està fora de joc.</para>
+  <para>Les cartes al tauler es construeixen baixant i alternant el color. Es poden moure piles de cartes senceres a una altra pila del tauler. Els llocs buits al tauler es poden omplir per qualsevol carta disponible a les reserves o, si totes les reserves estan buides, des de la pila de descartades.</para>
+  <para>Les cartes es giren individualment des de la pila principal a la pila de descartades. Es torna a donar un cop.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Vigileu quan seleccioneu la primera pila de la base. Intenteu treure les cartes fora de les reserves quan sigui possible. A vegades mantenir cartes en joc és més important que moure-les a la base.</para>
+        </sect2>
+</sect1>

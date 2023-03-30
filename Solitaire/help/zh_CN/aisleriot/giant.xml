@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>巨人</title>
+
+  <para>由 Ed Sirett 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角牌垛，放置桌面上发剩下的牌，每次往桌面的牌垛上发一行牌，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的牌垛，按花色从 A 到 K 递增收牌，收牌区最上面的牌还可以参与到游戏中。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>八垛牌，每垛上已经放了一张牌。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>在桌面牌垛的右边，开始为空，可以放任何一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按不同花色交替递减排列，每次可以移一张或一组牌，桌面上的空位可以放任何牌，有一个选项可以强制必须移动到相同花色的牌上，稍后会讲到。</para>
+  <para>每次从发牌区向桌面上发一行牌，保留区可以为空或者放任何牌。</para>
+  <para>收牌区按花色从 A 到 K 递增收牌，最上面的牌还可以参与到游戏中，双击一张牌可以把它移到相应的位置，如果它是可以移动的话。在收牌区中双击，将自动收取桌面上可以收的牌。</para>
+          </sect2>
+        <sect2><title>选项</title>
+
+  <para>有两种玩法，不同之处在于，如何排列桌面上的牌。</para>
+  <variablelist>
+    <varlistentry><term>相同花色</term>
+      <listitem>
+      <para>移动牌必须放在相同花色的牌上，相同花色的牌构成一组。</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>交替花色</term>
+      <listitem>
+         <para>To be moved as a group cards must be in a sequence of alternating colors. The top card must be placed on a card of
+               the opposite color.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分：104</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>避免让小牌压在下面，可以多利用保留区。</para>
+        </sect2>
+</sect1>

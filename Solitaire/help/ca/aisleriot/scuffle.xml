@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scuffle"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Baralla</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Totes les cartes excepte els asos es col·loquen aquí al començament de la partida. En fer clic a la pila principal es repartirà una carta a cada una de les quatre piles de la reserva. Es pot tornar a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior, a la dreta de la pila principal. Es col·loca un as a cada base en iniciar la partida. Les piles base es construeixen pujant independentment del pal.</entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>Quatre piles col·locades sota les bases. Cada cop que es fa un clic a la pila principal, es col·locarà una carta a cada pila de la reserva. La carta superior està disponible per a jugar. Les cartes de la reserva només es poden moure a les bases.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>La partida comença amb la repartició de quatre cartes de cara amunt a la reserva. Si és possible, jugueu les cartes des de la reserva a la base. Continueu aquest procés fins que no quedin cartes a la pila principal i no es puguin fer més moviments cap a la base.</para>
+  <para>S'agafen totes les cartes que queden a la reserva i es tornen a barrejar. Es col·loquen un altre cop aquestes cartes a la pila principal per a tornar a donar. Es pot tornar a donar dos cops.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu mantenir en ment què hi ha sota les piles de la reserva. Quan s'hagi de decidir, aquest coneixement us ajudarà a decidir quina carta heu de jugar.</para>
+        </sect2>
+</sect1>

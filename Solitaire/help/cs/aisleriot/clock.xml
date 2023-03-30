@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hodiny</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Karty se rozdávají do tvaru hodin, celkem dvanáct hromádek po čtyřech kartách na každé.</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Do volných (uprostřed mezi rozdanými) se položí poslední čtyři karty. Vrchní karta se otočí.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Odkrýt všechny karty.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Vrchní kartu ze středu přesuňte na příslušnou hromádku. Rozdané jsou ve tvaru hodin a proto patří číselné karty tam, kde by byly na analogových hodinách. Esa na jednu hodinu, kluci a dámy na jedenáctou respektive dvanáctou. Pro lidi, kteří nikdy neměli analogové hodinky/hodiny zde máme vzor:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Rozložení do hodin.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Králové se udržují ve středu. Když je karta přesunuta na novou hromádku (nebo zůstává na stejné hromádce, což se týká králů), vezme se z nové hromádky spodní karta a umístí na prostřední hromádku lícem nahoru. Tato nová karta je tímto ve hře. Kartu na příslušnou hromádku dostanete přetažením nebo dvojitým kliknutím na správnou hromádku.</para>
+	<para>Hra končí ve chvíli, kdy jsou uprostřed čtyři králové. V tuto chvíli jste vyhráli, pokud jste dosáhli cíle. Uvědomte si, že když je karta na správné hromádce, je v pořádku, i když je lícem dolů.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Za každou kartu na správné hromádce v hodinách (králové se nepočítají, protože nejsou na ciferníku) dostanete 1 bod.</para>
+	<para>Maximální možný počet bodů: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Najděte si tempo, kterým budete hrát automaticky. Při hraní není totiž třeba dělat žádná rozhodnutí. Když prohrajete, není to vaše vina. (Naopak, výhra je čistě jen o štěstí!)</para>
+        </sect2>
+</sect1>

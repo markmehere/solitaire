@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Deu a través</title>
+
+	<para>Escrit per en James LewisMoss</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Llocs temporals</entry>
+		<entry>Ubicacions on col·locar una carta fora del joc. Els llocs comencen la partida plens. Una versió del joc no permet posar cartes noves en aquests llocs un cop estan buits.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Deu piles al llarg de la part inferior. En repartir es col·loquen 10 cartes d'esquerra a dreta amb la primera i l'última carta de cara amunt. Es continua col·locant deu cartes a les piles des de la dreta fins a l'esquerra (al revés) amb les dues primeres i les dues últimes cartes col·locades cara amunt. Es continua amb aquest patró (invertint i una carta més a cada passada) fins que s'hagin col·locat 50 cartes. Es col·loquen les últimes dues cartes en els llocs temporals de la part superior.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Formeu quatre piles al tauler totes del mateix pal començant des del rei a l'as.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Només un rei es pot moure a un lloc blanc del tauler.</para>
+	<para>Les cartes només es poden moure sobre altres cartes si el pal coincideix i la carta moguda és un menys que l'altra. Això inclou moure una pila de cartes de diferents pals mentre la carta superior de la pila moguda coincideixi amb la carta inferior de la ubicació on s'han mogut.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+	<para>Permet emprar llocs temporals: Si està activat els llocs temporals es poden tornar a utilitzar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Guanyeu o perdeu. No hi ha puntuació.</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Aquest joc és difícil de guanyar (influeix molt en com s'han col·locat les cartes en començar). No oblideu que teniu llocs temporals. Intenteu netejar-los ràpidament perquè són molt útils quan esteu encallat.</para>
+        </sect2>
+</sect1>

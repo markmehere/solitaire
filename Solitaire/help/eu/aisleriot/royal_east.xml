@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Royal_East"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Royal east</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Hiru bider hiru itxurako mahaian, lau izkinetako pilak. Jarri karta bat lehen oinarri-pilan. Oinarrizko karta da hori. Osatu gorantz, behar denean batekoak erregeen gainean jarrita.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Mahaiko bost piletan jarri karta bana gora begira. Pila horiek gurutzea osatzen dute hiru bider hiru neurriko saretan.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko piletako kartak beherantz osatzen dira, irudia kontuan hartu gabe. Erregeak batekoen gainean jar daitezke. Kartak banaka mugi daitezke. Edozein karta erabilgarri jar daiteke mahaiko pila huts batean.</para>
+  <para>Oinarrizko kartaren balio bereko kartarekin hasi behar da oinarri-pila bakoitza. Oinarri-pilak gorantz osatu behar dira irudiaren arabera (oinarrizko kartatik hasita), batekoak erregeen gainean jarriz beharrezkoa izanez gero. Oinarri-pilako kartak ezin dira berriz erabili.</para>
+  <para>Kartak banan-banan iraultzen dira sortatik hondarrera. Hondar-pila bakoitzaren goiko karta jokoan erabiltzeko prest egoten da beti. Ezin da berriro banatu.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Altxor ezkutuak zoragarriak dira, baina hor daudela jakin behar da. Gogoan izan zein karta dauden pila bakoitzean, informazio hori oso baliagarria izango zaizu eta.</para>
+        </sect2>
+</sect1>

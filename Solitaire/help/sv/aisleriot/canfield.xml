@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Varvet runt</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kortleken placeras här efter given. Korten vänds tre åt gången till kasthögen. Obegränsade omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Direkt till höger om högen. Tas från högen. Översta kortet är tillgängligt för spel.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Till vänster under högen. Placera tretton kort här och det översta kortet med framsidan upp. Översta kortet är tillgängligt för spel till grundhögarna eller bordshögarna.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Fyra platser nedanför grundhögarna. Placera ett kort med framsidan upp på varje plats. Bordshögarna kan byggas ned genom att alternera kulör. Grupper av kort kan flyttas.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra platser uppe till höger. Placera ett kort med framsidan upp på första grundhögen. Detta kort är nu grundkortet. Byggs upp i färg.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned genom att alternera kulör. Grupper av kort kan flyttas. En tom plats i bordshögarna fylls automatiskt på från reservhögen. Om reservhögen är tom, kan en tom plats fyllas av valfritt kort eller grupp av kort i följd.</para>
+	<para>Korten vänds tre åt gången från högen till kasthögen. Om den sista vändningen har mindre än tre kort, vänds de återstående korten. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till högen.</para>
+	<para>Grundhögarna byggs upp i färg från grundkortet (första utdelade kortet till första grundhögen). Nya grundhögar startas när ett kort av samma valör placeras på en tom grundhög. Ess placeras på kungar, och tvåor på ess. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om en sådant drag är möjligt.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng. Detta spel brukade spelas i kasinon. Du går jämt upp om din poäng är 10.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>En fågel i handen är bättre än tio i skogen. Det här spelet är svårt att vinna. De flesta människor spelar med insatsregler i åtanke och försöker få så många poäng som möjligt. För detta ändamål, flytta alltid kort till grundhögarna så snart de är spelbara.</para>
+        </sect2>
+</sect1>

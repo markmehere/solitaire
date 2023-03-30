@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Блудна ватра</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Када кликнете, дели се по једна карта на све талоне осим код последњег дељења када се по једна карта ставља на само прве три гомиле.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири места на врху.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Седам гомила на дну. Деле се по две затворене карте и једна отворена на сваку од гомила.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Направите четири низа од тринаест карата сложених по знаку и вредности.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Талон се слаже на доле без обзира на знак. Низови уређених карата истог знака се могу померати заједно. Празна места на талону се могу попуњавати било којом картом или низом карата.</para>
+  <para>Свака празна гомила на талону се мора попунити пре дељења. Кликом на гомилу ћете поделити по једну карту на свако место у талону, осим код последњег дељења када се по једна карта поставља само на прва три места.</para>
+  <para>Низ од тринаест карата истог знака се може померити на „темељ“. Карте стављене на „темељ“ више нису у игри.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки пар карата истог знака у низу доноси један бод.</para>
+  <para>Највећи могући број поена: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Увек се трудите да имате бар неко место на талону празну да направите место на коме можете да мењате карте.</para>
+        </sect2>
+</sect1>

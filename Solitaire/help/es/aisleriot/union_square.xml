@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Union square</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Doble baraja</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Se dan boca arriba un rejilla de cartas de cuatro por cuatro en el tablero, haciendo dieciséis montones. La carta de la cima de cada montón está disponible para jugarla.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones a la derecha. Los montones de la fundación se construyen por palo desde el as hasta el rey, saltando del rey al as.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueva todas las cartas a la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas en el tablero se pueden construir ascendentemente o descendentemente por palo. Sin embargo, cada montón de debe seguir uno de estos órdenes. Por ejemplo, si un montón del tablero tiene el tres de tréboles sobre el dos de tréboles, sólo se puede jugar un cuatro de tréboles sobre este montón. Cualquier carta disponible se puede jugar en cualquier montón vacío del tablero.</para>
+	<para>Los montones de la fundación se construyen por palo desde el as hasta el rey, seguido por otro rey, luego de vuelta descendentemente hacia el as, dando 26 cartas en cada montón cuando el juego está ganado. Las cartas de la fundación no se consideran más en juego.</para>
+	<para>Las cartas se sacan de una en una desde el montón hasta la basura. La carta de la cima de la basura está disponible para el juego. No hay repartos.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta movida a la fundación puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 104</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Se puede añadir una ristra de cartas a o desde ambos finales, así como sus montones también. Haga un buen uso de cualquier hueco vacío para añadir cartas. Con un poco de perseverancia este juego puede ser muy divertido.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+  <sect2><title>Spielaufbau</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Jeweils sieben Karten werden zusammen gegeben, eine auf jede Ablage des Spieltisches.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau erfolgt nach Farbe und Folge, wenn möglich von König nach Ass. Eine Karte wird auf den ersten Fundamentstapel gelegt. Die anderen Fundamentstapel müssen mit Karten desselben Ranges beginnen.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    <entry>Sieben Ablagen. Die Karten werden in der ersten Ablage sichtbar abgelegt. Legen Sie eine Karte mit der Bildseite nach unten auf alle anderen Ablagen. Legen Sie eine Karte sichtbar auf die nächste Ablage, gefolgt von einer umgedrehten Karte auf allen anderen verdeckten Ablagen. Wiederholen Sie dies, bis sich sieben Karten in der letzten Ablage befinden. Der Spieltisch kann in gleichen Farben absteigend gebaut werden. Karten können in Gruppen bewegt werden. Leere Ablagen können bei der nächsten Verteilung aus dem Fundamentstapel gefüllt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Ziel des Spiels</title>
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+  </sect2>
+  <sect2><title>Regeln</title>
+  <para>Karten des Spieltisches werden absteigend nach gleicher Farbe zusammengestellt. Nach Folge und Farbe gruppierte Karten können als Einheit bewegt werden.</para>
+  <para>Bei jeder Verteilung wird eine Karte vom Talon auf jeden Stapel des Spieltisches umgedreht. Es gibt keine Neuverteilungen.</para>
+  <para>Fundamentstapel werden nach Farbe aufsteigend aufgebaut, bei Bedarf wird von König nach Ass gesprungen. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte des Spieltisches wird diese auf den entsprechenden Fundamentstapel gelegt, falls ein solcher Zug möglich ist.</para>
+</sect2>
+  <sect2><title>Punktwertung</title>
+  <para>Jede Karte in einem Fundamentstapel zählt einen Gewinnpunkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+</sect2>
+
+  <sect2><title>Strategie</title>
+  <para>Versuchen Sie, wann immer möglich, absteigend nach Farbe aufzubauen. Versuchen Sie, so viele Punkte wie möglich zu erzielen, da dieses Spiel sehr schwer zu gewinnen ist.</para>
+</sect2>
+</sect1>

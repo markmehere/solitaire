@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terasa</title>
+
+  <para>Napsal David Rogers</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání do záložních a rozdaných se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Líže se z volných. Vrchní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Na hromádku se rozdá jedenáct karet lícem nahoru. Všechny karty jsou vidět, ale jen vrchní je ve hře.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek uprostřed. Musí se poskládat do vzestupné postupky ve střídající se barevenosti od základní karty.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    	  <entry>Devět karet rozdaných lícem nahoru po té, co je vybrána základní karta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku a cyklící se dokola. Nelze přesouvat skupiny karet. Prázdná pozice v rozdaných musí být doplněna vrchní kartou z otočených, než si můžete líznout další kartu z volných. Vrchní karty lze přesunout do seřazených nebo na jinou hromádku v rozdaných.</para>
+  <para>Seřazené musíte poskládat do vzestupné postupky v barevnosti na střídačku počínaje základní kartou. Prázdné hromádky se musí založit základní kartou, kterou si hráč vybere ze čtyř náhodných karet v prvním tahu. Karty v seřazených jsou již mimo hru.</para>
+  <para>Vrchní karta v záložních je ve hře a může být přesunuta jen do seřazených.</para>
+  <para>Karty se lížou z volných do otočených jednotlivě a kolikrát chcete, vyjma situace, kdy je v rozdaných prázné místo. Pak se může líznout jen jedna karta, dokud nejsou všechny pozice v rozdaných zaplněné nebo vrchní karta z otočených není přesunuta do seřazených nebo rozdaných. I když je v takové situaci hromádka volných zamknutá, stále můžete přesouvat karty v rámci rozdaných, ze záložních a do seřazených. Pokud je hromádka otočených prázdná, lízne se karta z volných automaticky. Vrchní karta v otočených je ve hře. Hromádka se do volných nevrací.</para>
+  <para>Dvojitým kliknutím se karta přesune na příslušné místo v seřazených, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Volby</title>
+
+  <para>Existuje sedm způsobů hraní. Navzájem se liší počtem karet v záložních, počtem hromádek v rozdaných nebo volbou základní karty.</para>
+  <para>Terasa</para>
+  <para>11 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní kartu hráč vybírá z nabídky čtyř karet na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Hromádka volných se nevrací zpět.</para>
+  <para>Generálov trpělivost</para>
+  <para>11 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barvě počínaje základní kartou. Základní kartu hráč vybírá z nabídky čtyř karet na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Hromádka volných se vrátí jednou zpět, ale hra je prohraná, když nemůžete zahrát každou z nově líznutých karet při druhém běhu.</para>
+  <para>Padající hvězdy</para>
+  <para>11 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní karta se vybere automaticky na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Volné se nevrací zpět.</para>
+  <para>Slečna</para>
+  <para>11 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní karta se vybere automaticky na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Prázdná místa se v rozdaných zaplňují automaticky z otočených, případně volných, když je hromádka otočených prázdná. Volné se nevrací zpět.</para>
+  <para>Rusovlásky</para>
+  <para>21 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní karta se vybere automaticky a do rozdaných se rozdá po jedné kartě na každou hromádku. Prázdná místa v rozdaných se zaplňují automaticky ze záložních nebo je můžete zaplnit libovolnou kartou, když jsou záložní prázdné. Volné se nevrací zpět.</para>
+  <para>Blondýny a brunety</para>
+  <para>10 karet v záložních, 8 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní karta se vybere automaticky na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Volné se nevrací zpět.</para>
+  <para>Dřevo</para>
+  <para>10 karet v záložních, 9 hromádek v rozdaných. Seřazené se musí skládat do vzestupných postupek v barevnosti na střídačku počínaje základní kartou. Základní karta se vybere automaticky na začátku hry a do rozdaných se rozdá po jedné kartě na každou hromádku. Volné se nevrací zpět.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Když hra začně, pozorně prozkoumejte karty v záložních, než si zvolíte základní kartu. Vyvarujte se přitom karet, které jsou ve více kusech pohřbené v záložních.</para>
+  <para>Sledujte opačné postupky ve volných, záložních a seřazených, abyste každou takovou odstranili.</para>
+  <para>Zkuste začínat hromádky v rozdaných poslední kartou, kterou budete potřebovat k dokončení seřazených.</para>
+  <para>Nezapomeňte, že nemůžete pokračovat v lízání karet z volných, když jsou zamknuté vůči doplnění rozdaných pomocí vrchní karty v otočených.</para>
+        </sect2>
+</sect1>

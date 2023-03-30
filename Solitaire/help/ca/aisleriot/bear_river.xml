@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Riu de l'ós</title>
+
+  	<para>Escrit per en Bruce i en Joel Levin</para>
+
+
+          <sect2><title>Configuració</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior. Es reparteix una carta de cara amunt a la primera pila base.</entry>
+	</row>
+
+	<row>
+	  <entry>Tauler</entry>
+    	  <entry>Al tauler hi ha 18 piles ordenades en tres files de sis piles cadascuna. Es reparteixen les cartes de cara amunt i de manera que totes les cartes estiguin a la vista. Les primeres cinc piles de cada fila comencen amb tres cartes cadascuna. La sisena pila de cada fila comença amb dues cartes cadascuna.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Regles</title>
+
+  <para>Es reparteix una carta a l'atzar a la pila base. El rang d'aquesta carta serà la carta base. Les altres tres cartes amb el mateix rang es poden moure a una base buida. Les bases s'agrupen en ordre ascendent, per pals. Les cartes poden «saltar» de la reina al rei, a l'as, al dos. Les cartes de les bases no es poden moure a les piles del tauler. </para>
+  <para>Cap pila del tauler pot tenir més de tres cartes. La carta superior de cada pila del tauler es pot moure a qualsevol pila del tauler si coincideix amb el pal i té un valor superior o un valor inferior que la carta superior de la pila que es vol moure. Les cartes poden saltar del rei a l'as.</para>
+  <para>Al tauler hi ha dos tipus de piles: les piles estàndards i les piles obertes. Les primeres cinc piles de cada fila (les que tenen tres cartes) són les piles estàndards. En una pila estàndard buida NO ES POT afegir una carta nova. L'última pila de cada fila (les que tenen dues cartes) són piles obertes. En una pila oberta ES POT afegir una nova carta.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta moguda a la base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu deixar lliure una o més piles obertes aviat.</para>
+  <para>Moure cartes a les bases us afavoreix. Moveu-ne tantes com pugueu, tan aviat com pugueu.</para>
+  <para>Les cartes que tenen un rang inferior a la carta base us poden ser més difícils de moure. Vigileu on les col·loqueu.</para>
+  <para>Al Riu de l'ós podeu guanyar en un terç del temps.</para>
+  
+        </sect2>
+        
+        
+</sect1>

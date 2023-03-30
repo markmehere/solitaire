@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Eliminador</title>
+
+	<para>Escrit per Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Configuració</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Tipus de baralla</entry>
+						<entry>Baralla estàndard</entry>
+					</row>
+					<row>
+						<entry>Tauler</entry>
+						<entry>Quatre piles. Es reparteixen 13 cartes a cada pila (totes les cartes).</entry>
+					</row>
+					<row>
+						<entry>Base</entry>
+						<entry>De quatre a sis llocs buits que construïu en qualsevol direcció.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Objectiu</title>
+		<para>Moveu totes les cartes a la base.</para>
+	</sect2>
+
+	<sect2>
+		<title>Regles</title>
+		<para>Qualsevol carta pot estar situada al primer lloc de la base. Les piles base es poden construir pujant o baixant des de la carta amb el valor més alt, independentment del seu pal. Els reis es poden col·locar sobre els asos i viceversa. </para>
+	</sect2>
+
+	<sect2>
+		<title>Puntuació</title>
+		<para>Cada carta moguda des del tauler sobre una carta de la base puntua un punt.</para>
+		<para>Puntuació màxima possible: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Estratègia</title>
+		<para>Assegureu-vos de mirar totes les cartes que venen després i de no bloquejar-ne cap que us faci falta per moure-la a sobre.</para>
+	</sect2>
+</sect1>

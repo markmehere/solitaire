@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>鹰翼</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌，每次往废牌区发一张牌，可以重复两次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>在发牌区的右边，放置发牌区过来的牌。最上面的牌可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>
+	    Four piles top right.
+	    One card is dealt in the first Foundation at the start of the game,
+	    this is the base card.
+	    Other Foundations must be started with a card of the same rank as the
+	    base card.
+	    To be built up in suit from the base card.
+	  </entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>中间(最低的)位置，发十三张牌扣在这儿，用来填充桌面上其他出现的空位。当保留区只有一张牌时，就会翻开可以移到收牌区或桌面其他位置。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>八个空位(左右各四个)，各放一张翻开的牌。桌面上的牌按花色递减排列，每次可以移动一张，或者把一组牌移到收牌区。桌面上的空位最多可以放三张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色递减排列，每次只能移动一张到其他位置。然而，为了简便，可以将一组牌一次移到收牌区，空出的位置自动从保留区填充牌，如果保留区也空了，就从废牌区或从其他牌垛填充牌。</para>
+  <para>保留区主要是往桌面的空位里发牌，但是如果里面只剩一张牌，它就变得可见，并且可以用在游戏中。</para>
+  <para>发牌区每次往废牌区发一张牌，当发牌区为空时，会把废牌区所有的牌按原来顺序都收回来，可以重复发牌三次。</para>
+  <para>收牌区按花色从基准牌(第一个位置里的牌)递增收牌，其他空位也要从这个点数开始收牌，A 放在 K 的上面，二放在 A 的上面，收牌区里的牌不能再用到游戏中。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>小的筹划可以走更远，移动之前先检查一下，记住每个空位只能放三张牌的规则。</para>
+        </sect2>
+</sect1>

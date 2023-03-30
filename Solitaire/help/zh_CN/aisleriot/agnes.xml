@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>爱格妮思</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+  <sect2><title>牌局</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，放置桌面上发剩下的牌。发牌一次可以发七张，在每垛上放一张。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的四个牌垛，按照花色和顺序收牌，如果需要可以从 K 到 A 。在第一个位置里放了一张基准牌，其他的位置也必须按照同样的大小开始收牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    <entry>七垛牌，第一垛发一张牌面朝上的，再在后面所有垛上放一张扣着的牌；然后在第二垛放一张翻开的牌，后面所有垛放一张扣着的牌；重复直到最后一垛牌是七张。牌面可以按相同颜色递减排列，同一组牌可以一起移动，出现的空位只能由发牌区发的牌填充。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>目标</title>
+  <para>把所有的牌移到收牌区。</para>
+  </sect2>
+  <sect2><title>规则</title>
+  <para>桌上的牌按相同颜色递减排列，相同颜色按顺序排列的一组牌可以一起移动。</para>
+  <para>每次从发牌区发一张到桌面上的各个牌垛，越发越少不能重复发牌。</para>
+  <para>收牌区的牌堆按顺序摆放，从 K 到 A 依次排列，在收牌区的牌仍然可以参与到游戏中。双击桌面上的一张牌可以把它移到收牌区，如果这张牌可以收取的话。</para>
+</sect2>
+  <sect2><title>得分</title>
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分是：52</para>
+</sect2>
+
+  <sect2><title>策略</title>
+  <para>尽量去按顺序组织牌，尽量去得分，因为这个游戏是很难赢的。</para>
+</sect2>
+</sect1>

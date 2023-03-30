@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Idioten</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Ett kort delas till varje bordshög när man klickar.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Fyra högar till höger. Grupper av kort kan flyttas till tomma platser.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Att ta bort alla kort förutom de fyra essen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Ess är höga kort. När två kort i samma färg är tillgängliga kan det med lägre valör tas bort. När det blir en tom plats kan den fyllas med en grupp av kort.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje borttaget kort ger 1 poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Det finns ingen anledning att ha en tom plats när en ny uppsättning av kort läggs ut. Men när du har en tom plats, försök att behålla den tom så länge som möjligt eftersom det är ett utmärkt sätt att bli av med begravda kort.</para>
+        </sect2>
+</sect1>

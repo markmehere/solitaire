@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>东港</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的四个牌垛，按花色从 A 到 K 递增收牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>底下的七垛牌，每垛牌两张扣住，一张翻开。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色交替递减排列，按顺序花色排好的一组可以一起移动，空位可以放 K，或者是以 K 开头的一组牌。</para>
+  <para>如果可能的话，在发更多牌之前，所有空位必须填满。点击发牌区会向桌面每一垛牌放一张翻开的牌，放在原来三张的上面，不能重复发牌。</para>
+  <para>收牌区按花色从 A 到 K 依次递增收牌，收牌区的牌不能再参与游戏中。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>尽可能地把牌移到收牌区，因为下一轮发牌会压住它，当然由于收牌区的牌不能再用于游戏，您可以根据需要稍后收取，希望这是您今天遇到的最大难题。</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>甘菲德</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛，桌面上发剩下的牌放在这儿，每次发三张翻开的牌，可以重复发牌。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>在发牌区的右边，放置发牌区过来的牌。最上面的牌可以用在游戏中。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>在发牌区的下边，有十三牌，最上面的牌是翻开的，可以移到收牌区或桌面上。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>在收牌区下面的四垛牌，每个上面有一张翻开的牌，按不同颜色交替递减排列，一组牌可以一起移动。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右上角的四个空位，里面放了一张基准牌，按花色从基准牌开始递增收取。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按花色交替排列，一次可以移动一组牌，移出的空位会被废牌区的牌自动填充，如果废牌区为空，可以放任意一张或一组牌。</para>
+	<para>发牌区每次向废牌区发三张牌，如果最后发牌不够三张，只发余下的几张，如果发牌区为空，则把废牌区的牌全部移回来，按原来的顺序。</para>
+	<para>收牌区按基准牌递增收取(在第一个位置上已经放了一张牌)，其他位置也以这张牌为基准收牌，A 放在 K 上，二放在 A 上，收牌区的牌还可以用在游戏中，双击一张牌可以把它移到收牌区，如果它是可以收取的话。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得一分，这个游戏曾经用在赌场里，得到10分就可以羸。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>拿到手上的才是最真实的，这个游戏很难羸。绝大多数人只是玩游戏，尝试获取更多点。为此，则需要尽可能把牌移到收牌区。</para>
+        </sect2>
+</sect1>

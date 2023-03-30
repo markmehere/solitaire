@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Saratoga">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Saratoga</title>
+
+  <para>Skrivet av Alan Horkan, baserat på arbete av Jonathan Blandford</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>Fyra högar längst upp till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar. Placera ett kort med framsidan upp på alla högar. Hoppa över första högen i nästa rad och dela ut ett kort på de övriga högarna. Fortsätt att flytta en plats åt höger för varje rad tills det finns sju rader med sju kort i den sista. Saratoga är i stort sett samma som Klondyke, förutom att alla kort är vända uppåt i början. Att kunna se alla kort minskar riskmomentet och gör Saratoga något lättare än Klondyke. Bordshögarna kan byggas ned i omväxlande kulörer. Sviter av kort kan flyttas. Tomma platser kan bara fyllas med kungar eller grupp av kort som börjar med en kung.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned genom att växla kulör. Sviter av kort kan flyttas. En tom bordshög kan fyllas med en kung eller en grupp av kort med en kung i botten.</para>
+  <para>Korten vänds från högen till kasthögen ett åt gången. Översta kortet i kasthögen är spelbart. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till Högen. Du kan gå igenom kortleken tre gånger.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+<!-- TODO 
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ge inte upp så lätt! Prova ”brute force”-metoder när spelet verkar över. Ibland kan en kombination av att använda kort som redan flyttats till grundhögarna och att arrangera om sviter frigöra några nödvändiga kort.</para>
+        </sect2>
+</sect1>

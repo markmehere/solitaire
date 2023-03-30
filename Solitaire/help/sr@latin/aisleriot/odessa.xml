@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Odesa</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Četiri gomile levo. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Sedam gomila. Dele se tri zatvorene karte, pa tri otvorene karte, a zatim još dva reda otvorenih karata u središnjih pet gomila.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte na talonu se slažu po znaku. Grupe karata se mogu pomerati nevezano za njihov redosled. Grupe karata u redosledu se mogu pomeriti na odgovarajući „temelj“. Prazno mesto na talonu se može popuniti kraljem ili grupom karata gde je kralj na početku.</para>
+	<para>„Temelji„ se slažu po znaku od asa do kralja. Karte na „temelju“ nisu više u igri.</para>
+
+	        </sect2>
+        <sect2><title>Opcije</title>
+
+	<para>Ništa</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Kada se karte podele, svaki opadajući niz karata po znaku donosi jedan poen po karti. Svaki potez na talonu će doneti jedan poen za svaku kartu u novokreiranom nizu. Poen se dobija i za svaku kartu stavljenu na „temelj“.</para>
+	<para>Najveći mogući broj poena: 412</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Što više izdržite, više ćete imati. Pokušajte da maknete karte podalje od „temelja“ što više možete. Veći niz karata doneće vam više poena.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Napoleon på S:t Helena</title>
+
+	<para>Skrivet av Changwoo Ryu</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>De fyra vänstra högarna på översta raden. Varje reservhög kan bara innehålla ett kort.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar uppe till höger. Byggs i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Åtta högar. Dela ut alla kort med framsidan upp på dessa åtta högar, avsluta med sju kort i vart och ett av de första fyra högarna och sex kort i de fyra sista högarna. Bordshögarna byggs ned genom att skifta kulör. Kort kan bara flyttas ett och ett, men som en genväg kan sviter av kort flyttas tillsammans om det finns tillräckligt många reservhögar fria för det.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned genom att skifta kulör. Grupper av kort kan flyttas om det finns tillräckligt många lediga reservhögar för att möjliggöra flytten som om korten flyttades var för sig. En tom plats i bordshögarna kan fyllas med valfritt kort eller grupp av kort.</para>
+	<para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+	<para>Kort i reservhögarna kan spelas tillbaka till bordshögarna eller upp på grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Tomma platser är en värdefull tillgång. Ha så många av reservhögarna lediga som möjligt.</para>
+        </sect2>
+</sect1>

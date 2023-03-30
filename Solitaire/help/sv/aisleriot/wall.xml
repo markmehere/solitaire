@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Wall"><!--<sect1info>
+		<copyright>
+			<year>2015</year>
+			<holder>Otto Wallenius, Markus Tuhkanen</holder>
+		</copyright>
+		<author>
+			<firstname>Otto</firstname>
+			<surname>Wallenius</surname>
+		</author>
+		<address><email>owalleni@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Muren</title>
+
+	<sect2><title>Inställningar</title>
+
+	    <informaltable>
+		    <tgroup cols="2">
+			    <tbody>
+	          <row>
+		          <entry>Typ av kortlek</entry>
+		          <entry>Två vanliga kortlekar</entry>
+	          </row>
+	          <row>
+		          <entry>Hög</entry>
+		          <entry>Nedre vänstra högen med 39 kort. Korten vänds tre åt gången till kasthögen.</entry>
+	          </row>
+	          <row>
+		          <entry>Kasthög</entry>
+		          <entry>De tre högarna längst till höger på nedersta raden. Tas från högen en åt gången.</entry>
+	          </row>
+	          <row>
+		          <entry>Bordshög</entry>
+		          <entry>Mur, lägre vakt, högre vakt och tronen.</entry>
+	          </row>
+	          <row>
+		          <entry>Muren</entry>
+		          <entry>45 kort i sex rader.</entry>
+	          </row>
+	          <row>
+		          <entry>Nedre vakten</entry>
+		          <entry>Fyra högar med tre kort, inledningsvis placerade med framsidan nedåt.</entry>
+	          </row>
+	          <row>
+		          <entry>Högre vakten</entry>
+		          <entry>Tre högar med två kort.</entry>
+	          </row>
+	          <row>
+		          <entry>Tronen</entry>
+		          <entry>En hög med två spader kungar.</entry>
+	          </row>
+			    </tbody>
+		    </tgroup>
+	    </informaltable>
+    </sect2>
+    
+    <sect2><title>Mål</title>
+        <para>Ta bort de två kungarna från tronen.</para>
+    </sect2>
+    
+    <sect2><title>Regler</title>
+
+	    <para>Du startar från botten av muren och försöker att arbeta dig upp till tronen genom att ta bort kort på vägen. Du kan ta bort korten genom att attackera dem med kort från kasthögen, som ges tre åt gången från högen. Om högen tar slut och du inte kan ta bort kungarna från tronen med de återstående korten från kasthögen är spelet förlorat.</para>
+	    <para>De kort från kasthögen som används kallas <emphasis>attackkort</emphasis>. En attack på något kort eller hög lyckas om <emphasis>hälsa</emphasis> på attackkorten är större än de attackerade korten. Hälsan beräknas av summan av kortvärdena som förklaras nedan. En framgångsrik attack avlägsnar både de attackerade korten och attackkorten.</para>
+	    
+	    <sect3><title>Ordningsföljden att ta bort kort</title>
+	    <para>Grundregeln är att ta bort kort omedelbart ovanför och bredvid redan tomma bordshögar.</para>
+            <variablelist>
+            <varlistentry><term>Muren</term>
+              <listitem>
+                <para>Från första början kan alla korten i den nedre raden i muren tas bort. Dessutom kan du ta bort ett kort om kortet som täcker dess nedre vänstra eller högra hörn har tagits bort eller ett kort i samma (horisontella) rad bredvid det har tagits bort.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Nedre vakten</term>
+              <listitem>
+                <para>En plats kan tas bort när ett av de två korten i muren omedelbart nedanför den har tagits bort eller platsen bredvid den i nedre vakten har tagits bort.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Högre vakten</term>
+              <listitem>
+                <para>En plats kan tas bort när platsen närmast dess nedre vänstra eller högra hörn eller platsen närmast dess nedre högra hörn i den nedre vakten har tagits bort, eller om platsen bredvid i den högre vakten har tagits bort.</para>
+              </listitem>
+            </varlistentry>
+            <varlistentry><term>Tronen</term>
+              <listitem>
+                <para>Kan tas bort när alla platser i den högre vakten har tagits bort.</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>            
+        </sect3>
+	    
+	    <sect3><title>Hälsa</title>
+	        <para>För attackkort är hälsan summan av kortvärdena.</para>
+            <para>För de flesta kort i muren, är hälsan summan av värdena på korten och korten som vidrör dess övre vänstra och högra hörn. För korten i den översta raden av muren, är hälsan bara kortets värde. För korten på vänster och höger sida av muren, är hälsan summan av värdena på kortet, det kort som kommer i kontakt med dess övre hörn och kortet omedelbart ovanför det.</para>
+            <para>För platserna i den nedre vaktposten, övre vaktposten och tronen måste en hel hög tas bort på en gång. Hälsan på en hög är summan av värdena av alla korten i den högen.</para>
+            <para>Ess är låg.</para>
+	    </sect3>
+	
+	    <sect3><title>Attackera</title>
+	        <para>Du kan attackera med valfri kombination med kort från kasthögen genom att stapla dem och dra högen till kortet du vill attackera. Att klicka på ett kort i bordshögarna attackerar det klickade kortet med alla kort i Kasthögen. Nya kort kan delas från högen till kasthögen när som helst. Att dela nya kort kasserar de korten som fanns i kasthögen tidigare.</para>
+            <para>Högarna i den nedre vaktposten beter sig annorlunda än övriga. Den första attacken på någon av dessa högar vänder korten i den högen med framsidan upp och tar bort de attackerande korten. Om den första attacken lyckas, tas den högen bort som vanligt. Om attacken misslyckas, kommer inte attackkorten tas bort för efterföljande attacker som misslyckas mot denna hög.</para>
+        </sect3>
+        
+        <sect3><title>Andra regler</title>
+            <para>Att dubbelklicka på en bordshög är en effektiv genväg. Det har samma effekt som att klicka (se attackera) och dessutom delas nya kort ut från högen till kasthögen oavsett om attacken var lyckad eller inte.</para>
+        </sect3>
+	</sect2>
+	
+    <sect2><title>Poängsättning</title>
+
+	    <para>Varje lyckad attack ger samma poäng som hälsan på det attackerade kortet eller högen.</para>
+
+	</sect2>
+    <sect2><title>Strategi</title>
+
+	    <para>Det är bäst att flytta så rakt upp som möjligt. Försök att hitta en enkel väg genom muren innan du börjar.</para>
+	    <para>Försök att inte slösa kort, men gör så många attacker som möjligt innan utdelande av nya kort.</para>
+	    <para>När du försöker ta bort en av de nedre vaktposthögarna, är det ofta en god idé att först vända korten genom att attackera dem med ett lågt värderat kort, och efter det besluta om att försöka ta sig igenom där eller genom någon av de andra nedre vaktposthögarna. Observera att den förväntade hälsan på en av de nedre vaktposthögarna är lite mindre än 21.</para>
+    </sect2>
+</sect1>

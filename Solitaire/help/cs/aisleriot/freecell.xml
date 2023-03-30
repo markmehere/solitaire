@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>FreeCell</title>
+
+	<para>Napsal Changwoo Ryu</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Záložní</entry>
+		<entry>Čtyři hromádky vlevo v horním řádku. V každé záložní hromádce může být jen jedna karta.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky nahoře. Poskládejte vzestupné postupky v barvě, od esa po krále. Karty v seřazených jsou již mimo hru.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Osm hromádek. Všechny karty se rozdají lícem nahoru na těchto osm hromádek, takže se skončí se sedmi kartami na prvních čtyřech hromádkách a se šesti na posledních čtyřech. V rozdaných můžete skládat sestupné postupky v barevnosti na střídačku. Karty je možné přesouvat jen po jedné, ale pro urychlení můžete přesunou i celou postupku, pokud je v záložních dostatek místa na jednotlivé tahy.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Skupiny karet můžete přesouvat jen když máte v záložních hromádkách dostatek volných pozic na jednotlivé tahy, které byste jinak museli provést. Na volné hromádky v rozdaných můžete položit libovolnou kartu nebo skupinu karet.</para>
+	<para>V seřazených musíte poskládat postupky v barvě, od esa po krále. Karty v seřazeních již nejsou ve hře. Karta se dá do seřazených na příslušné místo přesunout i dvojitým kliknutím na ni, pokud je takový tah možný.</para>
+	<para>Karty z hromádek v záložních je možné vrátit do hry do rozdaných nebo zahrát do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Volné místo je ceněná komodita. Udržujte si co nejvíce volných záložních hromádek jde.</para>
+        </sect2>
+</sect1>

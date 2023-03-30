@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sir Tommy</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla kort placeras här vid spelets början. Korten vänds ett och ett till kasthögen.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Till höger om högen. Kan bara innehålla ett kort. Du måste direkt välja att placera kortet antingen på en grund- eller reservhög.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra översta högarna till höger om kasthögen. Byggs upp från ess till kung oavsett färg.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Fyra högar placerade under grundhögarna. Kort i reservhögarna kan bara spelas till grundhögarna.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bygg upp grundhögarna i ordning från ess till kung oavsett färg. Kort i grundhögarna är inte längre i spel. Korten vänds ett och ett från högen till kasthögen. Eftersom kasthögen bara kan innehålla ett kort måste kortet spelas direkt till en grundhög eller till någon av de fyra reservhögarna. Kort i reservhögarna kan inte arrangeras om.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att inte placera kort av högre valör på kort av lägre valör i reservhögarna.</para>
+        </sect2>
+</sect1>

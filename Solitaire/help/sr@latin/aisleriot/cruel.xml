@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Okrutan</title>
+
+  <para>Napisao Zach Keene</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornje levo mesto. Pošto se sve preostale karte podele na talon, uvek će ostati prazno. Nije ograničen broj ponovnih deljenja.</entry>
+	</row>
+	<row>
+	  <entry>„Temelji“</entry>
+	  <entry>Skroz desne gomile u gornjem redu; asovi se stavljaju ovde posle početka igre. Karte se slažu po znaku, od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Do trinaest gomila, dele se po četiri karte dok se gomila ne isprazni. Gomile na talonu se slažu po znaku.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte na „temelje“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>„Temelje“ slažite po znaku na gore, a gomile na talonu po znaku na dole. Ako nema više poteza (ili mislite da treba), kliknite prazno mesto gore levo za ponovno deljenje.</para>
+  <para>Ponovna deljenja se izvode tako što se sve gomile sa talona spoje čuvajući im redosled, počevši od poslednje. Onda se špil prosto okrene i ponovo podeli, po četiri karte, nazad na talon. Ako se ne naprave novi potezi, ponovno deljenje neće promeniti redosled i, samim tim, igra je izgubljena kada nema poteza posle ponovnog deljenja.</para>
+  <para>Zapamtite: degenerisani slučaj se dešava kada, posle ponovnog deljenja, poslednja gomila na talonu ima samo jednu kartu, a jedini mogući potez je ona postavka talona pre deljenja. Ponovnim deljenjem će se samo ponoviti prethodni talon. Pasijans će završiti igru kada nastane ovakva situaciju.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Ako se na talonu može slagati više od jedne gomile, odaberite da slažete onu sa većom vrednošću.</para>
+        </sect2>
+</sect1>

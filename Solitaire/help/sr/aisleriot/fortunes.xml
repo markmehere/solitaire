@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Колачићи</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Када кликнете, дели се по једна карта на сваку гомилу у талону.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Четири гомиле десно. Групе карата могу да се помере на празна места.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте осим асова.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Асови су високе карте. Када су доступне две карте истог знака, може се уклонити она са мањом вредношћу. Када се појави празно место, он се може попунити са групом карата.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака уклоњена карта доноси један поен.</para>
+  <para>Највећи могући број поена: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Нема разлога да имате празна места када се дели нова тура карата. Али ипак, ако имате празно место, покушајте да га држите што празнијим, јер је то одличан начин да се решите закопаних карата.</para>
+        </sect2>
+</sect1>

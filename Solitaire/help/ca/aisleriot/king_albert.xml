@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Rei Albert</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior. Les bases es construeixen pujant per pal i en seqüència des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Set piles a la dreta. Per començar es reparteix una carta de cara amunt a cada pila de la reserva. No es pot construir a les reserves. Les piles de la reserva buides no es poden omplir.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Nou piles de cartes, amb nou cartes a la primera pila, vuit a la segona i així fins a una carta a l'última pila. Aquestes cartes es reparteixen cara avall. Finalment la carta superior de cada pila es gira cara amunt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Al tauler les cartes es construeixen baixant i alternant el color. Els llocs buits al tauler es poden omplir amb qualsevol carta o construcció de cartes.</para>
+  <para>Les cartes a la reserva es poden jugar al tauler o a la base. Les piles de la reserva buides no es poden omplir.</para>
+  <para>Les piles base es construeixen pujant per pal des de l'as al rei. Les cartes a les bases es poden jugar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Recordeu que qualsevol carta es pot col·locar a qualsevol lloc buit del tauler. La màxima prioritat d'aquest joc és exposar les cartes noves.</para>
+        </sect2>
+</sect1>

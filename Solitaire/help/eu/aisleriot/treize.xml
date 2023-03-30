@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Treize</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Goiko eta beheko kartak jokoan erabiltzeko prest daude.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Zazpi errenkada osatu behar dira kartak gora begira jarriz. Lehenengoan karta bat ipini; bigarrenean bi karta, goikoa erdi estaltzen dutela; hirugarrenean hiru, eta horrela piramidea osatu arte.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak kentzea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Piramidean bistan dauden karta guztiak erabiltzeko prest daude. Erregeak banaka kendu daitezke. Gainerako kartak hamahiru batzen duten karta-bikoteka kendu behar dira. Batekoak 1 balio du, txankak 11 eta erreginak 12.</para>
+	<para>Kartak banan-banan iraul daitezke sortatik hondarrera. Goiko eta beheko kartak jokoan erabiltzeko prest daude, bai beraien artean, bai piramidean erabilgarri dauden kartekin. Hondarreko goiko karta bere atzeko kartarekin elkar daiteke. Ezin da berriro banatu.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Kendutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Joko hau irabaztea Hamahiru irabaztea baino errazagoa da. Aurrera begirako plana egin daitekeelako eta blokeatua ez geratzeko estrategikoki joka daitekeelako da hori.</para>
+        </sect2>
+</sect1>

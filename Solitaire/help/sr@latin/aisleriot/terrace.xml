@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Teras</title>
+
+  <para>Napisao David Rogers</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Dupli špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde posle rezerve deljenja na talon. Karte se okreću jedna po jedna na otpad. Gomila ne može da se prevrne.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Uzima se sa gomile. Karta na vrhu je u igri.</entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Jedanaest otvorenih karata na gomili. Sve karte su vidljive, ali je samo karta na vrhu u igri.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Osam gomila u sredini. Slažu se na gore po naizmeničnim bojama, od osnovne karte.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    	  <entry>Devet karata koje se dele otvorene iz špila onda kada se odabere osnovna karta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu na dole po naizmeničnim bojama. Grupe karata se ne mogu pomerati. Prazna gomila na talonu se mora popuniti kartom sa vrha otpada ili sledećom kartom sa gomile. Karta na vrhu se može pomeriti na „temelj“ ili na druga mesta na talonu.</para>
+  <para>„Temelji“ se slažu na gore po naizmeničnim bojama, od osnovne karte. Prazni „temelji“ se moraju popuniti osnovnom kartom koju bira igrač od četiri slučajne karte u prvom potezu. Karte na „temelju“ nisu u igri.</para>
+  <para>Karta na vrhu rezerve je u igri i može se pomeriti samo na „temelje“.</para>
+  <para>Karte se okreću sa gomile na otpad jedna po jedna koliko god puta želite, osim ako ima mesta na talonu. U tom slučaju, samo jedna karta može da se okrene na otpad dok se talon ne popuni, ili se karta sa vrha otpada ne pomeri na „temelj“ ili talon. Dok je gomila zaključana, i dalje možete pomerati karte na talon, sa rezerve i na „temelje“. Ako je otpad prazan, karta se gomile se automatski okreće. Karta na vrhu otpada je u igri. Gomila ne može da se okrene.</para>
+  <para>Duplim klikom na kartu će ona biti premeštena na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Opcije</title>
+
+  <para>Postoji sedam načina igranja. Razlika u njima je u broju karata na rezervi, talonu i izboru osnovne karte.</para>
+  <para>Teras</para>
+  <para>Rezerva sa 11 karata, 9 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Igrač bira osnovnu kartu od četiri slučajne karte na početku igre i jedna karta se onda deli na svaki od talona. Gomila se ne može okretati.</para>
+  <para>Osnovno strpljenje</para>
+  <para>Rezerva sa 13 karata, 9 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Igrač bira osnovnu kartu od četiri slučajne karte na početku igre i jedna karta se onda deli na svaki od talona. Gomila se može okrenuti jednom, ali je igra izgubljena ako ne možete da odigrate svaku kartu posle okretanja.</para>
+  <para>Padajuće zvezde</para>
+  <para>Rezerva sa 11 karata, 9 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Na početku se osnovna karta bira automatski i po jedna karta se deli na svaki talon. Gomila se ne može okretati.</para>
+  <para>Sinjora</para>
+  <para>Rezerva sa 11 karata, 9 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Na početku se osnovna karta bira automatski i po jedna karta se deli na svaki talon. Prazna mesta na talonu se automatski popunjavaju sa otpada, ili sa gomile ako je otpad prazan. Gomila se ne može okretati.</para>
+  <para>Crvenokosi</para>
+  <para>Rezerva sa 21 kartom, 8 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Na početku se osnovna karta bira automatski i po jedna karta se deli na svaki talon. Prazna mesta na talonu se automatski popunjavaju sa otpada, ili sa gomile ako je otpad prazan. Gomila se ne može okretati.</para>
+  <para>Plavuše i brinete</para>
+  <para>Rezerva sa 10 karata, 8 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Na početku se osnovna karta bira automatski i po jedna karta se deli na svaki talon. Gomila se ne može okretati.</para>
+  <para>Drvo</para>
+  <para>Rezerva sa 10 karata, 9 gomila na talonu. „Temelji“ se slažu na gore po naizmeničnim bojama od osnovne karte. Na početku se osnovna karta bira automatski i po jedna karta se deli na svaki talon. Gomila se ne može okretati.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Kada igra počne, pažljivo pregledajte rezerve pre izbora osnovne karte izbegavajući ih ukoliko su ostale karte sa tom vrednošću zakopane u rezervi.</para>
+  <para>Pratite obrnute nizove na gomili. Rezervišite jedan „temelj“ da uklonite svaki obrnuti niz.</para>
+  <para>Pokušajte da započinjete gomile na talonu od poslednje karte koja vam treba da dovršite „temelj“.</para>
+  <para>Zapamtite da možete nastaviti sa okrećetanjem karata sa gomile dok je ona zaključana, bez popunjavanja talona koristeći karte sa otpada.</para>
+        </sect2>
+</sect1>

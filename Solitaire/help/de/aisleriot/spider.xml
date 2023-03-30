@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Spinne</title>
+
+	<para>Geschrieben von Jonathan Blandford</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Doppelblatt</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Kartensatz wird hier abgelegt, nachdem auf den Spieltisch ausgelegt wurde. Durch Anklicken wird eine Karte sichtbar auf jede Ablage gelegt.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Acht Ablagen oben. Werden nur benutzt, um Kartenfolgen von König bis Ass zu enthalten, sobald diese vollständig sind.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Zehn Stapel. Vier Stapel (Stapel 1, 4, 7 und 10) erhalten 5 verdeckte und eine sichtbare Karte, während die restlichen Stapel 4 verdeckte und eine sichtbare Karte erhalten. Karten können unabhängig von ihrer Farbe absteigend aufgebaut werden. Kartenfolgen derselben Farbe können zusammen bewegt werden. Leere Stapel können mit jeglicher Karte oder bewegbaren Einheit belegt werden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Acht Kartenfolgen von König bis Ass in den Fundamentstapeln haben.</para>
+	<para>Falls Sie eine besonders schwierige Herausforderung suchen, ziehen Sie vollständige Kartenfolgen nicht auf einen Fundamentstapel. Sie können auch gewinnen, indem die acht Kartenfolgen auf dem Spieltisch verbleiben. Dies ist schwieriger, da weniger leere Stapel verfügbar sind. Tatsächlich ist es fast unmöglich.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Absteigend aufgebaut werden kann unabhängig von der Farbe. Kartenfolgen derselben Farbe können zusammen bewegt werden. Leere Stapel können mit jeder Karte oder gültigen Kartenfolge belegt werden.</para>
+	<para>Durch Anklicken des Talons wird zu jedem Zeitpunkt eine Karte auf jeden Stapel sichtbar ausgeteilt. Allerdings darf kein Stapel leer sein. Falls es einen leeren Stapel gibt, wird eine Fehlermeldung ausgegeben.</para>
+	<para>Eine Kartenfolge von König bis Ass kann auf einen Fundamentstapel gelegt werden. Danach sind sie nicht mehr im Spiel.</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+  <para>Es gibt drei mögliche Arten eines Decks. Jedes Deck hat 104 Karten.</para>
+  <variablelist>
+    <varlistentry><term>Eine Farbe</term>
+      <listitem>
+        <para>Der Kartensatz ist ein achtfacher Satz ausschließlich mit Pik. Dies ist der einfachste der »Spinne«-Kartensätze und eine gute Möglichkeit, die Grundlagen zu lernen.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Zwei Farben</term>
+      <listitem>
+        <para>Der Kartensatz ist ein vierfacher Satz jeweils mit Herz und Pik. Es gibt vier vollständige Kartenfolgen für jede Farbe. Dies ist nicht ganz so teuflisch wie der Standardstapel für »Spinne«.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Vier Farben</term>
+      <listitem>
+        <para>Der Kartensatz ist ein Standard-Doppelkartensatz. Es gibt pro Farbe zwei vollständige Kartenfolgen. Dies ist der Standardsatz für »Spinne«, und der schwierigste.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Viele traditionelle Implementationen von »Spinne« verwenden keinen Fundamentstapel und entfernen einfach komplettierte Kartenfolgen. Dies hat keinen Einfluss auf den Spielverlauf.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Für jede Kartenfolge mit einheitlicher Farbe gibt es (Länge der Folge - 1) Punkte.</para>
+	<para>Maximal erzielbare Punkte: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Werden Sie nicht süchtig, falls Sie zu Beginn nicht erfolgreich sind. Bauen Sie nach Farbe auf wo immer möglich, aber decken Sie so viele Karten auf, wie Sie können.</para>
+        </sect2>
+</sect1>

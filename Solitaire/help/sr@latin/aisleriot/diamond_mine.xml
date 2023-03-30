@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Dijamantska mina</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Jedna gomila na vrhu. Slažite nizove karoa (dijamanata) počevši od nekog po vašem izboru.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Trinaest gomila. Dele se po tri zatvorene karte i jedna otvorena karta na svaku od gomila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Skloniti sve karoe na „temelj“, dok na talonu sve karte treba da budu poređane po znaku, počevši od asova.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte (osim karoa) se mogu slagati u niz bez obzira na znak. Nizovi karata se mogu zajedno pomerati. Prazna mesta se mogu popunjavati bilo kojom kartom (osim karoa) ili nizom karata.</para>
+  <para>Karoi se ne mogu pomeriti osim ako se postave na „temelj“. Karo „temelj“ se mora složiti po vrednosti, ali može da krene od bilo kog broja.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki postavljeni karo na „temelj“ donosi onoliko poena kolika je vrednost te karte, pri čemu as donosi jedan poen, žandari jedanaest, dame dvanaest, a kraljevi trinaest poena.</para>
+  <para>Svaki niz od asa do kralja sa talona donosi tri poena.</para>
+  <para>Najveći mogući broj poena: 100</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Kopanje karoa je težak posao. Imajte u vidu da ne vrede sve karo karte isto. Ne zaboravite da očistite za sobom i da ostale znakove postavite u niz.</para>
+        </sect2>
+</sect1>

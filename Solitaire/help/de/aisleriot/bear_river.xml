@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Bear River</title>
+
+  	<para>Geschrieben von Bruce und Joel Levin</para>
+
+
+          <sect2><title>Spielaufbau</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben. Eine Karte wird offen auf den ersten Fundamentstapel gelegt.</entry>
+	</row>
+
+	<row>
+	  <entry>Kartenreihe</entry>
+    	  <entry>Es sind 18 Tischstapel in drei Reihen zu je sechs Stapeln angeordnet. Alle Karten werden offen ausgeteilt und aufgefächert, so dass alle Karten sichtbar sind. Die ersten fünf Stapel jeder Reihe beginnen mit jeweils drei Karten. Der sechste Stapel jeder Reihe beginnt jeweils mit zwei Karten.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Regeln</title>
+
+  <para>Eine zufällige Karte ist bereits auf den Fundamentstapel verteilt worden. Der Rang dieser Karte wird zur Grundkarte. Die anderen drei Karten gleichen Ranges dürfen auf einen leeren Fundamentstapel gelegt werden. Fundamentstapel werden nach Farbe in absteigender Reihenfolge aufgebaut. Karten dürfen von Dame nach König nach Ass nach Zwei fortlaufen. Karten auf dem Fundamentstapel dürfen nicht zurück auf Stapel auf dem Spieltisch gelegt werden.</para>
+  <para>Keiner der Stapel auf dem Spieltisch darf mehr als drei Karten haben. Die oberste Karte jedes Stapels darf auf jeden anderen Stapel auf dem Spieltisch gelegt werden, wenn die Farbe übereinstimmt und einen Wert eins höher oder niedriger als die oberste Karte des Zielstapels hat. Karten dürfen zwischen König und Ass fortlaufen.</para>
+  <para>Dort sind zwei Typen von Tischstapeln: »Standard«-Stapel und »Loch«-Stapel. Die ersten fünf Stapel jeder Reihe (jene mit jeweils drei Karten) sind die Standardstapel. Ein leerer Standardstapel kann NICHT mit einer neuen Karte belegt werden. Der letzte Stapel jeder Reihe (jener mit jeweils zwei Karten) sind die Lochstapel. Ein leerer Lochstapel KANN mit einer neuen Karte belegt werden.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede auf den Fundamentstapel gelegte Karte zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Strategie</title>
+
+  <para>Versuchen Sie möglichst früh einen oder mehr Lochstapel freizulegen.</para>
+  <para>Das Ablegen von Karten auf den Fundamentstapeln ist niemals von Nachteil. Legen Sie soviel wie möglich und so schnell wie möglich ab.</para>
+  <para>Karten, deren Rang eine Stufe niedriger ist als die Basiskarte, können sehr schwierig spielbar sein. Seien Sie vorsichtig, wenn Sie diese ablegen.</para>
+  <para>»Bear River« kann ungefähr jedes dritte Mal gewonnen werden.</para>
+  
+        </sect2>
+        
+        
+</sect1>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+  <sect2><title>Ajustes</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de repartir el tablero. Las cartas se reparten en grupos de siete, una en cada montón del tablero.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. Para colocarlos en secuencias del mismo palo, saltando del rey al as cuando sea necesario. Una carta se reparte al primer montón objetivo. Los otros montones del objetivo se deben comenzar con cartas del mismo rango.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+    <entry>Siete montones. Se reparte la primera carta boca arriba en el primer montón. Se coloca una carta boca abajo en cada uno de los otros montones. Se sitúa una carta boca arriba en el siguiente montón seguida por una carta boca abajo en los montones cubiertos por cartas boca abajo. Se repite el proceso hasta que en el último montón haya siete cartas. El tablero se puede construir con cartas del mismo color en orden descendente. Es posible mover grupos de cartas. Los montones vacíos sólo se pueden llenar con el siguiente reparto desde el montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Meta</title>
+  <para>Mover todas las cartas a los montones objetivo.</para>
+  </sect2>
+  <sect2><title>Reglas</title>
+  <para>Las cartas en el tablero se agrupan por color y en orden descendente. Las secuencias de cartas con el mismo color se pueden mover como una unidad.</para>
+  <para>En cada reparto se mueve una carta del montón a cada uno de los montones del tablero. Sólo hay un reparto inicial.</para>
+  <para>El objetivo se construye en secuencia en orden ascendente, saltando del rey al as si es necesario. Las cartas colocadas en el objetivo se consideran en juego. Una doble pulsación sobre una carta del tablero hará que ésta se mueva a lugar apropiado del objetivo, si tal movimiento es posible.</para>
+</sect2>
+  <sect2><title>Puntuación</title>
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+</sect2>
+
+  <sect2><title>Estrategia</title>
+  <para>Intenta colocar las cartas consecutivamente en orden descendente siempre que sea posible. Intenta puntuar lo máximo posible puesto que éste es un juego difícil de ganar.</para>
+</sect2>
+</sect1>

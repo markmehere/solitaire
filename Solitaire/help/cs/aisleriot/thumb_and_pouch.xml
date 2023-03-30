@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thumb_And_Pouch"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Palec a pytlík</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Hromádka vlevo nahoře. Zbytek sady je po rozdání položen zde. Karty se po jedné lížou do otočených. Hromádka se dvakrát vrací.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte na nich poskládat vzestupnou postupku v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek. Na první se rozdá karta lícem nahoru. Na ostatní po jedné kartě lícem dolů. Další karta lícem nahoru se rozdá o hromádku vedle a na zbývající se rozdá po jedné kartě lícem dolů. Takto se to opakuje, až je v poslední hromádce sedm karet. V rozdaných můžete skládat sestupné postupky v barvě vyjma stejné. Lze přesouvat skupiny karet. Prázdné hromádky můžete zaplnit libovolnou platnou postupkou.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barvě vyjma stejné. Přesouvat lze skupiny karet. Prázdné hromádky v rozdaných můžete doplnit libovolnou platnou postupkou karet.</para>
+  <para>Karty se z volných do otočených lížou jednotlivě. Vrchní karta v otočených je ve hře. Když je hromádka volných prázdná, vrátí se do ní hromádka otočených se zachováním pořadí. Takto můžete hromádku projít třikrát.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Hrubá síla nemusí být vždy nejlepším řešením, ale zde tomu tak nejspíš bude.</para>
+        </sect2>
+</sect1>

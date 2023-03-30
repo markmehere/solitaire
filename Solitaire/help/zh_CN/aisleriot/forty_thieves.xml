@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>四十大盗</title>
+
+  <para>由 Ed Sirett 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌，每次往废牌区发一张牌，最上面的牌可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的八个空位，按花色从 A 到 K 收牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    <entry>十垛牌，开始时每垛四张牌，按花色移动，每次移动一张，空位可以放任何牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色递减排列，每次只能移动一张，空位可以放任何一张牌。作为一个小技巧，如果有足够的空位，一次可以移动多张牌。可以一次移动一组牌到收牌区。</para>
+  <para>发牌区每次发一张牌到废牌区，最上面的一张可以用在游戏中，不能重复。</para>
+  <para>收牌区按花色从 A 到 K 递增收牌，双击收牌区可以自动收牌，双击桌面或废牌区的一张牌可以把它移到收牌区，如果它是可以收取的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得5分，当收完一套花色(从 A 到 K)，可以额外得到60分。</para>
+  <para>可能得到的是：1000</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>尽可能地连续移动一垛牌，以便获得一个空位，然后保持二者平衡，以便解决在废牌区出现小点数的死牌。</para>
+        </sect2>
+</sect1>

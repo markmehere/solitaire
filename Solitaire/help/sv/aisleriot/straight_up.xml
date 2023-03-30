@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Straight_Up"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Rakt upp</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar överst till höger. Lägg en tvåa på varje grundhög i spelets början. Byggs upp i färg till ess.</entry>
+	</row>
+	<row>
+		<entry>Reservhög</entry>
+		<entry>Platsen under högen. Lägg tretton kort här för att börja. Översta kortet är tillgängligt för spel till bordshögarna eller grundhögarna.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Fyra högar längst ned till höger. Placera ett kort på varje hög för att börja. Högarna kan byggas i färg. Tomma platser fylls automatiskt från reservhögen. När reservhögen är tom kan tomma bordshögar fyllas från kasthögen i din egen takt.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned i färg. Grupper av kort kan flyttas. En tom plats i bordshögarna fylls automatiskt från reservhögarna. Om reservhögen är tom, kan tomma platser fyllas när du vill av det översta kortet i kasthögen.</para>
+	<para>Korten vänds ett åt gången från högen till kasthögen. Översta kortet är tillgängligt för spel. Två omgivar</para>
+	<para>Grundhögarna byggs upp i färg från två till ess. Kort i grundhögarna är inte längre i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Det finns ingen anledning att vänta! Flytta kort till grundhögarna när så är möjligt.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>阳台</title>
+
+  <para>David Rogers 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，桌面和保留区发剩下的牌放在这儿，每次往废牌区发一张，不能重复。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>放置发牌区过来的牌，最上面的牌可用于游戏。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>包含十一张翻开的牌，所有的牌都可以看到，但只有最上面一张可用于游戏。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>中间的八个空位，按不同花色交替排列，排列顺序是从基准牌递增排列。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    	  <entry>选择出基准牌后，立即补充到九张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按不同花色交替递减排列，不允许成组移动，出现的空位必须由废牌区最上面的牌，或者从发牌区发来的牌填充。最上面的牌可以移到收牌区或者其他牌垛。</para>
+  <para>收牌区按不同花色交替从基准牌开始递增排列，其他空位也必须从基准牌开始收牌，基准牌是开始时从桌面上移动过来的牌，收牌区的牌不能再用于游戏。</para>
+  <para>保留区最上面的牌参与游戏，只能移动到收牌区。</para>
+  <para>发牌区每次向废牌区发一张牌，次数不限，除非桌面上出现了空位，这时只能发一张牌，直到桌面上的空位被废牌区的牌填充后才能继续发牌，或者废牌区的牌移到收牌区。发牌区锁定时，桌面上的牌还可以移动，保留区的牌也可以移到收牌区，如果废牌区为空，发牌区会自动发牌。废牌区最上面的牌可参与游戏，发牌区不能重复发牌。</para>
+  <para>双击一张牌可以自动移到收牌区，如果它是可以移动的话。</para>
+
+          </sect2>
+        <sect2><title>选项</title>
+
+  <para>有七种玩法，它们只是保留区的数目、桌面牌垛或基准牌的选择上有所不同。</para>
+  <para>阳台</para>
+  <para>保留区11张牌，桌面排列区9垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，玩家从四张牌里选择一张基准牌，然后所有空位都放上牌，发牌区不能重复发牌。</para>
+  <para>一般的耐心</para>
+  <para>保留区13张牌，桌面排列区9垛，收牌区按花色从基准牌开始递增收牌，游戏开始之初，玩家从四张牌里选择一张基准牌，然后所有空位都放上牌，发牌区可以重复一次，但是如果重复发牌时，不能移走发出的牌，游戏就输了。</para>
+  <para>星辰</para>
+  <para>保留区11张牌，桌面排列区9垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，自动选择了一张基准牌，然后所有空位都放上牌，发牌区不能重复发牌。</para>
+  <para>贵妇人</para>
+  <para>保留区11张牌，桌面排列区9垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，自动选择一张基准牌，然后所有空位都放上牌，空位自动从废牌区或发牌区填充(如果废牌区为空)，发牌区不能重复发牌。</para>
+  <para>红发</para>
+  <para>保留区21张牌，桌面排列区8垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，自动选择一张基准牌，然后所有空位都放上牌，空位自动从废牌区或发牌区填充(如果废牌区为空)，发牌区不能重复发牌。</para>
+  <para>金发与黑发</para>
+  <para>保留区10张牌，桌面排列区8垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，自动选择一张基准牌，然后所有空位都放上牌，发牌区不能重复发牌。</para>
+  <para>木头</para>
+  <para>保留区10张牌，桌面排列区9垛，收牌区按不同花色交替从基准牌开始递增收牌，游戏开始之初，自动选择一张基准牌，然后所有空位都放上牌，发牌区不能重复发牌。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>游戏开始时，仔细观察保留区的牌，然后选择恰当的基准牌，避免基准牌压在保留区下边。</para>
+  <para>注意在发牌区保留一个序列，然后在收牌区留一个空位来放这个序列。</para>
+  <para>桌面上排序时，尽量让最后收取的牌开头。</para>
+  <para>记住桌面上的空位是由废牌区最上面的一张牌填充，这时候发牌区是被锁定的。</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fourteen</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Alle Karten gleichmäßig auf zwölf Stapel sichtbar aufteilen. Die ersten vier Stapel erhalten jeweils fünf Karten, die übrigen Stapel erhalten jeweils vier Karten. Die obersten Karte jeden Stapels ist spielbar. Leere Stapel können nicht belegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten können in Paaren entfernt werden, deren Summe vierzehn ergibt. Asse zählen eins, Buben, Damen und Könige zählen jeweils 11, 12 bzw. 13.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Seien Sie vorsichtig! Versuchen Sie Karten zu verschieben, die auf passenden Paaren liegen, andernfalls kann es zu einer Blockade kommen.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>特睿兹</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>放置发牌区过来的牌，最上面和最下面的牌可用于游戏。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>放七行交叉翻开的牌，第一行是一张，然后每一行多一张，牌垛摆成金字塔形。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>移除所有牌。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>金字塔上所有没被压住的牌都可以参与游戏，K 可以单独移走，其他牌必须两两相加等于13才能移除，A 等于1，J 等于 11，Q 等于12。</para>
+	<para>发牌区每次发一张牌到废牌区。最上面和最下面的牌可用于游戏，可以和金字塔中的牌组合，也可以和它自己的牌组合，废牌区最上面的牌可以和下一张组合。不能重复发牌。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>这个游戏比十三要好羸一些，因为提前计划，通过策略避免被堵住。</para>
+        </sect2>
+</sect1>

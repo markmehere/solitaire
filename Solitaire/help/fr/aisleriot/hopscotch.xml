@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Hopscotch</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Toutes les cartes sont placées ici au début du jeu, sauf de l'As au Quatre de Trèfle. Les cartes sont distribuées une à une vers la défausse.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Immédiatement à droite de la pioche. Ne peut contenir qu'une seule carte à la fois. Cette carte doit être immédiatement déplacée soit sur une fondation soit sur une réserve de votre choix.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles en haut à droite. On place un As sur la première fondation, un Deux sur la deuxième, un Trois sur la troisième et un Quatre sur la quatrième. Les fondations sont à construire quelle que soit la couleur en montant de un, deux, trois et quatre sur la première, deuxième, troisième et quatrième fondation respectivement. L'As suit le Roi et précède le Deux. Les cartes des fondations ne sont plus en jeu. Les couleurs sont sans importance.</entry>
+	</row>
+	<row>
+		<entry>Réserves</entry>
+		<entry>Quatre piles sous les fondations. Les cartes des réserves peuvent être jouées uniquement sur les fondations. Les cartes de la défausse peuvent être déplacées sur n'importe quelle réserve.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les fondations sont à construire quelle que soit la couleur en montant de un, deux, trois et quatre sur la première, deuxième, troisième et quatrième fondation respectivement. Les cartes sont distribuées une à une depuis la pioche vers la défausse. Cependant, comme la défausse ne peut contenir qu'une seule carte, celle-ci doit être jouée immédiatement vers une fondation ou une des quatre réserves. Les cartes des réserves ne peuvent pas être réarrangées.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 48</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Affûtez vos compétences pour ce jeu. La chance ne vous mènera pas très loin. Essayez de ne pas couvrir les cartes dont vous pourriez avoir besoin prochainement. C'est une bonne idée de garder une pile juste pour les Rois (comme c'est la dernière carte à jouer sur chaque fondation).</para>
+        </sect2>
+</sect1>

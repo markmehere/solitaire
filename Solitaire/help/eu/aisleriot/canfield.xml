@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Canfield</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Karta sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak hirunaka iraultzen dira hondarrera. Nahi adina bider banatu daiteke.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortaren eskuinean. Sortatik hartzeko. Goiko karta jokoan erabiltzeko prest dago.</entry>
+	</row>
+	<row>
+		<entry>Biltegia</entry>
+		<entry>Ezkerrean, sortaren azpian. Jarri hamahiru karta, goikoa gora begira. Goiko karta hori jokatzeko prest dago, eta oinarrietara edo mahaira mugi daiteke.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Lau pila oinarrien azpian. Jarri karta bat pila bakoitzean, gora begira. Mahaiko pilak beherantz osa daitezke, koloreak txandakatuz. Karta multzoak mugi daitezke.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila goian, eskuinean. Jarri karta bat lehen oinarri-pilan, gora begira. Karta hori da oinarrizko karta. Osatu gorantz irudiaren arabera.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Karta multzoak mugi daitezke. Mahaiko gune hutsak automatikoki betetzen dira biltegitik. Biltegia hutsik badago, karta bat edo karta multzo bat jar daiteke gune hutsean.</para>
+	<para>Kartak hirunaka iraultzen dira sortatik hondarrera. Azken irauliak hiru karta baino gutxiago baditu, daudenak irauliko dira. Sorta hustutakoan, hondarreko karta guztiak sortara eramaten ditu, ordena errespetatuz.</para>
+	<para>Irudia kontuan hartuta osatzen dira oinarriak, oinarrizko kartatik abiatuta (lehen oinarrian banatutako lehen karta) Oinarri berriak abiarazteko, banatzean lehen oinarrian jarritako kartaren maila bereko karta jarri behar da oinarri-pila hutsetan. Batekoak erregeen gainean jartzen dira eta bikoak batekoen gainean. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez gero, dagokion oinarri-pilara mugitzen da, mugimendu hori egin baldin badaiteke.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarri-piletako karta bakoitzeko, puntu bat. Kasinoetan jokatu ohi zen joko hau. Hamar puntu lortzea emaitza bikaina da.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Hobe da txori bat eskuan, bi hegan baino. Joko hau irabaztea oso zaila da. Apustuen arauak gogoan dituela jokatzen du jende gehienak, eta ahalik eta puntu gehian lortzen saiatzen da. Horretarako, mugitu kartak oinarrietara aukera ikusi bezain laster.</para>
+        </sect2>
+</sect1>

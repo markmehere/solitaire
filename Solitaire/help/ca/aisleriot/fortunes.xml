@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fortunes</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Es reparteix una carta a cada pila del tauler quan s'hi fa clic.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Quatre piles a la dreta. Els grups de cartes es poden moure a les piles buides.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimiu totes les cartes excepte els quatre asos.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Els asos són les cartes superiors. Quan dues cartes del mateix pal estan disponibles, la que té el rang inferior es pot suprimir. Quan apareix un lloc buit, es pot omplir amb un grup de cartes.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta suprimida puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>No hi ha cap raó per a tenir un lloc lliure quan es reparteix un altre grup de cartes. Tot i això, quan teniu un lloc buit, intenteu-lo mantenir el màxim de temps possible, ja que és la millor manera d'acabar amb les cartes enterrades.</para>
+        </sect2>
+</sect1>

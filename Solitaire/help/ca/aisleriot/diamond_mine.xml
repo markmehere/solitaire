@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Mina de diamants</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Una pila a la part superior. Es construeix en seqüència de diamants començant amb qualsevol diamant que seleccioneu.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Tretze piles. Es reparteixen tres cartes cara avall i una carta de cara amunt a cada pila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Suprimiu tots els diamants a la base i col·loqueu la resta de cartes per pal i en seqüència començant pels asos a la part inferior del tauler.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes (que no siguin diamants) es poden construir baixant en seqüència independentment del pal. Les construccions de cartes es poden moure com una unitat. Els llocs buits es poden omplir amb qualsevol carta (excepte amb diamants) o construcció de cartes.</para>
+  <para>Els diamants no es poden moure excepte per a moure'ls a la base. La base de diamants s'ha de construir pujant en seqüència però es pot començar amb el número que desitgeu.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada diamant col·locat a la base puntua el valor de la carta, amb l'as un punt, les jotes onze punts, reines dotze punts i reis tretze punts.</para>
+  <para>Cada seqüència des de l'as al rei i del mateix pal a la pila del tauler puntua tretze punts.</para>
+  <para>Puntuació màxima possible: 100</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Excavar per a obtenir diamants és una feina difícil. Recordeu que no tots els diamants valen el mateix. No oblideu de netejar i poseu la resta de pals en ordre.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Union Square</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet double</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>On distribue une grille de quatre par quatre cartes face visible, pour un total de seize piles. Cela constitue le tableau. La carte supérieure de chaque pile est disponible pour être jouée.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Quatre piles à droite. Les fondations sont à construire par couleur de l'As au Roi, puis du Roi à l'As.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Déplacer toutes les cartes vers les fondations.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Les piles du tableau peuvent être construites en montant ou en descendant par couleur. Cependant, chaque pile doit suivre une seule de ces règles. Par exemple, si une pile du tableau a un Trois de trèfle sur un Deux de trèfle, on ne peut jouer qu'un Quatre de trèfle sur cette pile. N'importe quelle carte disponible peut être jouée sur une pile vide du tableau.</para>
+	<para>Les fondations sont à construire par couleur de l'As au Roi, suivi d'un autre Roi pour redescendre jusqu'à l'As, ce qui fait 26 cartes par pile à la fin d'une partie gagnée. Les cartes des fondations ne sont plus en jeu.</para>
+	<para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte supérieure de la défausse est disponible pour être jouée. Pas de redistribution.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 104</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Un collier de perles peut accueillir des perles par ses deux bouts, il devrait en être de même pour vos piles. Utilisez bien les emplacements vides pour ajouter les cartes. Avec un peu de persévérance, ce jeu peut être très amusant.</para>
+        </sect2>
+</sect1>

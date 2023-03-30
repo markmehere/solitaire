@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Triple_Peaks"><!--<sect1info>
+		<copyright>
+			<year>2005</year>
+			<holder>Richard Hoelscher</holder>
+		</copyright>
+		<author>
+			<firstname>Richard</firstname>
+			<surname>Hoelscher</surname>
+		</author>
+		<address><email>rah@rahga.com</email></address>
+	</sect1info>-->
+
+	<title>Triple Peaks</title>
+
+	<para>Geschrieben von Richard Hoelscher</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Das ganze Spiel findet auf dem Restestapel statt. Verdeckte Karten sind nicht Teil der aktuellen Wertung.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Teilen Sie 18 Karten verdeckt in der Form von drei Dreiecken aus, mit drei Reihen pro Dreieck, wobei aufsteigend die erste Reihe eine Karte und die letzte Reihe drei Karten hat. Verbinden Sie die Dreiecke miteinander, indem Sie 10 weitere Karten sichtbar in die unterste Reihe legen. Die letzten Karten jeder Reihe sollten mit den letzten Karten der Reihe darüber überlappen, und innere Karten sollten mit zwei benachbarten Karten dieser Reihe überlappen.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Entfernen Sie alle Karten vom Spieltisch.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Aufgedeckte Karten auf dem Spieltisch können gespielt werden. Bauen Sie auf die oberste Karte des Restestapels mit Karten des nächsthöheren oder -niedrigeren Werts aus dem Spieltisch auf, unabhängig von der Farbe. Asse werden über Könige und unter Zweien eingeordnet.</para>
+	<para>Karten auf dem Spieltisch werden aufgedeckt, wenn keine anderen Karten sie bedecken.</para>
+	<para>Karten können vom Talon auf den Restestapel einzeln aufgedeckt werden.</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+	<para>Vervielfachende Wertung: Punkte verdoppeln sich für jede Karte in einem Durchgang. Ein Durchgang mit fünf Karten wird 1, 2, 4, 16 und 32 Punkte erbringen, also insgesamt 55 Punkte. Boni sind 25 Punkte wert. Es gibt keinen Punktabzug durch das Legen einer Karte vom Talon auf den Restestapel.</para>
+	<para>Fortlaufende Runden: Nachdem alle Karten vom Spieltisch entfernt wurden, beginnt eine neue Runde. Die Punkte der letzten Runde werden in die neue Runde übertragen.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Die Punkte für jede gespielte Karte entsprechen der Anzahl der gespielten Karten, seitdem die letzte Karte vom Talon auf den Restestapel gelegt wurde. Je länger der Durchgang geht, desto mehr Punkte erzielen Sie.</para>
+	<para>Es werden 5 Punkte abgezogen, wenn Sie eine Karte vom Talon auf den Restestapel legen. Jedes gelöste Dreieck bringt 15 Punkte. Mit 15 weiteren Punkten wird belohnt, dass alle Karten vom Spieltisch entfernt wurden.</para>
+	<para>Maximal mögliche Punktzahl in einer einzelnen Runde: 466</para>
+        </sect2>
+</sect1>

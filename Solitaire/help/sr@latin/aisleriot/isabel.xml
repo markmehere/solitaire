@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Isabel"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Izabela</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Trinaest gomila. Dele se po tri zatvorene karte i jedna otvorena karta na svaku od gomila.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Uklanjajte parove karata sa istom vrednošću. Svaki put kada se neka karta ukloni, karta ispod nje se okreće i može se igrati sa njom. Prazna mesta ne mogu da se popune.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki uklonjeni par karata donosi dva poena.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Na svakoj gomili u početku ima četiri karte. Trik je u tome da zapamtite koliko koja gomila ima karata u svakom trenutku da biste mogli da uklanjate karte ravnomerno.</para>
+        </sect2>
+</sect1>

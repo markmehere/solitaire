@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Luckor</title>
+
+  <para>Skrivet av Zach Keene</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Alla kort delas ut i fyra rader med 13 kort vardera; essen tas sedan bort för att skapa fyra luckor. Två omgivar är tillåtna.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Att placera alla kort i följd från 2 till kung i färg.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Luckor i kolumnen längst till vänster kan fyllas genom att flytta dit en 2:a av vilken färg som helst. En lucka till höger om andra kort än kungar kan fyllas genom att placera ett kort med samma färg men med en högre valör. Luckor efter kungar eller andra luckor kan inte fyllas.</para>
+  <para>När ett kort placeras i en sekvens som börjar med en 2:a i luckan längst till vänster kan den inte längre flyttas.</para>
+  <para>Om inga åtgärder är möjliga (d.v.s. alla luckor följer efter kungar) dubbelklicka på vilket kort som helst för att skapa en omgiv. Alla kort som inte är i följd kommer att tas bort och blandas för omgiv. Endast två omgivar är tillåtna.</para>
+
+            </sect2>
+        <sect2><title>Alternativ</title>
+
+    <para>Slumpmässigt placerade luckor vid omgiv: Markera här för att få slumpmässigt placerade luckor efter en omgiv. Om den är omarkerad kommer luckorna efter en omgiv alltid placeras direkt till höger om korten som redan ligger i följd.</para>
+
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som placeras i en svit som börjar med en tvåa i luckan längst till vänster är värt en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Skjut upp alla drag som kommer att skapa en lucka efter en kung så länge som möjligt.</para>
+        </sect2>
+</sect1>

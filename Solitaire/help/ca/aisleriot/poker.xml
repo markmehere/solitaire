@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Poker"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Pòquer</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Al costat de la pila principal. La pila de descartades només pot tenir una carta.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Graella de cinc per cinc. Cada lloc només pot tenir una carta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Puntueu tants punts com sigui possible utilitzant mans de pòquer. Hi ha dotze mans al tauler: 5 files, 5 columnes i 2 diagonals. Es considera victòria puntuar 75 punts o més.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Feu clic a la pila principal per girar les cartes d'una en una. La carta s'ha de col·locar en algun lloc del tauler abans que la carta següent pugui ser girada. Una carta no es pot moure un cop col·locada.</para>
+
+          </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Mode de barreja: Si està seleccionat, podeu moure les cartes després que s'hagin col·locat. D'aquesta manera necessiteu almenys 120 punts per a guanyar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Les mans del pòquer es puntuen utilitzant el sistema de puntuació britànic, que és el següent</para>
+
+  <informaltable>
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry>Mà</entry>
+          <entry>Descripció</entry>
+          <entry>Puntuació</entry>
+        </row>
+        <row>
+          <entry>Escala de color</entry>
+          <entry>Totes les cartes estan en seqüència i tenen el mateix pal</entry>
+          <entry>30</entry>
+        </row>
+        <row>
+          <entry>Quatre d'un tipus</entry>
+          <entry>Conté quatre cartes que tenen el mateix rang</entry>
+          <entry>16</entry>
+        </row>
+        <row>
+          <entry>Escala</entry>
+          <entry>Totes les cartes estan en seqüència</entry>
+          <entry>12</entry>
+        </row>
+        <row>
+          <entry>Full</entry>
+          <entry>Tres d'un rang i dos d'un altre</entry>
+          <entry>10</entry>
+        </row>
+        <row>
+          <entry>Tres d'un tipus</entry>
+          <entry>Conté tres cartes que tenen el mateix rang</entry>
+          <entry>6</entry>
+        </row>
+        <row>
+          <entry>Color</entry>
+          <entry>Les cinc cartes tenen el mateix pal</entry>
+          <entry>5</entry>
+        </row>
+        <row>
+          <entry>Dues parelles</entry>
+          <entry>Conté dos jocs de dues cartes del mateix rang</entry>
+          <entry>3</entry>
+        </row>
+        <row>
+          <entry>Una parella</entry>
+          <entry>Conté dues cartes del mateix rang</entry>
+          <entry>1</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para>Puntuació màxima possible: 276</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Recordeu que veureu almenys la meitat de la baralla i planifiqueu en concordança. No es recomana intentar enganyar l'ordinador.</para>
+        </sect2>
+</sect1>

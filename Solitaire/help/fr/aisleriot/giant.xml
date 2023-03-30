@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Géant</title>
+
+  <para>Écrit par Ed Sirett</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet double</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont distribuées une rangée à la fois sur les piles du tableau. Pas de redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Huit piles en haut à droite. À construire en montant par couleur de l'As au Roi. La carte supérieure de chaque fondation peut être rejouée vers le tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Huit piles. On distribue une carte face visible sur chaque pile.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>À la droite du tableau. Initialement vide. Peut contenir n'importe quelle carte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur (rouge et noir) alternée. Les cartes peuvent être déplacés, seules ou groupées. Une pile vide du tableau peut être remplie par n'importe quelle carte. Une option permet de restreindre les mouvements aux cartes de la même couleur. Voir ci-dessous.</para>
+  <para>Les cartes sont distribuées à partir de la pioche vers le tableau en rangées complètes. La réserve peut être vide ou occupée, comme vous le souhaitez.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes supérieures des fondations sont toujours en jeu. Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel déplacement est possible. Double-cliquer sur une fondation déplace automatiquement le plus de cartes possible vers les fondations.</para>
+          </sect2>
+        <sect2><title>Options</title>
+
+  <para>Il existe deux manières de jouer. La différence se situe dans la façon de construire les piles de cartes du tableau.</para>
+  <variablelist>
+    <varlistentry><term>Même couleur</term>
+      <listitem>
+      <para>Les cartes doivent être de la même couleur pour être déplacées en groupe et doivent être placées sur une carte de la même couleur.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Couleurs (rouge et noir) alternées</term>
+      <listitem>
+         <para>Pour être déplacé, un groupe de cartes doit former une suite en couleurs (rouge et noir) alternées. La carte supérieure doit être placée sur une carte de la couleur opposée.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 104</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Évitez de laisser de petites cartes enterrées dans le tableau. Utilisez la réserve de façon judicieuse.</para>
+        </sect2>
+</sect1>

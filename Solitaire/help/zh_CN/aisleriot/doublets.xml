@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>双峰</title>
+  <para>Rosanna Yuen 编写</para>
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，可以重复两次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>在发牌区的右边，放置发牌区过来的牌。最上面的牌可以用在游戏中。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>右边七垛牌排列成拱形(倒着的 U)，每垛牌第一张翻开 。在发牌中，如果发出一个 K，把它移到牌局的底部。往这垛上发其他牌，每个保留区只能放一张牌，当出现空位时，自动填充废牌区的牌，或者，如果废牌区也是空的，就从发牌区发一张。如果所有牌都发完，K 出现在保留区，这一垛牌将冻结，因为 K 不能移动。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>只有一垛，位于保留区最下边一行的中间。双击一张牌可以收取到这里，不考虑花色。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>如果一张牌的点数是当前收牌区里的两倍，就可以双击收取它。J 和 Q 是十一和十二。如果两倍以后超过了十三，就用它减去十三以后得到的余数。比如像这样的顺序：</para>
+  <para>A、2、4、8、3、6、Q、J、9、5、10、7 ...</para>
+  <para>每次从发牌区发一张牌到废牌区，当发牌区空了以后，把废牌区的牌按原来的顺序全部收回来。您有三次重复发牌的机会。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>不要 K，您不能做弑君者(K 是王 KAvoiding)，避开它们。</para>
+        </sect2>
+</sect1>

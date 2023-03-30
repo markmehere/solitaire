@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Εξολοθρευτής</title>
+
+	<para>Συγγραφέας Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Διάταξη</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Τύπος τράπουλας</entry>
+						<entry>Απλή τράπουλα</entry>
+					</row>
+					<row>
+						<entry>Ταμπλό</entry>
+						<entry>Τεσσερις στοίβες. Μοιράστε 13 κάρτες στη κάθε μία. (Αυτά είναι όλα τα φύλλα.)</entry>
+					</row>
+					<row>
+						<entry>Βάσεις</entry>
+						<entry>Τέσσερις εώς έξι κενές ομάδες που μπορείτε να τοποθετήσετε σε οποιαδήποτε κατεύθυνση.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Στόχος</title>
+		<para>Μετακίνηση όλων των φύλλων στη Βάση.</para>
+	</sect2>
+
+	<sect2>
+		<title>Κανόνες</title>
+		<para>Κάθε φύλλο μπορεί να τοποθετηεθεί ως το πρώτο φύλλο στη βάση. Οι βάσεις μπορούν να τοποθετηθούν πάνω ή κάτω από την αξία του φύλλου, αγνοώντας τη φυλή. Οι Ρήγες μπορούν να τοποθετηθούν σε Άσσους και αντίστροφα.</para>
+	</sect2>
+
+	<sect2>
+		<title>Βαθμολογία</title>
+		<para>Κάθε φύλλο που μεταφέρεται από το Ταμπλό στη κορυφή μιας Βάσης αντιστοιχεί σε ένα βαθμό.</para>
+		<para>Μέγιστη δυνατή βαθμολογία: 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Στρατηγική</title>
+		<para>Σιγουρευτείτε να κοιτάξετε όλα τα φύλλα που έρχονται, και να είστε σίγουροι ότι δεν πρόκειται να κλειδώσετε οποιοδήποτε φύλλο που είναι αναγκαίο για να μετακινήσετε το ένα πάνω.</para>
+	</sect2>
+</sect1>

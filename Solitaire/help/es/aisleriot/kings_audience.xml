@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Audiencia real</title>
+
+  <para>Escrito por Zach Keene</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+        <row>
+          <entry>Reservas (antesala)</entry>
+          <entry>Rectángulo exterior de dieciséis cartas. Las cartas de la reserva están disponibles para jugarlas, y se vuelve a llenar de la basura (o del montón si no hay cartas en la basura).</entry>
+        </row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón izquierdo de la fila central. Las cartas se dan de una en una a la basura. No hay repartos.</entry>
+	</row>
+        <row>
+          <entry>Basura</entry>
+          <entry>Hueco a la derecha del montón. La carta de la cima de la basura está disponible para el juego.</entry>
+        </row>
+        <row>
+          <entry>«Tronos»</entry>
+          <entry>Cuatro montones en la «sala de audiencias» (área dentro de las dieciséis cartas). Siempre que un rey y una reina del mismo palo están disponibles, se pueden mover a uno de estos huecos.</entry>
+	</row>
+	<row>
+	  <entry>Objetivos</entry>
+	  <entry>Cuatro huecos inferiores de la sala de audiencias. Siempre que una jota y un as del mismo palo estén disponibles, se pueden mover a un montón vacío de la fundación, con la jota encima. Entonces la fundación puede construirse descendentemente por palo.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueve todas las cartas a los montones de la fundación o tronos.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Se sacan las cartas de una en una del montón a la basura. Siempre que un rey y una reina del mismo palo estén disponibles, se pueden mover a un trono vacío bien arrastrando el rey sobre la reina (o viceversa) o bien pulsando dos veces en una de las cartas. Siempre que una jota y un as del mismo palo están disponibles, se pueden mover a la fundación del mismo modo.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la sala de audiencia recibe un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Ninguna; la audiencia real es un juego que se basa mucho en la suerte.</para>
+        </sect2>
+</sect1>

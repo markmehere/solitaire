@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Nachbar</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>
+		  Top left pile.
+			Dealt to the Tableau in the manner described below.
+		</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Five by five grid, each capable of holding one card.  One card dealt to
+			each space at the beginning of game.  Empty spaces automatically filled
+			by moving cards from the right to the left, from the leftmost card of
+			the row below to the rightmost space, and from the Stock to all
+			otherwise empty spaces.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Entfernen Sie alle Karten.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Klicken Sie auf die Könige, um sie zu entfernen. Alle anderen Karten können paarweise entfernt werden, solange sie zusammen bis zu 13 ergeben und sich die Karten horizontal, vertikal oder diagonal berühren.</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+	<para>Keine</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede entfernte Karte erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		Remove cards higher up on the table first as this creates more
+		movement within the grid.
+	</para>
+        </sect2>
+</sect1>

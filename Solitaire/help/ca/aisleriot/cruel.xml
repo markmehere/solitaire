@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Cruel</title>
+
+  <para>Escrit per en Zach Keene</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>El lloc superior esquerra. Com que totes les cartes restants es reparteixen al tauler, sempre estarà buit. No hi ha límit de reparticions.</entry>
+	</row>
+	<row>
+	  <entry>Bases</entry>
+	  <entry>Les piles a la dreta a la fila superior; els asos es col·loquen aquí al començament de la partida. Es construeix pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Fins a tretze piles, es reparteixen quatre cartes a la vegada fins que la pila principal s'acaba. Les piles de tauler es poden construir baixant per pal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moveu totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Construïu les bases pujant per pal i les piles del tauler baixant per pal. Si no queden moviments disponibles (o això creieu), feu clic al lloc buit a la part superior esquerra per a tornar a repartir.</para>
+  <para>Les reparticions es realitzen col·locant les piles del tauler una sobre una altra i en ordre, començant per l'última pila. Llavors la baralla simplement es gira i es torna a repartir, quatre cartes cada vegada, de tornada al tauler. Si no es realitza cap moviment, tornar a repartir no modificarà l'ordre de les cartes. Per tant, la partida es perd si no hi ha cap moviment possible immediatament després de repartir.</para>
+  <para>Nota: un cas degenerat succeeix sempre que, després de repartir, l'última pila del tauler conté només una carta i l'únic moviment possible és des de la pila del final del tauler a la pila d'abans. En fer aquest moviment i tornar a repartir només s'aconsegueix l'ordre original de les cartes. L'AisleRiot finalitzarà la partida si es detecta aquesta situació.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Si es pot construir més d'una pila al tauler, primer construïu la pila amb el rang més alt.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Helsinky</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se automaticky líznou do rozdaných, kdykoliv se uvolní místo.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Deset hromádek. Rozdává se jedna karta lícem nahoru na každou z hromádek.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty se odebírají v párech, tak aby součet páru byl třináct. Eso je bráno za 1, kluk za 11, dáma za 12. Král se odebírá samostatně.</para>
+  <para>Prázdné hromádky v rozdaných se automaticky doplní z volných.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Jeďte, jak nejrychleji můžete.</para>
+        </sect2>
+</sect1>

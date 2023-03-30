@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fortunes</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Eine Klick darauf gibt eine Karte auf jeden Tischstapel aus.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Vier Stapel zur Rechten. Karten können in Gruppen auf leere Stapel gelegt werden.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten bis auf die vier Asse sind zu entfernen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Asse sind die höchsten Karten. Wenn zwei Karten derselben Farbe verfügbar sind, kann jene mit dem niedrigeren Wert entfernt werden. Ein leerer Stapel kann mit einer Gruppe Karten belegt werden.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede entfernte Karte erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Es gibt keinen Grund, einen leeren Stapel zu halten, wenn eine weitere Runde Karten gegeben wird. Falls Sie allerdings einen leeren Stapel haben, versuchen Sie, ihn so lange wie möglich leer zu halten, weil dies ein hervorragender Weg ist, um verborgene Karten loszuwerden.</para>
+        </sect2>
+</sect1>

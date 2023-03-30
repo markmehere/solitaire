@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Puerto Oeste</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la fila superior. Se construye por palo desde el as hasta el rey.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Diez montones de tres cartas cada uno, con la última fila de cartas boca arriba.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueva todas las cartas a la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas del tablero se construyen descendentemente alternando el color. La carta de la cima o la porción boca arriba de cada montón están disponibles para el juego. Los montones vacíos se pueden rellenar con cualquier carta o grupo de cartas.</para>
+	<para>Los montones de la fundación se construyen boca arriba por palo desde el as hasta el rey. Las cartas de la fundación no están más en juego.</para>
+	<para>Las cartas se sacan de una en una del montón a la basura. La carta de la cima de la basura siempre está disponible para el juego. No hay repartos.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta movida a la fundación puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>La precaución es para aquellos que tienen dinero apostado. Viva peligrosamente. Haga cualquier movimiento que pueda, ya que el azar esta de su parte.</para>
+        </sect2>
+</sect1>

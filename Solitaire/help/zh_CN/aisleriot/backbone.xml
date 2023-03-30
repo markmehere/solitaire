@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>硬骨头</title>
+
+  <para>Vincent Povirk 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>在收牌区的左下边有一垛牌，是桌面发完牌剩下的放在这儿，每次可以翻出一张放到废牌区，只能重复发一次。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>每次从牌垛中发出一张，最上面的可以用到游戏中。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上边有八个空位，从 A 到 K 依次收牌。</entry>
+	</row>
+	<row>
+	  <entry>废牌区</entry>
+	  <entry>中间有两排是9张，最下面被一张压着。没被压着的牌可以放在其他牌上，但不能放在空位置里。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>在两边还各有四张翻开的牌，游戏开始后可以放在其他任何位置，按花色递减排序。也可以放在空位置上，每次只能移动一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色递减排序，每次只能移动一张牌。除了保留区的牌，空的位置可以放其他任何牌。</para>
+  <para>发牌区里的牌逐个发往废牌区，最上面的可以用在游戏中，牌垛发空后，废牌可以按原顺序重回到发牌区中，您只能重发两次牌。</para>
+  <para>收牌区按从 A 到 K 的递增顺序收牌，收回来的牌不能再用在牌局中，双击一张牌可以直接移到收牌区，如果这张牌可以收取的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+  <para>可能得到的最高分：104</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>您可以使用桌面上的空位置放置多张牌，但要小心保留区的 K，因为只有一种方法能移动它：把它移到收牌区的 Q 上。</para>
+        </sect2>
+</sect1>

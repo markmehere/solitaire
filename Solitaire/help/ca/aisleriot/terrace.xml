@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terrassa</title>
+
+  <para>Escrit per en David Rogers</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla doble</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir la reserva al tauler. Es gira una carta cada vegada a la pila de descartades. La pila principal no es pot girar. </entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per agafar des de la pila principal. La carta superior està disponible per jugar.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Es reparteixen onze cartes de cara amunt en una pila. Totes les cartes són visibles però només es pot jugar la carta de sobre.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Vuit piles al mig. Per construir en seqüència alternant colors des de la carta base.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+    	  <entry>Es reparteixen nou cartes de la baralla de cara amunt un cop s'ha seleccionat la carta base.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant en seqüència i alternant el color. Els grups de cartes no es poden moure. Una pila buida al tauler es pot omplir amb la carta superior de la pila de descartades o amb la carta següent de la pila principal. Les cartes superiors es poden moure a les bases o a una altra pila del tauler.</para>
+  <para>Les bases es construeixen pujant en seqüència i alternant els colors des de la carta base. Les bases buides es poden omplir amb la carta base que seleccioneu d'entre les quatre cartes a l'atzar del primer moviment. Les cartes de les bases estan fora de joc.</para>
+  <para>La carta superior de la reserva es pot jugar i només es pot moure a les bases.</para>
+  <para>Les cartes es poden girar d'una en una des de la pila principal a la pila de descartades a si no és que hi ha espai al tauler. Si hi ha un espai al tauler només es pot girar una carta de la pila principal a la pila de descartades fins que el tauler és ple o la carta superior de la pila de descartades es mou a la base o al tauler. Mentre la pila principal està bloquejada podeu moure cartes al voltant del tauler, de la reserva a la base. Si la pila de descartades és buida es reparteix una carta de la pila principal automàticament. La carta superior de la pila de descartades està en joc. La pila principal no es pot mostrar. </para>
+  <para>En fer doble clic a una carta aquesta es mou a la pila base apropiada si el moviment és possible.</para>
+
+          </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Hi ha set maneres de jugar. La diferència entre elles rau en el nombre de cartes de la reserva, les piles al tauler o l'elecció de carta base. </para>
+  <para>Terrassa</para>
+  <para>Reserva d'11 cartes, 9 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. Seleccioneu una carta base d'entre quatre cartes al principi de la partida i es reparteix una carta a cada pila del tauler. La pila principal no es pot mostrar.</para>
+  <para>Paciència general</para>
+  <para>Reserva de 13 cartes, 9 piles al tauler. Les bases es construeixen pujant per pal en seqüència. Seleccioneu una carta base d'entre quatre cartes al principi de la partida i es reparteix una carta a cada pila del tauler. La pila principal es pot mostrar una vegada però la partida es perd si no podeu jugar les cartes noves després d'haver-les mostrat.</para>
+  <para>Estrelles fugaces</para>
+  <para>Reserva d'11 cartes, 9 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. A l'inici de la partida se selecciona automàticament una carta base i es reparteix una carta a cada pila del tauler. La pila principal no es pot mostrar.</para>
+  <para>Senyora</para>
+  <para>Reserva d'11 cartes, 9 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. A l'inici de la partida se selecciona automàticament una carta base i es reparteix una carta a cada pila del tauler. Els espais al tauler s'omplen automàticament des de la pila de descartades o, si aquesta és buida, des de la pila principal. La pila principal no es pot mostrar.</para>
+  <para>Pèl-roges</para>
+  <para>Reserva de 21 cartes, 8 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. A l'inici de la partida se selecciona automàticament una carta base i es reparteix una carta a cada pila del tauler. Els espais al tauler s'omplen automàticament des de la reserva o, si aquesta és buida, amb qualsevol carta. La pila principal no es pot mostrar.</para>
+  <para>Rosses i morenes</para>
+  <para>Reserva de 10 cartes, 8 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. A l'inici de la partida se selecciona automàticament una carta base i es reparteix una carta a cada pila del tauler. La pila principal no es pot mostrar.</para>
+  <para>Fusta</para>
+  <para>Reserva de 10 cartes, 9 piles al tauler. Les bases es construeixen pujant en seqüència i alternant colors des de la carta base. A l'inici de la partida se selecciona automàticament una carta base i es reparteix una carta a cada pila del tauler. La pila principal no es pot mostrar.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>A l'inici de la partida examineu la reserva curosament abans d'escollir la vostra carta base. Eviteu les cartes base amb moltes cartes enterrades a la reserva.</para>
+  <para>Vigileu les seqüències invertides a la pila principal. Reserveu una base per suprimir les seqüències invertides.</para>
+  <para>Intenteu començar les piles del tauler a partir de l'última carta necessària per completar la base.</para>
+  <para>Recordeu que podeu continuar girant cartes de la pila principal mentre aquesta estigui bloquejada sense emplenar el tauler utilitzant la carta superior de la pila de descartades.</para>
+        </sect2>
+</sect1>

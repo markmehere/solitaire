@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Aunt_Mary"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Tia Maria</title>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>Pilha superior esquerda. O restante do baralho é colocado aqui após distribuição para o tabuleiro. Cartas são viradas uma por vez para descarte. Duas redistribuições.</entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>A serem retiradas do monte. Carta no topo disponível para jogar.</entry>
+	</row>
+	<row>
+	  <entry>Fundações</entry>
+	  <entry>Quatro pilhas superiores direita. Forme as pilhas por naipes do ás ao rei. A carta do topo de cada fundação pode ser jogada de volta ao tabuleiro.</entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>Seis pilhas, distribua uma carta virada para cima na primeira pilha. Coloque uma carta virada para baixo em todas as outras pilhas. Coloque uma carta virada para cima nas primeiras duas pilhas logo em seguida uma carta virada para baixo em todas as pilhas cobertas. Coloque três cartas viradas para cima e o resto vidara para baixo e assim por diante. Repita gradualmente revelando mais cartas a cada vez até que haja seis linhas com seis cartas. O tabuleiro pode ser feito com cartas em cores alternadas. Conjuntos de cartas podem ser movidas. Pilhas vazias podem ser preenchidas apenas com rei ou grupo de cartas iniciando com o rei.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>Cartas no tabuleiro são organizadas em cores alternadas. Conjunto de cartas podem ser movidas. Uma pilha vazia no tabuleiro pode ser preenchida com um rei ou um grupo de cartas que iniciam com um rei.</para>
+  <para>Cartas são viradas do monte para resto individualmente. A carta mais acima no Resto está em jogo. Quando o monte está vazio, mova todas as cartas do descarte de volta ao monte, mantendo a ordem. Você pode ir ao baralho três vezes.</para>
+  <para>Fundações são construídas por naipe de ás ao rei. Cartas nas fundações ainda estão em jogo. Clique duplo numa carta irá movê-la para a pilha fase apropriada se tal movimento for válido.</para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>Você ganha um ponto por cada carta nas pilhas de fundação.</para>
+  <para>Máxima pontuação possível: 52</para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>Tia Maria é extremamente difícil e raramente pode ser resolvido. O desafio real é não terminar mas ver até onde você pode chegar.</para>
+  </sect2>
+</sect1>
+<!-- TODO Aunt Mary is a Klondike variation, reference and crosslink them -->

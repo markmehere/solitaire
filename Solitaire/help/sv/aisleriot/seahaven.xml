@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Seahaven"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sjöhamn</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar -- två överst till vänster samt två överst till höger. Byggs upp i färg från ess till kung.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>De fyra översta högarna i mitten. Varje reservhög kan bara innehålla ett kort. Två av reservhögarna delas vardera ett kort i början.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Tio högar under grundhögarna och reservhögarna. De resterande femtio korten delas ut med framsidan upp, fem i varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bordshögarna byggs ned i fallande ordning i färg. Endast det översta kortet eller sviter av kort kan flyttas. En svit av kort kan bara flyttas om antalet kort i sviten är lika med eller mindre än antalet lediga reservhögar. Tomma bordshögar kan bara fyllas med en kung eller en svit som börjar med en kung.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Tekniskt sett är korten i grundhögarna fortfarande i spel, men det finns ingen anledning att använda dessa kort då de inte är till någon hjälp.</para>
+  <para>De översta kortet i grundhögarna kan flyttas till en tom reservhög. Dessa kort är spelbara för att flytta tillbaka till en bordshög eller till en grundhög.</para>
+  <para>Som en bekvämlighet kan sviter av samma färg flyttas till motsvarande grundhög i stället för att flyttas individuellt. Detta är särskilt användbart i slutet av spelet.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Flytta de kort du kan till grundhögarna så snart som möjligt. Att lämna dem kommer bara hindra dina flyttningar.</para>
+        </sect2>
+</sect1>

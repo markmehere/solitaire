@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gay Gordons</title>
+
+  <para>Írta Rosanna Yuen</para>
+
+          <sect2><title>Beállítás</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>A pakli típusa</entry>
+	  <entry>Szabványos pakli</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>
+	    Top left pile.  Deal two cards face up here.  The top card
+	    is in play.  Cannot be refilled or built on.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Tabló</entry>
+	  <entry>
+	    Ten piles.  Deal five cards face up in each pile.  The top
+	    card in each pile is in play.  Empty piles cannot be filled.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cél</title>
+
+  <para>
+    Remove all cards.
+  </para>
+
+          </sect2>
+        <sect2><title>Szabályok</title>
+
+  <para>
+    Remove cards in pairs that add up to eleven.  Kings are paired off
+    with Queens.  Jacks are paired off with other Jacks.
+  </para>
+
+          </sect2>
+        <sect2><title>Pontozás</title>
+
+  <para>
+    Each pair of cards removed scores two points.
+  </para>
+  <para>Lehetséges legnagyobb pontszám: 52</para>
+
+          </sect2>
+        <sect2><title>Stratégia</title>
+
+  <para>
+    Try to uncover cards that are buried under their pair-mate.
+  </para>
+        </sect2>
+</sect1>

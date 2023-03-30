@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Labyrint</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar uppe till höger. Essen placeras ut på respektive grundhög innan kortleken blandas.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Ett kort läggs med framsidan upp på varje bordshög i början av spelet.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bygg upp grundhögarna i färg och ordning med valfritt kort från Bordshögarna. Tomma platser fylls automatiskt från högen.</para>
+  <para>När de åtta korten i bordshögarna inte är spelbara, klicka på högen för att dela ut ett kort till varje hög. Tomma platser i bordshögarna fylls inte längre automatiskt.</para>
+  <para>Det översta och understa kortet i varje bordshög är tillgängligt för spel till grundhögarna. Det förekommer inget byggande på bordshögarna. Ingen omgiv.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Få gott om sömn natten innan så att du är pigg och alert när du spelar detta spel. Flytta alla kort du bara kan till grundhögarna. Ha så kul!</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>吉普赛</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>两副牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的一垛牌，放置桌面上发剩下的牌，每次发八张牌，在桌面的每个牌垛上各放一张。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的八个空位，按花色从 A 到 K 收牌，最上面的牌可以参与到游戏中。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    <entry>八垛牌，开始时每垛两张扣着一张是翻开，桌面上的牌按花色交替排列，排列好的牌可以一起移动，空位可以放任何牌或一组牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按花色交替递减排列，排列好的牌可以一起移动，空位可以放任何牌或一组牌。</para>
+  <para>每次从发牌区发一张到桌面上的各个牌垛，越发越少不能重复发牌。</para>
+  <para>收牌区按花色从 A 到 K 递增收牌，里面的牌仍然可以参与到游戏中，双击桌面里的一张牌可以把它移到收牌区，如果它可以移动的话。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得5分，完成一个花色牌的收取后(从 A 到 K)，额外获得60分，桌面上每交替排列好一对牌得2分。</para>
+  <para>可能得到的是：1000</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>如果可能尽量多翻开桌面上的牌，记住您可以把收牌区的牌移回桌面参与游戏。</para>
+        </sect2>
+</sect1>

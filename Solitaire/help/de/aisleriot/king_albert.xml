@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>König Albert</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau der Fundamentstapel erfolgt nach Farbe und Reihenfolge von Ass bis König.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>
+	    Seven piles on the right.  One card is dealt face up on each
+	    Reserve pile at the start.  There is no building on the
+	    Reserves.  Empty Reserve piles can not be filled.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>
+	    Nine piles of cards, with nine cards in the first pile,
+	    eight in the second, and so on to the one card in the last
+	    pile.  These cards are dealt face down.  The top card in
+	    every pile is then flipped up.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Leere Ablagen auf dem Spieltisch können mit jeder Karte oder mit Gruppen von Karten belegt werden.</para>
+  <para>
+    Cards in the Reserve can be played on to the Tableau or the
+    Foundation.  Empty Reserve piles cannot be filled.
+  </para>
+  <para>Fundamentstapel werden nach Farbe aufsteigend von Ass bis König aufgebaut. Die Karten im Fundamentstapel stehen noch für das Spiel zur Verfügung.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Remember that any card can be placed on an empty Tableau slot.
+    Exposing new cards is the top priority in this game.
+  </para>
+        </sect2>
+</sect1>

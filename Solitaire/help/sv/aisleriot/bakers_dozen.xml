@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Bagardussin</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Översta fyra högarna. Byggs i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    <entry>Tretton högar. Fyra kort med framsidan upp i varje hög. Kungar flyttas till botten i sina respektive högar.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Det översta kortet i varje bordshög kan flyttas till en annan bordshög om det har ett värde som är ett lägre än det översta kortet i den andra högen. Färg är inte relevant. Tomma bordshögar kan inte fyllas.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Korten i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort i bordshögarna kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögen ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Undvik att låsa fast låga kort. Försök att undvika att tömma bordshögarna.</para>
+        </sect2>
+</sect1>

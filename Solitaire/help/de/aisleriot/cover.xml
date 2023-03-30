@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Cover</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Alle nach dem Geben verbleibenden Karten werden hier abgelegt.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    <entry>Vier Stapel. Eine Karte wird zu Spielbeginn in jede Ablage gelegt. Leere Ablagen werden sofort aus dem Talon gefüllt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Leeren Sie den Talon.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Zwei beliebige Karten auf dem Spieltisch können verschoben werden, wenn Sie von gleicher Farbe sind. Leerräume werden sofort durch Karten aus dem Talon aufgefüllt. Das Spiel ist beendet, sobald jede Farbe durch eine Karte auf dem Spieltisch vorhanden ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jedes Kartenpaar, das aus dem Spiel geht, zählt zwei Punkte.</para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Ein sehr schnelles Spiel ohne große Überlegungen. Cover spielt sich am Besten gedankenlos mit schnellen Reflexen.</para>
+        </sect2>
+</sect1>

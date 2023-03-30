@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Canfield</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de repartir. Las cartas se sacan de tres en tres a la basura. Hay repartos ilimitados.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Justo a la derecha del montón. Se obtiene del montón. La carta de la cima está disponible para el juego.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>En la izquierda, bajo el montón. Aquí se dan trece cartas con la carta de la cima boca arriba. La carta de la cima está disponible para jugarla en la fundación o en el tablero.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Cuatro montones bajo las fundaciones. Se da una carta boca arriba en cada montón. El tablero se construye descendentemente con colores alternativos. Se pueden mover grupos de cartas.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la parte superior derecha. Se da una carta boca arriba en el primer montón de la fundación. Esta carga es la carta base. Se construyen ascendentemente por palo.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mover todas las cartas a los montones objetivo.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas del tablero se construyen en orden descendente alternando el color. Se pueden mover grupos de cartas. Un hueco vacío en el tablero se llena automáticamente desde la reserva. Si la reserva esta vacía, un hueco vacío se puede llenar con cualquier carta o grupo de cartas.</para>
+	<para>Las cartas sacan desde el montón hasta la basura de tres en tres. Si la última mano tiene menos de tres cartas, se dan las cartas que queden. Cuando el montón se vacíe, se mueven todas las cartas de la basura al montón, manteniendo el orden.</para>
+	<para>Las fundaciones se construyen ascendentemente por palo desde la carta base (la primera carta dada en el primer montón de la fundación). Las fundaciones restantes comienzan por una carta del mismo rango que la primera carta colocada en el primer montón de la fundación durante el reparto. Los ases se colocan encima de los reyes y los doses encima de los ases. Las cartas de la fundación se consideran todavía en juego. Pulsar dos veces en una carta hará que ésta se mueva a la fundación correspondiente, si tal movimiento es posible.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta en los montones de la fundación puntúa un tanto. Este juego se solía jugar en los casinos. Si su puntuación es 10, ni gana ni pierde.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Más vale un pájaro en mano que ciento volando. Este juego es difícil de ganar. La mayoría de la gente juega con apuestas en mente e intentan conseguir tantos puntos como sea posible. Al terminar, mueva siempre las cartas a las fundaciones tan pronto como estén disponibles.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Giant"><!--<sect1info>
+		<copyright>
+			<year>2009</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Jätten</title>
+
+  <para>Skrivet av Ed Sirett</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten delas ut en rad i taget till bordshögarna. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar överst till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Åtta högar. Dela ett kort med framsidan upp på alla åtta högar.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Till höger om bordshögarna. Inledningsvis är den tom. Kan innehålla ett valfritt kort.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs neråt genom att växla kulör. Kort flyttas var för sig eller i grupp. En tom plats i bordshögarna kan fyllas med valfritt kort. Det finns en möjlighet att begränsa förflyttningarna till kort i samma färg. Se nedan.</para>
+  <para>Korten delas ut från högen till bordshögarna i kompletta rader. Reservhögen kan vara tom eller upptagen efter ditt önskemål.</para>
+  <para>Grundhögarna byggs upp från ess till kung i färg. Översta korten i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt. Att dubbelklicka på en grundhög kommer automatiskt att flytta så många kort som möjligt till grundhögen.</para>
+          </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Det finns två sätt att spela. Skillnaden mellan dem är hur korten får byggas i bordshögarna.</para>
+  <variablelist>
+    <varlistentry><term>Samma färg</term>
+      <listitem>
+      <para>Kort måste vara av samma färg för att flyttas som en grupp och måste placeras på ett kort i samma färg.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Växlande kulör</term>
+      <listitem>
+         <para>För att flyttas som en grupp måste korten vara i växlande kulör i en följd. Det översta kortet måste placeras på ett kort av motsatt kulör.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 104</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Undvik att lämna låga kort låsta i bordshögarna. Använd reservhögen klokt.</para>
+        </sect2>
+</sect1>

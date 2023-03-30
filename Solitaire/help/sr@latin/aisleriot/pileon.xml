@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pajlon</title>
+
+	<para>Napisao Nick Lamb</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Petnaest gomila, raspoređenih po četiri u nizu. Dele se po četiri otvorene karte odjednom na prvih trinaest gomila. Poslednja dva mesta se ostavljaju prazna. Jedno mesto može da drži od nula do četiri karte.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Preraspodelite karte tako da svaka gomila sadrži sve četiri iste karte. Ovim se dobijaju dve prazne gomile, ali nije bitno gde su te dve gomile.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Karte se mogu staviti na drugu kartu ili karte iste vrednosti, ali ako na nekoj gomili već nema četiri karte. Grupe karata se mogu pomerati ako su sve karte istih vrednosti, ali time ne dobijate ništa. Prazno mesto se može popunjavati bilo kojom kartom ili grupom karata koje su iste vrednosti.</para>
+	<para>Onda kada neka gomila sadrži samo karte iste vrednost, zamrzava se, a karta na vrhu se okreće da pokaže da ne možete da radite ništa više sa ovim kartama. One nisu više u igri, a nema svrhe sklanjati ih.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Kada se gomila sa četiri karte zamrzne, dobijate 4 poena, po jedan za svaku od karata. Ne postoji drugi način dobijanja poena.</para>
+	<para>Najveći mogući broj poena: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Držite jednu od gomila što čistiju. Ne dozvolite da tri iste karte prekriju jednu kartu, naročito ne ako četvrta karta koja fali nije najdonja karta na nekoj drugoj gomili.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Aranya</title>
+
+	<para>Escrit per en Jonathan Blandford</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla doble</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La baralla es col·loca aquí després de repartir al tauler. En fer clic es repartirà una carta de cara amunt a cada pila.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Vuit piles a la part superior. Només s'utilitza per a tenir les seqüències completades de cartes que baixen des del rei a l'as.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Deu piles. Quatre piles (piles 1, 4, 7 i 10) on es reparteixen 5 cartes cara avall i una carta de cara amunt, mentre que a la resta de piles es reparteixen 4 cartes cara avall i una carta de cara amunt. Les cartes es poden construir baixant independentment del pal. Les seqüències de cartes del mateix pal es poden moure com una unitat. Les piles buides es poden omplir amb qualsevol carta o unitat movible.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Aconseguir vuit seqüències de cartes a la base que baixin des del rei a l'as.</para>
+	<para>Si voleu un repte extremadament difícil, no moveu les seqüències de cartes a una base. També podeu guanyar deixant les vuit seqüències al tauler. Això és més difícil perquè hi ha menys piles buides disponibles. De fet, és pràcticament impossible.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Construïu baixant independentment del pal. Les seqüències de cartes del mateix pal es poden moure com una unitat. Les piles buides es poden omplir amb qualsevol carta o seqüència legal.</para>
+	<para>En fer clic en qualsevol moment a la pila principal es repartirà una carta cara amunt a cada pila. Tot i això, cap de les piles pot estar buida. Si hi ha una pila buida, apareixerà un missatge d'error.</para>
+	<para>Una seqüència de cartes que baixa des del rei a l'as es pot moure a la pila base. Un cop allà, aquestes cartes no es poden jugar més.</para>
+
+	        </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Hi ha tres tipus possibles de baralla. Cada baralla té 104 cartes.</para>
+  <variablelist>
+    <varlistentry><term>Un pal</term>
+      <listitem>
+        <para>La baralla són vuit pals de piques. Aquesta és la baralla més senzilla de l'aranya i la millor manera d'aprendre les regles.</para>
+      </listitem>
+    </varlistentry>    
+    <varlistentry><term>Dos pals</term>
+      <listitem>
+        <para>La baralla són quatre pals de cors i quatre de piques. Hi ha quatre seqüències de cartes completes per a cada pal. Aquesta no és tan diabòlicament difícil com la baralla estàndard de quatre pals.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Quatre pals</term>
+      <listitem>
+        <para>La baralla és una baralla doble. Hi ha dues seqüències completes de cartes de cada pal. Aquesta és la baralla estàndard de l'aranya. També és la més difícil.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Moltes implementacions de l'aranya no utilitzen una base i simplement suprimeixen les seqüències completes de cartes. Això no té cap impacte a la partida.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Per cada seqüència per pal, els punts que s'aconsegueixen són (longitud de la seqüència - 1).</para>
+	<para>Puntuació màxima possible: 96</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Si no teniu èxit al començament, no us hi tornareu addicte. Construïu per pal sempre que sigui possible, però mostreu tantes cartes com pugueu.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Páteř</title>
+
+  <para>Napsal Vincent Povirk</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Jedna hromádka, konkrétně levá, pod seřazenými. Po rozdání karet do rozdaných a záložních se zde položí zbytek karet. Karty se po jedné postupně lížou do otočených, hromádka se nevrací.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Jedna hromádka napravo od hromádky s volnými. Karty se berou z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek vpravo nahoře. Musíte poskládat vzestupné postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Dva štosy po devíti kartách s jednou kartou položenou přes oba štosy. Karty, které nejsou překryté, jsou k dispozici kamkoliv do hry vyjma prázdných pozic v rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm hromádek, čtyři z každé strany vedle záložních. Karty se rozdají na začátku hry. Můžete je skládat sestupně v jedné barvě. Na prázdné pozice můžete položit libovolnou kartu. V každém tahu je možné přesunout jen jednu kartu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Na hromádkách s rozdanými kartami můžete skládat sestupné postupky v jedné barvě. Přesouvat jde vždy jen jednu kartu. Na prázdnou pozici je možné položit libovolnou kartu, ale nesmí být ze záložních.</para>
+  <para>Z volných na otočené se karty lížou po jedné. Vrchní karta v otočených je ve hře. Když je hromádka s volnými prázdná, přesunou se všechny karty z otočených zpět do volných, pořadí se při tom zachová. Hromádku s volnými kartami tak můžete projít dvakrát.</para>
+  <para>V seřazených se musí poskládat vzestupné postupky od esa po krále. Karty jednou přesunuté do seřazených se již nevrací do hry. Dvojitým kliknutím se libovolná karta přesune na správné místo v seřazených, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Můžete použít volné místo v rozdaných k přesunu více karet. Buďte opatrní s králi v záložních: jediný způsob, jak je od tam dostat, je hrát je do seřazených na dámu.</para>
+        </sect2>
+</sect1>

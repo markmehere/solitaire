@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Јукон</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>„Темељ“</entry>
+		<entry>Четири гомиле лево. Слажу се по знаку од аса до краља.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Седам гомила. Деле се отворене карте на прву гомилу. На остале гомиле се ставља по једна затворена карта. На другу гомилу се затим ставља отворена карта, а на наредне по једна затворена. Ово се наставља док на последњој гомили не буде седам карата. Преостале карте се деле отворене од друге до седме гомиле. Слаже се на доле по наизменичним бојама.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Померити све карте у гомиле на „темељу“.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карте на талону се слажу на доле по наизменичним бојама. Групе карата се могу померати невезано од редоследа. Затворена карта се отвара када се откопа. Празна места на талону се могу попуњавати краљевима или групама карата које почињу краљем.</para>
+	<para>„Темељи„ се слажу по знаку од аса до краља. Карте на „темељу“ нису више у игри.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Свака карта на „темељу“ доноси по један поен.</para>
+	<para>Највећи могући број поена: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Покушајте да што пре откријете што више карата можете. Овако ћете много лакше ослободити Јукон.</para>
+        </sect2>
+</sect1>

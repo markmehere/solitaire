@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jumbo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Jumbo</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. En omgiv.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Direkt till höger om högen. Korten ges ett i taget från högen under spelets gång. Översta kortet är tillgängligt för spel.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar överst till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Nio högar. Dela ett kort med framsidan nedåt på samtliga nio högarna, sedan ett kort till de första åtta högarna, följt av ett kort till de första sju högarna o.s.v. tills det finns nio kort i den första högen. Vänd upp det översta kortet i varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned genom att växla kulören. Grupper av kort kan flyttas. En tom bordshög kan fyllas med en kung eller en grupp av kort med en kung i botten.</para>
+  <para>Korten vänds från högen till kasthögen ett och ett. Översta kortet i kasthögen är i spel. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till högen. En omgiv.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om en sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 104</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>
+
+  </para>
+        </sect2>
+</sect1>

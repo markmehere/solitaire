@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Nick Lamb-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Hamabost pila, lauko errenkadetan antolatuta. Lehen hamahiru piletan, kartak launaka banatu, gora begira. Utzi hutsik azken bi tokiak. Pila bakoitzean lau karta egon daitezke gehienez, bat ere ez gutxienez.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>
+		Rearrange the cards so that each pile contains all four cards from a single
+		value. This should leave two piles empty, but it doesn't matter whether
+		they are the same piles which were empty at the start.
+	</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Balio bereko karten gainera eraman daitezke kartak, baina piletan ezin da egon lau karta baino gehiago. Balio bereko karta multzoak mugi daitezke, baina horrekin ez da ezer ere irabazten. Toki hutsetan karta bat edo balio bereko karten multzo bat jar daiteke.</para>
+	<para>Pila bateko lau kartak balio berekoak direnean, pila izoztu egiten da eta goiko karta behera begira jartzen da, karta horiekin besterik ez duzula egin behar adierazteko. Karta horiek ezin dira gehiago erabili, baina alperrik izango litzateke mugitzea.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Lau kartako pila bat izoztean, 4 puntu irabaziko dituzu, karta bakoitzeko bat. Ez dago puntuak lortzeko beste modurik.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Pila bat hutsik eduki ahalik eta luzaroen. Ez jarri hiru kartako pila bat bakarrik dagoen karta baten gainean, batez ere, multzoko azkeneko karta beste pila bateko beheko karta ez bada.</para>
+        </sect2>
+</sect1>

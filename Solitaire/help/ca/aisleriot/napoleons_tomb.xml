@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Tomba de Napoleó</title>
+
+  <para>Escrit per en Kimmo Karlsson</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Al costat de la pila principal.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Graella tres per tres, totes cara amunt.</entry>
+	</row>
+	<row>
+		<entry>Bases</entry>
+		<entry>La pila central de la graella es construeix baixant, les cantonades es construeixen pujant. El pal no importa.</entry>
+	</row>
+	<row>
+		<entry>Reserves</entry>
+		<entry>Quatre piles a la graella que no són bases. Cada pila de la reserva pot tenir només una carta a la vegada.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moveu totes les cartes de sis o menys a la pila central, 7 o més a les piles de les cantonades.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Feu clic a la pila principal per a girar cartes. Es mou una carta cada vegada al tauler. Una carta no es pot moure un cop col·locada a la pila base. Cada pila a una cantonada es construeix pujant des del 7 al rei. La pila central es construeix baixant des del 6 a l'as. Després de l'as toca un altre 6, etc. El pal no importa.</para>
+
+          </sect2>
+        <sect2><title>Opcions</title>
+
+  <para>Reparteix tres cartes: Si repartiu tres cartes a la vegada des de la pila principal, podreu utilitzar tota la baralla tres cops.</para>
+  <para>Joc automàtic: Si el joc automàtic està activat, les cartes es col·locaran automàticament a les piles base quan sigui possible.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu mantenir la reserva. No és fàcil portar Napoleó a la seva tomba, però continueu intentant-ho.</para>
+        </sect2>
+</sect1>

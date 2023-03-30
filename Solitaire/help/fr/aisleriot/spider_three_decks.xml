@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>L'araignée à trois paquets</title>
+
+	<para>Écrit par Jonathan Blandford et Daniel Werner</para>
+
+	<sect2><title>Configuration</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet triple</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le paquet est placé ici après distribution sur le tableau. Cliquer sur la pioche distribue une carte face visible sur chaque pile du tableau.</entry>
+	</row>
+	<row>
+		<entry>Fondation</entry>
+		<entry>Douze piles du haut. Ne fait pas partie des « règles officielles ».</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>Douze piles. Sur les six premières piles, on distribue quatre cartes face cachée et une carte face visible. Sur les autres piles, on distribue trois cartes face cachée et une carte face visible. Les piles peuvent être construites en descendant quelle que soit la couleur. Les suites de la même couleur peuvent être déplacées comme un ensemble. Les piles vides peuvent être remplies par n'importe quelle carte ou suite de cartes.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Objectif</title>
+	<para>Avoir douze suites de cartes (trois de chaque couleur) descendant du Roi à l'As dans les fondations.</para>
+	<para>Si vous recherchez un défi particulièrement difficile, vous pouvez aussi gagner en construisant les douze mêmes suites dans le tableau. C'est plus difficile, car il y a moins de piles vides disponibles. En fait, c'est presque impossible.</para>
+	</sect2>
+
+	<sect2><title>Règles</title>
+	<para>Les piles du tableau sont construites en descendant quelle que soit la couleur. Les suites de la même couleur peuvent être déplacées comme un ensemble. Les piles vides peuvent être remplies par n'importe quelle carte ou suite de cartes.</para>
+	<para>À tout moment, un clic sur la pioche distribue une carte face visible sur chaque pile. À la différence des autres variantes de l'araignée, les piles vides sont autorisées lors des redistributions.</para>
+	<para>Une suite de treize cartes peut être déplacée vers une fondation. Une fois placées à cet endroit, ces cartes ne sont plus en jeu.</para>
+	</sect2>
+
+	<sect2><title>Score</title>
+	<para>Pour chaque suite d'une couleur, les points obtenus sont : (longueur de la suite) - 1.</para>
+	<para>Score maximum possible : 144</para>
+	</sect2>
+
+	<sect2><title>Stratégie</title>
+	<para>Si au début vous ne réussissez pas, ne devenez pas accro. Construisez en couleur à chaque fois que c'est possible, et rendez accessible le plus de cartes possible.</para>
+	</sect2>
+</sect1>

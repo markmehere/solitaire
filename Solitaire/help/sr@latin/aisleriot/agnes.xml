@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+  <sect2><title>Postavka</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se stavlja ovde nakon deljenja karata na talon. Karte se dele u grupama od po sedam, jedna na svaku gomilu na talonu.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile na vrhu. Slažu se po znaku i vrednosti, prelamajući se od kralja do asa po potrebi. Jedna karta se deli na prvu gomilu na „temelju“. Ostale gomile na „temelju“ moraju da započnu od karte sa ovom vrednošću.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+    <entry>Sedam gomila. Prva karta se okreće i stavlja na prvu gomilu. Po jedna zatvorena karta se stavlja na ostale gomile, zatim se stavlja jedna otvorena karta na sledeću gomilu, a na ostale stavlja zatvorena karta. Ovo se ponavlja dok na poslednjoj gomili ne bude sedam karata, Talon se može slagati kartama u istoj boji, naniže po vrednosti. Grupe ovakvih karata se mogu pomerati. Prazne mesta se mogu popunjavati samo sa deljenjima sa gomile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Cilj</title>
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+  </sect2>
+  <sect2><title>Pravila</title>
+  <para>Karte na talonu se slažu sa kartama u istoj boji, naniže po vrednosti. Niz ovakvih karata u istoj boji se može pomerati zajedno.</para>
+  <para>Svako deljenje okreće po jednu kartu sa gomile i stavlja je na svako mesto na talonu. Nema ponovnih deljenja.</para>
+  <para>„Temelj“ se pravi od karata istog znaka u nizu, ređajući se od kralja ka asu ako je potrebno. Karte na „temelju“ su još u igri. Dupli klik na kartu na talonu će je premestiti na odgovarajuću gomilu na „temelju“ ako je takav potez moguć.</para>
+</sect2>
+  <sect2><title>Bodovanje</title>
+  <para>Svaka karta na „temelju“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+</sect2>
+
+  <sect2><title>Strategija</title>
+  <para>Pokušajte da slažete karte po znakovima kad god možete, osvajajući što je više poena, pošto je jako teško pobediti u ovoj igri.</para>
+</sect2>
+</sect1>

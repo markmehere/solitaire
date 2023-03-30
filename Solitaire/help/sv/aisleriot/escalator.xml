@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Rulltrappan</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds ett i taget till kasthögen. Inga omgivar</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Dela sju överlappande rader med framsidan upp, börja med ett kort på den första raden, öka på med ett kort per rad och sprid högarna för att uppnå en pyramid.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till kasthögen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Alla öppna kort i pyramiden är tillgängliga för spel. Bygg vidare på Kasthögen från de tillgängliga korten när det är möjligt genom att spela ett kort med en valör omedelbart ovanför eller omedelbart under det översta kortet i Kasthögen. Ess är både högre än kungar och lägre än tvåor.</para>
+  <para>Korten vänds ett och ett från högen till kasthögen. Inget omgiv.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som tas bort från bordshögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 28</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att planera framåt för att kunna fortsätta bygga vidare.</para>
+        </sect2>
+</sect1>

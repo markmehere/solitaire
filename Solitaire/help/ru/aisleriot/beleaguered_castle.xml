@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Осаждённый замок</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки в среднем ряду, на каждую из которых перед перемешиванием колоды помещается по тузу. Собираются от туза до короля. Верхнюю карта каждого основания можно перемещать обратно в игровое поле.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Восемь стопок (по четыре слева и справа от оснований). Карты сдаются на эти стопки по шесть в каждой лицом вверх так, чтобы все карты было видно.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переложить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты игрового поля можно собирать в порядке убывания без учёта масти. За раз можно переместить только одну карту. На пустую ячейку можно поместить любую одну карту.</para>
+  <para>Карты в основаниях собираются по масти по возрастанию.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую карту в основании (кроме начальных тузов) даётся одно очко.</para>
+  <para>Максимальное количество очков: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Старайтесь равномерно собирать карты в основаниях. Стремитесь освобождать ячейки.</para>
+        </sect2>
+</sect1>

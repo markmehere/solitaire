@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Catorce</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Los espacios vacíos del tablero se rellenan inmediatamente con cartas del montón.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Rejilla de cinco por cinco, cada una capaz de contener una carta. Se da una carta a cada hueco al comienzo del juego. Los espacios vacíos se rellenan desde el montón. Una vez que se vacíe el montón, los espacios se llenan moviendo cartas de derecha a izquierda, de la carta más a la izquierda de la fila inferior a el espacio de más a la derecha, dejando todos los huecos al final.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Se pueden eliminar parejas que sumen catorce (siendo las jotas 11, las reinas 12 y reyes 13) y que estén en la misma fila o columna.</para>
+  <para>Los huecos vacíos se llenan automáticamente desde el montón. Una vez se vacíe el montón, las cartas de la derecha de los montones vacíos se moverán automáticamente para ocupar el espacio, los montones vacíos en la columna de la derecha se llenan con cartas de la columna más a la izquierda en la fila inferior.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada pareja de cartas eliminada puntúa dos tantos.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>A veces, durante la partida, sólo hay un movimiento. Hágalo. Una vez que el montón se vacíe, habrá muchos más movimientos.</para>
+        </sect2>
+</sect1>

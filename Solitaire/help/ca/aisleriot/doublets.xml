@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Doblets</title>
+  <para>Escrit per la Rosanna Yuen</para>
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir. Es gira una carta cada vegada a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Directament a la dreta de la pila principal. Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Set piles, en forma d'arc (una U invertida) a la dreta. Es reparteix una carta de cara amunt a cada pila. Durant la repartició, si es reparteix un rei, aquest és suprimit i es col·loca a la part inferior de la baralla. Es reparteix una altra carta en aquesta pila. La pila de la reserva només pot tenir una carta. Quan una pila de la reserva està buida, aquesta s'omple automàticament des de la pila de descartades o, si la pila de descartades està buida, des de la pila principal. Quan s'ha acabat la repartició inicial, quan un rei es col·loca a una pila de la reserva, aquesta pila queda congelada ja que els reis no es poden moure.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Una pila, la pila central de la fila inferior dels llocs de la reserva. Per a construir des de la carta original doblant, independentment del pal o del color.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moveu totes les cartes a la pila base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes es poden col·locar a la pila base si dupliquen el valor de la carta superior de la base. Les jotes i reines són onze i dotze, respectivament. Si el número doblat supera tretze, resteu tretze per a trobar la carta següent necessària. La sèrie seria:</para>
+  <para>A, 2, 4, 8, 3, 6, Q, J, 9, 5, 10, 7, repeteix...</para>
+  <para>Les cartes es giren des de la pila principal a la pila de descartades d'una en una. Quan la pila principal està buida, es mouen totes les cartes des de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a la pila base puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Sense el rei, no hi pot haver regicidi. Eviteu-los.</para>
+        </sect2>
+</sect1>

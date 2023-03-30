@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Scorpion"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Шкорпија</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Последње три карте се стављају овде након дељења.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Седам места десно од гомиле. * Дели се по једна затворена карта у прва четири реда. Дели се једна отворена карта на последња три реда. Ово се понавља од * још два пута, тако да су укупно подељена три реда. Подели се још четири реда отворених карата на сва гомиле.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Направите четири гомиле са по тринаест карата, где је свака гомила састављена само од карата у правилном редоследу, истог знака.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Карте на талону се слажу на доле по знаку. Групе карата се могу померати без обзира на редослед. Празно место на талону се може попунити краљем или групом карата које почињу од краља.</para>
+	<para>Кликом на гомилу у сваком тренутку ће бити подељене три карте на прва три места.</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>За сваки низ карата по знаку, број добијених поена је дужина низа мање 1. Сваки пут када се направи низ од тринаест карата и налази се на свом месту, добија се још четири додатна поена. Отварање карте која је била затворена доноси три поена.</para>
+	<para>Највећи могући број поена: 100</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Одмршавање чворова није лаган посао. Пазите да се не запетљате још више.</para>
+        </sect2>
+</sect1>

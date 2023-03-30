@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Kings_Audience"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Audience králů</title>
+
+  <para>Napsal Zach Keene</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+        <row>
+          <entry>Záložní (Předsálí)</entry>
+          <entry>Vnější čtverec se šestnácti kartami. Karty na hromádkách v záložních jsou k dispozici do hry a jsou doplňovány z otočených (nebo z volných, když zrovna není karta v otočených).</entry>
+        </row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá pozice v prostředním řádku. Karty se po jedné lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+        <row>
+          <entry>Otočené</entry>
+          <entry>Pozice napravo vedle volných. Vrchní karta je k dispozici do hry.</entry>
+        </row>
+        <row>
+          <entry>„Trůny“</entry>
+          <entry>Horní čtyři pozice v „audienčním sále“ (oblast ohraničená šestnácti kartami okolo). Kdykoliv jsou k dispozici král a dáma ve stejné barvě, můžete je přesunout na jednu z těchto pozic.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Spodní čtyři pozice v „audienčním sále“. Kdykoliv jsou k dispozici kluk a eso ve stejné barvě, můžete je přesunout na prázdnou pozici v seřazených, s klukem navrchu. Na ně pak můžete skládat sestupnou postupku v barvě.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny na hromádky v seřazených nebo na trůny.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Líže se po jedné kartě z volných do otočených. Kdykoliv se objeví král a dáma ve stejné barvě, můžete je přesunout na pozici „trůnu“ přetažením krále na královnu (nebo naopak) nebo dvojitým kliknutím na jednu z těchto karet. Kdykoliv se objeví kluk a eso ve stejné barvě, můžete je přesunout na pozici v seřazených, a to stejnými způsoby.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu umístěnou do audienčního sálu dostanete 1 bod.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Žádná. Audience králů je založena skoro výhradně na štěstí.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Trenza</title>
+
+	<para>Escrito por W. Borgert</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Doble baraja</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Tercera fila a la derecha en el medio. Se permiten dos repartos.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Cuarta fila a la derecha en el medio, directamente a la izquierda del montón.</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Ocho montones a la derecha. Una carta ya esta aquí al comienzo del juego. Esta es la carta base. Todos los campos tienen que empezar con esta carta.</entry>
+	</row>
+	<row>
+		<entry>Trenza</entry>
+		<entry>Grupo de cartas del medio del tablero. Comienza con 20 cartas. Sólo se puede mover la carta de la cima.</entry>
+	</row>
+	<row>
+		<entry>Bordes</entry>
+		<entry>Cuatro montones en la parte inferior y superior, izquierda y derecha de la trenza. Éstos se llenan automáticamente desde la trenza.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Ocho montones a la izquierda y derecha de la trenza, entre los campos del borde. Sólo se permite una carta por montón.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mueva todas las cartas a la fundación.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Los ocho montones de la fundación tienen que empezar con el mismo rango. Al comienzo puede elegir si construir ascendente o descendentemente. Puedes tomar cartas de la trenza del medio del tablero, de los ocho campos libres a la izquierda y a la derecha de la trenza, de los cuatro bordes alrededor de la trenza y de la basura.</para>
+	<para>El juego se pierde si no hay cartas disponibles que se puedan mover a la fundación y el montón está vacío.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Sin puntuación. Puede ganar o perder.</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Tome las cartas de la trenza lo antes posible para que sea más fácil de eliminar. Entonces tome las carta del tablero puesto que le proporcionarán huecos vacíos para almacenar temporalmente algunas cartas.</para>
+        </sect2>
+</sect1>

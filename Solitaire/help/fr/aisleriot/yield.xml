@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yield"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Rendement</title>
+
+	<para>Écrit par Rosanna Yuen</para>
+
+	        <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+	<row>
+		<entry>Pioche</entry>
+		<entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+		<entry>Défausse</entry>
+		<entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure et celle du dessous sont disponibles pour être jouées.</entry>
+	</row>
+	<row>
+		<entry>Tableau</entry>
+		<entry>On distribue les cartes face visible sur sept rangées se chevauchant, en commençant par sept cartes sur la première rangée, en mettant une carte de moins par rangée. Les piles doivent alors former une pyramide inversée.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectif</title>
+
+	<para>Enlever toutes les cartes.</para>
+
+	        </sect2>
+        <sect2><title>Règles</title>
+
+	<para>Toutes les cartes visibles de la pyramide sont disponibles pour être jouées. Les Rois peuvent être enlevés seuls. Les autres cartes peuvent être enlevées par paires dont la somme fait treize, les As valant un, les Valets onze et les Dames douze.</para>
+	<para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte supérieure et celle du dessous sont disponibles pour être jouées, soit seules soit avec une carte disponible de la pyramide. La carte supérieure de la défausse peut aussi être jouée avec la deuxième carte de la défausse. Pas de redistribution.</para>
+
+	        </sect2>
+        <sect2><title>Score</title>
+
+	<para>Chaque carte dans les fondations vaut un point.</para>
+	<para>Score maximum possible : 52</para>
+
+	        </sect2>
+        <sect2><title>Stratégie</title>
+
+	<para>Le plus dur est d'enlever le bas de la pyramide inversée. Une fois que c'est fait, c'est parfois mieux d'enlever les cartes de la défausse que de la pyramide inversée, car il y a plus de cartes en jeu dans la défausse.</para>
+        </sect2>
+</sect1>

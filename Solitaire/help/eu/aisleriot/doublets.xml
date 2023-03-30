@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Bikoteak</title>
+  <para>Rosanna Yuen-ek idatzia</para>
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Karta sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortaren eskuinean. Sortatik hartzeko. Goiko karta jokoan erabiltzeko prest dago.</entry>
+	</row>
+	<row>
+	  <entry>Biltegia</entry>
+	  <entry>Zazpi pila eskuinean, arkua osatuz (U alderantziz). Jarri karta bat pila bakoitzean, gora begira. Eskualdia banatzean errege bat agertzen bada, kendu erregea eta jarri sortaren azpian. Jarri beste karta bat pila horretan. Biltegiko pila bakoitzean karta bat egon daiteke. Biltegiko pila bat hutsik dagoenean automatikoki betetzen da hondarretik edo, hondarra hutsik badago, sortatik. Hasierako eskualdi-banaketa amaitutakoan errege bat biltegiko pilan badago, pila hori blokeatua gelditzen da erregea mugitu ezin delako.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Pila bat, biltegiaren azpiko errenkadako erdikoa. Bikoiztuz osatu behar da, hasierako kartatik hasita, irudia edo kolorea kontuan hartu gabe.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-pilara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Kartak oinarrian jar daitezke oinarriaren gainean une horretan dagoen kartaren balioaren bikoitza baldin badute. Txankak eta erreginak hamaika eta hamabi balio dute, hurrenez hurren. Oinarriko kartaren balioaren bikoitza hamahiru baino handiagoa bada, kendu hamahiru eta hurrena behar den kartaren balioa lortzen da. Hona hemen seriea:</para>
+  <para>A, 2, 4, 8, 3, 6, Q (erregina), J (txanka), 9, 5, 10, 7, A...</para>
+  <para>Kartak banaka iraultzen dira sortatik hondarrera. Sorta hustutakoan, eraman hondarreko karta guztiak berriz sortara, ordena errespetatuz. Hiru aldiz pasa daiteke karta sorta hondarrera.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-pilako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Erregerik gabe, ezinezkoa da errege-hiltzaile izatea. Saihets itzazu.</para>
+        </sect2>
+</sect1>

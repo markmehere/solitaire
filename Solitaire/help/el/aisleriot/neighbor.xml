@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Γείτονες</title>
+
+	<para>Συγγραφέας: Rosanna Yuen</para>
+
+	        <sect2><title>Διάταξη</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Τύπος τράπουλας</entry>
+		<entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+		<entry>Μάνα</entry>
+		<entry>Η στοίβα πάνω αριστερά. Τα φύλλα της μοιράζονται στο ταμπλό όπως αναφέρεται παρακάτω.</entry>
+	</row>
+	<row>
+		<entry>Ταμπλό</entry>
+		<entry>Ένας πίνακας πέντε επί πέντε, με ένα ανοιχτό φύλλο σε κάθε θέση. Οι θέσεις που αδειάζουν συμπληρώνονται αυτόματα με τη μετακίνηση φύλλων από τα δεξιά στα αριστερά (ή, αν χρειάζεται, στη δεξιότερη θέση της προηγούμενης γραμμής), έτσι ώστε τα κενά να συγκεντρώνονται στο τέλος του πίνακα. Στη συνέχεια, τα κενά αυτά συμπληρώνονται αυτόματα από φύλλα της μάνας.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Στόχος</title>
+
+	<para>Απομάκρυνση όλων των φύλλων.</para>
+
+	        </sect2>
+        <sect2><title>Κανόνες</title>
+
+	<para>Κάντε κλικ στους Ρήγες για να τους απομακρύνετε. Όλα τα υπόλοιπα φύλλα απομακρύνονται ανά ζεύγη με άθροισμα δεκατρία, αρκεί τα δύο φύλλα να είναι γειτονικά μεταξύ τους (οριζοντίως, καθέτως ή διαγωνίως).</para>
+
+	        </sect2>
+        <sect2><title>Επιλογές</title>
+
+	<para>Καμία</para>
+
+	        </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+	<para>Κάθε φύλλο που απομακρύνεται αντιστοιχεί σε 1 βαθμό.</para>
+	<para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+	        </sect2>
+        <sect2><title>Στρατηγική</title>
+
+	<para>Απομακρύνετε πρώτα τα φύλλα που βρίσκονται ψηλότερα στον πίνακα, καθώς έτσι προκαλούνται περισσότερες ανακατατάξεις στον πίνακα.</para>
+        </sect2>
+</sect1>

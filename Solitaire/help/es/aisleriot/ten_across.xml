@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Diez a través</title>
+
+	<para>Escrito por James LewisMoss</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Huecos temporales</entry>
+		<entry>Lugares para situar temporalmente una carta fuera del juego. Los huecos comienzan llenos. Una versión del juego no te permite poner cartas nuevas en estos huecos una vez que estén vacíos.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Diez montones a lo largo de la parte inferior. Al repartir se colocan diez cartas de izquierda a derecha con la primera y la última carta boca arriba. Se continúa colocando diez cartas de derecha a izquierda (al revés) con las primeras dos y las últimas dos cartas boca arriba. Continuamos este proceso (invirtiendo el orden en cada pasada) hasta que se hayan repartido 50 cartas. Coloca las dos últimas dos cartas en los huecos.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Forma en el tablero cuatro montones del mismo palo desde el rey hasta el as.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Sólo se puede mover un rey a un espacio en blanco de tablero.</para>
+	<para>Las cartas se pueden mover únicamente encima de otras cartas si estás coinciden en palo y la carta movida es menor que la otra. Esto incluye mover una grupo de cartas de cartas de diferentes palos tan grande como para que encajen la cima del montón que se mueve con la última carta del montón a donde se mueven.</para>
+
+	        </sect2>
+        <sect2><title>Opciones</title>
+
+	<para>Permitir el uso de espacios temporales: si está habilitado se podrán volver a usar los espacios temporales.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Pierde o gana. No hay puntuaciones.</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Este juego es difícil de ganar (influye mucho con qué cartas hayas empezado). No olvide que tienes espacios temporales. Intente vaciarlos rápidamente porque son muy útiles cuando está en aprietos.</para>
+        </sect2>
+</sect1>

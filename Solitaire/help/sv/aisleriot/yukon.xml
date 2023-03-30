@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Yukon</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar till vänster. Byggs i färg från ess till kung.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Sju högar. Lägg ett kort med framsidan upp i första högen. Lägg ett kort med framsidan nedåt på de övriga högarna. Lägg ett kort med framsidan upp på andra högen följt av ett kort med framsidan nedåt på resterande högar. Upprepa tills det finns sju kort i den sista högen. Dela ut resterande kort med framsidan upp på den andra till sjunde högen. För att byggas ned i motsatt kulör.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned i motsatt kulör. Grupper av kort kan flyttas oberoende av sekvens. Ett nedåtvänt kort vänds upp när det blir frilagt. En tom bordshög kan fyllas med en kung eller en svit av kort med en kung i botten.</para>
+	<para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje kort i grundhögarna ger en poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Försök att frilägga så många kort så tidigt som möjligt. Om du gör så kommer det i hög grad att underlätta din strävan att besegra yukon.</para>
+        </sect2>
+</sect1>

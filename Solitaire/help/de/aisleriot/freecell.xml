@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Freecell</title>
+
+	<para>Geschrieben von Changwoo Ryu</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Reservestapel</entry>
+		<entry>Die linken vier Stapel in der obersten Reihe. Jeder Reservestapel kann nur eine Karte fassen.</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Ablagen oben rechts. Der Aufbau erfolgt nach Farbe von Ass bis König. Karten im Fundamentstapel sind nicht mehr im Spiel.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Acht Stapel. Alle Karten werden offen auf die acht Stapel verteilt. Die ersten vier Stapel erhalten sieben Karten und die letzten vier jeweils sechs Karten. Der Spieltisch kann in wechselnden Farben absteigend aufgebaut werden. Karten dürfen nur einzeln bewegt werden. Falls es ausreichend freie Reservestapel gibt, können Karten in Reihenfolge zusammen bewegt werden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Karten im Spieltisch werden absteigend nach wechselnder Farbe aufgebaut. Karten können in Gruppen bewegt werden, sofern es genügend freie Reservestapel gibt, die den Spielzug mit Einzelbewegungen ermöglichen. Ein leerer Tischstapel kann mit jeder Karte oder Kartengruppe belegt werden.</para>
+	<para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind nicht im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+	<para>Die Karten der Reservestapel können auf den Tisch zurück oder auf den Fundamentstapel gespielt werden.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Platz ist ein kostbares Gut. Halten Sie so viele Reservestapel wie möglich frei.</para>
+        </sect2>
+</sect1>

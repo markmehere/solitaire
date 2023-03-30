@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bakers_Dozen"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Пекарева дюжина</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки сверху. Собираются по масти от туза до короля. Верхняя карта каждого основания может быть перемещена назад в игровое поле.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+    <entry>Тринадцать стопок. На каждую стопку сдаётся по четыре карты лицом вверх. Короли перемещаются вниз своих стопок.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переложить все карты на основания.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Любая верхняя карта в стопках игрового поля может быть перемещена на другую стопку, если её достоинство на единицу меньше достоинства верхней карты в другой стопки. Масти роли не играют. Пустые ячейки игрового поля заполнять нельзя.</para>
+  <para>Карты в основания собираются в восходящем порядке от туза до короля. Карты из оснований можно перемещать. Двойной щелчок по карте из игрового поля по возможности переместит её на подходящее основание.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую карту, перемещённую на основание, даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Следите за тем, чтобы не зарывать карты малого достоинства. Старайтесь не допускать опустошения ячеек игрового поля.</para>
+        </sect2>
+</sect1>

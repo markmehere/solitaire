@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Opkoljeni zamak</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile u srednjem stupcu. Ovde se postavljaju četiri asa pre mešanja, jedan na svaku gomilu, Slaže se od asa do kralja. Karta sa vrha „temelja“ se može vraćati na talon.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Osam mesta (četiri levo i četiri desno od „temelja“). Sve karte se dele okrenute i podeljene na ovih osam gomila tako da u svakoj gomili bude šest karata i da se sve vide.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu nezavisno od znaka. Možete pomerati samo po jednu kartu. Na prazna mesta možete stavljati bilo koju kartu.</para>
+  <para>„Temelji“ se grade po znaku.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ osim početnih asova donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Podjednako slažite karte na sve „temelje“. Pokušajte da dobijete prazno mesto.</para>
+        </sect2>
+</sect1>

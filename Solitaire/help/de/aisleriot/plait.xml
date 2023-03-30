@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Plait</title>
+
+	<para>Geschrieben von W. Borgert</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Doppelblatt</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>
+			Third row from the right side in the middle.  Two redeals are
+			allowed.
+		</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>
+			Fourth row from the right in the middle, directly left of the stock.
+		</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>
+			Right eight piles.  One card is already there at start.  This is the
+			base card.  All fields have to be started with this card.
+		</entry>
+	</row>
+	<row>
+		<entry>Plait</entry>
+		<entry>
+			The group of cards in the middle of the table.  Starts with 20
+			cards. Only the one top level card can be moved.
+		</entry>
+	</row>
+	<row>
+		<entry>Edges</entry>
+		<entry>
+			The four fields at the top and bottom, left and right of the plait.
+			These are automatically refilled from the plait.
+		</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			The eight fields left and right of the plait, between the edge fields.
+			Only one card per pile is possible.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Verschieben Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>
+		All eight Foundations have to be started with the same card value.
+		At the beginning you can choose whether to build up or down.
+		You can take cards from the plait in the middle of
+		the tableau, from the eight free fields left and right of the plait,
+		from the four edges around the plait, and from the waste.
+	</para>
+	<para>Das Spiel ist verloren, wenn keine Karten mehr zum Verschieben auf die Fundamentstapel verfügbar sind und der Talon leer ist.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Keine Punktwertung. Entweder gewinnen Sie oder Sie verlieren.</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		Pick the cards from the plait as soon as possible as they are hard to free.
+		Then pick the cards from the tableau as it will give you empty slots
+		to temporarily store some cards.
+	</para>
+        </sect2>
+</sect1>

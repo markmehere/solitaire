@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Klondike"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Klondyke</title>
+
+  <para>Skrivet av Jonathan Blandford</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att korten har fördelats till bordshögarna. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger. Byggs upp i färg från ess till kung. Översta kortet i varje grundhög kan spelas tillbaka till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar. Lägg ett kort med framsidan upp i första högen. Lägg ett kort med framsidan nedåt på de övriga högarna. Lägg ett kort med framsidan upp på den andra högen följt av ett kort med framsidan nedåt på resterande högar. Upprepa tills det finns sju kort i den sista högen. Bordshögarna byggs ner genom att växla kulören. Sviter av kort kan flyttas. Tomma platser kan bara fyllas med en kung eller svit av kort som börjar med en kung.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned genom att växla kulören. Grupper av kort kan flyttas. En tom bordshög kan fyllas med en kung eller en grupp av kort med en kung i botten.</para>
+  <para>Korten vänds från högen till kasthögen ett åt gången. Översta kortet i kasthögen är spelbart. Hanteringsordningen när högen är tom är att flytta alla korten från kasthögen tillbaka till Högen. Du kan gå igenom kortleken tre gånger.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är fortfarande i spel. Att dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+  <para>Att dubbelklicka på ett kort i grundhögarna kommer att flytta alla kort som går att flyttas, till grundhögarna. Detta är användbart för att städa upp i slutet av spelet.</para>
+
+          </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Det finns tre möjliga sätt att spela. Skillnaden dem emellan är hur korten delas ut från högen.</para>
+  <variablelist>
+    <varlistentry><term>Givar med tre kort</term>
+      <listitem>
+        <para>Korten delas ut från högen tre åt gången. Det finns ingen gräns för hur många omgivar av högen du kan göra.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Givar med ett kort</term>
+      <listitem>
+        <para>Korten delas ut från högen ett i taget. Du kan bara vända på högen för två omgivar.</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Inga omgivar</term>
+      <listitem>
+        <para>Korten delas ut ett i taget från högen. Ingen omgiv. Spela den här varianten om du vill ha en utmaning (och viss frustration).</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry><term>Obegränsade omgivar</term>
+      <listitem>
+        <para>Korten delas ut ett i taget från högen. Det finns ingen gräns för hur många omgivar av högen du kan göra.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  
+  <para>Troligtvis kommer du att överväga en av de två första traditionella metoderna - beroende på var du bor och vem som lärt dig. Alternativet inga omgivar är det som normalt finns i äldre regeluppsättningar men spelet spelas sällan på det sättet.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Ge inte upp så lätt! Prova ”brute force”-metoder när spelet verkar över. Ibland kan en kombination av att använda kort som redan flyttats till grundhögarna och att arrangera om sviter frigöra några nödvändiga kort.</para>
+        </sect2>
+</sect1>

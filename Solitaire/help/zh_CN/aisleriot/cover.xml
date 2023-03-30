@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cover"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>封面</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，发牌后剩余的放在这里。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+    <entry>四垛牌，游戏开始时每个位置放一张牌，出现空位会立即从发牌区移过来一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把发牌区所有牌都发出去。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上任意两张相同花色的牌就可以消去，空位立即会发牌填充，当桌面上出现四种不同花色无法消去时，游戏结束。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每消去一对牌得两分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>这是一个简单的游戏，不需多费脑筋，适合不想动脑又能快速反应的情况。</para>
+        </sect2>
+</sect1>

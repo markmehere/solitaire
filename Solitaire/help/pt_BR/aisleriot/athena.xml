@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Athena">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Atenas</title>
+
+  <para>Escrito por Alan Horkan, baseada na obra de Jonathan Blandford</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+  <sect2><title>Configuração</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>Pilha superior esquerda. O restante do baralho é colocado aqui após distribuição para o tabuleiro. Cartas são viradas uma por vez para descarte. Duas redistribuições.</entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>A serem retiradas do monte. Carta no topo disponível para jogar.</entry>
+	</row>
+	<row>
+	  <entry>Fundações</entry>
+	  <entry>Quatro pilhas superiores direita. Forme as pilhas por naipes do ás ao rei. A carta do topo de cada fundação pode ser jogada de volta ao tabuleiro.</entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>Sete pilhas. Quatro linhas, a primeira linha com cartas viradas para baixo, a segunda linha com cartas viradas para cima, a terceira linha com cartas viradas para baixo, e a quarta e última linha com cartas viradas para cima. Essencialmente Atenas é o mesmo que Klondike mas a organização inicial é diferente. O tabuleiro pode ser feito com cartas de cores alternadas. Grupos de cartas podem ser movidos. Pilhas vazias somente podem ser preenchidas por reis ou grupo de cartas iniciadas por rei.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+  <sect2><title>Objetivo</title>
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+  </sect2>
+  <sect2><title>Regras</title>
+  <para>Cartas no tabuleiro são organizadas em cores alternadas. Conjunto de cartas podem ser movidas. Uma pilha vazia no tabuleiro pode ser preenchida com um rei ou um grupo de cartas que iniciam com um rei.</para>
+  <para>Cartas são viradas do monte para resto individualmente. A carta mais acima no Resto está em jogo. Quando o monte está vazio, mova todas as cartas do descarte de volta ao monte, mantendo a ordem. Você pode ir ao baralho três vezes.</para>
+  <para>Fundações são construídas por naipe de ás ao rei. Cartas nas fundações ainda estão em jogo. Clique duplo numa carta irá movê-la para a pilha fase apropriada se tal movimento for válido.</para>
+
+<!-- TODO 
+  <sect2><title>Options</title>
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+  </sect2>
+  <sect2><title>Pontuação</title>
+  <para>Você ganha um ponto por cada carta nas pilhas de fundação.</para>
+  <para>Máxima pontuação possível: 52</para>
+  </sect2>
+  <sect2><title>Estratégia</title>
+  <para>Não abandone o barco! Tente usar força bruta quando o jogo parecer perdido. Às vezes uma combinação de cartas usadas que já estejam na fundação e rearranjando sequências irá liberar algumas cartas necessárias.</para>
+  </sect2>
+</sect1>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Lapurrak</title>
+
+  <para>Robert Brady-k idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Komodindun sorta</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Bost kartako zazpi pila, gora begira.</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Jarri hemen gainerako karta guztiak. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak hondarrera eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Hondarra gorantz nahiz beherantz osa daiteke mahaian erabilgarri dauden kartak erabiliz. Komodinak edozein kartaren gainean jar daitezke eta komodinen gainean edozein mailatako kartak jar daitezke.</para>
+  <para>Sortako karta bat hondarrera eraman daiteke nahi denean.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>
+    The following table shows the points you receive for each type of card.
+    No points are scored for jokers.
+  </para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Card</entry>
+          <entry>Points</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>Ace</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Jack, Queen</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>King</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Mahaian dauden karta guztiak ikus ditzakezunez, saiatu karta-kateak osatzen ahalik eta karta gehien paretik kentzeko, sortako karta kopurua mugatua baita.</para>
+        </sect2>
+</sect1>

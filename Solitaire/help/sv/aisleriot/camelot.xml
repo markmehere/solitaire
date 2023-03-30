@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Alla kort placeras på högen vid spelets början. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Tas från högen. Kan endast ha ett kort som omedelbart måste spelas till bordshögarna.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Ett fyra-gånger-fyra stort rutmönster, varje plats avsedd för ett kort. Kungar kan bara placeras i en hörnplats. Drottningar kan bara placeras i den första och sista radens två mittenplatser. Knektar kan bara placeras i den första och sista kolumnens två mittenplatser.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Ta bort alla kort utom de klädda korten (knektar, damer och kungar). Du har vunnit om dina bordshögar ser ut så här --</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Den vinnande bordshögen.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>-- och din hög och kasthög är tomma. Färgerna spelar ingen roll.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Det finns två faser i det här spelet. Växla mellan de två faserna tills spelet är förlorat eller vunnit. Börja med fas ett tills bordshögarna är helt fyllda. Vid den tidpunkten, gå över till fas två. Observera att du inte kan inleda fas två såvida inte bordshögarna är fullständigt fyllda. Du kan när som helst återgå till fas ett, men kom ihåg att du inte kan gå tillbaka till fas två om inte bordshögarna återigen är fyllda. Ett undantag från regeln är om högen och kasthögen är tomma.</para>
+	<para>Fas ett -- klicka på högen för att flytta ett kort till den tomma kasthögen. Om kortet är en:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Kung: Placera den i en av de fyra tomma hörnplatserna.</para>
+		</listitem>
+		<listitem>
+			<para>Drottning: Placera den i en av de två tomma mittenplatserna i övre eller nedre raden.</para>
+		</listitem>
+		<listitem>
+			<para>Knekt: Placera den i en av de två tomma mittenplatserna i vänstra eller högra kolumnen.</para>
+		</listitem>
+		<listitem>
+			<para>Alla övriga kort: Placera dem på en tom plats.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Fas två -- ensamma 10:or tas bort genom att klicka på dem. Par där summan blir 10 tas bort genom att dra ett kort ovanpå det andra kortet.</para>
+	<para>Spelet är förlorat om ett klätt kort inte kan läggas på en lämplig plats eller om alla platser är fyllda och inga kort kan tas bort.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Varje borttaget kort ger 1 poäng.</para>
+	<para>Högsta möjliga poäng: 40</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Det är alltid säkrast i mitten. Under fas ett-spel, lägg korten i mitten innan du lägger på kanterna. Om du ser ett möjligt par, placera kortet på kanten för att frigöra mer kantplatser under fas två.</para>
+        </sect2>
+</sect1>

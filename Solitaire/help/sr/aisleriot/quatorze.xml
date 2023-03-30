@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Quatorze"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Кваторз</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде после дељења на талон. Празна места на талону се одмах попуњавају картама са гомиле.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Мрежа пет са пет, свако место држи по једну карту. Једна карта се дели на свако од места по почетку игре. Празна места се попуњавају са гомиле. Када се гомила испразни, места се попуњавају померањем карата са дена на лево, при чему карте скроз лево прелазе скроз десно у реду изнад, тако да се сва празна места праве на крају.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Парови карата се могу уклонити ако у збиру дају четрнаест (при чему су жандари 11, даме 12, а краљеви 13) и ако су у истом реду или колони.</para>
+  <para>Празна места се аутоматски попуњавају са гомиле. Када се гомила испразни, места се попуњавају померањем карата са дена на лево, при чему карте скроз лево прелазе скроз десно у реду изнад, тако да се сва празна места праве на крају.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки уклоњени пар карата доноси два поена.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Често се у сред игре направи само један могућ потез. Одиграјте га. Када се гомила испразни, има много више померања на талону.</para>
+        </sect2>
+</sect1>

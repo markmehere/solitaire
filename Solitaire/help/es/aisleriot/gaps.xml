@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Gaps</title>
+
+  <para>Escrito por Zach Keene</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Todas las cartas se dan en cuatro filas de 13 cartas cada una; los ases son descartados para dejar cuatro huecos. Se permiten dos repartos.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Colocar todas las cartas en secuencia desde el dos hasta el rey, por palo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Los huecos en la columna de más a la izquierda se pueden llenar moviendo un dos de cualquier palo allí. Un hueco a la derecha de cualquier carta que no sea rey se puede llenar colocando una carta del mismo palo pero de rango uno superior en el hueco. Los huecos que siguen a los reyes o a otros huecos no se pueden rellenar.</para>
+  <para>Una vez que una carta se coloca en una secuencia que comienza con un dos en el hueco más a la izquierda, no se puede jugar más.</para>
+  <para>Si no hay más movimientos posibles (p.ej., todos los huecos siguen a reyes), pulsar dos veces en cualquier carta causará un reparto. Cualquier carta que no se encuentre en una secuencia sera eliminada, barajada y repartida. Solo se permiten dos repartos.</para>
+
+            </sect2>
+        <sect2><title>Opciones</title>
+
+    <para>Huecos colocados aleatoriamente durante el reparto: Actívelo para conseguir huecos colocados aleatoriamente después de un reparto. Si no está activado, los huecos siempre se colocaran a la derecha de las cartas de la secuencia.</para>
+
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en secuencia, comenzando con un dos en la parte de más a la izquierda, puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Posponga la ejecución de cualquier movimiento que añada un hueco después de un rey tanto tiempo como sea posible.</para>
+        </sect2>
+</sect1>

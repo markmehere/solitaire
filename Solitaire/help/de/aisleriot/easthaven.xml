@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Osthafen</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Kartensatz wir hier nach dem Geben des Spieltisches abgelegt.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Der Aufbau erfolgt nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Sieben Ablagen unten. Auf jeden Stapel werden zwei Karten verdeckt und eine sichtbar ausgegeben.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Entfernen Sie alle Karten.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Der Spieltisch wird nach wechselnden Farben absteigend aufgebaut. Kartengruppen in Reihenfolge und abwechselnden Farben können zusammen bewegt werden. Leere Tischstapel können mit Königen oder mit einem König beginnenden Kartengruppen gefüllt werden.</para>
+  <para>Alle leeren Ablagen auf dem Spieltisch müssen sofern möglich aufgefüllt werden, bevor weitere Karten gegeben werden. Ein Klick auf den Talon gibt eine Karte offen auf jede Tischablage aus. Bei der letzten Ausgabe wird eine Karte offen auf die ersten drei Ablagen gelegt. Es gibt keine Neuverteilungen.</para>
+  <para>Fundamentstapel werden nach Farbe aufsteigend von Ass bis König aufgebaut. Die Karten im Fundamentstapel stehen dann nicht mehr für das Spiel zur Verfügung.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede im Fundamentstapel abgelegte Karte zählt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Bewegen Sie - wenn möglich - Karten auf das Fundament, weil die nächste Ausgabe dies blockieren könnte. Jedoch sind Karten auf dem Fundament nicht länger spielbar, was dazu führen könnte, dass Sie im späteren Verlauf nicht mehr vorwärts kommen, weil Sie diese Karte benötigen. Hoffentlich bleibt dieses Rätsel das schwerste, welchem Sie heute begegnen werden.</para>
+        </sect2>
+</sect1>

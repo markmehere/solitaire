@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Columna vertebral</title>
+
+  <para>Escrit per en Vincent Povirk</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla doble</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Una pila sota les bases a l'esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler i a la reserva. Les cartes es mostren d'una en una a la pila de descartades. És tornar a donar un cop.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Una pila a la dreta de la pila principal. Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Vuit piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Dues piles de 9 cartes cada una, amb una carta sobre ambdues piles. Les cartes que no estan cobertes estan disponibles per a jugar a qualsevol lloc excepte als espais buits del tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Vuit piles, quatre a cada banda de la reserva. Es reparteix una carta a cada pila del tauler quan comença la partida. Es construeix baixant per pal. Els espais buits es poden omplir amb qualsevol carta. Només es pot moure una carta a la vegada.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes al tauler es construeixen baixant per pal. Només es pot moure una carta a la vegada. Els espais buits es poden omplir amb qualsevol carta excepte des de la reserva.</para>
+  <para>Les cartes es giren individualment des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla dues vegades.</para>
+  <para>Les bases es construeixen pujant per pal des de l'as al rei. Les cartes a les bases no es poden jugar més. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 104</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Podeu utilitzar els espais buits al tauler per a moure múltiples cartes. Vigileu amb els reis a la reserva: l'única manera de suprimir-los és jugant-los a les bases sobre una reina.</para>
+        </sect2>
+</sect1>

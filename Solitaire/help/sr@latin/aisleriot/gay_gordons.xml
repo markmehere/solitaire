@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gordon homoseksualac</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Gornja leva gomila. Ovde se dele dve otvorene karte. Karta na vrhu je u igri. Ne može se naknadno popunjavati ili slagati.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Deset gomila. Deli se po pet otvorenih karata na svaku gomilu. Karte na vrhu gomila su u igri. Prazna mesta se ne mogu ponovno popunjavati.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Uklanjajte parove karata koje u zbiru daju jedanaest. Kraljevi se uparuju sa damama, a žandari sa drugim žandarima.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki uklonjeni par karata donosi dva poena.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Pokušajte da otkrijete karte koje su koje su zakopane ispod njihovih karata-parova.</para>
+        </sect2>
+</sect1>

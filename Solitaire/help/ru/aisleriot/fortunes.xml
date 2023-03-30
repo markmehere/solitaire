@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Фортуна</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. По щелчку сдаёт по карте на каждую стопку игрового поля.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Четыре стопки справа. Пустые ячейки можно заполнять группами карт.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты кроме четырёх тузов.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Тузы оцениваются в 14. Когда наверху стопок игрового поля лежит пара карт одной масти, карту меньшего достоинства можно убрать. На появляющиеся пустые ячейки можно перекладывать любые группы карт.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую убранную карту даётся одно очко.</para>
+  <para>Максимальное количество очков: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>При очередной пересдаче не будет никакого прока от пустой ячейки. Тем не менее, получив пустую ячейку, старайтесь не заполнять её как можно дольше, потому что с её помощью можно легко избавиться от «зарытых» карт.</para>
+        </sect2>
+</sect1>

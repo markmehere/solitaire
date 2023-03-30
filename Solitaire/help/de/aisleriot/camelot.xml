@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Alle Karten befinden sich am Beginn des Spiels im Talon. Karten werden einzeln vom Talon auf den Restestapel aufgedeckt. Keine Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Kann nur eine Karte halten, die sofort auf den Spieltisch gebracht werden muss.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>Raster aus 4x4 Ablagen, von denen jede mit einer Karte belegt werden kann. Könige können nur auf den Ecken abgelegt werden. Damen können nur auf den zwei Mittelplätzen der ersten und letzten Zeile abgelegt werden. Buben können nur auf den zwei Mittelplätzen der ersten und letzten Spalte abgelegt werden.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Entfernen Sie alle Karten außer den Bildkarten (Buben, Damen, Könige). Sie haben gewonnen, wenn Ihr Tisch so aussieht --</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Der Gewinnertisch.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>-- und der Talon und der Restestapel leer sind. Die Farben spielen dabei keine Rolle.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Dieses Spiel besteht aus zwei Phasen. Wechseln Sie zwischen diesen zwei Phasen, bis das Spiel entweder gewonnen oder verloren ist. Beginnen Sie mit Phase 1, bis der Spieltisch vollständig gefüllt ist. Dann wechseln Sie zu Phase 2. Bitte beachten Sie, dass Sie nicht zu Phase 2 wechseln können, wenn der Spieltisch noch nicht vollständig gefüllt ist. Sie können jederzeit zu Phase 1 zurückkehren, aber denken Sie daran, dass eine Rückkehr zu Phase 2 nicht möglich ist, bevor der Spieltisch nicht wieder vollständig gefüllt ist. Eine Ausnahme von dieser Regel ist der Fall, wenn der Talon und der Reststapel leer sind.</para>
+	<para>Phase 1 -- Klicken Sie auf den Talon, um eine Karte auf den leeren Reststapel zu legen. Falls eine Karte …</para>
+	<itemizedlist>
+		<listitem>
+			<para>ein König ist: Legen Sie sie auf einen der vier leeren Plätze in den Ecken.</para>
+		</listitem>
+		<listitem>
+			<para>… eine Dame ist: Legen Sie sie auf einen der zwei leeren Mittelplätze in der oberen oder unteren Zeile.</para>
+		</listitem>
+		<listitem>
+			<para>… ein Bube ist: Legen Sie sie auf einen der zwei leeren Mittelplätze in der äußerst linken oder rechten Spalte.</para>
+		</listitem>
+		<listitem>
+			<para>… eine andere Karte ist: Legen Sie sie auf einen leeren Platz.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Phase 2 -- Entfernen Sie die Zehner einzeln, indem Sie darauf klicken. Entfernen Sie Paare, die zusammen mehr als 10 ergeben, indem Sie eine Karte über dieses Paar legen.</para>
+	<para>Das Spiel ist verloren, wenn es für eine Bildkarte keine entsprechende Ablagemöglichkeit mehr gibt, falls alle Plätze belegt sind und keine Karten entfernt werden können.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede entfernte Karte erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 40</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Die mittleren Plätze sind immer am sichersten. Geben Sie in Phase 1 die Karten immer zuerst in die Mitte und danach erst zu den Rändern. Falls Sie ein mögliches Paar sehen, legen Sie diese Karte an die Ränder, so dass Sie in Phase 2 des Spiels mehr Platz an den Rändern frei bekommen.</para>
+        </sect2>
+</sect1>

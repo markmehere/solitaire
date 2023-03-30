@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>钻石矿</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>最上面的牌垛，从任意一张方块开始收牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>十三垛牌，每垛牌中三张朝下、一张翻开。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的方块都移到收牌区，桌面上的其他牌按花色，A 在最下面依次排列。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>除了方块以外的其他牌可以递减排列，并且不用考虑花色。整个一组也可以移动，空位置除了方块以外，可以放其他任何单牌或一组牌。</para>
+  <para>方块除了收取外不能移动，收牌区按顺序收取，可以从任何一张开始收。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌，得分为该牌的点数，A 是一分，J 是十一分，Q 是十二分，K 是十三分。</para>
+  <para>桌面上的每个从 A 到 K 按花色排列的牌得三分。</para>
+  <para>可能得到的最高分是：100</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>收集方块是个艰苦的工作，注意各个方块的价值是不同的，不要忘了清理并且把相同的花色放在一起。</para>
+        </sect2>
+</sect1>

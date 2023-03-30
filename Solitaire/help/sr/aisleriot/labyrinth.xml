@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Лавиринт</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде после дељења на талон.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири гомиле горе десно. Асови се стављају на њихове одговарајуће „темеље“ пре мешања шпила.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>На почетку игре се дели једна отворена карта на сваку од гомила на талону.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте у гомиле на „темељу“.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Сложити било коју карту са талона по знаку и вредности на „темељ“. Празна места се аутоматски попуњавају са гомиле.</para>
+  <para>Када ништа од осам карата са талона не може да се одигра, кликните на гомилу да поделите нову туру карата на сваку гомилу талона. Празна места на талону се више не пуне аутоматски.</para>
+  <para>Карте на врху и на дну гомила на талону се могу померати на „темеље“. На талону се карте не могу слагати. Нема поновних дељења.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта постављена на „темељ“ доноси један поен.</para>
+  <para>Највећи могући број поена: 48</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Наспавајте се ноћ пре играња да бисте били ведри и опрезни док играте ову игру. Померајте сваку карту коју можете на „темеље“. Уживајте!</para>
+        </sect2>
+</sect1>

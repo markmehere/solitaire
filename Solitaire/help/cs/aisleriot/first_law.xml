@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>První zákon</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Na začátku jsou zde umístěny všechny karty. Po vyprázdnění se karty sesbírají z rozdaných a vrátí zpět do volných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Čtyři hromádky napravo. Při každém líznutí z volných se rozdá po jedné kartě do rozdaných.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Kliknutím na volné se rozdá po jedné kartě na hromádky rozdaných. Pokud mají některé karty v rozdaných stejnou hodnotu, přesuňte je na sebe na tu z nich, která je nejvíce vlevo. Prázdné hromádky lze zaplnit jen dalším rozdáním z volných.</para>
+  <para>Pokud se v některý okamžik objeví všechny čtyři karty se stejnou hodnotu, jsou odebrány.</para>
+  <para>Když je hromádka s volnými prázdná, sesbírají se hromádky v rozdaných, zprava doleva, a vrátí se zpět do volných. První rozdaná karta bude vždy rozdaná jako první, dokud není odebrána. Hromádka se do volných vrací zpět, bez omezení počtu vrácení.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná sada čtyř karet je hodnocena 1 bodem.</para>
+  <para>Maximální možný počet bodů: 13</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Nezapomeňte používat brzdy! Pokud nebudete pečlivě zvažovat tahy, bude hra pokračovat do nekonečna.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eliminator"><!--<sect1info>
+	<copyright>
+		<year>2010</year>
+		<holder>Wa (logicplace.com)</holder>
+	</copyright>
+	<author>
+		<firstname>Wa</firstname>
+		<surname>*</surname>
+	</author>
+	<address>
+		<email>admin@logicplace.com</email>
+	</address>
+	</sect1info>-->
+
+	<title>Éliminateur</title>
+
+	<para>Écrit par Wa (logicplace.com)</para>
+
+	<sect2>
+		<title>Configuration</title>
+		<informaltable>
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Type de paquet</entry>
+						<entry>Paquet standard</entry>
+					</row>
+					<row>
+						<entry>Tableau</entry>
+						<entry>Quatre piles contenant chacune 13 cartes (ce qui représente toutes les cartes).</entry>
+					</row>
+					<row>
+						<entry>Fondation</entry>
+						<entry>Quatre à six emplacements vides sur lesquels on construit dans la direction de son choix.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</sect2>
+
+	<sect2>
+		<title>Objectif</title>
+		<para>Déplacer toutes les cartes vers les fondations.</para>
+	</sect2>
+
+	<sect2>
+		<title>Règles</title>
+		<para>N'importe quelle carte peut être placée comme première carte d'une fondation. Les piles des fondations peuvent être construites en montant ou en descendant à partir de la carte supérieure, quelle que soit la couleur. Les rois peuvent être placés sur les as et inversement.</para>
+	</sect2>
+
+	<sect2>
+		<title>Score</title>
+		<para>Chaque carte déplacée du tableau sur une carte des fondations vaut un point.</para>
+		<para>Score maximum possible : 51</para>
+	</sect2>
+
+	<sect2>
+		<title>Stratégie</title>
+		<para>Prenez soin d'examiner toutes les cartes qui apparaissent en évitant de bloquer des cartes nécessaires au placement de cartes sur les fondations.</para>
+	</sect2>
+</sect1>

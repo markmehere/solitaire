@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Dvojice</title>
+  <para>Napsala Rosanna Yuen</para>
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání je zde odložen zbytek karet. Karty se jedna po druhé otáčí do záložních. Dvě se znovu rozdají.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Napravo hned vedle volných. Líže se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Sedm hromádek napravo uspořádaných do oblouku (převrácené U). Na každou hromádku se rozdá po jedné kartě lícem nahoru. Když se během rozdávání narazí na krále, odebere se a umístí dospod balíčku. Na hromádku se rozdá jiná karta. Na každé hromádce se záložními může být položená jen jedna karta. Kdy se některá uvolní, je automaticky doplněna z otočených, nebo, když je hromádka s otočenými prázdná, z volných. Když se po úvodním rozdání na hromádku záložních dostane král, je tato hromádka zmražená, protože krále nelze přesunout.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Jedna hromádka dole uprostřed mezi záložními. Skládá se na dvojnásobky vrchní karty, bez ohledu na barvu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Kartu je možné položit do seřazených, když má dvojnásobnou hodnotu, než karta, která je tam jako poslední. Spodek a dáma jsou 11 a 12. Pokud dvojnásobek čísla překročí třináct, tak třináct odečtěte a získáte hodnotu požadované karty. Řady vypadají takto:</para>
+  <para>A, 2, 4, 8, 3, 6, Q, J, 9, 5, 10, 7, a znovu dokola…</para>
+  <para>Karty se lížou po jedné z volných do otočených. Když je hromádka s volnými prázdná, přesunou se na ni zpět všechny karty z otočených, při tom se zachová pořadí. Takto můžete hromádku projít třikrát.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každou kartu v seřazených dostanete 1 bod.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Bez králů nemohou nastat královraždy. Vyhněte se jim.</para>
+        </sect2>
+</sect1>

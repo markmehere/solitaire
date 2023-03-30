@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thirteen"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Thirteen (13)</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure est disponible pour être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>On distribue sept rangées de cartes l'une par dessus l'autre, face cachée, en commençant avec une carte sur la première rangée, et en mettant une carte supplémentaire par ligne. Les piles sont disposées de telle sorte qu'elles forment une pyramide. On retourne les cartes de la rangée du bas.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Enlever toutes les cartes.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Toutes les cartes visibles dans la pyramide sont disponibles pour être jouées. Les Rois peuvent être enlevés seuls. Les autres cartes peuvent être enlevées par paires dont la somme fait treize, les As valant un, les Valets onze et les Dames douze.</para>
+  <para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte supérieure est disponible pour être jouée, soit avec une carte disponible de la pyramide, soit avec la carte inférieure. Pas de redistribution.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Toute pyramide a besoin d'une solide fondation. Débarrassez-vous des cartes du bas en premier, pour rendre accessibles autant de cartes que possible.</para>
+        </sect2>
+</sect1>

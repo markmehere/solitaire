@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>残忍</title>
+
+  <para>Zach Keene 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的空位，因为所有的牌总是放在桌面上，这儿一直是空的，可以重复发牌。</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>右上角的一行牌垛，游戏开始时，A 都已经放在这儿了，按花色从 A 到 K 收牌。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>一共十三个牌垛，一次翻四张，直到发牌区翻完。桌面上的牌按花色递减排列。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>收牌区的牌按花色递增排列，桌面上的牌按花色递减排列。如果没有可移动(或者您感觉是这样)，点击左上角空的发牌区，重新发牌。</para>
+  <para>重新发牌是从最后一垛开始，把牌按顺序放在一起，然后把牌翻过来，一次四张，放回到桌面。如果之前没有移动牌，将不能重新发牌。因此，如果重发后不能移动，游戏就输了。</para>
+  <para>注意：无论何时发生了极端情况，比如在一次重新发牌后，桌面只剩下最后一垛一张牌，并且唯一的可能的一次移动是从最终桌面前的一个。移动这一次然后重新发牌只是原来的结果，系统检测到这种情况后会结束游戏。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>如果桌面上有几个可以移动的牌，试着先移大牌。</para>
+        </sect2>
+</sect1>

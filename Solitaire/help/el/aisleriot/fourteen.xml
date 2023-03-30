@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fourteen">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Δεκατέσσερα</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Μοιράζονται όλα τα φύλλα ανοιχτά, σχηματίζοντας δώδεκα στήλες. Οι τέσσερις πρώτες στήλες έχουν από πέντε φύλλα, ενώ οι υπόλοιπες από τέσσερα. Μπορείτε να παίζετε το πάνω φύλλο κάθε στήλης. Αν μια στήλη αδειάσει, δεν επιτρέπεται να συμπληρωθεί.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε ζευγάρια φύλλων με άθροισμα δεκατέσσερα. Οι Άσσοι έχουν τιμή 1, ενώ οι Βαλέδες, οι Ντάμες και οι Ρήγες έχουν τιμή 11, 12 και 13, αντίστοιχα.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε φύλλο που απομακρύνεται αντιστοιχεί σε 1 βαθμό.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Προσέξτε που πηγαίνετε! Προσπαθήστε να απομακρύνετε φύλλα που κρύβουν έτοιμα ζευγάρια, αλλιώς κινδυνεύετε να κολλήσετε.</para>
+        </sect2>
+</sect1>

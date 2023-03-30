@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortunes">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Fortunas</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón de la parte superior izquierda. Se da una carta cada montón del tablero al pulsar.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Cuatro montones en la parte derecha. Se pueden mover los grupos de cartas a los huecos vacíos.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Eliminar todas las cartas excepto los cuatro ases.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Los ases son las cartas de mayor valor. Cuando están disponibles dos cartas del mismo palo, la de menor rango se puede eliminar. Cuando aparece un hueco, se puede rellenar con un grupo de cartas.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta eliminada puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>No hay razón para tener huecos vacíos cuando se da otro lote de cartas. Sin embargo, cuando tenga un hueco vacío, intente conservarlo vacío tanto tiempo como sea posible, ya que es el mejor modo de conseguir ráfagas de cartas ocultas.</para>
+        </sect2>
+</sect1>

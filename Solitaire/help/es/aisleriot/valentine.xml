@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentine</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Montón</entry>
+		<entry>Montón de la parte superior izquierda. Aquí se colocan todas las cartas restantes después de dar.</entry>
+	</row>
+	<row>
+		<entry>Basura</entry>
+		<entry>Montón de la parte superior derecha. Sólo puede contener una carta.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Cuatro montones. Se da una carta en cada montón al comienzo del juego. Cada reparto desde el montón mueve todas las cartas actualmente en el tablero de vuelta al fondo del montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Tenga todas las cartas en el tablero, conteniendo cada montón desde el as hasta el rey por palo. Evite volverse loco consiguiéndolo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Si algún par de cartas dadas al tablero son del mismo palo y en secuencia, coloque la más baja sobre la más alta. Los ases son bajos, los reyes son altos y las secuencias no saltan del rey al as. Pulse en el montón para rellenar los huecos vacíos que hayan quedado.</para>
+  <para>Cuando no se pueden hacer más jugadas en el tablero, pulse sobre el montón para sacar una carta a la basura. Si esta carta se puede jugar con cualquiera de los montones del tablero, hágalo. Repita este proceso hasta que no haya más movimientos en el tablero o desde la basura.</para>
+  <para>En este punto, pulse de nuevo en el montón para mover todas las cartas en el tablero de vuelta al fondo del montón. La carta de la basura se pone en el primer montón del tablero y el resto del tablero se llena desde el montón con una carta en cada montón.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>No hay puntuación en este juego.</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Un juego magnífico para matar el tiempo, Valentine realmente no tiene estrategia, a menos que la estrategia sea jugar a éste en lugar de hacer otras cosas importantes, como irse a la cama.</para>
+        </sect2>
+</sect1>

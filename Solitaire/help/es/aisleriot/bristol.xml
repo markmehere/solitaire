@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bristol">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Bristol</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón de la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Tres montones a la derecha del montón. Se da una carta a cada una de las Reservas cada vez que se pulsa en el montón.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. La fundación se construye ascendentemente sin importar el palo.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Se dan boca arriba ocho montones de tres cartas cada uno.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas del tablero se construyen descendentemente sin importar el palo. Las cartas sólo se pueden mover de una en una. Un montón vacío del tablero no se puede rellenar.</para>
+  <para>Las cartas se dan desde el montón a las tres montones reserva, una carta a cada uno por reparto. La carta de la cima de cada reserva está disponible para el juego. Las pilas reserva vacías no se pueden rellenar excepto por los nuevos repartos desde el montón.</para>
+  <para>Los montones de la fundación se construyen hacia arriba sin importar el palo desde el as hasta el rey. La cartas en la fundación no se considerarán más durante el juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Nunca mire atrás. Las cartas que se bloquean en orden inverso son para jugarlas tan pronto como sea posible. Mueva tantas cartas desde la reserva al tablero como pueda, los reyes son difíciles de mover.</para>
+        </sect2>
+</sect1>

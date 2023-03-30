@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>被围的城堡</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>收牌区</entry>
+	  <entry>中间一列的四垛牌，四个 A 放在这里，洗牌前每个只有一张。从 A 到 K 收牌，最上面的一张可以重新放回到桌面参与游戏中。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>在收牌区的两边各有四个共八个牌垛，这样每垛牌有六张，所有牌都是翻开的。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>桌面上的牌按递减顺序排列，不必按花色，每次只能移动一张牌，移出的空位可以放任何一张牌。</para>
+  <para>收牌区按花色递增收牌。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>除了原来的 A，每收一张牌得一分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>如果可能，尽量均衡收牌，试着多空出一些位置来。</para>
+        </sect2>
+</sect1>

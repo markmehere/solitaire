@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terrasse</title>
+
+  <para>Geschrieben von David Rogers</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Reservestapels auf den Spieltisch hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Der Talon darf nicht aufgedeckt werden.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Elf Karten werden sichtbar in einen Stapel ausgegeben. Alle Karten sind sichtbar, aber nur die oberste ist im Spiel.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Elf Stapel in der Mitte. Es wird in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+    	  <entry>Neun Karten werden sichtbar aus dem Kartensatz ausgegeben, sobald die Basiskarte ausgewählt wurde.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>
+	Cards in the Tableau are built down in sequence by alternating
+	colours building round the corner. Groups of cards can't be moved.
+	An empty pile in the Tableau must be filled by the top card in
+	Waste or the next card from the Stock. Top cards can be moved to
+	the Foundation or other Tableau piles.
+  </para>
+  <para>
+	Foundations are built up in sequence by alternating colours from
+	the base card. Empty Foundations must be filled with the base card
+	that is selected by the user from four random cards as the first
+	move. Cards in Foundations are out of play.
+  </para>
+  <para>
+	Top card of the Reserve is in play and can only be moved to
+	Foundations.
+  </para>
+  <para>
+	Cards are flipped from the Stock to the Waste individually as many
+	times as you like unless there is a space in the tableau. If there
+	is a space in the tableau then only one card may be flipped from
+	the stock to the waste until the tableau is filled or the top card
+	of the waste is moved to the foundation or tableau. While the
+	stock is locked you can still move cards around on the tableau,
+	from the reserve and to the foundation. If the Waste is empty a
+	card from the Stock is automatically dealt. Top card in Waste is
+	in play. Stock cannot be turned.
+  </para>
+  <para>Ein Doppelklick auf eine Karte verschiebt sie auf den entsprechenden Fundamentstapel, falls ein solcher Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Optionen</title>
+
+  <para>Für dieses Spiel gibt es sieben Möglichkeiten. Der Unterschied besteht in der Anzahl der Reservekarten, der Ablagen auf dem Spieltisch oder der Wahl der Basiskarte.</para>
+  <para>Terrasse</para>
+  <para>Reservestapel zu 11 Karten, 9 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Benutzer wählt eine Basiskarte aus vier zu Spielbeginn aus und eine Karte wird auf jeden Tischstapel verteilt. Der Talon darf nicht aufgedeckt werden.</para>
+  <para>
+	General Patience
+  </para>
+  <para>Reservestapel zu 13 Karten, 9 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach ? ab der Grundkarte aufgebaut. Benutzer wählt die Basiskarte aus vier zu Spielbeginn aus und eine Karte wird auf jeden Tischstapel verteilt. Der Talon darf einmal umgedreht werden, aber das Spiel ist verloren, sobald eine umgedrehte Karte nicht gespielt werden kann.</para>
+  <para>Sternschnuppen</para>
+  <para>Reservestapel zu 11 Karten, 9 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Zu Spielbeginn wird die Basiskarte automatisch ausgewählt und eine Karte wird auf jeden Tischstapel verteilt. Der Talon darf nicht aufgedeckt werden.</para>
+  <para>Signora</para>
+  <para>Reservestapel zu 11 Karten, 9 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Zu Spielbeginn wird die Basiskarte automatisch ausgewählt und eine Karte wird auf jeden Tischstapel verteilt. Leerräume auf dem Spieltisch werden automatisch aus dem Ablagestapel gefüllt oder aus dem Talon, wenn der Ablagestapel leer ist. Der Talon darf nicht aufgedeckt werden.</para>
+  <para>Redheads</para>
+  <para>Reservestapel zu 21 Karten, 8 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Zu Spielbeginn wird die Basiskarte automatisch ausgewählt und eine Karte wird auf jeden Tischstapel verteilt. Leerräume auf dem Spieltisch werden automatisch aus dem Reservestapel gefüllt oder mit irgendeiner Karte, wenn der Reservestapel leer ist. Der Talon darf nicht aufgedeckt werden.</para>
+  <para>Blonde und Brünette</para>
+  <para>Reservestapel zu 10 Karten, 8 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Zu Spielbeginn wird die Basiskarte automatisch ausgewählt und eine Karte wird auf jeden Tischstapel verteilt. Der Talon darf nicht aufgedeckt werden.</para>
+  <para>Wald</para>
+  <para>Reservestapel zu 10 Karten, 9 Stapel auf dem Spieltisch. Fundamentstapel werden in Reihenfolge nach wechselnden Farben ab der Grundkarte aufgebaut. Zu Spielbeginn wird die Basiskarte automatisch ausgewählt und eine Karte wird auf jeden Tischstapel verteilt. Der Talon darf nicht aufgedeckt werden.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+	When the game starts examine the Reserve carefully before choosing
+	your base card, avoid base cards that have several buried in the
+	Reserve.
+  </para>
+  <para>Achten Sie auf umgekehrte Reihenfolgen in Talon, Reserve- und Fundamentstapel, um jede dieser umgekehrten Reihenfolgen entfernen zu können</para>
+  <para>Versuchen Sie, Tischstapel mit der zuletzt erforderlichen Karte zu beginnen, um einen Fundamentstapel zu vollenden.</para>
+  <para>Vergessen Sie nicht, dass Sie weiterhin Karten vom Talon umdrehen können, während er gesperrt ist, ohne den Spieltisch zu füllen, indem die oberste Karte des Ablagestapels verwendet wird.</para>
+        </sect2>
+</sect1>

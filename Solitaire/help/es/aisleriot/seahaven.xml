@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Seahaven"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Puerto de Mar</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones: dos en la parte superior izquierda y dos en la parte superior derecha. Se construyen del as hasta el rey por palo.</entry>
+	</row>
+	<row>
+	  <entry>Reservas</entry>
+	  <entry>Cuatro montones en la parte superior central. Cada reserva sólo puede contener una carta. En dos de las reservas se reparte una carta al empezar.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Diez montones bajo la fundación y las reservas. Las otras cincuenta cartas se dan boca arriba aquí, cinco en cada montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>El tablero se construye descendentemente por palo. Sólo se pueden mover la carta de la cima o grupos de cartas. Un grupo de cartas sólo se puede mover si el número de cartas en el grupo es igual o menor al número de espacios libres en la reserva. Los espacios libres en el tablero solo se pueden ocupar con un rey o con un grupo que comience por un rey.</para>
+  <para>La fundación se construye ascendentemente por palo desde el as hasta el rey. Aunque las cartas de la fundación continúan técnicamente en juego, no hay necesidad de jugar aquellas cartas que no sean de ayuda.</para>
+  <para>Cualquier carta en la cima de un montón del tablero se puede colocar encima de un hueco vacío de la reserva. Estas cartas están disponibles para volver a jugar dentro del tablero o en otro montón de la fundación.</para>
+  <para>Por comodidad, las secuencias del mismo palo se pueden mover al montón de la fundación correspondiente en lugar de moverlas individualmente. Esto es especialmente útil al final del juego.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Mueva cualquier carta que pueda a la fundación tan pronto como le sea posible. Dejarlas alrededor sólo puede dificultar sus movimientos.</para>
+        </sect2>
+</sect1>

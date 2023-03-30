@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gold_Mine"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Alan Horkan</holder>
+    </copyright>
+    <author>
+      <firstname>Alan</firstname>
+      <surname>Horkan</surname>
+    </author>
+  </sect1info>-->
+
+  <title>Zlatý důl</title>
+
+  <sect2><title>Podmínky</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání karet se zde položí jejich zbytek. Karty se po třech lížou do otočených. Hromádku se nevrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Musíte na nich poskládat vzestupnou postupku v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Sedm hromádek, na začátku všechny prázdné. Zlatý důl je variantou ke hře <ulink type="help" url="ghelp:aisleriot#Klondike">Klondike</ulink>. Rozdané můžete skládat do sestupných postupek v barevnosti na střídačku. Přesouvat lze skupiny karet. Prázdné pozice lze obsadit libovolnou kartou.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  </sect2>
+
+  <sect2><title>Cíl</title>
+  <para>Přesunout všechny karty do seřazených.</para>
+  </sect2>
+
+  <sect2><title>Pravidla</title>
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Přesouvat lze skupiny karet. Prázdné pozice v rozdaných můžete zaplnit libovolnou kartou.</para>
+  <para>Karty se lížou z volných do otočených po třech. Vrchní karta v otočených je ve hře. Jakmile je hromádka volných prázdná, hra končí. Je jen jedna šance, udělat to správně a vybudovat si zlatý důl.</para>
+  <para>Seřazené karty se skládají v barvě, od esa po krále. Seřazené karty jsou stále ve hře. Dvojitým kliknutím se karta přesune na příslušnou hromádku v seřazených, pokud je tedy takový tah možný.</para>
+  </sect2>
+
+  <sect2><title>Bodování</title>
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+  </sect2>
+
+  <sect2><title>Strategie</title>
+  <para>Buďte obezřetní, čím zaplníte prázdné pozice v seřazených. S trochou dovednosti je možné Zlatý důl většinou vyhrát. Když se vám to nezadaří napoprvé, vraťte se na začátek a zkuste to znovu.</para>
+  </sect2>
+</sect1>

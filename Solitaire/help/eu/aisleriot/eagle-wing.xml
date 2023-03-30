@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Arrano-hegalak</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Karta sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Beste bi aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortaren eskuinean. Sortatik hartzeko. Goiko karta jokoan erabiltzeko prest dago.</entry>
+	</row>
+	<row>
+	  <entry>Oinarriak</entry>
+	  <entry>
+	    Four piles top right.
+	    One card is dealt in the first Foundation at the start of the game,
+	    this is the base card.
+	    Other Foundations must be started with a card of the same rank as the
+	    base card.
+	    To be built up in suit from the base card.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Biltegia</entry>
+	  <entry>Erdiko (eta behe-beheko) gunea. Hemen hamahiru karta banatzen dira behera begira. Buelta eman kartari mahaiko edozein toki betetzeko. Biltegian karta bakarra dagoenean, gora begira jartzen da eta oinarrian edo mahaiko piletan erabil daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Zortzi gune (lau biltegiaren ezkerraldean eta lau eskuinaldean). Jarri karta bat gune bakoitzean, gora begira. Mahaiko pilak beherantz osa daitezke, irudia kontuan hartuta. Kartak banaka mugi daitezke mahaiko beste guneetara, edo multzoan oinarrira. Mahaiko gune bakoitzean hiru karta egon daitezke, gehienez.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko kartak beherantz osa daitezke, irudiaren arabera. Kartak banan-banan mugitu behar dira mahaiko beste pila batera. Dena den, horren aspergarria izan ez dadin, karta multzoak mugi daitezke oinarrira. Mahaiko gune hutsak automatikoki betetzen dira biltegitik. Biltegia hutsik badago, hondarreko edo mahaiko pila bateko karta batekin betetzen dira toki hutsak.</para>
+  <para>Biltegiaren funtzio nagusia mahaiko toki hutsak hornitzea da. Dena den, biltegian karta bakarra geratzen denean, gora begira jarriko da eta jokoan erabili ahal izango da.</para>
+  <para>Kartak banaka iraultzen dira pilatik hondarrera. Sorta hustutakoan, eraman hondarreko karta guztiak sortara, ordena errespetatuz. Hiru aldiz pasa daitezke kartak sortatik hondarrera.</para>
+  <para>Irudia kontuan hartuta osatzen dira oinarriak, oinarrizko kartatik abiatuta (lehen oinarrian banatutako lehen karta). Oinarri berriak abiarazteko, banatzean lehen oinarrian jarritako kartaren maila bereko karta jarri behar da oinarri-pila hutsetan. Batekoak erregeen gainean jartzen dira eta bikoak batekoen gainean. Oinarrietako kartak ezin dira jokoan erabili.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Pixka bat planifikatzeak bide luzea egiten lagunduko dizu. Ondo pentsatu kartak mahaian pilatu aurretik. Gogoan izan toki berean gehienez hiru karta egon daitezkeela.</para>
+        </sect2>
+</sect1>

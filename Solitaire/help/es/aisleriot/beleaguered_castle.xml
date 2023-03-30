@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Beleaguered_Castle">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Castillo sitiado</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la columna del medio. Aquí se colocan cuatro ases, uno en cada montón, antes de barajar. Se construye del as al rey. La carta de la cima de cada fundación está disponible para jugarla de nuevo en el tablero.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Ocho huecos vacíos (cuatro a la izquierda y cuatro a la derecha de la fundación). Se dan todas las cartas boca arriba y extendidas en esos ocho montones de modo que haya seis cartas en cada montón y todas a la vista.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mover todas las cartas a los montones objetivo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas en el tablero se colocan descendentemente sin importar el palo. Sólo se puede mover una carta cada vez. Los montones vacíos se pueden llenar con una única carta.</para>
+  <para>Las fundaciones se construyen ascendentemente por palo.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta distinta del as original colocada en los montones de la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Si es posible, construya incluso en las fundaciones. Inténtelo y consiga un hueco vacío.</para>
+        </sect2>
+</sect1>

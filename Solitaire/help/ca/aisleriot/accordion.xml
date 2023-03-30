@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Acordió</title>
+
+  <para>Escrit per l'Ed Sirett</para>
+
+          <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+
+	<row>
+		<entry>Tauler</entry>
+		<entry>Cinquanta-quatre espais en cinc files de nou i l'última fila de set. Repartiu les cartes de cara amunt una a cada espai. Els espais es consideren una línia contínua, les files només ordenen el tauler perquè totes les cartes siguin visibles. Així l'espai més a la dreta d'una fila es considera que es troba a l'esquerra de l'espai més a l'esquerra de la fila de sota.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Per suprimir totes les cartes menys una.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Les cartes es mouen d'una en una. Qualsevol carta es pot col·locar sobre una altra del mateix pal o rang que estigui just a l'esquerra o tres espais a l'esquerra. La carta que es cobreix s'elimina de la partida. Les cartes (si n'hi ha alguna) que es troben a la dreta del forat que queda es mouen un espai a l'esquerra per tancar el lloc buit. Si feu doble clic sobre la carta, aquesta, si és possible, es mou tres llocs o si no un espai a l'esquerra.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta suprimida puntua 1 punt.</para>
+  <para>Puntuació màxima possible: 51</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>
+    This is a difficult game. Try to find two or three cards of the same rank at or near the 
+    last row. Try not to remove any card of this rank. At the end you can move these cards
+    onto each other to win.
+  </para>
+        </sect2>
+</sect1>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>第一个法律</title>
+
+  <para>Rosanna Yuen 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>左上角的牌垛，开始所有牌都放在这里，如果为空，就把桌面上的牌全部收回来。</entry>
+	</row>
+	<row>
+	  <entry>桌面排列区</entry>
+	  <entry>右边的四垛牌，发牌区每次往每垛上各发一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>移除所有牌。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>点击发牌区会往桌面上的四垛牌上各发一张，如果四张牌里有两张是相同的，可以把右边的移到左边这张上面。空位只能由发牌区发牌填充。</para>
+  <para>不管是多少点数，只要四张牌是相同的，就可以全部移除。</para>
+  <para>当发牌区空了以后，桌面上的牌重新收成一垛，右边的压着左边的放回发牌区。第一张发的牌总是第一次发，直到它被移除，重复发牌没有次数限制。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每移除四张相同的一组得一分。</para>
+  <para>可能得到的最高分是：13</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>请记住适可而止！这个游戏可能永远不会终止，除非您仔细地研究每一次移动。</para>
+        </sect2>
+</sect1>

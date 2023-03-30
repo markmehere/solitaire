@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Helsinki">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Хелсинки</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Остатак шпила се ставља овде после дељења на талон. Карте се аутоматски стављају на талон када се направи празно место.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Десет гомила. Дели се једна отворену карту на сваку од гомила.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Можете уклонити парове карата који у збиру дају тринаест, при чему асови вреде један, жандари једанаест, а даме дванаест. Краљеви су уклањају сами, без пара.</para>
+  <para>Празна места на талону се аутоматски попуњавају са гомиле.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака уклоњена карта доноси један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Будите што је могуће бржи.</para>
+        </sect2>
+</sect1>

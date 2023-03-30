@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Sorta bikoitza</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Eskualdi bat banatutakoan hemen kokatzen da karta sortaren gainerako zatia. Kartak banan-banan iraultzen dira hondarrera. Beste behin bana daiteke.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Zortzi pila goian, eskuinean. Oinarriak hasteko, jarri zortzi batekoak pila hauetan. Oinarriak gorantz osatzen dira, batekoetatik erregeetara, koloreak txandakatuz. Oinarriko kartak ezin dira berriz erabili.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Zortzi pila oinarrien azpian. Hasteko, jarri karta bat mahaiko pila bakoitzean. Mahaiko pilak beherantz eraiki behar dira, koloreak txandakatuz. Pila bakoitzeko goiko karta jokorako prest dago. Gune hutsak berehala betetzen dira hondarretik, eta, hondarra hutsik badago, sortatik.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Pila bakoitzeko goiko karta soilik erabil daiteke jokoan. Dena den, jokoa errazteko, pila osoak dagozkien oinarrietara eraman daitezke, arrastatuz. Pila baten gainean bi aldiz klik eginez gero, dagokion oinarri-pilara joaten da gaineko karta, mugimendu hori egin baldin badaiteke.</para>
+	<para>Mahaiko gune hutsak automatikoki betetzen dira hondarretik, eta, hondarra hutsik badago, sortatik.</para>
+	<para>Kartak banaka iraultzen dira sortatik hondarrera. Hondarreko goiko karta jokoan erabiltzeko prest dago. Birbanaketa bakarra.</para>
+	<para>Oinarriak gorantz osatu behar dira, batekotik erregera, koloreak txandakatuz. Oinarri-piletako kartak ezin dira jokoan erabili.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 96</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Oso gutxitan izaten da bigarren aukerarik mundu errealean, beraz, horrelakorik topatuz gero, balia zaitez. Bigarren aukerez baliatu beharko duzu gehienetan, jokoa irabaziko baduzu. Gogoratu karta gakoak non dauden, eta ez zara damutuko.</para>
+        </sect2>
+</sect1>

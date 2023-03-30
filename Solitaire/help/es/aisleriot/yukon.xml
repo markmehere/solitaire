@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Yukon</title>
+
+	<para>Escrito por Rosanna Yuen</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Objetivo</entry>
+		<entry>Cuatro montones en la izquierda. Se construyen ascendentemente por palo desde el as hasta el rey.</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Siete montones. Se da una carta boca arriba en el primer montón. Se coloca una carta boca abajo en el resto de las pilas. Coloque una carta boca arriba en el siguiente montón seguida de una carta boca abajo en el resto de montones cubiertos. Se repite el proceso hasta que haya siete cartas en el último montón. El resto de cartas se dan boca arriba en los montones del segundo al séptimo. Se construye descendentemente alternando el color.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Mover todas las cartas a los montones objetivo.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Las cartas en el tablero se construyen descendentemente alternando el color. Se pueden mover grupos de cartas sin importar la secuencia. Una carta boca abajo se da la vuelta cuando se desentierra. Un montón vacío del tablero se puede llenar con un rey o un grupo de cartas con un rey en el fondo.</para>
+	<para>Los montones de la fundación se construyen ascendentemente por palo desde el as hasta el rey. Las cartas en la fundación no están disponibles para el juego.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cada carta colocada en el objetivo puntúa un tanto.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Intente descubrir tantas cartas tan pronto como le sea posible. Esto ayudará considerablemente su aventura de conquistar yukon.</para>
+        </sect2>
+</sect1>

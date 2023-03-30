@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Auld_Lang_Syne">  <!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Auld Lang Syne</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Alla kort utom essen placeras här vid spelets början. Om du klickar på högen delas ett kort till var och en av de fyra reservhögarna.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar överst, till höger om högen. Placera ett ess på varje grundhög för att starta spelet. Grundhögarna byggs i stigande ordning oavsett färg.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Fyra högar placerade under grundhögarna. Varje gång man klickar på högen, kommer ett kort att placeras på varje reservhög. Översta kortet är tillgängligt för spel. Korten på reservhögarna kan bara flyttas till grundhögarna.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Spelet börjar genom att lägga fyra kort på reservhögarna. Om möjligt, flytta kort från reservhögarna till grundhögarna. Fortsätt tills inga kort finns kvar i högen och inga fler kort går att flytta till grundhögarna. Ett liknande spel som är lite lättare är Blanda.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje borttaget kort ger 1 poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Tror du på tur? Även om det här spelet kräver mer skicklighet än spelet Klockan, så är uppmärksamhet viktigaste förmågan. Ett bra spel att spela utan att behöva tänka.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Наполеонова гробница</title>
+
+  <para>Написао Kimmo Karlsson</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила.</entry>
+	</row>
+	<row>
+		<entry>Отпад</entry>
+		<entry>Поред гомиле.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Мрежа три са три, све карте отворене.</entry>
+	</row>
+	<row>
+		<entry>„Темељи“</entry>
+		<entry>Центар гомиле се слаже на доле, углови на горе. Знак није битан.</entry>
+	</row>
+	<row>
+		<entry>Резерве</entry>
+		<entry>Четири гомиле на мрежи које нису „темељи“. Свака резерва може да држи само једну карту.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Померити све карте једнаке или мање од 6 на централну гомилу, карте 7 и више на гомиле у угловима.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Клик на гомилу окреће карте. Померајте једну по једну карту на талон. Једном када се постави на „темељ“, карта не може да се помера. Свака од гомила у углу се слаже од 7 до краља. Централна гомила се слаже на доле од 6 до аса. После аса опет долази 6 итд. Знак није битан.</para>
+
+          </sect2>
+        <sect2><title>Опције</title>
+
+  <para>Дељење по три карте: ако делите по три карте одједном са гомиле, кроз шпил можете проћи три пута.</para>
+  <para>Autoplay: ако укључите ово, карте се аутоматски премештају на „темеље“ чим је то могуће.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта на „темељу“ доноси по један поен.</para>
+
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Трудите се да чувате резерву. Није лако ставити Наполеона у гробницу, али вреди покушати.</para>
+        </sect2>
+</sect1>

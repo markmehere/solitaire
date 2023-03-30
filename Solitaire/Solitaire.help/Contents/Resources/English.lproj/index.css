@@ -1,0 +1,61 @@
+body {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  line-height: 1.25rem
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-size: 18px;
+  padding: 0.8rem 0 0 0;
+}
+
+h3 {
+  font-size: 17px;
+  padding: 0.8rem 0 0 0;
+}
+
+h4 {
+  font-size: 16px;
+  padding: 0.8rem 0 0 0;
+}
+
+td {
+  padding: 0.6rem 0;
+  vertical-align: top;
+}
+
+td:first-child {
+  width: 150px;
+  font-weight: 500;
+}
+
+.main {
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+  text-align: center;
+}
+
+p.caption {
+  margin: 0;
+  font-style: italic;
+  font-size: 14px;
+  color: #555;
+}
+
+p.author {
+  font-style: italic;
+  font-size: 14px;
+  color: #555;
+}

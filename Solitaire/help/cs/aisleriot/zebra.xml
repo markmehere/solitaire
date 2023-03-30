@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Dvě sady</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Po vyprázdnění se hromádka z otočených jednou vrátí.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Osm hromádek vpravo nahoře. Začne se tím, že se zde rozloží osm es. Hromádky se musí skládat do postupek v barevnosti na střídačku směrem ke králi. Karty v seřazených jsou již mimo hru.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Osm hromádek pod seřazenými. Na každou hromádku se na začátku rozdá karta. Hromádky můžete skládat do sestupných postupek v barevnosti na střídačku. Do hry je k dispozici jen vrchní karta na každé hromádce. Prázdné pozice se ihned doplní z otočených nebo, pokud je hromádka otočených prázdná, z volných.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty na hromádky v seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Jen vrchní karta v každé hromádce je ve hře. Aby se vám ale usnadnilo hraní, lze celou hromádku přesunout na příslušné místo v seřazených na jeden zátah. Dvojité kliknutí přesune vrchní kartu na příslušné místo v seřazených, pokud je to možné.</para>
+	<para>Mezery v rozdaných jsou automaticky zaplňovány z otočených nebo, když je hromádka otočených prázdná, z volných.</para>
+	<para>Z volných do otočených se líže po jedné. Vrchní karta v otočených je k dispozici do hry. Celá hromádka se jednou vrací do volných.</para>
+	<para>Seřazené musíte poskládat do postupky v barevnosti na střídačku, od esa po krále. Karty v seřazených jsou již mimo hru.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Ve skutečném světě dostanete jen zřídka druhou šanci, takže když na ni narazíte, určitě ji využijte. Takovou šanci budete potřebovat i v podobě druhého rozdání, abyste vyhráli tuto hru. Pamatujte si, kde se nachází klíčové karty, bude se vám to hodit.</para>
+        </sect2>
+</sect1>

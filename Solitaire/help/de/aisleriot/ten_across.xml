@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Ten_Across"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>James LewisMoss</holder>
+		</copyright>
+		<author>
+			<firstname>James</firstname>
+			<surname>LewisMoss</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Ten Across</title>
+
+	<para>Geschrieben von James LewisMoss</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Vorübergehende Orte</entry>
+		<entry>
+			Locations to place one card out of play.  The spots begin the game
+			filled.  One version of the game does not allow you to put new cards
+			into these spots once they are empty.
+		</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Ten piles across the bottom.  To deal place 10 cards across going from
+			left to right with the first and last cards face up.  Continuing you
+			place ten cards across the piles from right to left (reversed) with
+			the first two and last two cards placed face up.  Continue this
+			pattern (reversed and one more card each pass) until 50 cards have
+			been placed.  Place the last two cards in the temporary spots at the top.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>
+		Form four piles in the tableau all of the same suit running from King
+		to Ace.
+	</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Nur ein König darf auf einem leeren Platz des Spieltisches abgelegt werden.</para>
+	<para>
+		Cards may be moved only onto other cards if the suit matches and the
+		moved card is one less than the moved to. This includes moving a pile
+		of cards of different suits as long as the top card of the moved pile
+		matches the bottom card of the location moved	to.
+	</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+	<para>
+		Allow temporary spots use: If checked the temporary spots may be reused.
+	</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Entweder, Sie gewinnen, oder Sie verlieren. Es gibt keine Wertung.</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Dieses Spiel ist recht schwer zu gewinnen, es ist stark von der Ausgangsposition abhängig. Denken Sie daran, die Temporärplätze zu benutzen. Versuchen Sie jedoch, diese schnell wieder frei zu machen. Sie können sehr nützlich sein, wenn Sie ansonsten keine Züge mehr ausführen können.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Kičma</title>
+
+  <para>Napisao Vincent Povirk</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Dupli špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Jedna gomila ispod „temelja“ sa leve strane. Ostatak špila se stavlja ovde posle deljenja na talon i rezervu. Karte se okreću jedna po jedna na otpad. Dozvoljeno je jedno ponovno deljenje.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Jedno mesto desno od gomile. Uzima se sa gomile, a karta sa vrha je u igri.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Osam gomila gore desno. Slažu se po znaku od asa do kralja.</entry>
+	</row>
+	<row>
+	  <entry>Rezerva</entry>
+	  <entry>Dva sloja, po 9 karata svaki, sa jednom kartom iznad oba sloja. Sa kartama koje nisu prekrivene se može igrati bilo gde, osim na prazna mesta u talonu.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Osam gomila, četiri sa svake strane rezerve. Kada igra počne, po jedna karta se podeli u svaku gomilu na talonu. Slaganje se vrši po znaku, a prazna mesta se mogu popuniti bilo kojom kartom. Možete pomeriti samo po jednu kartu.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu po znaku. Možete pomeriti samo po jednu kartu. Prazna mesta možete popunjavati bilo kojom kartom, osim kartama iz rezerve.</para>
+  <para>Karte se okreću jedna po jedna sa gomile na otpad. Sa kartom na vrhu otpada možete igrati. Kada je gomila prazna, sve karte sa otpada se pomeraju na gomilu, u istom redosledu. Ovako se kroz špil može proći dva puta.</para>
+  <para>„Temelji“ se grade po znaku, od asa do kralja. Karte sa „temelja“ nisu u igri. Duplim klikom na kartu se ona pomera na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+  <para>Najveći mogući broj poena: 104</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Možete iskoristiti prazna mesta na talonu da pomerite više karata. Budite oprezni sa kraljevima na rezervi: jedini način da ih uklonite je da ih stavite na „temelj“ preko dama.</para>
+        </sect2>
+</sect1>

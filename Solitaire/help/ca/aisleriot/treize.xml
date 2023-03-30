@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Treize"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Tretze</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es giren individualment a la pila de descartades. No es torna a donar.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Per a agafar des de la pila principal. La carta superior i la inferior estan disponibles per a jugar.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Es reparteixen les cartes de cara amunt en set files sobreposades començant amb una carta a la primera fila, incrementant en una per fila i escalonant les piles per a aconseguir una piràmide.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Suprimeix totes les cartes.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Totes les cartes exposades a la piràmide estan disponibles per a jugar. Els reis es poden suprimir individualment. La resta de cartes es poden suprimir per parelles que sumint tretze, amb els asos que valen 1, les jotes valen 11 i les reines valen 12.</para>
+	<para>Les cartes es giren individualment des de la pila principal a la pila de descartades. La carta superior i inferior estan disponibles per a jugar amb elles mateixes o amb les cartes disponibles a la piràmide. La carta superior de la pila de descartades també es pot jugar amb la segona carta de la pila de descartades. No es torna a donar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta suprimida puntua un punt.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Aquest joc és més fàcil de guanyar que el tretze. Això és perquè podeu planificar el futur i evitar bloquejos jugant estratègicament.</para>
+        </sect2>
+</sect1>

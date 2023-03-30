@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Jamestown"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Τζεϊμστάουν</title>
+
+  <para>Συγγραφέας: Rosanna Yuen</para>
+
+          <sect2><title>Διάταξη</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Τύπος τράπουλας</entry>
+	  <entry>Απλή τράπουλα</entry>
+	</row>
+	<row>
+	  <entry>Μάνα</entry>
+	  <entry>Η στοίβα πάνω αριστερά. Στην αρχή της παρτίδας όλα τα φύλλα τοποθετούνται εδώ.</entry>
+	</row>
+	<row>
+	  <entry>Ταμπλό</entry>
+	  <entry>Εννέα στοίβες που σχηματίζουν ένα τετράγωνο 3Χ3. Σε κάθε στοίβα του ταμπλό μοιράζεται από ένα ανοιχτό φύλλο.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Στόχος</title>
+
+  <para>Απομάκρυνση όλων των φύλλων.</para>
+
+          </sect2>
+        <sect2><title>Κανόνες</title>
+
+  <para>Απομακρύνετε ζευγάρια φύλλων με την ίδια αξία. Οι στήλες του ταμπλό που αδειάζουν συμπληρώνονται αυτόματα από τη ρεζέρβα.</para>
+
+          </sect2>
+        <sect2><title>Βαθμολογία</title>
+
+  <para>Κάθε ζεύγος που απομακρύνεται αντιστοιχεί σε δύο βαθμούς.</para>
+  <para>Μέγιστη δυνατή βαθμολογία: 52</para>
+
+          </sect2>
+        <sect2><title>Στρατηγική</title>
+
+  <para>Η μόνη πρόκληση είναι να απομακρύνετε τα φύλλα το ταχύτερο δυνατόν.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Utvrđenje</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile u sredini. Slažu se po znaku, od asa do kralja. Karte na „temelju“ nisu više u igri.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Pet mesta sa svake strane „temelja“. Dele se pet otvorenih karata na svako od ovih mesta i po još jedna na gornja dva mesta. Karta sa vrha bilo kog od ovih mesta na talonu je u igri.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte na „temelje“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu se slažu po znaku, na gore ili dole. Samo je karta sa vrha gomile u igri. Prazna mesta se mogu popuniti bilo kom dostupnom kartom.</para>
+  <para>„Temelji“ se slažu po znaku, od asa do kralja. Karte na „temelju“ nisu više u igri.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Čuvajte i branite bilo koje prazno mesto na talonu. Ona su ključ uspešne igre.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Canfield</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir. Es giren tres cartes a la vegada a la pila de descartades. No hi ha límit de tornar a donar.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Directament a la dreta de la pila principal. Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+		<entry>Reserva</entry>
+		<entry>A l'esquerra sota la pila principal. Aquí es reparteixen tretze cartes amb la carta superior de cara amunt. La carta superior està disponible per a jugar a les bases o al tauler.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Quatre piles sota les bases. Es reparteix una carta de cara amunt a cada pila. El tauler es construeix baixant i alternant el color. Els grups de cartes es poden moure.</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la part superior dreta. Es reparteix una carta de cara amunt a la primera pila de les bases. Aquesta és la carta base. Es construeix pujant per pal.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure. Un lloc buit al tauler s'omple automàticament des de la reserva. Si la reserva està buida, un lloc buit es pot omplir amb qualsevol carta o grup de cartes en seqüència.</para>
+	<para>Les cartes es giren des de la pila principal a la pila de descartades de tres en tres. Si l'última girada té menys de tres cartes, en aquest moviment es giren les cartes que queden. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre.</para>
+	<para>Les bases es construeixen pujant per pal des de la carta base (la primera carta repartida a la primera base). Les bases noves es comencen quan una carta del mateix rang que la primera carta col·locada en el període de repartició, es col·loqui a una pila base buida. Els asos es construeixen sobre els reis, i els dosos sobre els asos. Les cartes a les bases no es poden jugar. En fer doble clic a una carta del tauler aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta a les piles base puntua un punt. Aquest joc s'hi juga als casinos. Guanyaríeu fins i tot si la puntuació fos 10.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Val més un ocell al puny que una grua lluny. Aquest joc és difícil de guanyar. La majoria de la gent juga pensant amb les apostes i intenten aconseguir el màxim de punts possibles. Per a aconseguir aquest objectiu, sempre mou les cartes a les bases quan sigui possible.</para>
+        </sect2>
+</sect1>

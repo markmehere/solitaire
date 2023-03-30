@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Colonne vertébrale</title>
+
+  <para>Écrit par Vincent Povirk</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet double</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile de gauche, sous les fondations. Le reste du paquet est placé ici après la distribution sur le tableau et la réserve. Les cartes sont retournées une à une vers la défausse. Une redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Pile à droite de la pioche. Les cartes sont retournées ici depuis la pioche. La carte supérieure est disponible pour être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Huit piles en haut à droite. À construire en montant par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Réserves</entry>
+	  <entry>Deux piles de 9 cartes, avec une carte recouvrant les deux piles. Les cartes non masquées sont disponibles pour être jouées n'importe où sauf sur les cases vides du tableau.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Huit piles, quatre sur chaque côté de la réserve. Une carte est distribuée sur chaque pile du tableau au début de la partie. Les piles sont construites en descendant par couleur. Les cases vides peuvent être remplies par n'importe quelle carte. Une seule carte peut être déplacée à la fois.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau peuvent être construites en descendant par couleur. Une seule carte peut être déplacée à la fois. Les cases vides peuvent être remplies par n'importe quelle carte, sauf par celles venant de la réserve.</para>
+  <para>Les cartes sont retournées depuis la pioche vers la défausse individuellement. La carte supérieure de la défausse est en jeu. Quand la pioche est vide, toutes les cartes de la défausse sont remises sur la pioche, en gardant l'ordre des cartes. Une redistribution.</para>
+  <para>Les fondations sont à construire en montant par couleur de l'As au Roi. Les cartes des fondations ne sont plus en jeu. Double-cliquer sur une carte la déplace vers la fondation appropriée si un tel déplacement est possible.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 104</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Vous pouvez utiliser les cases vides du tableau pour déplacer plusieurs cartes. Faites attention aux Rois dans les réserves : la seule façon de les enlever est de les déplacer vers une fondation sur une Dame.</para>
+        </sect2>
+</sect1>

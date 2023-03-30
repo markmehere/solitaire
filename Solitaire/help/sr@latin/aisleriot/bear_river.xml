@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Medveđa reka</title>
+
+  	<para>Napisali Bruce i Joel Levin</para>
+
+
+          <sect2><title>Postavka</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri karte na vrhu. Jedna otvorena karta se deli na prvu gomilu na „temelju“.</entry>
+	</row>
+
+	<row>
+	  <entry>Talon</entry>
+    	  <entry>19 gomila na talonu podeljenih u tri reda gde svaki ima šest gomila. Sve karte se dele otvorene i preklopljene tako da ih možete videti. Prvih pet gomila iz svakog reda imaju po tri karte. Šesta gomila svakog reda ima po dve karte.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Pravila</title>
+
+  <para>Jedna slučajna karta je već na „temelju“. Vrednost te karte postaje „osnovna karta“. Ostale tri karte sa tom vrednošću se mogu pomeriti na prazan „temelj“. „Temelji“ se grade u rastućem redosledu, po znaku. Vrednosti se prelamaju, a redosled je dama, kralj, as, dvojka. Karte sa „temelja“ se ne mogu vraćati na talon.</para>
+  <para>Nijedna gomila na talonu ne može imati više od tri karte. Karta sa vrha svake gomile na talonu se može pomerati na bilo koju drugu gomilu ako je znak isti i ako joj je vrednost za jedan manja ili veća od karte na koju se pomera. Vrednosti se ređaju između kralja i asa.</para>
+  <para>Postoje dve vrste gomila na talonu: „standardne“ gomile i „rupičaste“ gomile. Prvih pet gomila svakog reda (one sa po tri karte) su standardne gomile. Na praznu standardnu gomilu se NE MOŽE staviti nova karta. Poslednje gomile u redovima (one sa po dve karte) su rupičaste gomile. Na praznu rupičastu gomilu se MOGU stavljati nove karte.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta premeštena na „temelj“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Strategija</title>
+
+  <para>Pokušajte da što pre ispraznite jednu ili više rupičastih gomila.</para>
+  <para>Ništa ne možete izgubiti ako pomerate karte na „temelj“. Pomerajte ih tamo što pre, što više možete.</para>
+  <para>Karte čija je vrednost za jedan manja od vrednosti osnovne karte su veoma teške za pomeranje. Pazite gde ih stavljate.</para>
+  <para>Medveđa reka možete rešiti otprilike svaki treći put.</para>
+  
+        </sect2>
+        
+        
+</sect1>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  
+  <schema id="org.pazolli.Solitaire.WindowState" gettext-domain="aisleriot">
+    <key type="b" name="maximized">
+      <default>false</default>
+      <summary>Whether the window is maximized</summary>
+    </key>
+    <key type="b" name="fullscreen">
+      <default>false</default>
+      <summary>Whether the window is fullscreen</summary>
+    </key>
+    <key type="i" name="width">
+      <default>-1</default>
+      <summary>Window width</summary>
+    </key>
+    <key type="i" name="height">
+      <default>-1</default>
+      <summary>Window height</summary>
+    </key>
+    <key type="i" name="x">
+      <default>-1</default>
+      <summary>x</summary>
+    </key>
+    <key type="i" name="y">
+      <default>-1</default>
+      <summary>y</summary>
+    </key>
+  </schema>
+
+  <schema id="org.pazolli.Solitaire.Preferences">
+    <key type="b" name="showtoolbar">
+      <default>false</default>
+      <summary>Whether to show the toolbar</summary>
+    </key>
+    <key type="b" name="clicktomove">
+      <default>false</default>
+      <summary>Whether to enable click-to-move (helpful for touchscreens)</summary>
+    </key>
+    <key type="b" name="showstatusbar">
+      <default>false</default>
+      <summary>Whether to show the status bar (e.g. game time)</summary>
+    </key>
+    <key type="b" name="sound">
+      <default>false</default>
+      <summary>Whether to play sounds</summary>
+    </key>
+  </schema>
+</schemalist>

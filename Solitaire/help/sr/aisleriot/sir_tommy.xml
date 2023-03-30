@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Сер Томи</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Гомила</entry>
+	  <entry>Горња лева гомила. Све карте се стављају овде на почетку игре. Карте се окрећу једна по једна на отпад.</entry>
+	</row>
+	<row>
+	  <entry>Отпад</entry>
+	  <entry>Десно од гомиле. Може да држи само једну карту. Карте се одмах морају ставити на други „темељ“ или на резерву по вашем избору.</entry>
+	</row>
+	<row>
+	  <entry>„Темељ“</entry>
+	  <entry>Четири гомиле горе, десно од отпада. Слажу се у низу од аса до краља невезано за знак.</entry>
+	</row>
+	<row>
+	  <entry>Резерве</entry>
+	  <entry>Четири гомиле испод „темеља“. Карте са резерве се могу играти само на „темеље“.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Слажите „темеље“ по низу од аса до краља невезано за знак. Карте на „темељу“ више нису у игри. Карте се са гомиле окрећу једна по једна на отпад. Али, пошто отпад може да држи само једну карту, ова карта се одмах мора одиграти на „темељ“ или на неку од четири резерве. Карте на резерви се не могу преслагати.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Свака карта померена на „темељ“ доноси један поен.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Гледајте да у резерву не стављате карте веће вредности преко карата мање вредности.</para>
+        </sect2>
+</sect1>

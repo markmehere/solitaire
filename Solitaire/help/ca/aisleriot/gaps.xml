@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Llocs buits</title>
+
+  <para>Escrit per en Zach Keene</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Totes les cartes es reparteixen en quatre files de 13 cartes cada una. Els asos es descarten per a deixar quatre llocs buits. Es pot tornar a donar dos cops.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Col·locar totes les cartes en seqüència des del 2 al rei, per pal.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Els llocs buits a la columna de l'esquerra es poden omplir movent-hi un 2 de qualsevol pal. Un lloc buit a la dreta de qualsevol carta que no sigui un rei, es pot omplir col·locant al lloc buit la carta amb el mateix pal però un rang superior. Els llocs buits que segueixen els reis o els altres llocs buits no es poden omplir.</para>
+  <para>Quan s'ha col·locat una carta en una seqüència que comença amb 2 al lloc buit de l'esquerra, aquesta no es podrà moure més.</para>
+  <para>Si no hi ha moviments possibles (ex. tots els llocs buits segueixen els reis), en fer doble clic a qualsevol carta provocarà que es torni a donar. Les cartes que no estiguin en seqüència seran suprimides, barrejades i repartides. Només es pot tornar a donar dos cops.</para>
+
+            </sect2>
+        <sect2><title>Opcions</title>
+
+    <para>Llocs buits col·locats aleatòriament en tornar a donar: Activeu aquesta opció per a tenir llocs buits col·locats aleatòriament després de tornar a donar. Si està desactivat, els llocs buits sempre es col·locaran a la dreta de les cartes que estan en seqüència després de tornar a donar.</para>
+
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada en seqüència, començant amb un dos al lloc de l'esquerra, puntua un punt.</para>
+  <para>Puntuació màxima possible: 48</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Ajorneu qualsevol moviment que afegeixi un lloc buit després d'un rei tant temps com sigui possible.</para>
+        </sect2>
+</sect1>

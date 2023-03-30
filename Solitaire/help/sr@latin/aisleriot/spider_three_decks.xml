@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Spider_Three_Decks"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Špilovi paukova mreža</title>
+
+	<para>Napisali Jonathan Blandford i Daniel Werner</para>
+
+	<sect2><title>Postavka</title>
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Tri špila</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Špil se stavlja ovde posle podele na talon. Klikom  se deli jedna otvorena karta na svaku gomilu.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Dvanaest mesta. Nije deo „zvaničnih pravila“.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Dvanaest redova. Prvih šest redova se dele sa četiri spuštene i jednom okrenutom kartom, a ostali sa 3 spuštene i jednom okrenutom kartom. Karte se mogu slagati nevezano za znak. Niz karata istog znaka se može pomerati zajedno. Prazna mesta se mogu popunjavati sa bilo kojom kartom ili nizom koji se može pomerati.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+	</sect2>
+
+	<sect2><title>Cilj</title>
+	<para>Postaviti dvanaest nizova karata (tri od svakog znaka) od kralja do asa na „temelj“.</para>
+	<para>Ako želite izuzetno težak izazov, možete pobediti i praveći niz istih tih dvanaest nizova isključivo na talonu. Ovo je teže jer je manje praznih mesta slobodno. Zapravo, skoro je nemoguće.</para>
+	</sect2>
+
+	<sect2><title>Pravila</title>
+	<para>Karte se slažu bez obzira na znak. Nizovi karata istog znaka se mogu pomerati zajedno. Prazna mesta se mogu popunjavati bilo kojom kartom ili nizom koji može da se pomera.</para>
+	<para>Klikom na gomilu bilo kad se deli otvorena karta na svako mesto. Za razliku od ostalih varijanti pauka, dozvoljena su prazna mesta kod ponovnih deljenja.</para>
+	<para>Niz od trinaest karata se može pomeriti na „temelj“. Kad se nađu tamo, te karte više nisu u igri.</para>
+	</sect2>
+
+	<sect2><title>Bodovanje</title>
+	<para>Za svaki niz u istom znaku, broj dobijenih poena je dužina niza minus 1</para>
+	<para>Najveći mogući broj poena: 144</para>
+	</sect2>
+
+	<sect2><title>Strategija</title>
+	<para>Ako vam ne uspe iz prve, ne očajavajte. Gradite nizove istog znaka kad god možete, ali i oslobađajte što više možete okrenutih karata.</para>
+	</sect2>
+</sect1>

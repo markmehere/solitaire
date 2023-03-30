@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Doublets">  <!--<sect1info>
+    <copyright>
+      <year>1998</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>rwsy@mit.edu</email>
+    </address>
+  </sect1info>-->
+
+  <title>Dobletes</title>
+  <para>Escrito por Rosanna Yuen</para>
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón de la parte superior izquierda. El resto de la baraja se coloca aquí después de dar. Las cartas se sacan de una en una a la basura. Hay dos repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Justo a la derecha del montón. Se obtiene del montón. La carta de la cima está disponible para el juego.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>Siete montones, formando una forma (U invertida) a la derecha. Se da una carta boca arriba en cada montón. Durante el reparto, si se da un rey, elimine el rey y colóquelo al final de la baraja. Se da otra carta a este montón. Cada montón de la reserva sólo puede contener una carta. Cuando un montón de la reserva se vacía, se rellena automáticamente desde la basura o, si la basura está vacía, desde el montón. Una vez que termina el reparto inicial, cuando se coloca un rey en un montón de la reserva, este montón se congela ya que los reyes no se pueden mover.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Un montón, el montón central en la fila del fondo de los huecos de la reserva. Se construyen desde la carta original doblándola, sin importar el palo o el color.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas al montón fundación.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas se pueden poner en el montón fundación si duplican el valor de la carta actualmente en la cima de la fundación. Las jotas y las reinas valen once y doce respectivamente. Si el número doblado supera trece, reste trece hasta encontrar la siguiente carta necesaria. La serie transcurre:</para>
+  <para>A, 2, 4, 8, 3, 6, Q, J, 9, 5, 10, 7, repetir...</para>
+  <para>Las cartas se sacan desde el montón a la basura de una en una. Cuando el montón se vacía, se mueven todas las cartas de vuelta de la basura al montón, manteniendo el orden. Puedes dar la vuelta a la baraja tres veces.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta en el montón de fundación puntúan un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Sin un rey, no puede haber regicidio. Evítelos.</para>
+        </sect2>
+</sect1>

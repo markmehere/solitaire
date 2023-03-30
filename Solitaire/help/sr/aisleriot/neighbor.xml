@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Neighbor"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Комшија</title>
+
+	<para>Написала Rosanna Yuen</para>
+
+	        <sect2><title>Поставка</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Тип шпила</entry>
+		<entry>Стандардни шпил</entry>
+	</row>
+	<row>
+		<entry>Гомила</entry>
+		<entry>Горња лева гомила. Талон се дели на начин описан испод.</entry>
+	</row>
+	<row>
+		<entry>Талон</entry>
+		<entry>Мрежа пет са пет, где свако место може да држи једну карту. На свако место се дели по једна карта на почетку игре. Празна места се аутоматски попуњавају померајући карте са десна на лево, при чему се скроз лева карта из једног реда премешта скроз десно у ред изнад и са гомиле на иначе празна места.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Циљ</title>
+
+	<para>Уклонити све карте.</para>
+
+	        </sect2>
+        <sect2><title>Правила</title>
+
+	<para>Кликните на краљеве да их уклоните. Све остале карте се уклањају у паровима тако да је збир њихових вредности тринаест, али ако се карте додирују водоравно, усправно или дијагонално.</para>
+
+	        </sect2>
+        <sect2><title>Опције</title>
+
+	<para>Ништа</para>
+
+	        </sect2>
+        <sect2><title>Бодовање</title>
+
+	<para>Свака уклоњена карта доноси један поен.</para>
+	<para>Највећи могући број поена: 52</para>
+
+	        </sect2>
+        <sect2><title>Стратегија</title>
+
+	<para>Прво уклањајте карте које су позициониране вишље на табли, јер ово прави више покрета у мрежи.</para>
+        </sect2>
+</sect1>

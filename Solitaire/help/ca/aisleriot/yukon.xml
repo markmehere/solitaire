@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Yukon</title>
+
+	<para>Escrit per la Rosanna Yuen</para>
+
+	        <sect2><title>Configuració</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Base</entry>
+		<entry>Quatre piles a la part esquerra. Per a construir pujant per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Set piles. Es reparteix una carta de cara amunt a la primera pila. Es col·loca una carta cara avall a la resta de les piles. Es col·loca una carta cara amunt a la pila següent, seguida per una carta cara avall en totes les piles cobertes. Es repeteix fins que hi ha set cartes a l'última pila. Es reparteixen la resta de les cartes de cara amunt des de la segona a la setena pila. Es construeix baixant i alternant el color.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Objectiu</title>
+
+	<para>Moure totes les cartes a les piles base.</para>
+
+	        </sect2>
+        <sect2><title>Regles</title>
+
+	<para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure independentment de la seqüència. Una carta cara avall es gira quan es desenterra. Una pila buida al tauler es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+	<para>Les bases es construeixen pujant per pal des de l'as al rei. Les cartes a les bases no es poden jugar.</para>
+
+	        </sect2>
+        <sect2><title>Puntuació</title>
+
+	<para>Cada carta a les piles base puntua un punt.</para>
+	<para>Puntuació màxima possible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estratègia</title>
+
+	<para>Intenteu descobrir tantes cartes tan ràpid com sigui possible. Fer-ho us ajudarà molt en l'aventura de conquistar el Yukon.</para>
+        </sect2>
+</sect1>

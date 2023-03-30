@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Yukon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>育空</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>左边的四垛牌，按花色从 A 到 K 递增收牌。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>七垛牌，首先第一垛发一张翻开的，其他垛放一张扣着的，再在第二垛放一张翻开的，其他垛放一张扣着的，重复这个操作直到最后一垛有七张牌。再把剩下的牌面朝上放在第二垛到第七垛上。要递减排成相反颜色的序列。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按不同颜色递减排列，一叠牌可以一起移动不考虑排序，当扣着的牌没被压着时，可以翻开。空位可以填充 K 或以 K 开头的一组牌。</para>
+	<para>收牌区按花色从 A 到 K 递增收牌，收牌区里的牌不能再用于游戏中。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分是：52</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>尽可能早地翻开扣着的牌，这样对取得胜利有很大的帮助。</para>
+        </sect2>
+</sect1>

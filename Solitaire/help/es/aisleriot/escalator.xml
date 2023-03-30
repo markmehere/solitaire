@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Escalator"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Escalador</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón en la parte superior izquierda. El resto de la baraja se coloca aquí después de dar en el tablero. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser cogido del montón.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Se dan cartas boca arriba en siete filas solapadas comenzando con una carta en la primera fila, incrementando una carta por fila y escalonando los montones para conseguir una pirámide.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a la basura.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Todas las cartas expuestas están disponibles para el juego. Construye en la basura desde estas cartas disponibles siempre que sea posible jugando una carta con una de rango inmediatamente superior o inmediatamente inferior al rango de la carta de la basura. Los ases se ponen sobre los reyes y bajo los doses.</para>
+  <para>Las cartas se sacan de una en una del montón a la basura. No hay repartos.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta eliminada del tablero puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 28</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Intente planear previamente para que pueda conseguir ráfagas en el futuro.</para>
+        </sect2>
+</sect1>

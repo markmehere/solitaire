@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Napoleonen hilobia</title>
+
+  <para>Kimmo Karlsson-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortaren ondoan.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Hiru bider hiruko sarea, denak gora begira.</entry>
+	</row>
+	<row>
+		<entry>Oinarriak</entry>
+		<entry>Sarearen erdiko gunea beherantz osatu behar da, eta izkinak gorantz. Irudiak ez dira kontuan hartzen.</entry>
+	</row>
+	<row>
+		<entry>Biltegiak</entry>
+		<entry>Oinarri-pila ez diren sareko lau pilak. Biltegi bakoitzean karta bakarra egon daiteke.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Eraman seiko kartak eta txikiagoak erdiko pilara, eta zazpikoak edo handiagoak izkinetako piletara.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Kartak iraultzeko, egin klik sortan. Kartak banaka eraman mahaira. Oinarri piletako kartak ezin dira berriz mugitu. Izkina bakoitza zazpikotik erregera osatzen da. Erdiko pila beherantz osatzen da, seikotik batekora. Batekoaren ondoren beste seiko bat jartzen da. Irudia ez da kontuan hartzen.</para>
+
+          </sect2>
+        <sect2><title>Aukerak</title>
+
+  <para>Banatu hiru karta: Eskualdi bakoitzean sortako hiru karta banatzen badituzu, hiru bider hustu daiteke karta sorta.</para>
+  <para>Jokatu automatikoki: aktibatua badago, automatikoki jartzen dira kartak oinarrietan, aukera dagoen bezain laster.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Saiatu biltegia mantentzen. Ez da erraza Napoleon hilobiratzea, baina ez etsi.</para>
+        </sect2>
+</sect1>

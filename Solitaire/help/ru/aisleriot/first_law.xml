@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="First_Law">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Первый закон</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. Вначале все карты помещаются сюда. Будучи опустошённой, вновь заполняется картами с игрового поля.</entry>
+	</row>
+	<row>
+	  <entry>Игровое поле</entry>
+	  <entry>Четыре стопки справа. За каждую сдачу из колоды кладётся по одной карте на каждую стопку игрового поля.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Убрать все карты.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Щелчок по колоде сдаст по одной карте на каждую стопку игрового поля. Если на игровом поле оказывается несколько карт одного достоинства, их все можно сдвинуть на самую левую из них. Пустые ячейки можно заполнить, только сдав новые карты из колоды.</para>
+  <para>Оказавшиеся на игровом поле четыре карты одного достоинства сразу убираются.</para>
+  <para>Когда в колоде не остаётся карт, стопки игрового поля складываются справа налево и помещаются в колоду. Карта, сданная первой, останется таковой до тех пор, пока её не уберут. Количество пересдач не ограничено.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую группу из четырёх убранных карт даётся одно очко.</para>
+  <para>Максимальное количество очков: 13</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Не забывайте про тормоза! Этот пасьянс можно раскладывать бесконечно, если тщательно не обдумывать каждый шаг.</para>
+        </sect2>
+</sect1>

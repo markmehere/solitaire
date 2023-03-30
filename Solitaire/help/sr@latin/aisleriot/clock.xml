@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Clock"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Sat</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Standardni špil</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Karte se dele u obliku sata, na ukupno dvanaest gomila sa po četiri karte.</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Poslednje četiri karte se stavljaju na gomilu (u sredini talona), a karta sa vrha se okreće.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>
+		To reveal all the cards.
+	</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Pomerite kartu iz sredine sa vrha na odgovarajuću gomilu. Talon je u obliku sata, i brojevi na kartama odgovaraju brojevima sa analognog sata. Asovi idu na mesto jedinica, a žandari i dame na mesto jedanaest i dvanaest sati. Ukoliko nikada niste videli sat, ovo je obrazac:</para>
+	<screenshot>
+	 <mediaobject>
+	    <imageobject>
+			  <imagedata fileref="figures/clock-rules.png" format="PNG"/>
+	    </imageobject>
+	    <textobject>
+	      <phrase>Raspored kazaljki sata.</phrase>
+	    </textobject>
+	  </mediaobject>
+	</screenshot>
+	<para>Kraljevi su u središnjoj gomili. Kada se karta pomeri na novu gomilu (ili ostane na istoj, kao što je slučaj sa kraljevima), uzima se karta sa dna nove gomile i stavlja okrenuta na vrh središnje gomile. Sa ovom novom kartom se može igrati. Da biste pomerili kartu na odgovarajuću gomilu, ili je prevucite ili kliknite duplim klikom na odgovarajuću gomilu koja je prihvata.</para>
+	<para>Igra je gotova kada se u sredini nađu četiri kralja. U ovom trenutku, pobedili ste ako je cilj ispunjen. Primetite da, ako je karta na pravom mestu, u redu je da bude okrenuta na dole.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta na odgovarajućem mestu (ne računajući kraljeve, pošto nema kraljeva na pravom satu) donosi jedan poen.</para>
+	<para>Najveći mogući broj poena: 48</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>Pronađite način da automatizujete igru. Nikad ne morate da donosite nikakve odluke. Ako izgubite, nije vaša krivica (i obrnuto, ako pobedite, to je samo sreća!).</para>
+        </sect2>
+</sect1>

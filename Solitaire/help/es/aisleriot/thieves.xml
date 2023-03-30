@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Thieves"><!--<sect1info>
+    <copyright>
+      <year>1999</year>
+      <holder>Robert Brady</holder>
+    </copyright>
+    <author>
+      <firstname>Robert</firstname>
+      <surname>Brady</surname>
+    </author>
+    <address>
+      <email>rwb197@ecs.soton.ac.uk</email>
+    </address>
+  </sect1info>-->
+
+  <title>Ladrones</title>
+
+  <para>Escrito por Robert Brady</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja del bufón</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Siete pilas de cinco cartas cada una, boca arriba.</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Coloque todas las cartas restantes aquí. Las cartas se sacan de una en una a la basura. No hay repartos.</entry>
+	</row>
+	<row>
+	  <entry>Basura</entry>
+	  <entry>Para ser tomada del montón. La carta de arriba está disponible para jugar.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Mueva todas las cartas a la basura.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>La basura puede ser construida hacia arriba o hacia abajo con las cartas disponibles del tablero. Los bufones son comodines y pueden ser utilizados como una carta de cualquier rango y, por tanto, encajan con cualquier carta de cualquier rango.</para>
+  <para>En cualquier momento, una carta puede ser sacada del montón a la basura.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>La siguiente tabla muestra los puntos que obtiene por cada tipo de carta. Los comodines no puntúan.</para>
+  <informaltable>
+    <tgroup cols="2">
+      <thead>
+        <row>
+          <entry>Carta</entry>
+          <entry>Puntos</entry>
+        </row>
+      </thead>
+      <tbody>
+	<row>
+	  <entry>As</entry>
+	  <entry>8</entry>
+	</row>
+	<row>
+	  <entry>2, 3</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>4, 5</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>6, 7, 8</entry>
+	  <entry>2</entry>
+	</row>
+	<row>
+	  <entry>9, 10</entry>
+	  <entry>4</entry>
+	</row>
+	<row>
+	  <entry>Jota, reina</entry>
+	  <entry>6</entry>
+	</row>
+	<row>
+	  <entry>Rey</entry>
+	  <entry>8</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Como puedes ver todas las cartas del tablero, intenta ingeniar carreras para intentar y conseguir librarse de tantas cartas como te sea posible, puesto que tienes una provisión finita de cartas en el montón.</para>
+        </sect2>
+</sect1>

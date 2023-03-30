@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Maze"><!--<sect1info>
+		<copyright>
+			<year>2000</year>
+			<holder>Telsa Gwynne</holder>
+		</copyright>
+		<author>
+			<firstname>Telsa</firstname>
+			<surname>Gwynne</surname>
+		</author>
+		<address><email>telsa@linuxchix.org</email></address>
+	</sect1info>-->
+
+	<title>Malla</title>
+
+  <para>Escrito por Matthew Wilcox</para>
+
+          <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>48 cartas: Baraja estándar sin reyes</entry>
+	</row>
+
+	<row>
+		<entry>Tablero</entry>
+		<entry>Cincuenta y cuatro espacios en seis filas de nueve cada una. Se dan las cartas en los espacios del uno al ocho. Se deja el noveno espacio en blanco. Se dan cartas en los espacios del diez al diecisiete. Se deja el espacio dieciocho en blanco. Se dan el resto de cartas de forma similar. Luego, se quitan todos los reyes (que no forman parte del juego), de manera que quedan seis espacios en blanco en total. Cualquier carta se puede mover a un espacio a la izquierda de otra carta del mismo palo y rango uno mayor. Cualquier carta se puede mover a la derecha de otra carta del mismo palo y rango uno menor. Un as se puede mover a la derecha de una reina o en la esquina superior izquierda. Una reina se puede colocar a la izquierda de un as o en la esquina inferior derecha.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Ponga cada palo de cartas en orden ascendente, con un as en la esquina superior izquierda, para crear una secuencia de cartas: del as a la reina de un palo, del as a la reina de otro palo, del as a la reina de un tercer palo y del as a la reina del cuarto y último palo.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas se mueven de una en una. Cualquier carta se puede mover a un espacio a la izquierda de otra carta del mismo palo y con rango uno mayor. Cualquier carta se puede mover a un espacio a la derecha de otra carta del mismo palo y con rango uno menor. Un as se puede mover a la derecha de una reina o a la esquina superior izquierda. Una reina se puede mover a un espacio a la izquierda de un as o a la esquina inferior izquierda.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada junto a otra carta del mismo palo en el orden correcto puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Múltiples espacios adyacentes le permiten generar largas secuencias de cartas. Tenga cuidado con quedarse atrapado en una situación donde sólo pueda mover una carta entre dos puntos.</para>
+        </sect2>
+</sect1>

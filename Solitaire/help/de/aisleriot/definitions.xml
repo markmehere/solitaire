@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="glossary" lang="de">
+	<title>Glossar</title>
+
+	<para>Anmerkung des Autors: Diese Festlegungen sind lediglich als Richtlinien gedacht. Beachten Sie die Regeln der einzelnen Spiele, da diese hiervon abweichen können.</para>
+
+	<variablelist>
+		<varlistentry id="basecard"><term>Basiskarte</term>
+			<listitem><para>Die erste Karte, die auf einen Fundamentstapel gelegt wird. Andere Fundamentstapel müssen normalerweise mit einer Karte dieses Ranges beginnen. Siehe: Fundamentstapel</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbyaltcolor"><term>Nach wechselnder Farbe aufbauen</term>
+			<listitem><para>Aufbauen durch Ablegen einer Karte auf eine andere Farbe ist erlaubt. Beispiel: Ablegen von Karo auf Pik ist in Ordnung, aber Karo auf Herz ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuitbutown"><term>Nach beliebiger Farbe außer der eigenen aufbauen</term>
+			<listitem><para>Aufbauen durch Ablegen einer Karte auf eine anderer Farbe ist erlaubt. Beispiel: Ablegen von Karo auf Pik ist in Ordnung, aber Karo auf Herz ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbycolor"><term>Nach Farbe aufbauen</term>
+			<listitem><para>Aufbauen von Karten der selben Farbe aufeinander ist erlaubt. Beispiel: Ablegen von Karo auf eine Herz ist in Ordnung, aber Karo auf Kreuz ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildregardlessofsuit"><term>Unabhängig von der Farbe legen</term>
+			<listitem><para>Alles gut.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildbysuit"><term>Nach Farbe legen</term>
+			<listitem><para>Aufbauen von Karten der selben Farbe aufeinander ist erlaubt. Beispiel: Ablegen von Pik auf Pik ist in Ordnung, aber Pik auf Kreuz ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddown"><term>Absteigend legen</term>
+			<listitem><para>Aufbauen einer Karte niedrigeren Wertes auf eine höheren Wertes ist erlaubt. Gewöhnlich beträgt der Wertunterschied zwischen beiden Karten eins. Beispiel: Ablegen einer 10 auf einen Buben ist in Ordnung, aber eine 10 auf eine 9 ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="builddownbystar"><term>Absteigend legen nach *</term>
+			<listitem><para>Aufbauen einer Karte niedrigeren Wertes auf eine Karte um * höheren Wertes ist erlaubt. Beispiel: Wenn * gleich 2 ist, dann ist das Ablegen einer 10 auf eine Dame in Ordnung, aber eine 10 auf einen Buben ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildup"><term>Aufsteigend legen</term>
+			<listitem><para>Aufbauen einer Karte höheren Wertes auf eine niedrigeren Wertes ist erlaubt. Gewöhnlich beträgt der Wertunterschied zwischen beiden Karten eins. Beispiel: Ablegen einer Dame auf einen Buben ist in Ordnung, aber eine Dame auf einen König ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupbystar"><term>Aufsteigend legen nach *</term>
+			<listitem><para>Aufbauen einer Karte höheren Wertes auf eine Karte um * niedrigeren Wertes ist erlaubt. Beispiel: Wenn * gleich 2 ist, dann ist das Ablegen einer 10 auf eine 8 in Ordnung, aber eine 10 auf eine 9 ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="buildupordown"><term>Aufsteigend oder absteigend legen</term>
+			<listitem><para>Aufbauen durch Ablegen einer Karte auf eine um eins höher- oder niederwertigere Karte ist erlaubt. Beispiel: Ablegen eines Buben auf eine Dame oder eine 10 ist in Ordnung, aber eine 10 auf eine Dame ist es nicht.</para></listitem>
+		</varlistentry>
+		<varlistentry id="building"><term>Legen</term>
+			<listitem><para>Die Fähigkeit eine Karte (oder eine Kartengruppe) auf eine andere Karte abzulegen. Hinsichtlich des Wertes können Sie Karten auf- und absteigend legen, oder mit * auf/absteigend legen. Hinsichtlich der Farbe können Sie nach Farbe, abwechselnder Farbe, jeder außer der eigenen Farbe oder beliebig legen. Bedenken Sie, dass alle legenden Spiele zwei dieser Regeln folgen, un zwar eine jeder Liste.</para></listitem>
+		</varlistentry>
+		<varlistentry id="deck"><term>Kartensatz</term>
+			<listitem><para>Der Satz der benutzten Karten. Die meisten Spiele benutzen einen Standard-Kartensatz, aber auch Doppel-Kartensätze, Joker-Kartensätze oder nicht alle normalerweise vorhandenen Karten enthaltenden Kartensätze sind nicht unüblich.</para></listitem>
+		</varlistentry>
+		<varlistentry id="doubledeck"><term>Doppel-Kartensatz</term>
+			<listitem><para>Ein Satz aus Karten, bestehend aus zwei Standard-Kartensätzen, zusammen 104 Karten.</para></listitem>
+		</varlistentry>
+		<varlistentry id="foudation"><term>Fundamentstapel</term>
+			<listitem><para>Falls ein Spiel einen Fundamentstapel hat, wird es normalerweise dadurch gewonnen, dass alle Karten auf dem oder den Fundamentstapel(n) abgelegt wurden.</para></listitem>
+		</varlistentry>
+		<varlistentry id="jokerdeck"><term>Joker-Kartensatz</term>
+			<listitem><para>Ein Satz aus Karten, bestehend aus einem Standard-Kartensatz und zwei Jokern, zusammen 54 Karten.</para></listitem>
+		</varlistentry>
+		<varlistentry id="pile"><term>Ablage</term>
+			<listitem><para>Ein festgelegter Bereich, in dem sich Karten befinden können.</para></listitem>
+		</varlistentry>
+		<varlistentry id="rank"><term>Rang</term>
+			<listitem><para>Der Wert einer Karte. Nummerierte Karten haben den Wert, den die Nummer angibt. Asse können entweder niedrig oder hoch sein. Falls niedrig, haben sie einen Wert von 1, falls hoch, ist der Wert 14. Bube, Dame und König werden gewöhnlich als 11, 12 und 13 gewertet. In einigen Spielen ist der Wert jeweils 10. In solchen Spielen wird ein hohes Ass vermutlich als 11 gezählt.</para></listitem>
+		</varlistentry>
+		<varlistentry id="reserve"><term>Reserve</term>
+			<listitem><para>Karten im Reservestapel sind üblicherweise verfügbar, um irgendwo abgelegt zu werden. Der Aufbau eines Stapels ist dort nicht möglich.</para></listitem>
+		</varlistentry>
+		<varlistentry id="slot"><term>Platz</term>
+			<listitem><para>Siehe Ablage.</para></listitem>
+		</varlistentry>
+		<varlistentry id="standarddeck"><term>Standard-Kartensatz</term>
+			<listitem><para>Ein Poker-Kartensatz mit 52 Karten. Er enthält 13 Karten für jede der vier Farben. Jede Farbe enthält Ass, 2 bis 10, Bube, Dame und König. Diese Farben sind üblicherweise Kreuz, Pik, Herz und Karo. Diese Farben können wiederum zu zwei logischen Farben zusammengefasst werden, also Schwarz und Rot. Kreuz und Pik sind schwarz, während Herz und Karo rot sind. AisleRiot ermöglicht es, unterschiedliche Kartensätze zu benutzen. In diesem Fall werden die neuen Farben in dieses Schema eingepasst.</para></listitem>
+		</varlistentry>
+		<varlistentry id="stock"><term>Talon</term>
+			<listitem><para>Der Rest des Kartensatzes, nachdem alle originalen Karten (üblicherweise verdeckt) verteilt worden sind.</para></listitem>
+		</varlistentry>
+		<varlistentry id="suit"><term>Farbe</term>
+			<listitem><para>Vier verschiedene  Farben in einem Standardblatt. Üblicherweise Kreuz, Pik, Herz und Karo.</para></listitem>
+		</varlistentry>
+		<varlistentry id="tableau"><term>Kartenreihe</term>
+			<listitem><para>Das Spielfeld, in dem das Spiel stattfindet. Ermöglicht üblicherweise den Aufbau von Stapeln.</para></listitem>
+		</varlistentry>
+		<varlistentry id="waste"><term>Ablage</term>
+			<listitem><para>Ein Stapel offener Karten, üblicherweise neben dem Talon. Mit der obersten Karte wird normalerweise gespielt.</para></listitem>
+		</varlistentry>
+	</variablelist>
+</chapter>

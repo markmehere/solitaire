@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sir Tommy</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>
+	    Top left pile.  All cards are placed here at beginning of
+	    play.  Cards are dealt singly to Waste.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>
+	    To the right of the Stock.  Can only hold one card.  Card
+	    must immediately be placed on either a Foundation pile or on
+	    to the Reserve pile of your choice.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Fundação</entry>
+	  <entry>
+	    Four piles on top, to the right of Waste.  To be built in
+	    sequence from Ace to King regardless of suit.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>
+	      Four piles placed underneath Foundations.  Cards in
+	      Reserve can only be played on to Foundation piles.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>
+    Build on to Foundations in sequence from Ace to King regardless of
+    suit.  Cards in Foundations are no longer in play.  Cards are dealt
+    singly in to the Waste from the Stock.  However, as the Waste pile
+    can only hold one card, this card must immediately be played on to a
+    Foundation pile or on to any of the four Reserve piles.  Cards in
+    the Reserve piles cannot be rearranged.
+  </para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>
+    Each card moved to Foundations scores one point.
+  </para>
+  <para>Máxima pontuação possível: 52</para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>
+    Try not to place cards of higher rank on to cards of lower rank in
+    the Reserve.
+  </para>
+        </sect2>
+</sect1>

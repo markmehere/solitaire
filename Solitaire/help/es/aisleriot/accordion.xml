@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Acordeón</title>
+
+  <para>Escrito por Ed Sirett</para>
+
+          <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+
+	<row>
+		<entry>Tablero</entry>
+		<entry>Cincuenta y cuatro espacios en cinco filas de nueve y la última fila de siete. Se reparten las cartas cara arriba, una por espacio. Los espacios se deben considerar como una línea continua, las filas, simplemente forman el tablero para que todas se puedan ver de una vez. Por ello, se considera que el espacio más a la derecha de una fila está a la izquierda del espacio más a la izquierda de la fila de debajo.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Eliminar todas las cartas excepto una.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>Las cartas se mueven de una en una.Cualquier carta se puede mover sobre otra carta del mismo palo o rango que esté en el espacio a su izquierda o tres espacios a su izquierda. La carta cubierta se quita para el juego. Todas las cartas (si hay alguna) en los espacios a la derecha del hueco resultante se mueven un espacio a la derecha para cerrar el hueco. Pulsar dos veces hace que la carta se mueva tres espacios, si es posible, o que ocupe ese espacio a la izquierda.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta eliminada puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 51</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Éste es un juego difícil. Intente encontrar dos o tres cartas del mismo del mismo rango en o cerca de la primera fila. Intente no eliminar ninguna carta de ese rango. Al final puede mover esas cartas unas encima de las otras para ganar.</para>
+        </sect2>
+</sect1>

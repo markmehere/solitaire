@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Diamantgruvan</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>En hög överst. Bygg sviter i ruter med början från den ruter du valde.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Tretton högar. Dela tre kort med framsidan nedåt och ett kort med framsidan upp på varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla ruter till grundhögen och ha de övriga korten i färg och ordning med ess som låg i bordshögen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort (andra än ruter) kan byggas ned i ordning oavsett färg. Sviter av kort kan flyttas som en enhet. Tomma kortplatser kan fyllas med valfritt kort (med undantag för ruter) eller sviter av kort.</para>
+  <para>Ruter kan inte flyttas annat än till sin plats på grundhögen. Grundhögen med ruter måste byggas upp i följd men kan starta från valfritt kort.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje ruter som placeras på grundhögen värderas efter kortets valör med ess som en poäng, knekt som elva poäng, dam som tolv poäng samt kung som tretton poäng.</para>
+  <para>Varje sekvens med ess till kung av samma färg på bordshögarna ger tre poäng.</para>
+  <para>Högsta möjliga poäng: 100</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Att samla ruter är ett hårt arbete. Tänk på att inte alla ruter är lika mycket värda. Glöm inte att rensa upp efter dig och skapa ordning bland de övriga färgerna.</para>
+        </sect2>
+</sect1>

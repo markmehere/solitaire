@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Rückgrat</title>
+
+  <para>Geschrieben von Vincent Povirk</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Doppelblatt</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ein einzelner Stapel unterhalb der Fundamentstapel an der linken Seite. Der Rest des Kartensatzes wird hier nach der Kartenausgabe auf Spieltisch und Reservestapel abgelegt. Die Karten werden einzeln auf den Restestapel aufgedeckt. Eine Neuverteilung.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Einzelner Stapel rechts des Talon. Karten werden vom Talon genommen. Mit der obersten Karte wird gespielt.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Acht Ablagen oben rechts. Der Aufbau erfolgt nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Zwei Stapel zu je neun Karten, mit einer einzelnen oberhalb beider Stapel. Aufgedeckte Karten sind für das Spiel verfügbar und können abgelegt werden, außer auf freie Plätze auf dem Spieltisch.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Acht Ablagen, vier auf jeder Seite der Reserve. Am Beginn des Spiels wird eine Karte auf jeden Fundamentstapel gegeben. Aufgebaut wird absteigend nach Farbe. Leere Plätze können mit einer beliebigen Karte belegt werden. Ziehen mit mehreren Karten gleichzeitig ist nicht möglich.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten werden auf dem Spieltisch absteigend nach Farbe aufgebaut. Ziehen mit mehreren Karten gleichzeitig ist nicht möglich. Leere Plätze können mit einer beliebigen Karte belegt werden, außer aus der Reserve.</para>
+  <para>Karten werden vom Talon auf den Restestapel einzeln aufgedeckt. Die oberste Karte des Stapels ist im Spiel. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, wenn der Talon leer ist. Sie können zwei Mal das Kartendeck durcharbeiten.</para>
+  <para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind nicht mehr im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls ein solcher Zug möglich ist.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 104</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Sie können leere Plätze auf dem Spieltisch zum Bewegen mehrerer Karten verwenden. Seien Sie mit Königen im Reservestapel vorsichtig: Die einzige Möglichkeit sie zu entfernen ist es, sie auf den Fundamentstapel auf eine Königin zu spielen.</para>
+        </sect2>
+</sect1>

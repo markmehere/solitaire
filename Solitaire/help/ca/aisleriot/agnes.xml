@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+  <sect2><title>Configuració</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir el tauler. Les cartes es reparteixen en grups de set, una a cada pila del tauler.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior dreta. Es construeix per pal i en seqüència, saltant des del rei a l'as quan sigui necessari. Es reparteix una carta a la primera pila base. Les altres piles base s'han d'iniciar amb cartes del mateix rang.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+    <entry>Set piles. Es reparteix una carta de cara amunt a la primera pila. Es col·loca una carta cara avall a la resta de les piles. Es col·loca una carta cara amunt a la pila següent, seguida per una carta cara avall a totes les piles cobertes. Es repeteix fins que hi ha set cartes a l'última pila. El tauler es pot construir baixant amb cartes del mateix color. Els grups de cartes es poden moure. Les piles buides només es poden omplir amb la repartició següent de la pila principal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Objectiu</title>
+  <para>Moure totes les cartes a les piles base.</para>
+  </sect2>
+  <sect2><title>Regles</title>
+  <para>Les cartes del tauler es construeixen baixant amb el mateix color. Els grups de cartes en seqüència i del mateix color es poden moure com una unitat.</para>
+  <para>En cada repartició es mou una carta des de la pila principal a cada pila del tauler. No es torna a donar.</para>
+  <para>Les bases es construeixen pujant per pal i en seqüència, saltant des del rei a l'as quan sigui necessari. Les cartes de les bases es poden jugar. En fer doble clic a una carta del tauler aquesta es mourà a la pila base apropiada, si és possible fer el moviment.</para>
+</sect2>
+  <sect2><title>Puntuació</title>
+  <para>Cada carta a la base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+</sect2>
+
+  <sect2><title>Estratègia</title>
+  <para>Intenteu construir baixant per pal sempre que sigui possible. Intenteu puntuar tants punts com sigui possible ja que és molt difícil guanyar en aquest joc.</para>
+</sect2>
+</sect1>

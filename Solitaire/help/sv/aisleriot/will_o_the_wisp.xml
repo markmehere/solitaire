@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Will_O_The_Wisp"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Will O The Wisp</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. När den klickas, delas ett kort till varje bordshög med undantag för den sista given som då delar ett kort på var och en av de tre första högarna.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar längst upp till höger.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar längst ned. Dela två kort med framsidan nedåt och ett kort med framsidan upp på varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Skapa fyra högar med tretton kort, vardera hög byggs ned i färg och ordning.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bordshögarna kan byggas ner oavsett färg. Sviter av kort i en följd och i samma färg kan flyttas som en enhet. Tomma bordshögar kan fyllas med valfritt kort eller svit av kort.</para>
+  <para>Samtliga bordshögar måste fyllas innan ny giv. Genom att klicka på högen delas ett kort till varje bordshög ut med undantag för den sista given som placerar ett kort på var och en av de tre första högarna.</para>
+  <para>En svit av alla tretton kort i en färg kan flyttas till en grundhög. Kort i grundhögarna är inte längre i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i färg och nummerordning ger en poäng.</para>
+  <para>Högsta möjliga poäng: 48</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att hålla en bordshög tom när det är möjligt för att skapa en växlingsplats för att kunna flytta runt kort.</para>
+        </sect2>
+</sect1>

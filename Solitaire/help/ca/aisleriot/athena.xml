@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Athena">
+<!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Athena</title>
+
+  <para>Escrit per l'Alan Horkan, basat en el treball d'en Jonathan Blandford</para>
+  <!-- Also documented by Alan Horkan (2005)
+  based on documentation by Rosann Yuen -->
+  <sect2><title>Configuració</title>
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. La resta de la baralla es col·loca aquí després de repartir al tauler. Les cartes es mostren una per una a la pila de descartades. Es torna a donar dos cops.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>Per a agafar des de la pila principal. La carta superior està disponible per a jugar.</entry>
+	</row>
+	<row>
+	  <entry>Bases</entry>
+	  <entry>Quatre piles a la part superior dreta. Per a construir pujant per pal des de l'as al rei. La carta superior de cada base es pot tornar a jugar al tauler.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Set piles. Quatre files, la primera fila està cara avall, la segona fila està cara amunt, la tercera fila està cara avall i la quarta i última fila està cara amunt. Essencialment l'Athena és el mateix joc que el Klondike però la disposició inicial és diferent. El tauler es pot construir baixant i alternant el color. Els grups de cartes es poden moure. Les piles buides només es poden omplir amb reis o grups de cartes que comencin amb un rei.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+  <sect2><title>Objectiu</title>
+  <para>Moure totes les cartes a les piles base.</para>
+  </sect2>
+  <sect2><title>Regles</title>
+  <para>Les cartes al tauler es construeixen baixant i alternant el color. Els grups de cartes es poden moure. Una pila buida només es pot omplir amb un rei o un grup de cartes amb un rei a la part inferior.</para>
+  <para>Les cartes es giren d'una en una des de la pila principal a la pila de descartades. La carta superior de la pila de descartades està en joc. Quan la pila principal està buida, es mouen totes les cartes de la pila de descartades a la pila principal, mantenint l'ordre. Podeu utilitzar tota la baralla tres vegades.</para>
+  <para>Les bases es construeixen pujant des de l'as al rei. Les cartes a les bases es poden jugar. En fer doble clic a una carta aquesta es mourà a la pila base apropiada, si aquest moviment és possible.</para>
+
+<!-- TODO 
+  <sect2><title>Options</title>
+  <para>
+    Three card deals: If checked, the Stock will deal three each time.
+    Otherwise, the Stock will deal singly into the Waste.
+  </para>
+  <para>
+    King Only: If checked empty space may be filled with Kings or 
+    groups of cards starting with a King only.  
+  </para>
+-->
+  </sect2>
+  <sect2><title>Puntuació</title>
+  <para>Cada carta a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+  </sect2>
+  <sect2><title>Estratègia</title>
+  <para>No desistiu. Intenteu mètodes de força bruta quan la partida sembli perduda. A vegades una combinació amb les cartes de les bases i tornar a ordenar les seqüències alliberarà algunes cartes necessàries.</para>
+  </sect2>
+</sect1>

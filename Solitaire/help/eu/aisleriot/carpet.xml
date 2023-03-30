@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Tapiza</title>
+
+  <para>Vincent Povirk-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goiko ezkerreko pila. Karta sortaren gainerako zatia hemen kokatzen da mahaian eskualdi bat banatutakoan. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+	  <entry>Hondarra</entry>
+	  <entry>Sortatik hartzeko. Jokoan erabiltzeko prest dago goiko karta.</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian eskuinean. Irudiaren arabera, gorantz osatu behar dira, batekotik erregera. Batekoak oinarrietan jartzen dira, kartak banatu aurretik.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>"Tapiza". Bost kartako lau errenkada banatzen dira, gora begira. Mahaiko kartak jokoan erabil daitezke. Ezin da karta multzorik osatu. Gune hutsak automatikoki betetzen dira, hondarretik (ahal bada) edo pilatik.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko kartak jokoan daude.</para>
+  <para>Kartak banaka iraultzen dira pilatik hondarrera. Hondarreko goiko karta jokoan dago. Ezin da berriro banatu.</para>
+  <para>Oinarriak irudiaren arabera gorantz osatu behar dira, batekotik erregera. Oinarrietako kartak oraindik erabil daitezke. Karta baten gainean klik bikoitza eginez gero, dagokion oinarri-pilara mugituko da, mugimendu hori egin baldin badaiteke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletan jarritako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Jarri oinarrian horretarako aukera duten karta guztiak.</para>
+        </sect2>
+</sect1>

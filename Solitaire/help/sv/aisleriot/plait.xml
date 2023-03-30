@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Plait"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>W. Borgert</holder>
+		</copyright>
+		<author>
+			<firstname>W.</firstname>
+			<surname>Borgert</surname>
+		</author>
+		<address><email>debacle@debian.org</email></address>
+	</sect1info>-->
+
+	<title>Fläta</title>
+
+	<para>Skrivet av W. Borgert</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Två kortlekar</entry>
+	</row>
+	<row>
+		<entry>Hög</entry>
+		<entry>Tredje mittenraden från högra sidan. Tillåter två omgivar.</entry>
+	</row>
+	<row>
+		<entry>Kasthög</entry>
+		<entry>Fjärde mittenraden från högra sidan, direkt till vänster om högen.</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Åtta platser till höger. Ett kort finns redan vid start. Detta är grundkortet. Alla platser måste starta med detta kort.</entry>
+	</row>
+	<row>
+		<entry>Fläta</entry>
+		<entry>Gruppen av kort i mitten av bordet. Startar med 20 kort. Endast det översta kortet kan flyttas.</entry>
+	</row>
+	<row>
+		<entry>Kanter</entry>
+		<entry>De fyra platserna upptill och nedtill på båda sidor om flätan. Dessa återfylls automatiskt från flätan.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>De åtta platserna till höger och vänster om flätan mellan kantfälten. Endast ett kort per plats är möjligt.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till Grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Alla åtta grundhögarna måste startas med ett kort av samma valör. I början kan du välja om du vill bygga upp eller ner. Du kan ta kort från flätan i mitten av bordshögarna, från de åtta fria platserna till höger och vänster om flätan, från de fyra kanterna runt flätan och från kasthögen.</para>
+	<para>Spelet är förlorat om inga fria kort kan flyttas till grundhögarna och högen är tom.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>Ingen poängräkning. Du antingen vinner eller förlorar.</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Välj korten från flätan så snart som möjligt eftersom de är svåra att frigöra. Välj sedan korten från bordshögarna, eftersom det kommer att frigöra tomma platser att tillfälligt lagra kort på.</para>
+        </sect2>
+</sect1>

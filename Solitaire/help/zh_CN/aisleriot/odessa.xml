@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>敖德萨</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>左边的四垛牌，按花色从 A 到 K 递增收牌。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>七垛牌，各发三张扣着的牌，再各发三张翻开的牌，然后中间五垛再各发两张翻开的牌。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌按花色递减排列，一组牌可以一起移动，不考虑顺序。排好顺序的牌可以移到对应的收牌区位置，空位可以由 K 或 K 开头的一组牌填充。</para>
+	<para>收牌区按花色从 A 到 K 递增收牌，收牌区里的牌不能再用于游戏中。</para>
+
+	        </sect2>
+        <sect2><title>选项</title>
+
+	<para>没有</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>游戏开始后，按花色顺序排列得一分，在桌面内移动创建一个新的顺序得一分。收取一张牌得一分。</para>
+	<para>可能得到的最高分是：412</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>您坚持得愈久，收获也愈多，尽可能不要收牌，牌序越长得分也越多。</para>
+        </sect2>
+</sect1>

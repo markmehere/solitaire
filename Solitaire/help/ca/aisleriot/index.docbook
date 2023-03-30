@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY % local.common.attrib "xmlns:xi  CDATA  #FIXED 'http://www.w3.org/2003/XInclude'">
+<!ENTITY appversion "3.2">
+<!ENTITY manrevision "3.2">
+<!ENTITY date "September 2011">
+<!ENTITY app "<application>AisleRiot</application>">
+<!ENTITY appname "AisleRiot">
+]>
+<!--
+      (Do not remove this comment block.)
+  Maintained by the GNOME Documentation Project
+  http://developer.gnome.org/projects/gdp
+  Template version: 2.0 beta
+  Template last modified Feb 12, 2002
+-->
+<!-- =============Document Header ============================= -->
+<book xmlns:xi="http://www.w3.org/2003/XInclude" id="index" lang="ca">
+<!-- please do not change the id; for translations, change lang to -->
+<!-- appropriate code -->
+  <bookinfo>
+    <title>Manual de l'<application>AisleRiot</application></title>
+
+    <abstract role="description">
+      <para>L'AisleRiot és una col·lecció de més de 80 jocs de cartes programats amb el llenguatge de scripting del GNOME, Scheme.</para>
+    </abstract>
+
+    <copyright><year>2001</year> <holder>Rosanna Yuen</holder></copyright>
+<!-- translators: uncomment this:
+
+  <copyright>
+   <year>2002</year>
+   <holder>ME-THE-TRANSLATOR (Latin translation)</holder>
+  </copyright>
+
+   -->
+<!-- An address can be added to the publisher information.  If a role is
+     not specified, the publisher/author is the same for all versions of the
+     document.  -->
+    <publisher>
+      <publishername>Projecte de documentació del GNOME</publishername>
+    </publisher>
+
+    <xi:include href="legal.xml"/>
+
+   <!-- This file  contains link to license for the documentation (GNU FDL), and
+        other legal stuff such as "NO WARRANTY" statement. Please do not change
+	any of this. -->
+
+    <authorgroup>
+      <author role="maintainer"><firstname>Rosanna</firstname> <surname>Yuen</surname> <affiliation> <orgname>Projecte de documentació del GNOME</orgname> <address> <email>zana@webwynk.net</email> </address> </affiliation></author>
+      <othercredit role="additional material"><firstname>Telsa</firstname> <surname>Gwynne</surname> <affiliation> <address><email>hobbit@aloss.ukuu.org.uk</email></address> </affiliation></othercredit>
+
+<!-- This is appropriate place for other contributors: translators,
+      maintainers,  etc. Commented out by default.
+       <othercredit role="translator">
+	<firstname>Latin</firstname>
+	<surname>Translator 1</surname>
+	<affiliation>
+	  <orgname>Latin Translation Team</orgname>
+	  <address> <email>translator@gnome.org</email> </address>
+	</affiliation>
+	<contrib>Latin translation</contrib>
+      </othercredit>
+-->
+    </authorgroup>
+	
+	<releaseinfo revision="2.26" role="review"/>
+
+    <revhistory>
+      <revision><revnumber>Manual de l'AisleRiot (versió 3.2)</revnumber> <date>Setembre 2011</date> <revdescription>
+	  <para role="author">Rosanna Yuen <email>zana@webwynk.net</email></para>
+	  <para role="publisher">Projecte de documentació del GNOME</para>
+	</revdescription></revision>
+    </revhistory>
+
+    <releaseinfo>Aquest manual descriu la versió 3.2 de l'AisleRiot.</releaseinfo>
+    <!-- The following feedback information only applies to appliactions
+    listed in bugzilla.gnome.org and bugzilla.ximian.com. For other
+    applications, please provide your own feedback info or remove thsi
+    section altogether -->
+    <legalnotice>
+      <title>Comentaris</title>
+      <para>Per a informar d'un error o fer algun suggeriment quant a l'<application>AisleRiot</application> o aquest manual, seguiu les indicacions a la <ulink url="ghelp:user-guide?feedback-bugs" type="help">pàgina de comentaris del GNOME</ulink>.</para>
+<!-- Translators may also add here feedback address for translations -->
+    </legalnotice>
+  
+    <othercredit class="translator">
+      <personname>
+        <firstname>Joan Duran</firstname>
+      </personname>
+      <email>jodufi@gmail.com</email>
+    </othercredit>
+    <copyright>
+      
+        <year>2007</year>
+      
+        <year>2008</year>
+      
+      <holder>Joan Duran</holder>
+    </copyright>
+  </bookinfo>
+
+<!-- ============= Document Body ============================= -->
+<!-- ============= Introduction ============================== -->
+<chapter id="intro">
+    <title>Introducció</title>
+
+    <indexterm zone="index"><primary>AisleRiot</primary></indexterm>
+
+    <para>L'<application>AisleRiot</application> (també conegut com a Solitari o sol) és una col·lecció de jocs de cartes fàcils de jugar amb el ratolí. Les regles dels jocs s'han codificat en el llenguatge de script del GNOME (Scheme).</para>
+</chapter>
+
+<chapter id="general-information">
+<!--  <sect1info>
+    <copyright>
+      <year>2002</year>
+      <holder>Telsa Gwynne</holder>
+    </copyright>
+    <author>
+      <firstname>Telsa</firstname>
+      <surname>Gwynne</surname>
+    </author>
+    <address>
+      <email>hobbit@aloss.ukuu.org.uk</email>
+    </address>
+  </sect1info> -->
+
+
+
+ <title>Jugar a l'<application>AisleRiot</application></title>
+
+ <para>Utilitzeu el ratolí per a moure les cartes. Feu clic a una carta i arrossegueu-la a qualsevol lloc. Deixeu el botó del ratolí per a deixar-la.</para>
+ <para>També podeu moure una carta fent un clic per a agafar-la i fent un altre clic per a deixar-la. Per a habilitar aquesta manera de moure les cartes, seleccioneu <menuchoice><guimenu>Control</guimenu><guimenuitem>Fer clic per a moure</guimenuitem></menuchoice>. Això pot ser més ràpid que arrossegar i més còmode per a la mà que mantenir premut el botó del ratolí. Tot i això, pot costar una mica a acostumar-s'hi.</para>
+ <para>Si una carta es pot moure a les bases, no necessiteu arrossegar-la. Podeu fer un doble clic en aquesta i es mourà. Si una seqüència de cartes es pot moure a les bases, generalment podreu moure la seqüència d'un sol cop.</para>
+ <para>En fer doble clic a una carta l'enviareu a la base, si és possible. Això és útil per a netejar números grans de cartes al final d'una partida victoriosa.</para>
+ <para>En els jocs que tenen una pila principal podeu tornar a apilar-les en fer clic a l'espai buit on estaven. Vigileu que alguns jocs només us ho permeten fer un número limitat de vegades. Vegeu el missatge <guilabel>Cartes per repartir</guilabel> a la part inferior de la finestra.</para>
+ <para>Una pista útil és saber que en fer clic amb el botó secundari a una carta coberta parcialment per una altra, es mostrarà de manera que podreu veure quina és.</para>
+ <para>Alguns jocs tenen opcions per a canviar la manera de jugar-hi. Per exemple, al Klondike s'hi pot jugar repartint una carta o de tres en tres. En aquests jocs hi ha un menú separat amb el nom del joc. Només podeu canviar les regles del joc a l'inici de la partida, el menú estarà inhabilitat durant la partida.</para>
+ <para>Podeu veure com ho esteu fent de bé a un joc particular si seleccioneu <guimenuitem>Estadístiques</guimenuitem> en el menú <guimenu>Partida</guimenu>. Només es tenen en compte les partides en què s'ha mogut alguna carta. Les estadístiques són per a passar-ho bé, hi ha moltes maneres de fer trampes i no es recomana fer comparacions.</para>
+</chapter>
+
+<chapter id="games">
+  <title>Els jocs</title>
+
+  <xi:include href="accordion.xml"/>
+  <xi:include href="agnes.xml"/>
+  <xi:include href="athena.xml"/>
+  <xi:include href="auld_lang_syne.xml"/>
+  <xi:include href="aunt_mary.xml"/>
+  <xi:include href="backbone.xml"/>
+  <xi:include href="bakers_dozen.xml"/>
+  <xi:include href="bakers_game.xml"/>
+  <xi:include href="bear_river.xml"/>
+  <xi:include href="beleaguered_castle.xml"/>
+  <xi:include href="block_ten.xml"/>
+  <xi:include href="bristol.xml"/>
+  <xi:include href="camelot.xml"/>
+  <xi:include href="canfield.xml"/>
+  <xi:include href="carpet.xml"/>
+  <xi:include href="chessboard.xml"/>
+  <xi:include href="clock.xml"/>
+  <xi:include href="cover.xml"/>
+  <xi:include href="cruel.xml"/>
+  <xi:include href="diamond_mine.xml"/>
+  <xi:include href="doublets.xml"/>
+  <xi:include href="eagle-wing.xml"/>
+  <xi:include href="easthaven.xml"/>
+  <xi:include href="eight_off.xml"/>
+  <xi:include href="elevator.xml"/>
+  <xi:include href="eliminator.xml"/>
+  <xi:include href="escalator.xml"/>
+  <xi:include href="first_law.xml"/>
+  <xi:include href="fortress.xml"/>
+  <xi:include href="fortunes.xml"/>
+  <xi:include href="forty_thieves.xml"/>
+  <xi:include href="fourteen.xml"/>
+  <xi:include href="freecell.xml"/>
+  <xi:include href="gaps.xml"/>
+  <xi:include href="gay_gordons.xml"/>
+  <xi:include href="giant.xml"/>
+  <xi:include href="glenwood.xml"/>
+  <xi:include href="gold_mine.xml"/>
+  <xi:include href="golf.xml"/>
+  <xi:include href="gypsy.xml"/>
+  <xi:include href="hamilton.xml"/>
+  <xi:include href="helsinki.xml"/>
+  <xi:include href="hopscotch.xml"/>
+  <xi:include href="isabel.xml"/>
+  <xi:include href="jamestown.xml"/>
+  <xi:include href="jumbo.xml"/>
+  <xi:include href="kansas.xml"/>
+  <xi:include href="king_albert.xml"/>
+  <xi:include href="kings_audience.xml"/>
+  <xi:include href="klondike.xml"/>
+  <xi:include href="labyrinth.xml"/>
+  <xi:include href="lady_jane.xml"/>
+  <xi:include href="maze.xml"/>
+  <xi:include href="monte_carlo.xml"/>
+  <xi:include href="napoleons_tomb.xml"/>
+  <xi:include href="neighbor.xml"/>
+  <xi:include href="odessa.xml"/>
+  <xi:include href="osmosis.xml"/>
+  <xi:include href="peek.xml"/>
+  <xi:include href="pileon.xml"/>
+  <xi:include href="plait.xml"/>
+  <xi:include href="poker.xml"/>
+  <xi:include href="quatorze.xml"/>
+  <xi:include href="royal_east.xml"/>
+  <xi:include href="saratoga.xml"/>
+  <xi:include href="scorpion.xml"/>
+  <xi:include href="scuffle.xml"/>
+  <xi:include href="seahaven.xml"/>
+  <xi:include href="sir_tommy.xml"/>
+  <xi:include href="spiderette.xml"/>
+  <xi:include href="spider_three_decks.xml"/>
+  <xi:include href="spider.xml"/>
+  <xi:include href="straight_up.xml"/>
+  <xi:include href="streets_and_alleys.xml"/>
+  <xi:include href="ten_across.xml"/>
+  <xi:include href="terrace.xml"/>
+  <xi:include href="thieves.xml"/>
+  <xi:include href="thirteen.xml"/>
+  <xi:include href="thumb_and_pouch.xml"/>
+  <xi:include href="treize.xml"/>
+  <xi:include href="triple_peaks.xml"/>
+  <xi:include href="union_square.xml"/>
+  <xi:include href="valentine.xml"/>
+  <xi:include href="wall.xml"/>
+  <xi:include href="westhaven.xml"/>
+  <xi:include href="whitehead.xml"/>
+  <xi:include href="will_o_the_wisp.xml"/>
+  <xi:include href="yield.xml"/>
+  <xi:include href="yukon.xml"/>
+  <xi:include href="zebra.xml"/>
+</chapter>
+
+<xi:include href="definitions.xml"/>
+
+</book>

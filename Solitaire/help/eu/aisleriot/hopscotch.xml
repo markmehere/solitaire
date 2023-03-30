@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hopscotch"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Tokean</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Goiko ezkerreko pila. Karta guztiak, batetik laurako hirustak izan ezik, hemen kokatzen dira jokoaren hasieran. Kartak banaka iraultzen dira hondarrera.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortaren eskuinean. Kartak banaka mugitu behar dira. Karta berehala jarri behar da oinarri-pila batean edo zure aukerako biltegi-pilan.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila goian, sortaren eskuinean. Lehenengo pilan batekoa ipini, bigarrenean bikoa, hirugarrenean hirukoa eta laugarrenean laukoa. Lehenengo oinarri-pila gorantz osatuko da batetik hasita, bigarrena bitik hasita, hirugarrena hirutik hasita eta laugarrena lautik hasita. Hamahirura iristean, denek jarrai dezakete batetik aurrera. Oinarrietako kartak ezin dira berriro erabili. Irudiak ez du garrantzirik.</entry>
+	</row>
+	<row>
+		<entry>Biltegia</entry>
+		<entry>Lau pila oinarrien azpian. Biltegiko kartak oinarri-piletara soilik mugi daitezke. Hondarreko kartak edozein biltegi-pilatan jar daitezke.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarrietara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Oinarri-pilak osatzea batetik, bitik, hirutik eta lautik hasita, lehenengo, bigarren, hirugarren eta laugarren piletan, hurrenez hurren. Kartak banaka iraultzen dira pilatik hondarrera. Dena den, hondar-pilan karta bakarra badago, karta hori berehala eraman behar da oinarri-pilara edo biltegi-pila batera. Biltegi-piletako kartak ezin dira ordenatu.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarrietara mugitutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 48</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Joko honetan zentzumenak zorroztu behar dira. Zorteak ez dizu gehiegi lagunduko. Saiatu aurki behar izango dituzun kartak ez estaltzen. Zutabeetako bat erregeentzako bakarrik gorde dezakezu (oinarrietan jarri beharreko azken karta delako).</para>
+        </sect2>
+</sect1>

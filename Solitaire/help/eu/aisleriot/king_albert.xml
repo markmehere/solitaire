@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="King_Albert">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Errege Alberto</title>
+
+  <para>Rosanna Yuen-ek idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Oinarria</entry>
+	  <entry>Lau pila goian. Irudien arabera gorantz eta segidan osatu behar dira oinarriak, batekotik erregera.</entry>
+	</row>
+	<row>
+	  <entry>Biltegia</entry>
+	  <entry>Zazpi pila eskuinean. Hasieran, karta bat banatzen da gora begira biltegi-pila bakoitzean. Biltegietan ezin dira karta multzoak osatu. Biltegi-pila hutsak ezin dira bete.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Bederatzi pila: lehen pilan bederatzi karta, bigarrenean zortzi eta, horrela, azken pilan karta bakarra izan arte. Karta hauek behera begira banatzen dira. Pila bakoitzeko goiko karta gora begira jartzen da gero.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Edozein karta edo karta multzo jar daiteke mahaiko gune hutsetan.</para>
+  <para>Biltegietako kartak mahaira edo oinarrira eraman daitezeke. Biltegi-pila hutsak ezin dira bete.</para>
+  <para>Irudien arabera gorantz osatu behar dira oinarri-pilak, batekotik erregera. Oinarriko kartak oraindik erabil daitezke.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Gogoratu edozein karta jar daitekeela mahaiko gune hutsetan. Kartak agerian jartzeak du lehentasuna joko honetan.</para>
+        </sect2>
+</sect1>

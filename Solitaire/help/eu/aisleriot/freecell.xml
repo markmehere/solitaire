@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Freecell"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Gelaxka librea</title>
+
+	<para>Changwoo Ryu-k idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Biltegiak</entry>
+		<entry>Lau pila ezkerrean, goiko errenkadan. Biltegi bakoitzak karta bakarra eduki dezake.</entry>
+	</row>
+	<row>
+		<entry>Oinarria</entry>
+		<entry>Lau pila goian, eskuinean. Gorantz osatu behar dira, batekotik erregera, irudia oinarri hartuta. Oinarrietako kartak ezin dira jokoan erabili.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Zortzi pila. Banatu karta guztiak gora begira zortzi piletan; zazpi karta izango dituzte lehen lau pilek, eta sei beste lau pilek. Koloreak txandakatuz osa daitezke mahaiko pilak. Kartak banaka soilik mugi daitezke, baina, bizkortzeko, batera mugi daitezke karta multzoak biltegian nahikoa pila huts dagoenean.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak oinarri-piletara eramatea.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Mahaiko piletako kartak beherantz osatzen dira, koloreak txandakatuz. Karta multzoak mugi daitezke, baldin eta mugimendu bera egin badaiteke kartak banaka mugituz (biltegian nahikoa pila huts dagoelako). Mahaiko pila hutsetan edozein karta edo karta multzo jar daiteke.</para>
+	<para>Irudien arabera gorantz osatu behar dira oinarriak, batekotik erregera. Oinarrietako kartak ezin daitezke erabili. Karta baten gainean klik bikoitza eginez oinarri egokira mugitzen da karta hori, mugimendu hori egin badaiteke.</para>
+	<para>Biltegi-piletako kartak berriz erabil daitezke mahaian nahiz oinarrian.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Oinarri-piletako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Lekua oso erabilgarria da. Libre utzi ahal bezainbeste biltegi-pila.</para>
+        </sect2>
+</sect1>

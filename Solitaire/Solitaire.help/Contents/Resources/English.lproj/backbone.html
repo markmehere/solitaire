@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Backbone</title>
+    <link rel="stylesheet" href="index.css" type="text/css"></link>
+  </head>
+  <body>
+    <a name="backbone"></a>
+    <h1>Backbone</h1>
+    <p class="author">Written by Vincent Povirk</p>
+    <div>
+      <h2>Setup</h2>
+      <table><tbody><tr><td>Type of Deck</td><td>Double Deck</td></tr><tr><td>Stock</td><td>Single pile below the foundations on the left. The rest of the deck is placed here after dealing on to the Tableau and Reserve. Cards are turned over one at a time to Waste. One redeal.</td></tr><tr><td>Waste</td><td>Single pile to the right of the Stock. To be taken from Stock. Top card available for play.</td></tr><tr><td>Foundation</td><td>Eight piles top right. To be built up in suit from Ace to King.</td></tr><tr><td>Reserve</td><td>Two stacks of 9 cards each, with a single above both stacks. Cards that are not obscured are available for play to anywhere except empty tableau spaces.</td></tr><tr><td>Tableau</td><td>Eight piles, four on each side of the reserve. A card is dealt to each tableau pile when the game starts. Build down in suit. Empty spaces can be filled with any card. Only one card can be moved at a time.</td></tr></tbody></table>
+    </div>
+    <div>
+      <h2>Goal</h2>
+      <p>Move all cards to the Foundation piles.</p>
+    </div>
+    <div>
+      <h2>Rules</h2>
+      <p>
+        Cards in the Tableau are built down by suit. Only one card can be moved
+        at a time. Empty slots can be filled with any card except from the reserve.
+      </p>
+      <p>
+        Cards are flipped from the Stock to the Waste individually. Top
+        card in Waste is in play. When Stock is empty, move all cards in
+        Waste back to the Stock, maintaining order. You can go through the
+        deck twice.
+      </p>
+      <p>
+        Foundations are built up in suit from Ace to King. Cards in the
+        Foundations are no longer in play. Double clicking on a card will move
+        it to the appropriate Foundation pile if such a move is
+        possible.
+      </p>
+    </div>
+    <div>
+      <h2>Scoring</h2>
+      <p>Each card in the Foundation piles scores one point.</p>
+      <p>Maximum possible score: 104</p>
+    </div>
+    <div>
+      <h2>Strategy</h2>
+      <p>
+        You can use empty spaces in the Tableau to move multiple cards. Be careful
+        with Kings in the Reserve: the only way to remove them is by playing them
+        to a Foundation on top of a Queen.
+      </p>
+    </div>
+  </body>
+</html>

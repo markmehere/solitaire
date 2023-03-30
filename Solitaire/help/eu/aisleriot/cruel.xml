@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Cruel"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Bihotzgabea</title>
+
+  <para>Zach Keene-k idatzia</para>
+
+          <sect2><title>Konfigurazioa</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Karta mota</entry>
+	  <entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+	  <entry>Sorta</entry>
+	  <entry>Goian ezkerrean. Gainerako karta guztiak banatu egiten direnez, hutsik egoten da beti. Nahi adina aldiz banatu daiteke.</entry>
+	</row>
+	<row>
+	  <entry>Oinarriak</entry>
+	  <entry>Goiko errenkadan eskuinen dauden pilak; batekoak hemen jartzen dira joko-hasieran. Osatu gorantz, batekotik erregera, irudia kontuan hartuta.</entry>
+	</row>
+	<row>
+	  <entry>Mahaia</entry>
+	  <entry>Hamahiru pila gehienez, aldi bakoitzean lau karta banatuta sorta ahitu arte. Mahaiko pilak beherantz osa daitezke, irudia kontuan hartuta.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Xedea</title>
+
+  <para>Karta guztiak oinarri-piletara eramatea.</para>
+
+          </sect2>
+        <sect2><title>Arauak</title>
+
+  <para>Osatu oinarriak gorantz kolorea kontuan hartuta, eta osatu mahaiko pilak beherantz kolorea kontuan hartuta. Ezin bada besterik mugitu (edo hala iruditzen bazaizu), berriro banatzeko, egin klik goiko ezkerreko gune hutsean.</para>
+  <para>Berriro banatzeko, mahaiko pilak bata bestearen gainean jartzen dira, segidan, azken pilatik hasita. Ondoren, sorta irauli eta kartak banatzen dira mahaian, launaka. Mugimendurik egin ez bada, berriro banatzean kartak ez dira lekuz aldatzen. Beraz, banatu bezain laster ez badago mugi daitekeen kartarik, jokoa galdu egin da.</para>
+  <para>Oharra: kartak banatu ondoren mahaiko azken pilak karta bat badu, eta egin daitekeen mugimendu bakarra karta hori aurreko pilara eramatea bada, errorea gertatzen da. Mugimendu hori egin eta kartak berriro banatuz gero, aurreko egoerara itzultzen da. AisleRiot-ek jokoa amaitu egiten du egoera hori hautematean.</para>
+
+          </sect2>
+        <sect2><title>Puntuak</title>
+
+  <para>Oinarri-piletan jarritako karta bakoitzeko, puntu bat.</para>
+  <para>Puntuaziorik altuena: 48</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Mahaiko pila bat baino gehiago osa badaitezke, osatu lehenengo maila altuenekoa.</para>
+        </sect2>
+</sect1>

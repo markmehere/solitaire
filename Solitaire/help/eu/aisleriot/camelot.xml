@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Camelot"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Camelot</title>
+
+	<para>Rosanna Yuen-ek idatzia</para>
+
+	        <sect2><title>Konfigurazioa</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Karta mota</entry>
+		<entry>Karta sorta estandarra</entry>
+	</row>
+	<row>
+		<entry>Sorta</entry>
+		<entry>Karta guztiak sortan jartzen dira jokoaren hasieran. Kartak banan-banan iraultzen dira hondarrera. Ezin da berriro banatu.</entry>
+	</row>
+	<row>
+		<entry>Hondarra</entry>
+		<entry>Sortatik hartzeko. Karta bakarra eduki dezake eta berehala jarri behar da jokoan mahaian.</entry>
+	</row>
+	<row>
+		<entry>Mahaia</entry>
+		<entry>Lau bider lau dimentsioko sareta, eta gune bakoitzean karta bat jar daiteke. Erregeak ertzetan soilik jar daitezke. Erreginak lehenen eta azken errenkadetako erdiko bi lekuetan baino ezin dira ipini. Txankak lehenen eta azken zutabeetako erdiko bi lekuetan baino ezin dira ipini.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Xedea</title>
+
+	<para>Karta guztiak kentzea, irudidun kartak izan ezik (txankak, erreginak eta erregeak). Irabazi baduzu, mahaiak itxura hau izango du --</para>
+	<screenshot>
+		<mediaobject>
+			<imageobject>
+				<imagedata fileref="figures/camelot-goal.png" format="PNG"/>
+			</imageobject>
+			<textobject>
+				<phrase>Irabazlearen mahaia.</phrase>
+			</textobject>
+		</mediaobject>
+	</screenshot>
+	<para>-- eta sorta eta hondarra hutsik egongo dira. Irudiak ez du garrantzirik.</para>
+
+	        </sect2>
+        <sect2><title>Arauak</title>
+
+	<para>Joko honek bi fase ditu. Fase batetik bestera aldatu behar da jokoa galdu edo irabazi arte. Lehenengo fasean hasi behar da mahaia erabat bete arte. Orduan, aldatu bigarren fasera. Kontuan hartu ezingo duzula bigarren fasea hasi mahaia erabat betea ez badago. Dena den, edozein unetan itzul zaitezke lehenengo fasera, baina gogoratu ezin dela bigarrenera pasatu mahaia berriz bete arte. Arau honek salbuespen bat du: sorta eta hondarra hutsik egotea.</para>
+	<para>Lehenengo fasea -- Egin klik sortan karta bat hondar-pila hutsera eramateko. Karta hauetako bat bada:</para>
+	<itemizedlist>
+		<listitem>
+			<para>Erregea: jarri ertzeko gune huts batean.</para>
+		</listitem>
+		<listitem>
+			<para>Erregina: jarri gune huts batean, goiko edo beheko errenkadetako erdiko bi guneetako batean.</para>
+		</listitem>
+		<listitem>
+			<para>Txanka: jarri gune huts batean, ezkerreko edo eskuineko zutabeetako erdiko bi guneetako batean.</para>
+		</listitem>
+		<listitem>
+			<para>Beste edozein karta: jarri hutsik dagoen gune batean.</para>
+		</listitem>
+	</itemizedlist>
+	<para>Bigarren fasea -- Kendu hamarrekoak banan-banan gainean klik eginez. Kendu hamar batzen duten bikoteak, kartetako bat kidearen gainera arrastatuz.</para>
+	<para>Irudidun karta bat ezin bada gune egokian jarri, edo gune guztiak beteta daudelako beste kartarik ezin bada mugitu, jokoa galdu egin da.</para>
+
+	        </sect2>
+        <sect2><title>Puntuak</title>
+
+	<para>Kendutako karta bakoitzeko, puntu bat.</para>
+	<para>Puntuaziorik altuena: 40</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Erdian beti da seguruagoa. Jokoaren lehenengo fasean, banatu erdian ertzetara joan aurretik. Bikoteren bat osa daitekeela iruditzen bazaizu, ipini karta hori ertzean, jokoaren bigarren fasean ertzetako gune gehiago husteko.</para>
+        </sect2>
+</sect1>

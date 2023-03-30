@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>斑马</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>两副牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，可以重复一次。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右上角的八垛牌，开始时收牌区里每垛里放了一个 A，收牌区按不同颜色递增收到 K，里面的牌不能再参与到游戏中。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>收牌区下面的八垛牌，开始时每垛放了一张牌，桌面上按不同颜色交替递减排列，每垛牌中只有最上面的牌可用，空位会立刻由废牌区填充，如果废牌区为空，则由发牌区填充。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上按不同花色交替递减排列，每垛牌中只有最上面的牌可用，但是，为了简化操作，一整垛牌可以一次拖到收牌区，双击一垛牌可以把最上面一张移到收牌区，如果它是可以移动的话。</para>
+	<para>空位会立刻由废牌区填充，如果废牌区为空，则由发牌区填充。</para>
+	<para>发牌区每次往废牌区发一张牌，废牌区最上面的牌可用于游戏，可以重复发牌一次。</para>
+	<para>收牌区按不同颜色交替递增收牌，从 A 到 K。收牌区里的牌不能再用于游戏。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每收取一张牌得1分。</para>
+	<para>可能得到的最高分是：96</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>在现实世界中很少能有两次机会，因此，碰到了就抓住它，这个游戏中第二次发牌是羸的机会。请牢记关键牌所处的位置，后面您会很高兴的。</para>
+        </sect2>
+</sect1>

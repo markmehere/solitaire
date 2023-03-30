@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Escrito por Nick Lamb</para>
+
+	        <sect2><title>Ajustes</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tipo de baraja</entry>
+		<entry>Baraja estándar</entry>
+	</row>
+	<row>
+		<entry>Tablero</entry>
+		<entry>Quince montones, colocados en filas de cuatro. Se dan cartas de cuatro en cuatro, boca arriba los primeros trece montones. Se dejan los dos últimos espacios vacíos. Un montón puede contener como mucho cuatro cartas y como poco ninguna.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Meta</title>
+
+	<para>Recoloque las cartas para que cada montón contenga cuatro cartas de un único valor. Esto debería dejar dos montones vacíos, pero no importa si son los mismos montones que los que estaban vacíos al comienzo del juego.</para>
+
+	        </sect2>
+        <sect2><title>Reglas</title>
+
+	<para>Se pueden mover cartas encima de cualquier otra carta o cartas del mismo rango siempre que ningún montón tenga más de cuatro cartas. Se pueden mover grupos de cartas si tienen el mismo rango, pero no aporta nada. Un hueco vacío se puede llenar con cualquier carta o grupo de cartas con el mismo rango.</para>
+	<para>Una vez que un montón contenga las cuatro cartas del mismo rango, éste se congela y la carta de la cima se da la vuelta para indicar que no necesita hacer nada más con esas cartas. Éstas no están más en juego, aunque sería inútil moverlas de sitio.</para>
+
+	        </sect2>
+        <sect2><title>Puntuación</title>
+
+	<para>Cuando un montón de cuatro cartas se congela puntúa 4 tantos, uno por cada carta. No hay otro modo de conseguir tantos.</para>
+	<para>Máxima puntuación posible: 52</para>
+
+	        </sect2>
+        <sect2><title>Estrategia</title>
+
+	<para>Mantenga uno de los montones limpio tanto tiempo como le sea posible. No permita que un montón de tres cartas en secuencia se quede sobre una carta aislada, especialmente si la carta final del grupo no esta en el fondo de otro montón.</para>
+        </sect2>
+</sect1>

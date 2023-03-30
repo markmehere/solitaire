@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Fortress">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname></author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Festung</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Stapel in der Mitte. Der Aufbau erfolgt nach Farbe von Ass bis König. Karten in Fundamentstapeln sind nicht mehr im Spiel.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Fünf Stapel auf jeder Seite des Fundamentstapels. Fünf Karten werden sichtbar auf jeden dieser Stapel ausgegeben und eine weitere auf die obersten beiden Stapel. Die oberste Karte eines jeden Spieltischstapels steht für das Spiel zur Verfügung.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Legen Sie alle Karten auf die Fundamentstapel.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten in den Spieltischstapeln werden nach Farbe auf- oder abgebaut. Nur die obersten Karte jedes Stapels ist im Spiel. Leere Ablagen dürfen mit einer beliebigen Karte belegt werden.</para>
+  <para>Fundamentstapel werden nach Farbe aufsteigend von Ass bis König aufgebaut. Die Karten in den Fundamentstapeln sind nicht mehr im Spiel.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Schützen Sie jeden freien Stapel auf dem Spieltisch, den Sie sich erarbeiten. Sie sind der Schlüssel zum Erfolg.</para>
+        </sect2>
+</sect1>

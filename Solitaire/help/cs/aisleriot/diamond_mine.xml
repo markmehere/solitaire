@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Diamantový důl</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Jedna hromádka nahoře. Poskládejte řadu diamantů (kára) počínaje libovolnou károvou kartou, kterou si vyberete.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Třináct hromádek. Na každou hromádku se rozdají tři karty lícem dolů a jedna karta lícem nahoru.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny diamanty (káry) do seřazených a všechny ostatní karty mít v rozdaných v postupkách v barvě, počínaje esem.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty (jiné než kárové) můžete skládat do sestupných postupek bez ohledu na barvu. Poskládané karty lze přesouvat jako celek. Prázdnou pozici můžete zaplnit libovolnou kartou (vyjma kárové) nebo poskládanými kartami.</para>
+  <para>Kárové karty nelez přesouvat, jen je umístit do seřazených. V seřazených je potřeba je skládat do vzestupné postupky, ale začít lze od libovolné hodnoty.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý diamant (kárová karta) umístěný do seřazených dostanete tolik bodů, kolik je hodnota karty. Eso je za 1 bod, kluk za 11 bodů, dáma za 12 bodů a král za 13 bodů.</para>
+  <para>Za každou postupku od esa po krále v barvě na hromádce rozdaných dostáváte 3 body.</para>
+  <para>Maximální možný počet bodů: 100</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Těžba diamantů je náročná práce. Mějte na paměti, že ne všechny diamanty mají stejnou hodnotu. A nezapomeňte po sobě uklidit, tj. poskládat ostatní barvy.</para>
+        </sect2>
+</sect1>

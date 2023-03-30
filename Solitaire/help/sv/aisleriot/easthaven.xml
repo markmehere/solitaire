@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Österhamn</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Kortleken placeras här efter att ha fördelat korten till bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Fyra högar uppe till höger. Byggs upp i färg från ess till kung.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar längst ned. Placera två kort med baksidan upp och ett kort med framsidan upp för varje stapel.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bordshögarna byggs ned i växlande kulör. Sviter av kort i ordningsföljd och omväxlande kulör kan flyttas som en enhet. Tomma bordshögar kan fyllas med kungar eller sviter som börjar med en kung.</para>
+  <para>Eventuella tomma bordshögar bör om möjligt fyllas innan fler kort delas. Genom att klicka på högen delas ett kort med framsidan upp på varje bordshög. Den sista given lägger ett kort med framsidan upp på de tre första högarna. Inga omgivar.</para>
+  <para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas till grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Flytta upp kort till grundhögarna när du kan eftersom det kan bli blockerat vid nästa giv. Men eftersom korten i grundhögarna inte längre är i spel, kan du fastna senare då du behöver det kortet. Förhoppningsvis kommer denna gåta att vara det svåraste du utsätts för idag.</para>
+        </sect2>
+</sect1>

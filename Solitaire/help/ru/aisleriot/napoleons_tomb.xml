@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Гробница Наполеона</title>
+
+  <para>Написано Киммо Карлссоном (Kimmo Karlsson)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Тип колоды</entry>
+		<entry>Стандартная</entry>
+	</row>
+	<row>
+		<entry>Колода</entry>
+		<entry>Верхняя левая стопка.</entry>
+	</row>
+	<row>
+		<entry>Сброс</entry>
+		<entry>Рядом с колодой.</entry>
+	</row>
+	<row>
+		<entry>Игровое поле</entry>
+		<entry>Таблица три на три, все карты лицом вверх.</entry>
+	</row>
+	<row>
+		<entry>Основания</entry>
+		<entry>Карты в центральной стопке таблицы собираются по убыванию, в угловых стопках — по возрастанию. Масть значения не имеет.</entry>
+	</row>
+	<row>
+		<entry>Резервы</entry>
+		<entry>Четыре стопки таблицы, не являющиеся основаниями. В каждом резерве может лежать по одной карте.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>Переместить все карты достоинством 6 и менее в центральную стопку, достоинством 7 и более — в угловые.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Щелчок по колоде сдаёт карты. На игровое поле карты перемещаются по одной. Карты из оснований перекладывать нельзя. Карты в угловых стопках собираются по возрастанию от 7 до короля, в центральной стопке — по убыванию от 6 до туза. После туза идёт следующая шестёрка, и так далее. Масти роли не играют.</para>
+
+          </sect2>
+        <sect2><title>Параметры</title>
+
+  <para>Сдавать по три карты: карты сдаются из колоды по три за раз, допускается две пересдачи.</para>
+  <para>Собирать автоматически: если включено, карты сами перемещаются на стопки оснований, когда это становится возможным.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>Каждая карта в стопках оснований даёт одно очко.</para>
+
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Старайтесь беречь резервы. Упечь Наполеона в его гробницу нелегко, но надо попытаться. </para>
+        </sect2>
+</sect1>

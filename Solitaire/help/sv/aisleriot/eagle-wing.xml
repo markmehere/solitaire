@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Örnvinge</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resterande kort placeras här efter att korten har delats ut till bordshögarna. Korten vänds ett i taget till kasthögen. Två omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Direkt till höger om högen. Tas från högen. Översta kortet är tillgängligt för spel.</entry>
+	</row>
+	<row>
+	  <entry>Grundhögar</entry>
+	  <entry>Fyra högar uppe till höger. Ett kort placeras på den första bordshögen i spelets början, detta är grundkortet. De andra grundhögarna måste inledas med ett kort av samma valör som grundkortet. Byggs upp i färg från grundkortet.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Mittersta (och nedersta) kortplatsen. Placera här tretton kort med framsidan nedåt. Korten vänds sedan för att fylla de tomma kortplatserna i bordshögarna. När endast ett kort återstår i reservhögen kommer det att vändas upp och kan spelas till grundhögarna eller en av bordshögarna.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Åtta kortplatser (fyra till vänster och fyra till höger om reservhögen.) Dela ett kort med framsidan upp för varje plats. Bordshögarna kan byggas ned i färg. Kort kan flyttas var för sig till någon av de andra bordshögarna, eller i svit till grundhögarna. Varje bordshög kan innehålla maximalt tre kort.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kort i bordshögarna byggs ned i färg. Korten kan bara flyttas ett i taget till en annan bordshög. Men för att lindra enformigheten kan sviter av kort flyttas till grundhögarna. En tom kortplats bland bordshögarna fylls automatiskt från reservhögen. Om reservhögen är tom kan en tom kortplats bland bordshögarna fyllas från kasthögen eller en annan bordshög.</para>
+  <para>Reservhögen finns främst för att fylla tomma kortplatser i bordshögarna. Men när det bara finns ett kort kvar i reservhögen kommer det att bli synligt och vara i spel.</para>
+  <para>Korten vänds från högen till kasthögen ett i taget. Hanteringsordningen när högen är tom är att flytta alla korten i kasthögen tillbaka till högen. Du kan gå igenom kortleken tre gånger.</para>
+  <para>Grundhögarna byggs upp i färg från grundkortet (första kortet som placeras på första grundhögen). Nya grundhögar startas när ett kort av samma valör som grundkortet placeras på en av de tomma grundhögarna. Essen placeras på kungar och tvåor på ess. Kort i grundhögarna är inte i spel.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Lite planering kommer man långt med. Kontrollera innan kort byggs på i en bordshög. Kom ihåg regeln tre kort per kortplats.</para>
+        </sect2>
+</sect1>

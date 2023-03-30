@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Westhaven"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address></sect1info>-->
+
+	<title>Západní přístav</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se nevrací zpět.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Lížou se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky v horní řadě. Musíte je poskládat do postupky v barvě, od esa po krále.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Deset hromádek po třech kartách, v poslední řadě jsou karty lícem nahoru.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Všechny karty přesunout do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Vrchní karta nebo celá část hromádky lícem nahoru je dostupná do hry. Na prázdné hromádky můžete položit libovolnou dostupnou kartu nebo skupinu karet.</para>
+	<para>Hromádky v seřazených musíte skládat do postupek v barvě, od esa po krále. Karty v seřazených jsou již mimo hru.</para>
+	<para>Karty se lížou po jedné z volných do otočených. Vrchní karta v otočených je vždy k dispozici do hry. Volné je možné projít jen jednou, hromádka se nevrací.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta přesunutá do seřazených je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Pozor, je to jen pro ty, co rádi sází. Život je riziko. Proveďte každý tah, který můžete a štěstí si vás najde.</para>
+        </sect2>
+</sect1>

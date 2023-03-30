@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Valentine"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Valentine</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>Tipus de baralla</entry>
+		<entry>Baralla estàndard</entry>
+	</row>
+	<row>
+		<entry>Pila principal</entry>
+		<entry>Pila a la part superior esquerra. Les cartes restants es col·loquen aquí després de repartir.</entry>
+	</row>
+	<row>
+		<entry>Pila de descartades</entry>
+		<entry>Pila superior a la dreta. Només pot tenir una carta.</entry>
+	</row>
+	<row>
+		<entry>Tauler</entry>
+		<entry>Quatre piles. Es reparteix una carta a cada lloc al començament de la partida. En tornar a repartir des de la pila principal es mouran totes les cartes al tauler a la part inferior de la pila principal.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Tenir totes les cartes al tauler, cada lloc que contingui des d'un as al rei per pal. Eviteu tornar-vos boig per a aconseguir-ho.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Si alguna parella de cartes repartides al tauler té el mateix pal i està en seqüència, col·loqueu la carta inferior sobre la superior. Els asos són baixos, els reis són alts i les seqüències no salten. Feu clic a la pila principal per a omplir els llocs buits que s'hagin creat.</para>
+  <para>Quan no es poden fer més jugades al tauler, feu clic a la pila principal per a repartir una carta a la pila de descartades. Si aquesta carta es pot jugar a qualsevol pila del tauler, feu-ho. Repetiu aquest procés fins que no hi hagi més moviments al tauler o des de la pila de descartades.</para>
+  <para>
+    At this point, clicking on the Stock again moves all the cards
+    in the Tableau back to the bottom of the Stock.  The card in the
+    Waste is put in the first Tableau pile and the rest of the Tableau
+    is filled with one card to each pile from the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>No hi ha puntuació en aquest joc.</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Un gran joc per a matar el temps, el Valentine realment no té estratègia, a no ser que l'estratègia sigui jugar en lloc de fer altres coses més importants, com anar al llit.</para>
+        </sect2>
+</sect1>

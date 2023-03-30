@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Orlí křídlo</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se po jedné lížou do otočených. Hromádka se dvakrát vrací zpět.</entry>
+	</row>
+	<row>
+	  <entry>Otočené</entry>
+	  <entry>Napravo hned vedle volných. Líže se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Na začátku hry se na první hromádku seřazených rozdá jedna karta, která se stává základní kartou. Ostatní hromádky v seřazených musí začínat kartou stejné hodnoty, jako je základní karta. Skládá se od základní karty vzestupná postupka v barvě.</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Prostřední pozice (a nejvíc dole). Rozdá se na ni třináct karet lícem dolů. Karty se lížou pro zaplnění volných míst v rozdaných. Když v rozdaných zůstane jen jedna karta, otočí se a můžete ji zahrát do seřazených nebo do rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Osm pozic (čtyři po levé straně od záložních a čtyři po pravé). Rozdává se po jedné kartě lícem nahoru na každou z hromádek. Karty můžete skládat sestupně v barvě. Přesouvat je můžete po jedné na jinou pozici v rozdaných nebo po skupinách do seřazených. Na každé hromádce v rozdaných mohou být maximálně tři karty.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v jedné barvě. Přesouvat je můžete jen po jedné na jinou hromádku v rozdaných. Pro zmírnění jednotvárnosti lze do seřazených přesouvat skupiny karet. Prázdné místo v rozdaných se automaticky zaplní ze záložních. Pokud je hromádka se záložními prázdná, můžete na volné místo položit kartu z otočených nebo jiné hromádky v rozdaných.</para>
+  <para>Hromádka se záložními slouží především k lízání karet na prázdná místa v rozdaných. Když v ní ale zůstane jen jedna karta, otočí se a můžete s ní hrát.</para>
+  <para>Karty se lížou z volných do otočených po jedné. Až je hromádka s volnými prázdná, přesunou se všechny karty z otočených zpět do volných, pořadí se zachová. Tak můžete karty projít třikrát.</para>
+  <para>V seřazených se skládají vzestupné postupky v barvě, počínaje základní kartou (tj. první karta rozdaná na první hromádku v seřazených). Nové hromádky musí začínat stejnou hodnotu, jak první karta umístěná během rozdávání. Esa se pokládají na krále a dvojky na esa. Karty v seřazených se již nevrací do hry.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Trocha plánování vám pomůže v budoucnu. Rozmyslete si hromadění karet v rozdaných. Pamatujte, že na každé pozici mohou být nanejvýše tři karty.</para>
+        </sect2>
+</sect1>

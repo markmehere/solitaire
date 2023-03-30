@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Easthaven">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Puerto Este</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Ajustes</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de baraja</entry>
+	  <entry>Baraja estándar</entry>
+	</row>
+	<row>
+	  <entry>Montón</entry>
+	  <entry>Montón de la parte superior izquierda. La baraja se coloca aquí después de repartir el tablero.</entry>
+	</row>
+	<row>
+	  <entry>Objetivo</entry>
+	  <entry>Cuatro montones en la parte superior derecha. Se construye ascendentemente desde el as hasta el rey.</entry>
+	</row>
+	<row>
+	  <entry>Tablero</entry>
+	  <entry>Siete montones en la parte inferior. Se dan dos cartas boca abajo y una carta boca arriba en cada montón.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Meta</title>
+
+  <para>Quitar todas las cartas.</para>
+
+          </sect2>
+        <sect2><title>Reglas</title>
+
+  <para>El tablero se construye descendentemente alternando el color. Las secuencias de cartas que alternan el color se pueden mover como una unidad. Los montones vacíos del tablero se pueden rellenar por reyes o por secuencias que comienzan por rey.</para>
+  <para>Cualquier hueco vacío del tablero se debe rellenar si es posible antes de dar más cartas. Pulsando en el montón se da una carta boca arriba a cada montón del tablero.  El último reparto coloca una carta boca arriba en los primeros tres montones. No hay repartos.</para>
+  <para>La fundación se construye ascendentemente por palo desde el as hasta el rey. Las cartas en la fundación no se pueden jugar más.</para>
+
+          </sect2>
+        <sect2><title>Puntuación</title>
+
+  <para>Cada carta colocada en la fundación puntúa un tanto.</para>
+  <para>Máxima puntuación posible: 52</para>
+
+          </sect2>
+        <sect2><title>Estrategia</title>
+
+  <para>Mueva las cartas a la fundación cuando pueda ya que el próximo reparto puede bloquearlas. Sin embargo, puesto que las cartas de la fundación no se encuentran más en juego, puede atascase más tarde necesitando esa carta.</para>
+        </sect2>
+</sect1>

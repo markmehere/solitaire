@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Seahaven"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Port de mar</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles: dues a la part superior esquerra i dues a la part superior dreta. Es construeix per pal des de l'as al rei.</entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>Quatre piles a la part superior central. Cada pila de la reserva només pot tenir una carta. Per començar es reparteix una carta en dues de les reserves.</entry>
+	</row>
+	<row>
+	  <entry>Tauler</entry>
+	  <entry>Deu piles sota la base i les reserves. Les altres cinquanta cartes es reparteixen cara amunt aquí amb cinc cartes a cada lloc.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>Moure totes les cartes a les piles base.</para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>El tauler es construeix baixant per pal. Només es pot moure la carta superior o les construccions de cartes. Una construcció de cartes només es pot moure si el número de cartes construït és igual o inferior al número de llocs buits a la reserva. Els espais buits al tauler només es poden omplir amb un rei o una construcció que comenci amb un rei.</para>
+  <para>Les bases es construeixen pujant per pal des de l'as al rei. Tot i que les cartes de les bases tècnicament encara estan en joc, no hi ha cap necessitat real de jugar aquestes cartes ja que no ajuden de cap manera.</para>
+  <para>Qualsevol carta superior al tauler es pot col·locar a un lloc buit de la reserva. Aquestes cartes estan disponibles per a tornar-les a jugar al tauler o a una pila base.</para>
+  <para>Per comoditat, les seqüències del mateix pal es poden moure a una pila base coincident en lloc de moure-les individualment. Això és especialment útil al final de la partida.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta col·locada a les piles base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Moveu qualsevol carta que pugueu a les bases quan sigui possible. Deixant-les només dificultareu els moviments.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.pazolli.Solitaire.help</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Solitaire</string>
+	<key>CFBundlePackageType</key>
+	<string>BDNL</string>
+	<key>CFBundleSignature</key>
+	<string>hbwr</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7</string>
+	<key>CFBundleVersion</key>
+	<string>7</string>
+	<key>HPDBookAccessPath</key>
+	<string>index.html</string>
+	<key>HPDBookKBProduct</key>
+	<string>Solitaire1</string>
+	<key>HPDBookTitle</key>
+	<string>Solitaire Help</string>
+	<key>HPDBookType</key>
+	<string>3</string>
+</dict>
+</plist>

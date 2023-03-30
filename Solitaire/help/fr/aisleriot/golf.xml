@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Golf"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>zana@webwynk.net</email>
+    </address>
+  </sect1info>-->
+
+  <title>Golf</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Pas de redistribution.</entry>
+	</row>
+	<row>
+	  <entry>Défausse</entry>
+	  <entry>Les cartes sont retournées ici depuis la pioche. La carte supérieure peut être jouée.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Sept piles. On distribue cinq cartes face visible sur chaque pile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers la défausse.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>La défausse est à construire en montant ou en descendant à partir des cartes du tableau. Seuls les Deux peuvent êtres placés sur les As et rien ne peut être placé sur un Roi.</para>
+  <para>Les cartes sont distribuées une à une de la pioche vers la défausse. Pas de redistribution.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte déplacée du tableau vers la défausse vaut un point.</para>
+  <para>Score maximum possible : 35</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Souvenez-vous que rien ne peut être joué sur un Roi. Essayez de créer des suites où beaucoup de cartes peuvent être jouées sans nouvelle carte depuis la pioche.</para>
+        </sect2>
+</sect1>

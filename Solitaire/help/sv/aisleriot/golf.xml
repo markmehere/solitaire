@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Golf"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address>
+      <email>zana@webwynk.net</email>
+    </address>
+  </sect1info>-->
+
+  <title>Golf</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Placera de återstående korten här. Korten vänds ett i taget till kasthögen. Inga omgivar.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Sju högar. Dela fem kort med framsidan upp på varje hög.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till kasthögen.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Kasthögen kan byggas upp eller ner från de tillgängliga korten på bordshögarna. Endast tvåor kan placeras på ess och inget kort efter kungen.</para>
+  <para>Korten vänds ett och ett från högen till kasthögen. Inga omgivar.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort som flyttas från bordshögarna till kasthögen ger en poäng.</para>
+  <para>Högsta möjliga poäng: 35</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Kom ihåg att inget kort kan spelas på en kung. Försök att skapa sviter där många kort kan tas bort utan att ett nytt kort vänds från högen.</para>
+        </sect2>
+</sect1>

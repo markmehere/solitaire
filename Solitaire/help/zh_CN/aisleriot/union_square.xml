@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Union_Square"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>联合广场</title>
+
+	<para>Rosanna Yuen 编写</para>
+
+	        <sect2><title>牌局</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>两副牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角牌垛，放置桌面上发剩下的牌，每次往废牌区发一张牌，不能重复。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>从发牌区中发过来，最上面一张可以用在游戏中。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>摆成四行四列翻开的十六垛牌，每垛最上面的牌可用于游戏。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>右边四垛牌，收牌区按花色从 A 到 K 收牌，然后再从 K 到 A。</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>目标</title>
+
+	<para>把所有的牌移到收牌区。</para>
+
+	        </sect2>
+        <sect2><title>规则</title>
+
+	<para>桌面上的牌既可以按递增排列，也可以递减排列，但是，每垛牌只能按一种顺序，例如，如果一个牌垛上是梅花三压着梅花二，下一张只能放梅花四，空位可以放任何牌。</para>
+	<para>收牌区按花色从 A 到 K 收牌，然后接着放一张 K 再到 A，羸的时候每垛放26张牌。收牌区的牌不能再参与到游戏中。</para>
+	<para>发牌区每次发一张牌到废牌区，最上面的牌可用于游戏，不能重复。</para>
+
+	        </sect2>
+        <sect2><title>得分</title>
+
+	<para>每移动一张牌到收牌区得一分。</para>
+	<para>可能得到的最高分：104</para>
+
+	        </sect2>
+        <sect2><title>策略</title>
+
+	<para>一串珠子要从最后一个接着添加，因而您的牌垛也是这样，用好那些空位来添加牌。这个游戏只需一点点的坚持，就能得到非常大的欢乐。</para>
+        </sect2>
+</sect1>

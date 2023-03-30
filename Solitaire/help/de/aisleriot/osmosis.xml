@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Osmosis"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Osmosis</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Reservestapel</entry>
+		<entry>
+			Four spread piles on left.  Deal three cards face down and one
+			card face up in each Reserve pile.  No building allowed.
+		</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Stapel zur Rechten. Eine Karte wird auf den ersten Fundamentstapel ausgegeben.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Legen Sie alle verbleibenden Karten hier ab. Die Karten werden einzeln auf den Reststapel aufgedeckt. Zwei Neuverteilungen.</entry>
+	</row>
+	<row>
+		<entry>Ablage</entry>
+		<entry>Es wird vom Talon gespielt. Die oberste Karte ist für das Spiel verfügbar.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>
+		Any card of the suit in the first Foundation can be played on to this
+		Foundation pile at any time. Each ensuing Foundation can only be
+		started with a card of the same rank as this first card.  Once
+		started, these latter foundations can be built on in suit as long as a
+		card of the same rank already exists in the Foundation directly above
+		it.  Play cards from Reserves whenever possible following these rules.
+	</para>
+	<para>Karten werden vom Talon auf den Restestapel einzeln aufgedeckt. Die oberste Karte auf dem Restestapel ist im Spiel. Legen Sie alle Karten in bleibender Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. Sie können drei Mal das Kartendeck durcharbeiten.</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+	<para>Drei Karten geben: Geben Sie drei Karten gleichzeitig vom Talon zum Restestapel und ermöglichen Sie so unbegrenzte Neuverteilungen.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede auf dem Fundamentstapel abgelegte Karte zählt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		It's no coincidence that solitaire games are also known as "patience
+		games". Do not automatically put first available card on the second
+		(and third) foundation piles.  Sometimes it is worth using a different
+		suit so as to free up more cards in the Reserves.
+	</para>
+        </sect2>
+</sect1>

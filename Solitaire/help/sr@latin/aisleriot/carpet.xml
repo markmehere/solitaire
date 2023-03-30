@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Carpet"><!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Tepih</title>
+
+  <para>Napisao Vincent Povirk</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Ostatak špila se posle deljenja stavlja ovde. Karte se, jedna po jedna, okreću na otpad. Nema ponovnih deljenja.</entry>
+	</row>
+	<row>
+	  <entry>Otpad</entry>
+	  <entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+	<row>
+	  <entry>„Temelj“</entry>
+	  <entry>Četiri gomile gore desno. Slažu se po znaku, od asa do kralja. Asovi se uklanjaju pre deljenja i postavljaju se na „temelje“.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>„Tepih“. Četiri reda od po pet otvorenih karata. Karte na talonu su u igri. Nema slaganja. Prazna mesta se automatski popunjavaju sa otpada ako je moguće, ili iz gomile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Pomeriti sve karte u gomile na „temelju“.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte na talonu su u igri.</para>
+  <para>Karte se, jedna po jedna okreću sa gomile na otpad. Karta sa vrha otpada je u igri. Nema ponovnih deljenja.</para>
+  <para>„Temelji“ se slažu od asa do kralja. Karte na „temelju“ su u igri. Duplim klikom karta se premešta na odgovarajući „temelj“ ako je takav potez moguć.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaka karta na „temelju“ donosi jedan poen.</para>
+  <para>Najveći mogući broj poena: 48</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Samo stavljajte šta god možete na „temelje“.</para>
+        </sect2>
+</sect1>

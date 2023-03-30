@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Veselé Gordony</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Záložní</entry>
+	  <entry>Levá horní hromádka. Rozdají se na ni dvě karty lícem nahoru. Vrchní karta je ve hře. Nelze znovu zaplnit nebo přeskládat.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Deset hromádek. Na každou se rozdá pět karet lícem nahoru. Vrchní karta v každé hromádce je ve hře. Prázdné hromádky nelze zaplnit.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Odebírejte karty v párech, u kterých je součet jedenáct. Král se páruje s dámou. Kluk se páruje s jiným klukem.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Za každý odebraný pár karet dostanete 2 body.</para>
+  <para>Maximální možný počet bodů: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Snažte se odkrýt karty, které jsou pohřbeny pod svojí párovou kartou.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Bear_River"><!--<sect1info>
+	  <copyright>
+	   <year>2009</year>
+	   <holder>Joel Levin</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Joel</firstname>
+	   <surname>Levin</surname>
+	  </author>
+	  <address><email>JoelNYC@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>Rivière des ours</title>
+
+  	<para>Écrit par Bruce et Joel Levin</para>
+
+
+          <sect2><title>Configuration</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Quatre piles en haut. On distribue une carte face visible sur la première fondation.</entry>
+	</row>
+
+	<row>
+	  <entry>Tableau</entry>
+    	  <entry>18 piles de tableau sont disposées en trois rangées de six piles chacune. Toutes les cartes sont distribuées face visible et éventées de sorte que toutes les cartes soient visibles. Les cinq premières piles de chaque rangée commencent avec trois cartes chacune. La sixième pile de chaque rangée commence par deux cartes.</entry>
+	</row>
+
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+          
+          
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Règles</title>
+
+  <para>Une carte aléatoire a déjà été distribuée sur une pile des fondations. Le rang de cette carte devient la carte de base. Les trois autres cartes de même rang peuvent être déplacées sur une fondation vide. Les fondations sont constituées par ordre croissant, de même couleur. Les cartes peuvent se suivre de la Reine au Roi puis à l'As et au Deux. Les cartes des fondations ne peuvent plus être déplacées sur des piles du tableau.</para>
+  <para>Les piles du tableau ne peuvent pas contenir plus de trois cartes. La carte supérieure de chaque pile du tableau peut être déplacée sur n'importe quelle autre pile du tableau si la couleur correspond et si sa valeur est juste inférieure ou juste supérieure à la carte supérieure de la pile de destination. L'As suit le Roi si nécessaire.</para>
+  <para>Il existe deux types de piles du tableau : les piles « standard » et les piles « trou ». Les cinq premières piles de chaque rangée (celles avec trois cartes) sont les piles standard. Une pile standard vide ne peut PAS recevoir de nouvelle carte. La dernière pile de chaque rangée (celles avec deux cartes) sont les piles trou. Une pile trou vide peut recevoir une nouvelle carte.</para>
+  
+          </sect2>
+
+
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut un point.</para>
+  <para>Score maximum possible : 52</para>
+
+          </sect2>
+          
+          
+        <sect2><title>Stratégie</title>
+
+  <para>Essayez de libérer une ou plusieurs piles trou le plus vite possible.</para>
+  <para>Il n'y a jamais de désavantage dans le transfert de cartes vers les fondations. Déplacez-en autant que possible, dès que possible.</para>
+  <para>Les cartes qui ont un rang juste inférieur à la carte de base peuvent être très difficiles à déplacer. Faites attention où vous les placez.</para>
+  <para>Il est possible de gagner à Rivière des ours environ une fois sur trois.</para>
+  
+        </sect2>
+        
+        
+</sect1>

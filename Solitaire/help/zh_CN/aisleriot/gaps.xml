@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>缝隙</title>
+
+  <para>Zach Keene 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>纸牌类型</entry>
+	  <entry>标准纸牌</entry>
+	</row>
+	<row>
+	  <entry>发牌区</entry>
+	  <entry>所有的牌都放在四行中，每行13张牌，A 被丢弃，剩下四个空位，可以重发两次牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有的牌按花色从2到 K 排列。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>最左边一列的空位可以放任意一张2，最右边的空位可以放任意一张非 K 的牌，需要是跟它左边相同花色，但是大一点数的牌。K 后面的空位不能放牌，空位后面的空位也不能放牌。</para>
+  <para>如果一行牌是从2开头的连续牌，就不能再移动它们了。</para>
+  <para>如果没有可移动的牌(比如，所有的空位都在 K 的后面)，此时双击任意一张牌来重新发牌，所有没排序的牌都会拿走重新发牌，只能重发两次。</para>
+
+            </sect2>
+        <sect2><title>选项</title>
+
+    <para>重发时随机放置空位：选中此项，在重发时随机放置四个空位，如果没有选中，所有空位直接放在已排好序的右边。</para>
+
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>如果是2开头的一行，每张牌按顺序排列将得1分。</para>
+  <para>可能得到的最高分是：48</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>移动出空位时，尽量不要让空位出现在 K 的后面。</para>
+        </sect2>
+</sect1>

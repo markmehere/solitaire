@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Terrace"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>David Rogers</holder>
+		</copyright>
+		<author>
+			<firstname>David</firstname>
+			<surname>Rogers</surname>
+		</author>
+		<address><email>ezekiel000@lavabit.com</email></address>
+	</sect1info>-->
+
+	<title>Terrace</title>
+
+  <para>Skrivet av David Rogers</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Två kortlekar</entry>
+	</row>
+	<row>
+	  <entry>Hög</entry>
+	  <entry>Högen längst upp till vänster. Resten av kortleken placeras här efter att ha fördelat korten till reservhögarna och bordshögen. Korten vänds ett och ett till kasthögen. Högen kan inte vändas.</entry>
+	</row>
+	<row>
+	  <entry>Kasthög</entry>
+	  <entry>Tas från Högen. Översta kortet är spelbart.</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Elva kort delade med framsidan upp i en hög. Alla kort är synliga men bara det översta kortet är i spel.</entry>
+	</row>
+	<row>
+	  <entry>Grundhög</entry>
+	  <entry>Åtta högar i mitten. Byggs upp i svit genom att växla kulören från grundkortet.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+    	  <entry>Nio utdelade kort med framsidan upp från leken efter att grundkortet har valts.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Flytta alla korten till grundhögarna.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Bordshögarnas kort byggs ned i svit genom att alternera kulören (röd/svart), gå från ess till kung. Sviter av kort kan inte flyttas. En tom plats i bordshögarna måste fyllas av det översta kortet i kasthögen eller nästa kortet från högen. De översta korten kan flyttas till en grundhög eller till någon av de övriga bordshögarna.</para>
+  <para>Grundhögarna byggs upp i ordningsföljd genom att alternera kulören från grundkortet. Tomma grundhögsplatser måste fyllas med ett grundkort som väljs av användaren från fyra slumpmässiga kort i det första steget. Kort i grundhögarna är inte i spel.</para>
+  <para>Översta kortet i reservhögen är i spel och kan bara flyttas till grundhögarna.</para>
+  <para>Korten vänds från högen till kasthögen individuellt så många gånger du vill bara det inte finns en tom plats bland bordshögarna. Om det finns en tom plats i bordshögarna kan endast ett kort vändas från högen till kasthögen innan bordshögarna åter skall vara fyllda eller det översta kortet i kasthögen flyttas till en grund- eller bordshög. Medan högen är låst kan du fortfarande flytta runt korten på bordshögarna, från reservhögen och till grundhögarna. Om kasthögen är tom delas automatiskt ett kort från högen ut. Översta kortet i kasthögen är i spel. Högen kan inte vändas.</para>
+  <para>Dubbelklicka på ett kort kommer att flytta det till rätt grundhög om ett sådant drag är möjligt.</para>
+
+          </sect2>
+        <sect2><title>Alternativ</title>
+
+  <para>Det finns sju sätt att spela. Skillnaden mellan dem är i antalet reservkort, bordshögarna eller valet av grundkort.</para>
+  <para>Terrace</para>
+  <para>11 reservkort, 9 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet genom att alternera kulören. Användarens val av grundkortet från urvalet av fyra kort i början av spelet och ett kort delas ut till varje bordshögplats. Högen kan inte vändas.</para>
+  <para>Generalens patiens</para>
+  <para>13 reservkort, 9 bordshögar. Grundhögarna byggs upp i ordningsföljd från Grundkortet i färg. Användarens val av grundkortet från urvalet av fyra kort i början av spelet och ett kort delas ut till varje bordshögplats. Högen kan vändas en gång men spelet är förlorat om du inte kan spela varje nytt kort efter högen har vänts.</para>
+  <para>Stjärnfall</para>
+  <para>11 reservkort, 9 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet i alternerande kulör. I början av spelet väljs automatiskt ett grundkort och ett kort delas ut till varje bordshögplats. Högen kan inte vändas.</para>
+  <para>Signora</para>
+  <para>11 reservkort, 9 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet i alternerande kulör. I början av spelet väljs automatiskt ett grundkort och ett kort delas ut till varje bordshögplats. Tomma platser i bordshögarna fylls automatiskt från kasthögen eller från högen om kasthögen skulle vara tom. Högen kan inte vändas.</para>
+  <para>Rödhåriga</para>
+  <para>21 reservkort, 8 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet i alternerande kulör. I början av spelet väljs automatiskt ett grundkort och ett kort delas ut till varje bordshögplats. Tomma platser i bordshögarna fylls automatiskt från reservhögen eller något annat kort om reservhögen skulle vara tom. Högen kan inte vändas.</para>
+  <para>Blondiner och brunetter</para>
+  <para>10 reservkort, 8 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet i alternerande kulör. I början av spelet väljs automatiskt ett grundkort och ett kort delas ut till varje bordshögs plats. Högen kan inte vändas.</para>
+  <para>Wood</para>
+  <para>10 reservkort, 9 bordshögar. Grundhögarna byggs upp i ordningsföljd från grundkortet i alternerande kulör. I början av spelet väljs automatiskt ett grundkort och ett kort delas ut till varje bordshögplats. Högen kan inte vändas.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje kort i grundhögarna ger en poäng.</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>När spelet börjar undersök noga reservhögen innan du väljer ditt grundkort, undvik grundkort där flera är begravda bland reservkorten.</para>
+  <para>Se upp för omvända sviter i högen, reservera en grundhög för att ta bort omvända sviter.</para>
+  <para>Försök att starta bordshögar med det sista kortet som behövs för att slutföra en grundhög.</para>
+  <para>Kom ihåg att du kan fortsätta att vända upp kort från högen medan den är låst utan att fylla tomrummet i bordshögarna genom att använda det översta kortet i kasthögen.</para>
+        </sect2>
+</sect1>

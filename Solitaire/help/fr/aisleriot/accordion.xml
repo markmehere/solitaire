@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Accordéon</title>
+
+  <para>Écrit par Ed Sirett</para>
+
+          <sect2><title>Configuration</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Type de paquet</entry>
+		<entry>Paquet standard</entry>
+	</row>
+
+	<row>
+		<entry>Tableau</entry>
+		<entry>Cinquante-quatre cases en cinq rangées de neuf et une dernière de sept. Les cartes sont distribuées face visible, une par case. Les cases doivent être considérées comme une ligne continue, les rangées ne sont là que pour disposer le tableau afin qu'il soit visible en entier. Par conséquent, la case la plus à droite d'une ligne doit être considérée comme étant à gauche de la case la plus à gauche de la ligne du dessous.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Enlever toutes les cartes sauf une.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les cartes sont déplacées une à une. Chaque carte peut être déplacée sur une autre carte de la même couleur ou du même rang qui se trouve dans la case immédiatement à gauche ou dans les 3 cases de gauche. La carte qui est recouverte est éliminée du jeu. Toutes les cartes (s'il y en a) des cases à droite de l'emplacement vide sont déplacées vers la gauche afin de combler l'espace vide. Un double-clic déplace la carte de trois cases, si c'est possible, sinon d'une case vers la gauche.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte retirée vaut un point.</para>
+  <para>Score maximum possible : 51</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Il s'agit d'un jeu difficile. Essayez de trouver deux ou trois cartes du même rang dans ou proche de la dernière rangée. Essayez de ne pas retirer de carte de ce rang. À la fin, vous pouvez déplacer ces cartes les unes sur les autres pour gagner.</para>
+        </sect2>
+</sect1>

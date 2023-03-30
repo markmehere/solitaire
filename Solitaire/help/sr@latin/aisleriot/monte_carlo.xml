@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Monte_Carlo"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Monte Karlo</title>
+
+  <para>Napisala Rosanna Yuen</para>
+
+          <sect2><title>Postavka</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tip špila</entry>
+	  <entry>Standardni špil</entry>
+	</row>
+	<row>
+	  <entry>Gomila</entry>
+	  <entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se dele tako što se talon spoji na prazna mesta.</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Mreža pet sa pet, gde svako mesto može da drži po jednu kartu. Na početku se deli jedna karta na svako od mesta. Prazna mesta se mogu popunjavati pomerajući karte sa desna na levo, a od mesta skroz levo na skroz desno mesto u redu iznad i sa gomile na sva preostala prazna mesta klikom na nju.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cilj</title>
+
+  <para>Ukloniti sve karte.</para>
+
+          </sect2>
+        <sect2><title>Pravila</title>
+
+  <para>Karte se mogu ukloniti u parovima ako imaju istu vrednost i ako se dodiruju vodoravno, uspravno ili dijagonalno.</para>
+  <para>U svakom trenutku ako ima praznih mesta, deljenje sa gomile će pomeriti sve karte sa desna na levo i pomerajući ih skroz desno u redu iznad ako su skroz levo u redu ispod, praveći tako mesta za deljenje novih karata. Sa gomile se onda deli na ova prazna mesta.</para>
+
+          </sect2>
+        <sect2><title>Bodovanje</title>
+
+  <para>Svaki uklonjeni par karata donosi dva poena.</para>
+  <para>Najveći mogući broj poena: 52</para>
+
+          </sect2>
+        <sect2><title>Strategija</title>
+
+  <para>Držite na oku kako se talon sažima kada delite karte. Nekad je bolje ostaviti par da bi posle deljenja bilo više parova.</para>
+        </sect2>
+</sect1>

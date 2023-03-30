@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Lady_Jane"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Lady Jane</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Zde se po rozdání položí zbytek karet. Karty se lížou po jedné do všech hromádek v záložních. Když ve volných zbývají už jen dvě karty, obě se otočí a jsou k dispozici do hry.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky vpravo nahoře. Po té, co jsou rozdány karty do rozdaných a záložních, rozdá se jedna karta do první hromádky seřazených. Tato karta je nyní základní kartou. Sestavují se vzestupné postupky v barvě.</entry>
+	</row>
+	<row>
+		<entry>Záložní</entry>
+		<entry>Sedm hromádek napravo. Vrchní karta v každé z hromádek je dispozici do hry buď do rozdaných nebo do seřazených. Prázdné pozice se nezaplňují, dokud si nelíznete.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Sedm hromádek. Rozdá se jedna karta lícem nahoru na první hromádku. Pak se pokládá po jedné kartě lícem dolů na další hromádky. Položí se jedna karta lícem nahoru na následující hromádku a následuje po jedné kartě lícem dolů na všechny další hromádky. Postup se opakuje, až je na poslední hromádce sedm karet. V rozdaných kartách můžete skládat sestupné postupky v barevnosti na střídačku. Lze přesouvat skupiny karet. Prázdné pozice můžete obsadit kartou, která má hodnotu o jednu nižší, než základní karta, nebo skupinou karet začínající kartou, s takovouto hodnotou.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty na hromádky v seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Lze přesouvat skupiny karet. Na prázdnou pozici v rozdaných můžete položit kartu, která má hodnotu o jedna nižší, než základní karta, nebo skupinu karet začínající kartou s takovouto hodnotou.</para>
+	<para>Karty se lížou s volných do záložních. Vždy se lízne po jedné kartě na každou hromádku v záložních.</para>
+	<para>Vrchní karta v každé hromádce záložních je vždy k dispozici do hry, buď do rozdaných nebo do seřazených. V záložních nemůžete nijak skládat.</para>
+	<para>Hromádky v seřazených musíte skládat do postupek v barvě počínaje základní kartou. Nová hromádka se založí položením karty, která má stejnou hodnotu jako základní karta, na prázdnou pozici v seřazených. Esa se pokládají na krále a dvojky na esa. Karty v seřazených jsou stále ve hře. Dvojitým kliknutím se dá karta přesunout na příslušné místo v seřazených, pokud je takový tah možný.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Každá karta v seřazených je hodnocená 1 bodem.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Čím hlouběji něco je, tím hůře se k tomu dostává. Snažte se dostat karty z hromádek v záložních kdykoliv je to možné.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Сэр Томми</title>
+
+  <para>Написано Розанной Юен (Rosanna Yuen)</para>
+
+          <sect2><title>Описание</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип колоды</entry>
+	  <entry>Стандартная</entry>
+	</row>
+	<row>
+	  <entry>Колода</entry>
+	  <entry>Верхняя левая стопка. В начале игры все карты помещаются сюда. Карты сдаются по одной на сброс.</entry>
+	</row>
+	<row>
+	  <entry>Сброс</entry>
+	  <entry>Справа от колоды. Может содержать только одна карту, которую сразу нужно поместить в выбранную вами стопку основания или резерва.</entry>
+	</row>
+	<row>
+	  <entry>Основание</entry>
+	  <entry>Четыре стопки наверху, справа от сброса. Карты в основаниях собираются по возрастанию от туза до короля без учёта масти.</entry>
+	</row>
+	<row>
+	  <entry>Резервы</entry>
+	  <entry>Четыре стопки под основаниями. Карты из резервов можно только перемещать на основания.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Задача</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Карты в основаниях собираются по порядку от туза до короля не глядя на масть. Карты из оснований перемещать нельзя. Из колоды карты сдаются на сброс по одной. При этом в сбросе может лежать только одна карта, которую сразу нужно переложить в одну из стопок оснований или в резерв. Перекладывать карты в резерве нельзя.</para>
+
+          </sect2>
+        <sect2><title>Подсчёт очков</title>
+
+  <para>За каждую перемещённую в основания карту даётся одно очко.</para>
+  <para>Максимальное количество очков: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегия</title>
+
+  <para>Старайтесь не класть в резерве карты большого достоинства на карты меньшего.</para>
+        </sect2>
+</sect1>

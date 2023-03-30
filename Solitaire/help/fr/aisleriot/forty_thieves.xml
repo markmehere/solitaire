@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Forty_Thieves"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed Sirett</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed@makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Les quarante voleurs</title>
+
+  <para>Écrit par Ed Sirett</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet double</entry>
+	</row>
+	<row>
+	  <entry>Pioche</entry>
+	  <entry>Pile en haut à gauche. Le reste du paquet est placé ici après la distribution dans le tableau. Les cartes sont distribuées une à une dans la défausse. La carte du dessus de la défausse est disponible pour le jeu.</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Huit piles en haut à droite. À construire en montant par couleur de l'As au Roi.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+    <entry>Dix piles. On distribue quatre rangées face visible pour commencer. Les piles du tableau peuvent être construites en descendant par couleur. Les cartes sont déplacées individuellement. Les piles vides peuvent être remplies par n'importe quelle carte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer toutes les cartes vers les fondations.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les piles du tableau sont construites en descendant par couleur. Les cartes ne peuvent être déplacées qu'individuellement. Une pile vide du tableau peut être remplie par n'importe quelle carte. À titre de raccourci, il est possible d'en déplacer plusieurs s'il y a suffisamment d'espaces vides. Les cartes peuvent également être déplacées en groupe sur les piles des fondations.</para>
+  <para>Les cartes sont retournées une à une de la pioche vers la défausse. La carte du dessus de la défausse est disponible pour être jouée. Pas de redistribution.</para>
+  <para>Les fondations sont à construire par couleur de l'As au Roi. Double-cliquer sur une fondation joue automatiquement les cartes. Double-cliquer sur une carte du tableau ou de la défausse la déplace vers la fondation appropriée si un tel déplacement est possible, ou vers le tableau, le cas échéant.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque carte dans les fondations vaut 5 points. Quand une fondation est complète (de l'As au Roi), cela vaut 60 points supplémentaires.</para>
+  <para>Score maximum possible : 1000</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Évitez d'amener des cartes dans le tableau afin d'obtenir un espace vide aussi vite que possible. Ensuite, gardez un équilibre entre la nécessité de maintenir des espaces vides et le fait d'empêcher les cartes basses d'être enfouies au fond de la défausse.</para>
+        </sect2>
+</sect1>

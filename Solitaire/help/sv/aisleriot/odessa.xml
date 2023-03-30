@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Odessa</title>
+
+	<para>Skrivet av Rosanna Yuen</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Grundhög</entry>
+		<entry>Fyra högar till vänster. Byggs i färg från ess till kung.</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Sju högar. Dela ut tre rader med framsidan nedåt följt av tre rader med framsidan uppåt. Dela sedan ut två rader med framsidan uppåt i de fem mittersta högarna.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Flytta alla korten till grundhögarna.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort i bordshögarna byggs ned i färg. Grupper av kort kan flyttas oberoende av sekvens. Sviter av kort kan flyttas till en passande grundhög. En tom bordshög kan fyllas med en kung eller en svit av kort med en kung i botten.</para>
+	<para>Grundhögarna byggs upp i färg från ess till kung. Kort i grundhögarna är inte längre i spel.</para>
+
+	        </sect2>
+        <sect2><title>Alternativ</title>
+
+	<para>Ingen</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>När spelet läggs ut, är varje kort i en fallande svit i färg värda en poäng per kort. Varje flyttning i bordshögarna ger en poäng för varje kort i den nyskapade sviten. En poäng ges också för varje kort som placeras på grundhögarna.</para>
+	<para>Högsta möjliga poäng: 412</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Ju mer du kan hålla kvar, desto mer kommer du att ha. Försök att undvika att bygga på grundhögarna så länge som möjligt. Ju längre sviter, desto fler poäng tjänar du.</para>
+        </sect2>
+</sect1>

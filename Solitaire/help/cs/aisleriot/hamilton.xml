@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Hamilton">  <!--<sect1info>
+    <copyright>
+      <year>2014</year>
+      <holder>Timothy Goodwin</holder>
+    </copyright>
+    <author>
+      <firstname>Timothy</firstname>
+      <surname>Goodwin</surname></author>
+    <address><email>toby@flare.email</email></address>
+  </sect1info>-->
+
+  <title>Hamilton</title>
+
+  <para>Napsal Timothy Goodwin</para>
+
+  <sect2><title>Podmínky</title>
+
+    <informaltable>
+      <tgroup cols="2">
+        <tbody>
+          <row>
+            <entry>Typ sady</entry>
+            <entry>Standardní sada karet</entry>
+          </row>
+          <row>
+            <entry>Volné</entry>
+            <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. První tři karty mohou být po jedné otočeny do volených. Po zvolení počáteční karty každé kliknutí na volné lízne po jedné kartě lícem nahoru do jednotlivých hromádek v rozdaných.</entry>
+          </row>
+          <row>
+            <entry>Volené</entry>
+            <entry>Nalevo, vedle volných. Dokud je volena počáteční karta, kliknutí na volné lízne horní kartu lícem nahoru do volených. Tuto kartu můžete přesunou do seřazených a stane se z ní počáteční karta. Nebo znovu kliknete na volné a karta se vrátí dospod hromádky volných lícem dolů a na její místo se lízne další.</entry>
+          </row>
+          <row>
+            <entry>Seřazené</entry>
+            <entry>Čtyři hromádky vpravo nahoře. Musíte je poskládat vzestupně v barvě od zvolené počáteční karty po krále, následovaného esem po kartu s hodnotou o jedna nižší, než je počáteční karta.</entry>
+          </row>
+          <row>
+            <entry>Rozdané</entry>
+            <entry>Sedm hromádek. Rozdá se jedna karta lícem nahoru na každou hromádku. V druhé řadě se začne na druhé hromádce a vyjma první hromádky se na všechny rozdá jedna karta lícem nahoru. Tak se pokračuje, až je v poslední hromádce sedm karet. V rozdaných lze skládat sestupné postupky ve stejné barevnosti. Skupiny karet ve správném pořadí a barvě lze přesouvat. Prázdné pozice lze zaplnit libovolnou kartou nebo skupinou karet ve správném pořadí a barvě.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+
+  </sect2>
+
+  <sect2><title>Cíl</title>
+    <para>Přesunout všechny karty do seřazených.</para>
+  </sect2>
+
+  <sect2><title>Pravidla</title>
+    <para>Hra začne tím, že se otočí horní karta z volných na hromádku volených. Od tam ji můžete přesunout do seřazených a stane se tak počáteční kartou pro tuto hru. Pokud si ji nezvolíte, karta se z volených vrátí lícem dolů dospodu hromádky volných a z vrchu se otočí další karta do volených. V případě, že si nezvolíte ani jednu z prvních tří karet, hra končí. Dvojitým kliknutím na volené se karta přesune do seřazených.</para>
+    <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti. Krále lze položit na eso (pokud eso není počáteční kartou). Skupiny karet, které jsou v barvě, je možné přesouvat. Prázdnou pozici v rozdaných je možné obsadit libovolnou kartou nebo skupinou karet, které jsou ve správném pořadí a v jedné barvě.</para>
+    <para>V seřazených se skládají vzestupné postupky v barvě, počínaje počáteční kartou po krále, následovaného esem, dvojkou a tak dále, až po kartu o jedna menší, než počáteční karta. Například, když začnete sedmičkou, skládají se seřazené od sedmičky po krále a pak eso až šestku. Karty v seřazených jsou stále ve hře.</para>
+    <para>Skupinu karet, které jsou seřazené a ve stejné barvě, je možné do seřazených přesunout v jednom tahu naráz. Dvojitým kliknutím na hromádku v rozdaných přesunete všechny možné karty z této hromádky do seřazených.</para>
+  </sect2>
+
+  <sect2><title>Bodování</title>
+    <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+    <para>Maximální možný počet bodů: 52</para>
+  </sect2>
+
+  <sect2><title>Strategie</title>
+    <para>Volby provádějte moudře. Když nemůžete do seřazených přesunout všechny viditelné karty s počáteční hodnotou, těžko můžete vyhrát. Prázdné místo v rozdaných je neocenitelné.</para>
+  </sect2>
+
+  <sect2><title>Věnování</title>
+    <para>Tato hra je věnována mému otci (Geoffrey Hamilton Goodwin nar. 1937) a je po něm i pojmenována. U solitérových her měl naučil mít spoustu trpělivosti. Oba považujeme Hamilton za nejzajímavější jednobalíčkovou hru.</para>
+  </sect2>
+
+  <sect2><title>Odkazy</title>
+    <para>Tato hra se nachází pod názvem <emphasis>Agnes</emphasis> v knize <emphasis>Games of Patience</emphasis> od <emphasis>Basila Daltona</emphasis>, Londýn 1924.</para>
+  </sect2>
+</sect1>

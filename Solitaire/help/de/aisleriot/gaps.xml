@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gaps"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Zach Keene</holder>
+    </copyright>
+    <author>
+      <firstname>Zach</firstname>
+      <surname>Keene</surname>
+    </author>
+    <address><email>zjkeene@bellsouth.net</email></address>
+  </sect1info>-->
+
+  <title>Gaps</title>
+
+  <para>Geschrieben von Zach Keene</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Alle Karten werden in vier Reihen mit jeweils 13 Karten ausgeteilt; anschließend werden die Asse herausgenommen, sodass vier Lücken entstehen. Zwei Neuverteilungen sind erlaubt.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten werden in Folge von 2 bis König nach Farbe abgelegt.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Lücken in der Spalte ganz links dürfen mit einer Zwei jeder Farbe belegt werden. Lücken rechts einer jeden Karte, die kein König ist, dürfen mit einer Karte derselben Farbe und dem nächsthöheren Wert aufgefüllt werden. Lücken hinter Königen und andere Lücken dürfen nicht belegt werden.</para>
+  <para>Sobald eine Karte in eine Kartenfolge, die mit einer Zwei beginnt, in der ganz linken Spalte gelegt wurde, darf sie nicht mehr bewegt werden.</para>
+  <para>Sofern keine Züge mehr möglich sind (z.B. weil alle Lücken auf Könige folgen), werden die Karten per Doppelklick neu verteilt. Alle Karten, die sich nicht einer Kartenfolge befinden, werden entfernt, gemischt und neu ausgeteilt. Es sind nur zwei Neuverteilungen erlaubt.</para>
+
+            </sect2>
+        <sect2><title>Optionen</title>
+
+    <para>
+     Randomly Placed Gaps on Redeal: Check this to have randomly placed gaps 
+ after a redeal. If unchecked, the gaps will always be placed directly to the 
+ right of any cards already in sequence after redealing.
+    </para>
+
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>
+    Each card placed in sequence, starting with a two in the leftmost slot,
+    is worth one point.
+  </para>
+  <para>Maximal erzielbare Punkte: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>
+    Put off making any move that will add a gap after a king for as long as possible.
+  </para>
+        </sect2>
+</sect1>

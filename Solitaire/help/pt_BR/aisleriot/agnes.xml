@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Agnes"><!--<sect1info>
+  	<copyright>
+  	 <year>2001</year>
+  	 <holder>Rosanna Yuen</holder>
+  	</copyright>
+  	<author>
+  	 <firstname>Rosanna</firstname>
+  	 <surname>Yuen</surname>
+  	</author>
+  	<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Agnes</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+  <sect2><title>Configuração</title>
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>Pilha superior esquerda. O restante do baralho é colocado aqui após divisão das cartas no tabuleiro. Cartas são divididas em grupos de sete, uma em cada pilha do tabuleiro.</entry>
+	</row>
+	<row>
+	  <entry>Fundação</entry>
+	  <entry>Quatro pilhas superiores direita. Para ser montadas em naipe e sequência, do rei ao ás quando necessário. Uma carta é colocada em cima da primeira pilha da fundação. As outras pilhas fundações devem ser iniciadas com cartas da mesma classe.</entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+    <entry>Sete pilhas. Distribua carta virada para cima na primeira pilha. Coloque uma carta virada para baixo em todas as outras pilhas. Coloque uma carta virada para cima na pilha seguinte seguida por uma carta virada para baixo em todas as pilhas cobertas. Repita até que haja sete cartas na última pilha. O tabuleiro pode ser feito com cartas de cores iguais. Grupos de cartas podem ser movidas. Pilhas vazias podem somente ser preenchidas pela próxima distribuição de cartas do monte.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+  </sect2>
+
+  <sect2><title>Objetivo</title>
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+  </sect2>
+  <sect2><title>Regras</title>
+  <para>Cartas no tabuleiro são agrupadas pela mesma cor. Grupos de cartas em sequência e mesma cor podem ser movidas de uma vez só.</para>
+  <para>Cada distribuição vira uma carta do monte para cada pilha do tabuleiro. Não há redistribuições.</para>
+  <para>Fundações são formadas por naipes em sequência, cobrindo do rei ao ás quando necessário. Cartas nas fundações ainda estão em jogo. Clique duplo numa carta no tabuleiro irá movê-la para a fundação apropriada se tal movimento é possível.</para>
+</sect2>
+  <sect2><title>Pontuação</title>
+  <para>Você ganha um ponto por cada carta na fundação.</para>
+  <para>Máxima pontuação possível: 52</para>
+</sect2>
+
+  <sect2><title>Estratégia</title>
+  <para>Tente descartar em naipe sempre que possível. Tente marcar tantos pontos quanto possível pois este jogo é muito difícil de vencer.</para>
+</sect2>
+</sect1>

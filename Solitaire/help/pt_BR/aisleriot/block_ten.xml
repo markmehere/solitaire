@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Block_Ten"><!--<sect1info>
+	  <copyright>
+	   <year>2001</year>
+	   <holder>Rosanna Yuen</holder>
+	  </copyright>
+	  <author>
+	   <firstname>Rosanna</firstname>
+	   <surname>Yuen</surname>
+	  </author>
+	  <address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Block Ten</title>
+
+  <para>Escrito por Rosanna Yuen</para>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Baralho Padrão</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>
+	    Top left pile.  All cards are placed here at beginning of
+	    play.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>
+	    Nine piles in a 3x3 formation.  Each Tableau pile is dealt
+	    one card face up.
+	  </entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>
+    Remove all cards.
+  </para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>
+    Remove cards in pairs that add up to ten.  Jacks, Queens and Kings
+    are removed in pairs.  Tens cannot be removed.  All empty slots are
+    automatically filled by the Stock.
+  </para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>
+    Removing each pair of cards scores two points.
+  </para>
+  <para>
+    Maximum possible score:  48
+  </para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>
+    This is a pure luck game.  Therefore, any strategy involved would
+    have to do with increasing your luck.
+  </para>
+        </sect2>
+</sect1>

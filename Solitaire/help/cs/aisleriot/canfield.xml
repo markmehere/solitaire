@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Canfield"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Canfield</title>
+
+	<para>Napsala Rosanna Yuen</para>
+
+	        <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+	<row>
+		<entry>Volné</entry>
+		<entry>Levá horní hromádka. Zde se položí zbytek karet po rozdání. Karty se po třech lížou do otočených. Není omezeno, kolikrát se může hromádka vrátit.</entry>
+	</row>
+	<row>
+		<entry>Otočené</entry>
+		<entry>Napravo hned vedle volných. Líže se z volných. Horní karta je k dispozici do hry.</entry>
+	</row>
+	<row>
+		<entry>Záložní</entry>
+		<entry>Nalevo pod volnými. Zde se rozdá třináct karet lícem nahoru. Vrchní karta je k dispozici do hry na seřazené nebo rozdané.</entry>
+	</row>
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Čtyři hromádky pod seřazenými. Na každou hromádku se rozdá po jedné kartě lícem nahoru. Můžete skládat sestupné postupky ve střídající se barevnosti. Je možné přesouvat skupiny karet.</entry>
+	</row>
+	<row>
+		<entry>Seřazené</entry>
+		<entry>Čtyři hromádky vpravo nahoře. Rozdá se jedna karta lícem nahoru na první hromádku. Tato karta se stane základní kartou. Musíte seřadit vzestupné postupky s dodržením barev.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cíl</title>
+
+	<para>Přesunout všechny karty do seřazených.</para>
+
+	        </sect2>
+        <sect2><title>Pravidla</title>
+
+	<para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Lze přesouvat skupiny karet. Prázdná pozice v rozdaných se automaticky obsadí kartou ze záložních. Pokud je hromádka se záložními prázdná, můžete na prázdnou pozici položit libovolnou kartu nebo posloupnost karet.</para>
+	<para>Karty se lížou po třech z volných do otočených. Pokud na poslední líznutí zůstane méně než tři karty, tak se pro tento tah lízne jen tento počet karet. Když je hromádka s volnými prázdná, vrátí se všechny karty z otočených zpět do volných, bez míchání.</para>
+	<para>Seřazené je potřeba poskládat do vzestupných postupek v barvě a to od základní karty (první karta rozdaná na první hromádku seřazených). Také na ostatních hromádkách musíte začít od stejné hodnoty. Esa se pokládají na krále a dvojky na esa. Karty v seřazených jsou stále ve hře. Dvojité kliknutí na kartu ji přesune na příslušné místo v seřazených, pokud je takový tah možný.</para>
+
+	        </sect2>
+        <sect2><title>Bodování</title>
+
+	<para>Za každou kartu v seřazených je přidělen 1 bod. Tato hra se hraje v kasinech. Hru můžete zrušit, i když máte jen 10 bodů.</para>
+	<para>Maximální možný počet bodů: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>Vrabec v hrsti je lepší nežli holub na střeše. Tuto hru není jednoduché vyhrát. Většina lidí hru hraje s představou sázkových pravidel a zkouší získat co nejvíce bodů je možné. Z tohoto důvodu vždy přesouvají karty do seřazených hned, jak je to možné.</para>
+        </sect2>
+</sect1>

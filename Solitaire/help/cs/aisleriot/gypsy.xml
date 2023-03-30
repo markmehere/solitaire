@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gypsy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Cikán</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Dvě sady</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet. Karty se lížou po osmi, po jedné na každou hromádku v rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Osm hromádek vpravo nahoře. Musíte skládat postupky v barvě, od esa po krále. Vrchní karta v každé z hromádek se může vrátit do hry do rozdaných.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+    <entry>Osm hromádek. Rozdávají se do dvou řad lícem dolů a do jedné lícem nahoru. Můžete je skládat do sestupné postupky v barevnosti na střídačku. Prázdné pozice lze zaplnit libovolnou kartou nebo poskládanou postupkou.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty v rozdaných můžete skládat do sestupných postupek v barevnosti na střídačku. Poskládané karty lze přesouvat naráz. Na prázdnou pozici můžete položit libovolnou kartu nebo poskládanou postupku.</para>
+  <para>Při každém líznutí se otočí po jedné kartě z volných na každou hromádku rozdaných, dokud se volné karty nespotřebují.</para>
+  <para>Hromádky v seřazených se skládají do vzestupné postupky v barvě, od esa po krále. Dvojitým kliknutím na kartu v rozdaných se dotyčná karta přesune na správnou hromádku v seřazených, pokud je takový tah možný.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta v seřazených je ohodnocena 5 body. Když je hromádka v seřazených úplná (od esa po krále), dostanete navíc 60 bodů. Každý pár karet ve střídavém pořadí v rozdaných je ohodnocen 2 body.</para>
+  <para>Maximální možný počet bodů: 1000</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Zkuste odkrýt nové karty v rozdaných kdykoliv je to možné. Nezapomeňte, že může vracet karty ze seřazených zpět do hry.</para>
+        </sect2>
+</sect1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Гордон хомосексуалац</title>
+
+  <para>Написала Rosanna Yuen</para>
+
+          <sect2><title>Поставка</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Тип шпила</entry>
+	  <entry>Стандардни шпил</entry>
+	</row>
+	<row>
+	  <entry>Резерва</entry>
+	  <entry>Горња лева гомила. Овде се деле две отворене карте. Карта на врху је у игри. Не може се накнадно попуњавати или слагати.</entry>
+	</row>
+	<row>
+	  <entry>Талон</entry>
+	  <entry>Десет гомила. Дели се по пет отворених карата на сваку гомилу. Карте на врху гомила су у игри. Празна места се не могу поновно попуњавати.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Циљ</title>
+
+  <para>Уклонити све карте.</para>
+
+          </sect2>
+        <sect2><title>Правила</title>
+
+  <para>Уклањајте парове карата које у збиру дају једанаест. Краљеви се упарују са дамама, а жандари са другим жандарима.</para>
+
+          </sect2>
+        <sect2><title>Бодовање</title>
+
+  <para>Сваки уклоњени пар карата доноси два поена.</para>
+  <para>Највећи могући број поена: 52</para>
+
+          </sect2>
+        <sect2><title>Стратегија</title>
+
+  <para>Покушајте да откријете карте које су које су закопане испод њихових карата-парова.</para>
+        </sect2>
+</sect1>

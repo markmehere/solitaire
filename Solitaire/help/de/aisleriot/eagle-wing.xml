@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Eagle_Wing">  <!--<sect1info>
+    <copyright>
+      <year>2001</year>
+      <holder>Rosanna Yuen</holder>
+    </copyright>
+    <author>
+      <firstname>Rosanna</firstname>
+      <surname>Yuen</surname>
+    </author>
+    <address><email>zana@webwynk.net</email></address>
+  </sect1info>-->
+
+  <title>Adlerschwinge</title>
+
+  <para>Geschrieben von Rosanna Yuen</para>
+
+          <sect2><title>Spielaufbau</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Art des Kartensatzes</entry>
+	  <entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+	  <entry>Talon</entry>
+	  <entry>Ablage oben links. Der Rest des Kartensatzes wird nach dem Geben des Spieltisches hier abgelegt. Karten werden einzeln auf den Reststapel aufgedeckt. Zwei Neuverteilungen.</entry>
+	</row>
+	<row>
+	  <entry>Ablage</entry>
+	  <entry>Unmittelbar rechts des Talon. Karten werden vom Talon genommen. Mit der obersten Karte wird gespielt.</entry>
+	</row>
+	<row>
+	  <entry>Fundamentstapel</entry>
+	  <entry>Vier Ablagen oben rechts. Eine Karte wird in den ersten Fundamentstapel zu Spielbeginn ausgegeben, es ist die Basiskarte. Andere Fundamentstapel müssen mit einer Karte gleichen Ranges wie die Basiskarte begonnen werden. Der Aufbau erfolgt nach Farbe ab der Basiskarte.</entry>
+	</row>
+	<row>
+	  <entry>Reserve</entry>
+	  <entry>Mittlere (und tiefste) Ablage. Dreizehn Karten werden hier verdeckt ausgegeben. Karten werden gedreht, um alle Lücken auf dem Spieltisch zu füllen. Sobald nur noch eine Karte auf dem Reservestapel ist, so wird diese umgedreht und kann auf einen Fundamentstapel oder einen Tischstapel gespielt werden.</entry>
+	</row>
+	<row>
+	  <entry>Kartenreihe</entry>
+	  <entry>Acht Ablagen (vier zur linken und vier zur rechten des Reservestapels). Pro Ablage wird eine Karte sichtbar ausgegeben. Der Spieltisch kann nach Farbe absteigend aufgebaut werden. Karten können einzeln auf andere Ablagen gelegt werden oder in Gruppen auf den Fundamentstapel. Jede Tischablage kann höchstens drei Karten aufnehmen.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+  <para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+          </sect2>
+        <sect2><title>Regeln</title>
+
+  <para>Karten werden auf dem Spieltisch absteigend nach Farbe aufgebaut. Karten können nur einzeln auf eine andere Ablage auf dem Spieltisch gelegt werden. Um dies nicht zur langweiligen Routine werden zu lassen, können Sie auch Kartengruppen auf den Fundamentstapel legen. Ein leerer Platz auf dem Spieltisch wird automatisch aus dem Reservestapel aufgefüllt. Falls der Reservestapel leer ist, kann ein leerer Platz aus dem Restestapel oder aus einem anderen Stapel des Spieltisches aufgefüllt werden.</para>
+  <para>Die Reserve ist hauptsächlich dafür da, um Karten in die leeren Ablagen zu legen. Wenn nur noch eine Karte in der Reserve übrig ist, wird diese sichtbar und ist regulär spielbar.</para>
+  <para>Karten werden vom Talon einzeln auf den Restestapel aufgedeckt. Legen Sie alle Karten in gleicher Reihenfolge vom Restestapel in den Talon zurück, sobald dieser leer ist. Sie können drei Mal das Kartendeck durcharbeiten.</para>
+  <para>Fundamentstapel werden von der Basiskarte aufsteigend nach Farbe aufgebaut (die erste Karte wird auf den Fundamentstapel ausgegeben). Neue Fundamentstapel werden begonnen, sobald eine Karte des gleichen Ranges wie die bei der Verteilung zuerst ausgegebene auf einen leeren Fundamentstapel abgelegt wird. Asse werden auf Könige und Zweien auf Asse abgelegt. Karten in Fundamentstapeln sind nicht im Spiel.</para>
+
+          </sect2>
+        <sect2><title>Punktwertung</title>
+
+  <para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+  <para>Maximal erzielbare Punkte: 52</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Ein wenig Planung braucht seine Zeit. Prüfen Sie vor dem Ansammeln von Karten auf dem Spieltisch. Beachten Sie die Regel von drei Karten in einer Ablage.</para>
+        </sect2>
+</sect1>

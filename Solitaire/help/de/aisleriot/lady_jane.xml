@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Lady_Jane"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Lady Jane</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>
+			Top left pile.  The rest of the deck is placed here after
+			dealing.  Cards are turned on to the Reserve one on each pile per deal.
+			When there are only two cards left in Stock, they are dealt such that
+			both cards are available for play.
+		</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>
+			Four piles on top right.  Deal one card on to first Foundation pile
+			after dealing on to Tableau and Reserve.  This card is now the base
+			card.  Built up by suit.
+		</entry>
+	</row>
+	<row>
+		<entry>Reserve</entry>
+		<entry>
+			Seven piles on the right.  Top card of each pile is available for play
+			on to either the Tableau or the Foundation.  Empty spaces are not filled
+			except by a deal from Stock.
+		</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Seven piles below Stock and Foundation.  Deal card face up in first
+			pile.  Place one card face down on all other piles.  Place one card face
+			up on next pile followed by one card face down on all covered piles.
+			Repeat until there are seven cards in last pile.  Tableau can be built
+			down in alternating colors.  Groups of cards can be moved.  Empty piles
+			can only be filled by the card whose rank is one lower than the base
+			card or group of cards starting with a card of this rank.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Verschieben Sie alle Karten auf die Fundamentstapel.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>
+		Cards in the Tableau are built down by alternating color.  Groups of
+		cards can be moved.  An empty pile in the Tableau can be filled with a
+		card whose rank is one lower than the base card or with a group of cards
+		starting with a card with this rank.
+	</para>
+	<para>
+		Cards are dealt from the Stock to the Reserve.  Each deal places one
+		card on each pile of the Reserve.
+	</para>
+	<para>
+		The top card of each Reserve pile is always available for play on to
+		either the Tableau or the Foundation.  There is no building on the
+		Reserve piles.
+	</para>
+	<para>Fundamentstapel werden von der Basiskarte aufsteigend nach Farbe aufgebaut. Neue Fundamentstapel werden begonnen, wenn eine Karte des gleichen Ranges wie die Basiskarte auf leere Fundamentstapel gelegt wird. Asse werden auf Könige und Zweien auf Asse abgelegt. Die Karten in den Fundamentstapeln sind noch im Spiel. Durch einen Doppelklick auf eine Karte wird diese auf den entsprechenden Fundamentstapel gelegt, falls solch ein Zug möglich ist.</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>Jede Karte in den Fundamentstapeln erzielt einen Punkt.</para>
+	<para>Maximal erzielbare Punkte: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		The deeper something is, the harder it is to get to.  Try and move cards
+		out of the Reserve whenever possible.
+	</para>
+        </sect2>
+</sect1>

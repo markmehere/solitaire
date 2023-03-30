@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Diamond_Mine">  <!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>La mine de diamants</title>
+
+  <para>Écrit par Rosanna Yuen</para>
+
+          <sect2><title>Configuration</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Type de paquet</entry>
+	  <entry>Paquet standard</entry>
+	</row>
+	<row>
+	  <entry>Fondation</entry>
+	  <entry>Pile en haut. À construire par suite de Carreaux en commençant par la carte Carreau de votre choix.</entry>
+	</row>
+	<row>
+	  <entry>Tableau</entry>
+	  <entry>Treize piles. On distribue trois cartes face cachée et une carte face visible sur chaque pile.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectif</title>
+
+  <para>Déplacer tous les Carreaux vers la fondation et avoir toutes les autres cartes construites par couleur du Roi à l'As dans le tableau.</para>
+
+          </sect2>
+        <sect2><title>Règles</title>
+
+  <para>Les cartes (autres que les Carreaux) sont à construire en descendant quelle que soit la couleur. Les suites peuvent être déplacées comme un tout. Les piles vides peuvent être remplies avec n'importe quelle carte (sauf un Carreau) ou suite de cartes.</para>
+  <para>Les Carreaux ne peuvent être déplacés que vers la fondation. La fondation Carreau doit être construite en montant, mais peut commencer par la carte Carreau de votre choix.</para>
+
+          </sect2>
+        <sect2><title>Score</title>
+
+  <para>Chaque Carreau placé sur la fondation vaut autant de points que le rang de la carte. L'As vaut un point, le Valet onze, la Dame douze et le Roi treize.</para>
+  <para>Chaque suite par couleur du Roi à l'As dans le tableau vaut trois points.</para>
+  <para>Score maximum possible : 100</para>
+
+          </sect2>
+        <sect2><title>Stratégie</title>
+
+  <para>Creuser pour trouver les Carreaux est un dur labeur. Gardez à l'esprit que tous les Carreaux ne valent pas autant. N'oubliez pas de nettoyer derrière vous et de mettre les autres couleurs en ordre.</para>
+        </sect2>
+</sect1>

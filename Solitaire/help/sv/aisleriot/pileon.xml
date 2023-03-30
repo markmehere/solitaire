@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Pileon"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Nick Lamb</holder>
+		</copyright>
+		<author>
+			<firstname>Nick</firstname>
+			<surname>Lamb</surname>
+		</author>
+		<address><email>njl195@zepler.org.uk</email></address>
+	</sect1info>-->
+
+	<title>Pileon</title>
+
+	<para>Skrivet av Nick Lamb</para>
+
+	        <sect2><title>Inställningar</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ av kortlek</entry>
+		<entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+		<entry>Bordshög</entry>
+		<entry>Femton högar, arrangerade i fyra rader. Dela ut fyra kort åt gången, med framsidan upp på de tretton första platserna. Lämna de två sista platserna tomma. En hög kan innehålla mellan noll och fyra kort.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Mål</title>
+
+	<para>Ordna om korten så att varje hög innehåller alla fyra kort från en valör. Detta bör lämna två tomma platser men det spelar ingen roll om de är samma platser som var tomma i början.</para>
+
+	        </sect2>
+        <sect2><title>Regler</title>
+
+	<para>Kort kan flyttas ovanpå något annat kort eller grupp av kort av samma valör så länge inte någon hög växer till mer än fyra kort. Grupper av kort kan flyttas om de är av samma valör men det gagnar dig inte. En tom plats kan fyllas med valfritt kort eller grupp av kort med samma valör.</para>
+	<para>När en hög innehåller alla fyra kort av samma valör är den fryst, och det översta kortet vänds för att indikera att du inte behöver göra något ytterligare med dessa kort. De är inte längre i spel, men det skulle inte ge något att flytta dem i alla fall.</para>
+
+	        </sect2>
+        <sect2><title>Poängsättning</title>
+
+	<para>När en hög med fyra kort fryses får du 4 poäng, ett poäng för varje kort. Det finns inget annat sätt att få poäng.</para>
+	<para>Högsta möjliga poäng: 52</para>
+
+	        </sect2>
+        <sect2><title>Strategi</title>
+
+	<para>Bevara en plats tom så mycket som möjligt. Låt inte en hög med tre kort byggas upp ovanpå ett ensamt kort, speciellt om det sista kortet inte ligger i botten av en annan hög.</para>
+        </sect2>
+</sect1>

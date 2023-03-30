@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Accordion"><!--<sect1info>
+		<copyright>
+			<year>2008</year>
+			<holder>Ed Sirett</holder>
+		</copyright>
+		<author>
+			<firstname>Ed</firstname>
+			<surname>Sirett</surname>
+		</author>
+		<address><email>ed @makewrite.demon.co.uk</email></address>
+	</sect1info>-->
+
+	<title>Harmonika</title>
+
+  <para>Napsal Ed Sirett</para>
+
+          <sect2><title>Podmínky</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Typ sady</entry>
+		<entry>Standardní sada karet</entry>
+	</row>
+
+	<row>
+		<entry>Rozdané</entry>
+		<entry>Padesát čtyři pozic v pěti řádcích po devíti a v jednom, posledním, řádku po sedmi kartách. Karty se rozdávají lícem nahoru, na každé místo jedna. Pozice by měly tvořit souvislou řadu a řádky být uspořádané tak, aby všechny karty byly vidět naráz. Z pozice nejvíce vpravo se pokračuje na pozici nejvíce vlevo v následujícím řádku.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Odebrat všechny karty až na jednu.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Karty se přesouvají po jedné. Kartu lze přesunout na jinou, která je stejné bary nebo stejné hodnoty a leží v celé posloupnosti karet těsně vedle směrem doleva nebo jako třetí karta doleva. Karty, které zakryjete, se odeberou ze hry. Všechny karty v posloupnosti napravo od vzniklé mezery (pokud tam tedy nějaké jsou) se posunou vlevo a mezeru tak zaplní. Dvojité kliknutí způsobí posunutí karty na třetí kartu doleva, pokud je to možné, a když ne, tak na první kartu doleva.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá odebraná karta je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 51</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Tato hra je náročná. Pokuste se najít dvě nebo tři karty stejné hodnoty v nebo co nejblíže posledního řádku. Zkuste neodstraňovat karty této hodnoty. Na závěr hry můžete tyto karty posunout na sebe navzájem a tak vyhrát.</para>
+        </sect2>
+</sect1>

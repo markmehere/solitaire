@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Backbone"><!--<sect1info>
+    <copyright>
+      <year>2005</year>
+      <holder>Vincent Povirk</holder>
+    </copyright>
+    <author>
+      <firstname>Vincent</firstname>
+      <surname>Povirk</surname>
+    </author>
+    <address><email>madewokherd@gmail.com</email></address>
+  </sect1info>-->
+
+  <title>Espinha dorsal</title>
+
+  <para>Escrito por Vincent Povirk</para>
+
+          <sect2><title>Configuração</title>
+
+
+  <informaltable>
+    <tgroup cols="2"><tbody>
+	<row>
+	  <entry>Tipo de Baralho</entry>
+	  <entry>Dois baralhos</entry>
+	</row>
+	<row>
+	  <entry>Monte</entry>
+	  <entry>Pilha única abaixo das bases a esquerda. O resto do baralho é colocado aqui após distribuição para o tabuleiro e a reserva. Cartas são viradas uma de cada vez para o descarte. Uma redistribuição.</entry>
+	</row>
+	<row>
+	  <entry>Descarte</entry>
+	  <entry>Única pilha a direita do monte. Para ser removida do monte. Carta mais acima disponível para jogar.</entry>
+	</row>
+	<row>
+	  <entry>Fundação</entry>
+	  <entry>Oito pilhas superior direita. Devem ser construídas do naipe ás ao rei.</entry>
+	</row>
+	<row>
+	  <entry>Reserva</entry>
+	  <entry>
+	    Two stacks of 9 cards each, with a single above both stacks.
+	    Cards that are not obscured are available for play to anywhere except
+	    empty tableau spaces.
+	  </entry>
+	</row>
+	<row>
+	  <entry>Tabuleiro</entry>
+	  <entry>Oito pilhas, quatro em cada lado da reserva. Uma carta é distribuída para cada pilha do tabuleiro quando o jogo inicia. Destrua pelo naipe. Espaços vazios podem ser preenchidos por qualquer carta. Somente uma carta pode ser movida por vez.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objetivo</title>
+
+  <para>Mova todas as cartas para as pilhas fundação.</para>
+
+          </sect2>
+        <sect2><title>Regras</title>
+
+  <para>Cartas no tabuleiro são organizadas pelo naipe. Somente uma carta pode ser movida por vez. Espaços vazios podem ser preenchidos pode qualquer carta exceto da reserva.</para>
+  <para>Cartas são viradas do monte para o descarte individualmente. Cartas de cima do descarte estão em jogo. Quando o monte está vazio, mova todas as cartas do descarte de volta para o monte, mantendo a ordem. Você pode ir ao baralho duas vezes.</para>
+  <para>Fundações são construídas pelo naipe de ás ao rei. Cartas nas fundações não estão mais em jogo. Clique duplo numa carta irá movê-la para a fundação apropriada se tal movimento for possível.</para>
+
+          </sect2>
+        <sect2><title>Pontuação</title>
+
+  <para>Você ganha um ponto por cada carta nas pilhas de fundação.</para>
+  <para>Pontuação máxima possível: 104</para>
+
+          </sect2>
+        <sect2><title>Estratégia</title>
+
+  <para>Você pode usar espaços em branco no tabuleiro para mover múltiplas cartas. Tome cuidado com reis na reserva: a única maneira de removê-los é jogando-os para a fundação no topo de uma Rainha.</para>
+        </sect2>
+</sect1>

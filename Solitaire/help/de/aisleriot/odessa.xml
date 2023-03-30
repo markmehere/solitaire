@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Odessa"><!--<sect1info>
+		<copyright>
+			<year>1998</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Odessa</title>
+
+	<para>Geschrieben von Rosanna Yuen</para>
+
+	        <sect2><title>Spielaufbau</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Art des Kartensatzes</entry>
+		<entry>Standard-Kartensatz</entry>
+	</row>
+	<row>
+		<entry>Fundamentstapel</entry>
+		<entry>Vier Ablagen links. Aufbau aufsteigend nach Farbe von Ass bis König.</entry>
+	</row>
+	<row>
+		<entry>Kartenreihe</entry>
+		<entry>
+			Seven piles.  Deal three rows face down followed by three rows face
+			up.  Then deal two more rows face up in the middle five
+			piles.
+		</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Ziel des Spiels</title>
+
+	<para>Alle Karten auf den Fundamentstapeln ablegen.</para>
+
+	        </sect2>
+        <sect2><title>Regeln</title>
+
+	<para>Karten werden auf dem Spieltisch absteigend nach Farbe aufgebaut. Karten können in Gruppen bewegt werden, ungeachtet der inneren Reihenfolge der Gruppe. Kartengruppen in der richtigen Reihenfolge können auf den entsprechenden Fundamentstapel gelegt werden. Ein leerer Stapel auf dem Spieltisch kann mit einem König oder einer Kartengruppe belegt werden, die als unterste Karte einen König enthält.</para>
+	<para>Fundamentstapel werden aufsteigend nach Farbe von Ass nach König aufgebaut. Die Karten in den Fundamentstapeln sind dann nicht mehr im Spiel.</para>
+
+	        </sect2>
+        <sect2><title>Optionen</title>
+
+	<para>Keine</para>
+
+	        </sect2>
+        <sect2><title>Punktwertung</title>
+
+	<para>
+		When game is dealt, any sequence of cards going down in suit is
+		awarded one point per card.  Every move within the Tableau will award
+		a point for every card in the newly created sequence.  A point is also
+		rewarded for every card placed on to the Foundation.
+	</para>
+	<para>Maximal erzielbare Punkte: 412</para>
+
+	        </sect2>
+        <sect2><title>Strategie</title>
+
+	<para>
+		The more you can hold on to, the more you will have.  Try to keep cards
+		out of Foundations as long as possible.  The larger the sequences, the
+		more points are made.
+	</para>
+        </sect2>
+</sect1>

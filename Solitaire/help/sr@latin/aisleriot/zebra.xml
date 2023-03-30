@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Zebra"><!--<sect1info>
+		<copyright>
+			<year>1999</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>rwsy@mit.edu</email></address>
+	</sect1info>-->
+
+	<title>Zebra</title>
+
+	<para>Napisala Rosanna Yuen</para>
+
+	        <sect2><title>Postavka</title>
+
+
+	<informaltable>
+		<tgroup cols="2">
+			<tbody>
+	<row>
+		<entry>Tip špila</entry>
+		<entry>Dupli špil</entry>
+	</row>
+	<row>
+		<entry>Gomila</entry>
+		<entry>Gornja leva gomila. Sve karte se stavljaju ovde posle deljenja na talon. Karte se okreću jedna po jedna na otpad. Dozvoljeno je jedno ponovno deljenje.</entry>
+	</row>
+	<row>
+		<entry>Otpad</entry>
+		<entry>Uzima se sa gomile. Možete igrati kartom sa vrha.</entry>
+	</row>
+	<row>
+		<entry>„Temelj“</entry>
+		<entry>Osam gomila gore desno. Na njih se postavlja osam asova za početak „temelja“. „Temelji“ se slažu na gore po naizmeničnim bojama do kralja. Karte na „temelju“  nisu više u igri.</entry>
+	</row>
+	<row>
+		<entry>Talon</entry>
+		<entry>Osam gomila ispod „temelja“. Deli se karta na svaki od talona za početak igre. Taloni se slažu na dole po naizmeničnim bojama. Samo karta na vrhu svakog od talona je u igri. Prazna mesta se odmah popunjavaju sa otpada, ili sa gomile ako je otpad prazan.</entry>
+	</row>
+			</tbody>
+		</tgroup>
+	</informaltable>
+
+	        </sect2>
+        <sect2><title>Cilj</title>
+
+	<para>Pomeriti sve karte na gomile na „temelju“.</para>
+
+	        </sect2>
+        <sect2><title>Pravila</title>
+
+	<para>Taloni se slažu na dole po naizmeničnim bojama. Samo karta na vrhu svakog od talona je u igri. Ipak, da bi se ubrzala igra, ceo niz spojenih karata se može premestiti na „temelj“ prevlačenjem. Dupli klik na kartu pri vrhu će prebaciti ceo niz na „temelj“ ako je to moguće.</para>
+	<para>Prazna mesta se odmah popunjavaju sa otpada, ili sa gomile ako je otpad prazan.</para>
+	<para>Karte se dele jedna po jedna sa gomile na otpad. Karta na vrhu otpada je u igri. Dozvoljeno je jedno ponovno deljenje.</para>
+	<para>„Temelji“ se slažu na gore po naizmeničnim bojama do kralja. Karte na „temelju“  nisu više u igri.</para>
+
+	        </sect2>
+        <sect2><title>Bodovanje</title>
+
+	<para>Svaka karta na „temelju“ donosi po jedan poen.</para>
+	<para>Najveći mogući broj poena: 96</para>
+
+	        </sect2>
+        <sect2><title>Strategija</title>
+
+	<para>U stvarnom svetu ćete jako retko dobiti drugu šansu, pa ih i ovde koristite kad god ih pronađete. Vrlo je verovatno da ćete morati da koristite drugo deljenje da bi vam se karte otvorile. Zapamtite gde su ključne karte — biće vam drago kad se setite gde su.</para>
+        </sect2>
+</sect1>

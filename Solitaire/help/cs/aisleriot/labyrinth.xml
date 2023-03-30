@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Labyrinth"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Labyrint</title>
+
+  <para>Napsala Rosanna Yuen</para>
+
+          <sect2><title>Podmínky</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ sady</entry>
+	  <entry>Standardní sada karet</entry>
+	</row>
+	<row>
+	  <entry>Volné</entry>
+	  <entry>Levá horní hromádka. Po rozdání se zde položí zbytek karet.</entry>
+	</row>
+	<row>
+	  <entry>Seřazené</entry>
+	  <entry>Čtyři hromádky vpravo nahoře. Před zamícháním balíčku jsou rozmístěna esa na své příslušné hromádky v seřazených.</entry>
+	</row>
+	<row>
+	  <entry>Rozdané</entry>
+	  <entry>Na začátku hry se rozdá jedna karta lícem nahoru do každé hromádky v seřazených.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Cíl</title>
+
+  <para>Přesunout všechny karty do seřazených.</para>
+
+          </sect2>
+        <sect2><title>Pravidla</title>
+
+  <para>Musíte skládat karty z rozdaných do seřazených do postupek v barvě. Prázdné pozice jsou automaticky doplňovány z volných.</para>
+  <para>Když nelze zahrát z žádné z osmi hromádek v rozdaných, klikněte na volné a lízne se po jedné kartě do každé hromádky. Prázdné pozice se nadále automaticky nedoplňují.</para>
+  <para>Vždy vrchní a spodní karta jsou k dispozici pro zahrání do seřazených. V rozdaných se nedá nijak skládat. Ani se znovu nerozdává.</para>
+
+          </sect2>
+        <sect2><title>Bodování</title>
+
+  <para>Každá karta umístěná do seřazených je hodnocená 1 bodem.</para>
+  <para>Maximální možný počet bodů: 48</para>
+
+          </sect2>
+        <sect2><title>Strategie</title>
+
+  <para>Dopřejte si dostatek spánku, než začnete hrát tuto hru, abyste byli bdělí a ve střehu. De seřazených přesouvejte všechny karty, u kterých je to možné. Hezkou zábavu!</para>
+        </sect2>
+</sect1>

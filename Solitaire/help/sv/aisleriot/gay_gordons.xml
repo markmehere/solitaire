@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Gay_Gordons"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Gay Gordons</title>
+
+  <para>Skrivet av Rosanna Yuen</para>
+
+          <sect2><title>Inställningar</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Typ av kortlek</entry>
+	  <entry>Vanlig kortlek</entry>
+	</row>
+	<row>
+	  <entry>Reservhög</entry>
+	  <entry>Högen längst upp till vänster. Dela två kort med framsidan upp här. Det översta kortet är i spel. Kan inte fyllas eller byggas på.</entry>
+	</row>
+	<row>
+	  <entry>Bordshög</entry>
+	  <entry>Tio högar. Dela fem kort med framsidan upp i varje hög. Det översta kortet i varje hög är i spel. Tomma platser kan inte fyllas.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Mål</title>
+
+  <para>Ta bort alla kort.</para>
+
+          </sect2>
+        <sect2><title>Regler</title>
+
+  <para>Ta bort kort i par där summan tillsammans blir elva. Kungar paras bort med damer. Knektar paras bort med andra knektar.</para>
+
+          </sect2>
+        <sect2><title>Poängsättning</title>
+
+  <para>Varje par som tas bort ger två poäng.</para>
+  <para>Högsta möjliga poäng: 52</para>
+
+          </sect2>
+        <sect2><title>Strategi</title>
+
+  <para>Försök att frigöra kort som är dolda under sitt partnerkort.</para>
+        </sect2>
+</sect1>

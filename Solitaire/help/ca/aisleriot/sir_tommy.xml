@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Sir_Tommy"><!--<sect1info>
+		<copyright>
+			<year>2001</year>
+			<holder>Rosanna Yuen</holder>
+		</copyright>
+		<author>
+			<firstname>Rosanna</firstname>
+			<surname>Yuen</surname>
+		</author>
+		<address><email>zana@webwynk.net</email></address>
+	</sect1info>-->
+
+	<title>Sir Tommy</title>
+
+  <para>Escrit per la Rosanna Yuen</para>
+
+          <sect2><title>Configuració</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+	  <entry>Tipus de baralla</entry>
+	  <entry>Baralla estàndard</entry>
+	</row>
+	<row>
+	  <entry>Pila principal</entry>
+	  <entry>Pila a la part superior esquerra. Totes les cartes es col·loquen aquí al començament de la partida. Les cartes es reparteixen individualment a la pila de descartades.</entry>
+	</row>
+	<row>
+	  <entry>Pila de descartades</entry>
+	  <entry>A la dreta de la pila principal. Només pot tenir una carta. La carta s'ha de col·locar immediatament a la pila base o a la pila de la reserva que hàgiu seleccionat.</entry>
+	</row>
+	<row>
+	  <entry>Base</entry>
+	  <entry>Quatre piles a la part superior, a la dreta de la pila de descartades. Per a construir en seqüència des de l'as al rei independentment del pal.</entry>
+	</row>
+	<row>
+	  <entry>Reserves</entry>
+	  <entry>Quatre piles col·locades sota les bases. Les cartes a la reserva només es poden jugar a les piles base.</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>Objectiu</title>
+
+  <para>
+    Move all cards to the Foundations.
+  </para>
+
+          </sect2>
+        <sect2><title>Regles</title>
+
+  <para>Es construeix a les bases en seqüència des de l'as al rei independentment del pal. Les cartes a les bases no es poden jugar més. Aquestes es reparteixen individualment des de la pila principal a la pila de descartades. Tot i això, la pila de descartades només pot tenir una carta, que s'ha de jugar immediatament a la pila base o a qualsevol de les quatre piles de la reserva. No es poden reordenar les cartes a les piles de la reserva.</para>
+
+          </sect2>
+        <sect2><title>Puntuació</title>
+
+  <para>Cada carta moguda a la base puntua un punt.</para>
+  <para>Puntuació màxima possible: 52</para>
+
+          </sect2>
+        <sect2><title>Estratègia</title>
+
+  <para>Intenteu no col·locar a la reserva cartes de rang superior sobre cartes de rang inferior.</para>
+        </sect2>
+</sect1>

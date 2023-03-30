@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<sect1 id="Napoleons_Tomb"><!--<sect1info>
+		<copyright>
+			<year>2007</year>
+			<holder>Kimmo Karlsson</holder>
+		</copyright>
+		<author>
+			<firstname>Kimmo</firstname>
+			<surname>Karlsson</surname>
+		</author>
+		<address><email>kimmo.karlsson@gmail.com</email></address>
+	</sect1info>-->
+
+	<title>拿破仑墓</title>
+
+  <para>由 Kimmo Karlsson 编写</para>
+
+          <sect2><title>牌局</title>
+
+
+  <informaltable>
+    <tgroup cols="2">
+      <tbody>
+	<row>
+		<entry>纸牌类型</entry>
+		<entry>标准纸牌</entry>
+	</row>
+	<row>
+		<entry>发牌区</entry>
+		<entry>左上角的牌垛。</entry>
+	</row>
+	<row>
+		<entry>废牌区</entry>
+		<entry>挨着发牌区。</entry>
+	</row>
+	<row>
+		<entry>桌面排列区</entry>
+		<entry>三行三列，全部是翻开的。</entry>
+	</row>
+	<row>
+		<entry>收牌区</entry>
+		<entry>桌面中间的牌垛，按递减收牌，和四个角上的牌垛，按递增收牌，不考虑花色。</entry>
+	</row>
+	<row>
+		<entry>保留区</entry>
+		<entry>桌面上另外四个不是收牌区的牌垛，保留区每次只能放一张牌。</entry>
+	</row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+          </sect2>
+        <sect2><title>目标</title>
+
+  <para>把所有小于6的牌移到中心，把大于7的牌收到四个角上。</para>
+
+          </sect2>
+        <sect2><title>规则</title>
+
+  <para>点击发牌区发牌，每次可以往桌面上放一张牌，移到收牌区的牌不能再移动，四个角从7到 K 收牌，中心是从6到 A 收牌，然后再从 A 到6，不考虑花色。</para>
+
+          </sect2>
+        <sect2><title>选项</title>
+
+  <para>发三张牌：如果选中一次发三张牌，您可以重复发三次牌。</para>
+  <para>自动：选中自动收牌，如果可以收取的话，牌会自动移到收牌区。</para>
+
+          </sect2>
+        <sect2><title>得分</title>
+
+  <para>每收取一张牌得1分。</para>
+
+  <para>可能得到的最高分是：52</para>
+
+          </sect2>
+        <sect2><title>策略</title>
+
+  <para>尽量留着保留区，让拿破仑进入坟墓并不容易，但可以试试。</para>
+        </sect2>
+</sect1>
