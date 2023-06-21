@@ -30,11 +30,69 @@
 (define foundation '(2 3 4 5))
 (define stock 0)
 (define waste 1)
+(define moved 0)
+
+(define (convert-to-char card)
+  (string-append
+    (cond
+      ((= (list-ref card 0) 1) "A")
+      ((= (list-ref card 0) 10) "T")
+      ((= (list-ref card 0) 11) "J")
+      ((= (list-ref card 0) 12) "Q")
+      ((= (list-ref card 0) 13) "K")
+      (else (number->string (list-ref card 0)))
+    )
+    (if (list-ref card 2)
+        (cond
+          ((= (list-ref card 1) 0) "C")
+          ((= (list-ref card 1) 1) "D")
+          ((= (list-ref card 1) 2) "H")
+          ((= (list-ref card 1) 3) "S")
+        )
+        (cond
+          ((= (list-ref card 1) 0) "c")
+          ((= (list-ref card 1) 1) "d")
+          ((= (list-ref card 1) 2) "h")
+          ((= (list-ref card 1) 3) "s")
+        )
+    )
+  )
+)
+
+(define (get-card-str which)
+  (if (= which 99) ";"
+    (if (< which 2) (string-concatenate (map convert-to-char (get-cards which))) (string-concatenate (map convert-to-char (reverse (get-cards which)))))
+  )
+)
+
+(define (game-state)
+  (string-concatenate (map get-card-str '(1 0 99 2 99 3 99 4 99 5 99 6 99 7 99 8 99 9 99 10 99 11 99 12)))
+)
+
+(define (near-end)
+  (if
+    (and (= (length (get-cards 0)) 0) (= FLIP-COUNTER max-redeal)) ; redeals have expired OR
+    (string-append "-D 0 -X " (game-state))
+    #t
+  )
+  (if
+    (and (= max-redeal -1) (or
+      (> FLIP-COUNTER moved) ; there were no moves in the last redeal
+      (and (= (length (get-cards 0)) 0) (= (length (get-cards 1)) 0))) ; there are no more cards in the stock
+    )
+    (if deal-three
+      (string-append "-D 3 -S 100000 -s -X \"" (game-state) "\"")
+      (string-append "-D 1 -S 100000 -s -X \"" (game-state) "\"")
+    )
+    #t
+  )
+)
 
 (define (new-game)
   (initialize-playing-area)
   (set-ace-low)
-
+  
+  (set! moved 0)
   (make-standard-deck)
   (shuffle-deck)
   
@@ -102,6 +160,12 @@
        (is-tableau-build? card-list)))
 
 (define (complete-transaction start-slot card-list end-slot)
+  (display "HELLO")
+  (display (+ FLIP-COUNTER 1))
+  (display "\n")
+  (set! moved (+ FLIP-COUNTER 1))
+  (display moved)
+  (display "\n")
   (move-n-cards! start-slot end-slot card-list)
   (if (member start-slot foundation)
       (add-to-score! -1))
@@ -285,8 +349,10 @@
 ; so we must NOT report game-over when they run out.
 
 (define (game-over)
+  (display (near-end))
+  (display "\n")
   (give-status-message)
-  (not (game-won)))
+  (near-end))
 
 (define (get-options)
   (list 'begin-exclusive 

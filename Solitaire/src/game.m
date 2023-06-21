@@ -1100,6 +1100,12 @@ cscmi_game_over_lambda (void)
   if (!game_scm_call (game->lambdas[GAME_OVER_LAMBDA], NULL, 0, &retval))
     return TRUE;
 
+  if (scm_is_string(retval)) {
+    char *str1 = scm_to_utf8_string (retval);
+    printf (str1);
+    return FALSE;
+  }
+    
   return scm_is_true (retval);
 }
 
@@ -1612,7 +1618,7 @@ aisleriot_game_undo_move (AisleriotGame *game)
   /* If the game had ended, reset to RUNNING */
   if (game->state >= GAME_OVER) {
     SCM over = scm_call_0 (game->lambdas[GAME_OVER_LAMBDA]);
-    gboolean game_over = scm_is_true (over);
+    gboolean game_over = scm_is_true (over) || scm_is_string(over);
     if (!game_over) {
       clearFinishEffects();
       set_game_state (game, GAME_RUNNING);

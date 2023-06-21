@@ -5,7 +5,7 @@
 //  Created by Mark Pazolli on 8/3/2023.
 //
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 #import "./src/sol.h"
 #include <glib.h>
 

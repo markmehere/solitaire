@@ -352,7 +352,7 @@
 		5138959329B851840033A0C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5138959529B851840033A0C7 /* Solitaire.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Solitaire.entitlements; sourceTree = "<group>"; };
 		5138959B29B85BDF0033A0C7 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
-		5164656A29B8AB8300C2FFBA /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; name = lib; path = ../../../sol/lib; sourceTree = "<group>"; };
+		5164656A29B8AB8300C2FFBA /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lib; sourceTree = "<group>"; };
 		5164656E29B8ABC000C2FFBA /* share */ = {isa = PBXFileReference; lastKnownFileType = folder; path = share; sourceTree = "<group>"; };
 		5164658F29B8D5F500C2FFBA /* menus.ui */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = menus.ui; sourceTree = "<group>"; };
 		5166217429D1C3F800426F24 /* Firework.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Firework.sks; sourceTree = "<group>"; };
@@ -457,7 +457,7 @@
 		519A1E7729CB0A1E00BE411C /* fourteen.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fourteen.scm; sourceTree = "<group>"; };
 		519A1E7829CB0A1E00BE411C /* forty-thieves.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "forty-thieves.scm"; sourceTree = "<group>"; };
 		519A1E7929CB0A1E00BE411C /* hopscotch.scm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hopscotch.scm; sourceTree = "<group>"; };
-		519A1EDB29CB150600BE411C /* aisleriot.supp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = aisleriot.supp; path = ../../../sol/lib/valgrind/aisleriot.supp; sourceTree = "<group>"; };
+		519A1EDB29CB150600BE411C /* aisleriot.supp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = aisleriot.supp; path = lib/valgrind/aisleriot.supp; sourceTree = "<group>"; };
 		51A9273A29B85FDB0012D2BA /* ar-stock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ar-stock.h"; sourceTree = "<group>"; };
 		51A9273B29B85FDB0012D2BA /* game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = game.m; sourceTree = "<group>"; };
 		51A9273C29B85FDB0012D2BA /* ar-style-gtk.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "ar-style-gtk.c"; sourceTree = "<group>"; };
@@ -1351,7 +1351,6 @@
 					/opt/homebrew/Cellar/libxau/1.0.11/include,
 					/opt/homebrew/Cellar/libxdmcp/1.1.4/include,
 					/opt/homebrew/Cellar/xorgproto/2022.2/include,
-					/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi,
 				);
 			};
 			name = Debug;
@@ -1427,7 +1426,6 @@
 					/opt/homebrew/Cellar/libxau/1.0.11/include,
 					/opt/homebrew/Cellar/libxdmcp/1.1.4/include,
 					/opt/homebrew/Cellar/xorgproto/2022.2/include,
-					/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include/ffi,
 				);
 			};
 			name = Release;
